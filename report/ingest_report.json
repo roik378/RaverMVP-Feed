@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-07T17:21:52",
+  "ranAt": "2026-07-07T17:27:25",
   "mode": "full",
   "sources": [
     {
@@ -88,6 +88,32 @@
       "missingOCRSourceCount": 2,
       "status": "needs_ocr_or_source_repair",
       "actionText": "Add WeChat OCR screenshots or replace stale public URLs"
+    }
+  ],
+  "ocrIntake": [
+    {
+      "sourceId": "oil_wechat",
+      "name": "OIL Club 微信公众号",
+      "cityName": "Shenzhen",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "dropGlob": "oil_wechat*.txt",
+      "foundFiles": 0,
+      "usableFiles": 0,
+      "status": "missing_input",
+      "actionText": "Drop OCR text files matching oil_wechat*.txt",
+      "files": []
+    },
+    {
+      "sourceId": "atmos_wechat",
+      "name": "ATMOS/其他深圳夜店 微信",
+      "cityName": "Shenzhen",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "dropGlob": "atmos_wechat*.txt",
+      "foundFiles": 0,
+      "usableFiles": 0,
+      "status": "missing_input",
+      "actionText": "Drop OCR text files matching atmos_wechat*.txt",
+      "files": []
     }
   ],
   "totals": {
