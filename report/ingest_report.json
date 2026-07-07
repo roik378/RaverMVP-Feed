@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-07T18:13:30",
+  "ranAt": "2026-07-07T18:25:34",
   "mode": "full",
   "sources": [
     {
@@ -54,6 +54,13 @@
       "captured": 0
     },
     {
+      "sourceId": "spotify_shenzhen_concerts",
+      "kind": "html",
+      "status": "ok",
+      "captured": 4,
+      "strategy": "spotify_location"
+    },
+    {
       "sourceId": "oil_wechat",
       "kind": "visionOCR",
       "status": "no_inbox_files",
@@ -81,13 +88,13 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 0,
-      "usable": 0,
-      "enabledSourceCount": 5,
+      "captured": 4,
+      "usable": 4,
+      "enabledSourceCount": 6,
       "errorSourceCount": 2,
       "missingOCRSourceCount": 2,
-      "status": "needs_ocr_or_source_repair",
-      "actionText": "Add WeChat OCR screenshots or replace stale public URLs"
+      "status": "ok",
+      "actionText": "Review and publish candidates"
     }
   ],
   "ocrIntake": [
@@ -117,11 +124,11 @@
     }
   ],
   "totals": {
-    "captured": 40,
-    "usable": 27
+    "captured": 44,
+    "usable": 31
   },
   "publicationGate": {
-    "status": "blocked",
+    "status": "ready",
     "requiredCities": [
       {
         "cityName": "Vancouver",
@@ -132,16 +139,7 @@
         "minimumUsable": 1
       }
     ],
-    "blockedCities": [
-      {
-        "cityId": "shenzhen_cn",
-        "cityName": "Shenzhen",
-        "usable": 0,
-        "minimumUsable": 1,
-        "status": "needs_ocr_or_source_repair",
-        "actionText": "Add WeChat OCR screenshots or replace stale public URLs"
-      }
-    ],
-    "actionText": "Do not publish public feed until every primary city has at least 1 usable event."
+    "blockedCities": [],
+    "actionText": "Public feed can publish."
   }
 }

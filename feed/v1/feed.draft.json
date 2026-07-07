@@ -1,19 +1,19 @@
 {
   "feedVersion": 1,
-  "generatedAtText": "Tue 17:27",
+  "generatedAtText": "Tue 18:25",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Tue 17:27",
+      "refreshText": "Tue 18:25",
       "userCoordinate": {
         "latitude": 49.2827,
         "longitude": -123.1207
       },
       "sourceEvents": [
         {
-          "id": "A27CF91D-96BC-42A6-BEDC-92AEA85143BB",
+          "id": "DA5FD36E-5D9B-4118-8D11-6271FEA1E5E9",
           "sourceKind": "clubWebsite",
           "title": "FOR REAL FRIDAYS pres - SUMR 4EVR",
           "subtitle": null,
@@ -25,14 +25,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "8E8A3F5F-7CB1-4C41-91D1-5B8AEAA15BAE",
+          "id": "0BD19029-0774-437B-A2B8-725AE929FA81",
           "sourceKind": "clubWebsite",
           "title": "PURSUIT OF HAPPINESS - THROWBACK EDM EVENT",
           "subtitle": null,
@@ -44,14 +44,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "2FAFE331-6973-4F58-8AFB-88B7EC7C4BE1",
+          "id": "EDA1364B-DB1D-442F-B254-0BDF4226CBE0",
           "sourceKind": "clubWebsite",
           "title": "PLAYHOUSE Pres. Cristoph",
           "subtitle": null,
@@ -63,14 +63,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "F2D34476-F38F-4562-B67F-9C65BD31F483",
+          "id": "0EFA3835-4BDE-4F6F-AB16-3165CA944A64",
           "sourceKind": "clubWebsite",
           "title": "Gabriel & Dresden",
           "subtitle": null,
@@ -82,14 +82,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "59CED167-6509-44D7-B269-EDD9C1959E61",
+          "id": "AE0B045C-D3BF-46AA-8DBC-A74E2436270F",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. UNDERSCORES",
           "subtitle": null,
@@ -101,14 +101,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "2EEC489F-7E97-445C-8568-D4868F7F0C87",
+          "id": "4562F9D5-6C98-46DA-B62D-C3840B97DF68",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. dj g2g",
           "subtitle": null,
@@ -120,14 +120,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "59AF8B0C-D5EF-4D00-84D5-36CEBCEB38FF",
+          "id": "A1D24767-3D7F-4AE1-B020-38861B492461",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. Coco & Breezy",
           "subtitle": null,
@@ -139,14 +139,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "8F0C84A3-3DC9-4218-B57B-A334A47F8A38",
+          "id": "F9E3EBDC-28F3-4052-9F01-29B3018FBC4A",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. ALEX CHAPMAN",
           "subtitle": null,
@@ -158,14 +158,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "FECAE2EE-3DE6-4BDE-93F4-5F319F70C2D8",
+          "id": "7908A761-FE9A-40E5-9B63-750C4FBE106F",
           "sourceKind": "clubWebsite",
           "title": "Celebrities Pride pres.  HISTORY SUNDAY",
           "subtitle": null,
@@ -177,14 +177,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "B8FC4ACF-B338-4525-8A2B-2F94D2C1BA85",
+          "id": "BD9CC720-DD80-462F-9F49-7540885760F8",
           "sourceKind": "clubWebsite",
           "title": "08.08.26 • EMMIT FENN",
           "subtitle": null,
@@ -196,14 +196,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "272B76FE-E8C9-49D4-8E7D-F259E5D70B57",
+          "id": "F20F758B-DAB4-4075-8BCA-7DA3459BB8BD",
           "sourceKind": "clubWebsite",
           "title": "PLAYHOUSE Pres. CONRAD TAYLOR",
           "subtitle": null,
@@ -215,14 +215,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "ED412895-84EE-4B2D-88BF-317B67A20980",
+          "id": "C624FC3B-B396-4D57-AC46-6EEA16B44F91",
           "sourceKind": "clubWebsite",
           "title": "PLAYHOUSE Pres. CYRIL",
           "subtitle": null,
@@ -234,14 +234,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
           "lineup": []
         },
         {
-          "id": "B90C72C4-A66E-4FE3-AF12-05131647078B",
+          "id": "406B662D-ABE1-4015-A9BF-981BD9921959",
           "sourceKind": "clubWebsite",
           "title": "(map)",
           "subtitle": null,
@@ -253,14 +253,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "862F4863-5D3B-4D0F-87F9-492FD15E159C",
+          "id": "2165871B-625E-471A-AE7B-DE5D52433DD9",
           "sourceKind": "clubWebsite",
           "title": "TAKE ME BACK TO 2016",
           "subtitle": null,
@@ -272,14 +272,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "09FC8CAE-B543-4560-8CE2-A21941600FA2",
+          "id": "E2E74EA1-30BD-497D-A5F7-45B324C8BC15",
           "sourceKind": "clubWebsite",
           "title": "BODY. AT WYA? SATURDAYS",
           "subtitle": null,
@@ -291,14 +291,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "BB928A90-D730-4958-B9C1-4C66AA9FD5DA",
+          "id": "6F9BD182-13C8-4C7C-AE9D-336424795CC9",
           "sourceKind": "clubWebsite",
           "title": "(map)",
           "subtitle": null,
@@ -310,14 +310,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "77907108-0C22-4213-AEE6-EFF8A9B661DD",
+          "id": "EACE5020-7518-48F4-BC30-7C12634B7CED",
           "sourceKind": "clubWebsite",
           "title": "BODY. AT WYA? SATURDAYS",
           "subtitle": null,
@@ -329,14 +329,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "DAF84623-AC63-4D44-910E-7B04AD0AF633",
+          "id": "0397E43F-1950-4E11-9173-EE8D42F1F559",
           "sourceKind": "clubWebsite",
           "title": "(map)",
           "subtitle": null,
@@ -348,14 +348,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "60204607-1891-4893-9245-94F02D464297",
+          "id": "ABE5C1D5-1C00-4C1A-AB1B-7BE1EC169D75",
           "sourceKind": "clubWebsite",
           "title": "Channel Orange Anniversary Celebration 🍊",
           "subtitle": "Free DL Chicken • $5.25 Jameson",
@@ -367,14 +367,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.6,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "7AE85340-7CD7-4AC3-843D-20DA16C9E246",
+          "id": "BBA3859F-FE45-4D56-9E09-DB0FA94E6C94",
           "sourceKind": "clubWebsite",
           "title": "BEST OF 2010’S AT WYA? SATURDAYS",
           "subtitle": null,
@@ -386,14 +386,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "044F1B42-4DDB-497E-97AD-377C0201A688",
+          "id": "E4920623-027B-4BBD-A07F-0F4C8E630204",
           "sourceKind": "clubWebsite",
           "title": "(map)",
           "subtitle": null,
@@ -405,14 +405,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "FC0E83FF-4DE5-48B1-A13F-B2422C8271C8",
+          "id": "46236719-F408-4128-B719-B3781E633072",
           "sourceKind": "clubWebsite",
           "title": "⏮️ BEST OF 2010’s 💽↩️🪩",
           "subtitle": null,
@@ -424,14 +424,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "6CF914C5-553A-42BB-8DE4-37D63EDB0A6D",
+          "id": "F9EA3807-898C-4967-BA41-92496A48A8C0",
           "sourceKind": "clubWebsite",
           "title": "Tech G1rls",
           "subtitle": null,
@@ -443,14 +443,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "D874D564-4E8C-450D-A4EF-680E5611E2BE",
+          "id": "F3CD6E5D-A005-49A5-AB96-178D310C5116",
           "sourceKind": "clubWebsite",
           "title": "(map)",
           "subtitle": null,
@@ -462,14 +462,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "9949D6E4-413A-4AC4-B7E8-3A4C06EABE73",
+          "id": "2C34417E-A9A5-4BA3-B63B-93657AD824F2",
           "sourceKind": "clubWebsite",
           "title": "Tech G1rls",
           "subtitle": null,
@@ -481,14 +481,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "B44DF785-8FD1-4F34-BDE0-9FE2855C06B6",
+          "id": "483F176B-1D4F-4293-B2F1-0557C7BA8133",
           "sourceKind": "clubWebsite",
           "title": "DIMELIFE LIVE ASF!",
           "subtitle": null,
@@ -500,14 +500,14 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
           "lineup": []
         },
         {
-          "id": "88403FBA-014E-4985-88DB-FFCB9FAE83BC",
+          "id": "A4BC1A47-6B56-48DE-813A-90CE8263E389",
           "sourceKind": "clubWebsite",
           "title": "DJ SEINFELD",
           "subtitle": null,
@@ -519,7 +519,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 17:27",
+          "lastRefreshedText": "Tue 18:25",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
@@ -531,12 +531,135 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Tue 17:27",
+      "refreshText": "Tue 18:25",
       "userCoordinate": {
         "latitude": 22.5333,
         "longitude": 114.0556
       },
-      "sourceEvents": []
+      "sourceEvents": [
+        {
+          "id": "346CA4E3-43DB-43AF-A580-C854288F6432",
+          "sourceKind": "ticketingPage",
+          "title": "Sulk",
+          "subtitle": "Spotify Tickets",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "Jul 11",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.78,
+          "lastRefreshedText": "Tue 18:25",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://open.spotify.com/concert/1bI9xJVGMLrsvzDPjJPfub",
+          "lineup": [
+            {
+              "name": "Sulk",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "929BC691-0D90-497F-982E-6C51853DCF00",
+          "sourceKind": "ticketingPage",
+          "title": "RAVEN UNLTD",
+          "subtitle": "Spotify Tickets",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "Jul 17",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.78,
+          "lastRefreshedText": "Tue 18:25",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
+          "lineup": [
+            {
+              "name": "RAVEN UNLTD",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "E4F774C0-06B0-45F4-8160-CC7A2EB50208",
+          "sourceKind": "ticketingPage",
+          "title": "Alion, Sirens",
+          "subtitle": "Spotify Tickets",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "Jul 18",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.78,
+          "lastRefreshedText": "Tue 18:25",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
+          "lineup": [
+            {
+              "name": "Alion",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sirens",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "C0B2A679-BA47-415E-B1D7-8DCCB9BF53FD",
+          "sourceKind": "ticketingPage",
+          "title": "Answer Code Request, Mingo",
+          "subtitle": "Spotify Tickets",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "Jul 24",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.78,
+          "lastRefreshedText": "Tue 18:25",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
+          "lineup": [
+            {
+              "name": "Answer Code Request",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mingo",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }
