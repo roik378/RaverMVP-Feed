@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-07T18:25:34",
+  "ranAt": "2026-07-07T18:42:44",
   "mode": "full",
   "sources": [
     {
@@ -78,7 +78,7 @@
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
       "captured": 40,
-      "usable": 27,
+      "usable": 24,
       "enabledSourceCount": 3,
       "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
@@ -104,11 +104,13 @@
       "cityName": "Shenzhen",
       "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "oil_wechat*.txt",
+      "imageDropGlob": "oil_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
       "status": "missing_input",
       "actionText": "Drop OCR text files matching oil_wechat*.txt",
-      "files": []
+      "files": [],
+      "imageFiles": []
     },
     {
       "sourceId": "atmos_wechat",
@@ -116,16 +118,18 @@
       "cityName": "Shenzhen",
       "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "atmos_wechat*.txt",
+      "imageDropGlob": "atmos_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
       "status": "missing_input",
       "actionText": "Drop OCR text files matching atmos_wechat*.txt",
-      "files": []
+      "files": [],
+      "imageFiles": []
     }
   ],
   "totals": {
     "captured": 44,
-    "usable": 31
+    "usable": 28
   },
   "publicationGate": {
     "status": "ready",
