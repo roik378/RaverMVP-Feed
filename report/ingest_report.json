@@ -1,0 +1,73 @@
+{
+  "ranAt": "2026-07-07T16:53:30",
+  "mode": "full",
+  "sources": [
+    {
+      "sourceId": "celebrities_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 20,
+      "strategy": "snippets"
+    },
+    {
+      "sourceId": "fortune_sound_club",
+      "kind": "html",
+      "status": "ok",
+      "captured": 20,
+      "strategy": "snippets"
+    },
+    {
+      "sourceId": "digital_motion_bc",
+      "kind": "html",
+      "status": "error: HTTPError: HTTP Error 404: Not Found",
+      "captured": 0
+    },
+    {
+      "sourceId": "19hz_bc",
+      "kind": "html",
+      "status": "skipped",
+      "captured": 0
+    },
+    {
+      "sourceId": "ra_vancouver",
+      "kind": "benchmark",
+      "status": "skipped",
+      "captured": 0
+    },
+    {
+      "sourceId": "nowshenzhen_events",
+      "kind": "html",
+      "status": "ok",
+      "captured": 0,
+      "strategy": "snippets"
+    },
+    {
+      "sourceId": "plvr_storm",
+      "kind": "html",
+      "status": "error: URLError: <urlopen error [Errno -2] Name or service not known>",
+      "captured": 0
+    },
+    {
+      "sourceId": "trip_storm",
+      "kind": "html",
+      "status": "error: HTTPError: HTTP Error 404: Not Found",
+      "captured": 0
+    },
+    {
+      "sourceId": "oil_wechat",
+      "kind": "visionOCR",
+      "status": "no_inbox_files",
+      "captured": 0
+    },
+    {
+      "sourceId": "atmos_wechat",
+      "kind": "visionOCR",
+      "status": "no_inbox_files",
+      "captured": 0
+    }
+  ],
+  "totals": {
+    "captured": 40,
+    "usable": 20
+  }
+}
