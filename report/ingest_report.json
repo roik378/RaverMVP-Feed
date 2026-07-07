@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-07T17:08:45",
+  "ranAt": "2026-07-07T17:21:52",
   "mode": "full",
   "sources": [
     {
@@ -66,8 +66,32 @@
       "captured": 0
     }
   ],
+  "cities": [
+    {
+      "cityId": "vancouver_ca",
+      "cityName": "Vancouver",
+      "captured": 40,
+      "usable": 27,
+      "enabledSourceCount": 3,
+      "errorSourceCount": 1,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish candidates"
+    },
+    {
+      "cityId": "shenzhen_cn",
+      "cityName": "Shenzhen",
+      "captured": 0,
+      "usable": 0,
+      "enabledSourceCount": 5,
+      "errorSourceCount": 2,
+      "missingOCRSourceCount": 2,
+      "status": "needs_ocr_or_source_repair",
+      "actionText": "Add WeChat OCR screenshots or replace stale public URLs"
+    }
+  ],
   "totals": {
     "captured": 40,
-    "usable": 20
+    "usable": 27
   }
 }
