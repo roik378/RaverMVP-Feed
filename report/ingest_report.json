@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-07T18:42:44",
+  "ranAt": "2026-07-09T19:21:29",
   "mode": "full",
   "sources": [
     {
@@ -7,6 +7,8 @@
       "kind": "html",
       "status": "ok",
       "captured": 20,
+      "usable": 20,
+      "consumerReady": 12,
       "strategy": "snippets"
     },
     {
@@ -14,87 +16,138 @@
       "kind": "html",
       "status": "ok",
       "captured": 20,
+      "usable": 20,
+      "consumerReady": 1,
+      "strategy": "snippets"
+    },
+    {
+      "sourceId": "harbour_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 22,
+      "usable": 22,
+      "consumerReady": 22,
+      "strategy": "harbour_calendar"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 20,
+      "usable": 20,
+      "consumerReady": 5,
       "strategy": "snippets"
     },
     {
       "sourceId": "digital_motion_bc",
       "kind": "html",
       "status": "error: HTTPError: HTTP Error 404: Not Found",
-      "captured": 0
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     },
     {
       "sourceId": "19hz_bc",
       "kind": "html",
       "status": "skipped",
-      "captured": 0
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     },
     {
       "sourceId": "ra_vancouver",
       "kind": "benchmark",
       "status": "skipped",
-      "captured": 0
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     },
     {
       "sourceId": "nowshenzhen_events",
       "kind": "html",
       "status": "ok",
       "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "strategy": "snippets"
     },
     {
       "sourceId": "plvr_storm",
       "kind": "html",
-      "status": "error: URLError: <urlopen error [Errno -2] Name or service not known>",
-      "captured": 0
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "strategy": "plvr_event"
     },
     {
       "sourceId": "trip_storm",
       "kind": "html",
-      "status": "error: HTTPError: HTTP Error 404: Not Found",
-      "captured": 0
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "strategy": "trip_storm_event"
     },
     {
       "sourceId": "spotify_shenzhen_concerts",
       "kind": "html",
       "status": "ok",
       "captured": 4,
+      "usable": 4,
+      "consumerReady": 4,
       "strategy": "spotify_location"
     },
     {
       "sourceId": "oil_wechat",
       "kind": "visionOCR",
       "status": "no_inbox_files",
-      "captured": 0
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     },
     {
       "sourceId": "atmos_wechat",
       "kind": "visionOCR",
       "status": "no_inbox_files",
-      "captured": 0
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     }
   ],
   "cities": [
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 40,
-      "usable": 24,
-      "enabledSourceCount": 3,
+      "captured": 82,
+      "usable": 54,
+      "consumerReady": 32,
+      "consumerRejected": 22,
+      "consumerReadyRate": 0.593,
+      "rejectionReasons": {
+        "missing_event_evidence": 16,
+        "placeholder_title": 6
+      },
+      "enabledSourceCount": 5,
       "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
-      "actionText": "Review and publish candidates"
+      "actionText": "Review and publish consumer-ready events"
     },
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 4,
-      "usable": 4,
+      "captured": 6,
+      "usable": 5,
+      "consumerReady": 5,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
       "enabledSourceCount": 6,
-      "errorSourceCount": 2,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 2,
       "status": "ok",
-      "actionText": "Review and publish candidates"
+      "actionText": "Review and publish consumer-ready events"
     }
   ],
   "ocrIntake": [
@@ -128,19 +181,29 @@
     }
   ],
   "totals": {
-    "captured": 44,
-    "usable": 28
+    "captured": 88,
+    "usable": 59
+  },
+  "consumerQuality": {
+    "ready": 37,
+    "rejected": 22,
+    "rejectionReasons": {
+      "missing_event_evidence": 16,
+      "placeholder_title": 6
+    }
   },
   "publicationGate": {
     "status": "ready",
     "requiredCities": [
       {
         "cityName": "Vancouver",
-        "minimumUsable": 1
+        "minimumUsable": 2,
+        "minimumConsumerReady": 2
       },
       {
         "cityName": "Shenzhen",
-        "minimumUsable": 1
+        "minimumUsable": 2,
+        "minimumConsumerReady": 2
       }
     ],
     "blockedCities": [],

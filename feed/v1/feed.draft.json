@@ -1,55 +1,17 @@
 {
   "feedVersion": 1,
-  "generatedAtText": "Tue 18:42",
+  "generatedAtText": "Thu 19:21",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Tue 18:42",
+      "refreshText": "Thu 19:21",
       "userCoordinate": {
         "latitude": 49.2827,
         "longitude": -123.1207
       },
       "sourceEvents": [
-        {
-          "id": "702AADCC-E652-535E-A3A7-816561F375E0",
-          "sourceKind": "clubWebsite",
-          "title": "FOR REAL FRIDAYS pres - SUMR 4EVR",
-          "subtitle": null,
-          "venue": "Celebrities Nightclub",
-          "city": "Vancouver",
-          "dateText": "Jul 10",
-          "timeText": "10:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "F2FB51A0-182A-51B2-9552-2615227D05CD",
-          "sourceKind": "clubWebsite",
-          "title": "PURSUIT OF HAPPINESS - THROWBACK EDM EVENT",
-          "subtitle": null,
-          "venue": "Celebrities Nightclub",
-          "city": "Vancouver",
-          "dateText": "July 11",
-          "timeText": "8:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
-        },
         {
           "id": "616BEFFE-66CE-562E-910B-EBB6CC09E254",
           "sourceKind": "clubWebsite",
@@ -61,13 +23,23 @@
           "timeText": "10:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.7,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "Cristoph",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "CC1C897C-6539-5761-AA33-EACA0BA19632",
@@ -80,9 +52,11 @@
           "timeText": null,
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
-          "confidence": 0.55,
-          "lastRefreshedText": "Tue 18:42",
+          "styles": [
+            "Trance"
+          ],
+          "confidence": 0.6,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -101,11 +75,19 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "UNDERSCORES",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "FB7AEC21-51A8-5E84-9ED8-E0C634CC8FA2",
@@ -120,11 +102,19 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "dj g2g",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "91A51ADD-A4BF-5297-AB84-77AE2147DA31",
@@ -139,11 +129,19 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "Coco & Breezy",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "9F3E48BF-5992-5E24-AE8F-D59F4737DF7C",
@@ -158,30 +156,19 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "FD5A129F-4A65-551F-94FE-69BAD9561D84",
-          "sourceKind": "clubWebsite",
-          "title": "Celebrities Pride pres.  HISTORY SUNDAY",
-          "subtitle": null,
-          "venue": "Celebrities Nightclub",
-          "city": "Vancouver",
-          "dateText": "Aug 2",
-          "timeText": "2:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "ALEX CHAPMAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "4A3A56C4-DD2D-5BED-963F-B31CDA178D52",
@@ -196,11 +183,19 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "EMMIT FENN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "63A1A7ED-C1E3-5CF5-BA8C-C4B2660D87E7",
@@ -213,13 +208,23 @@
           "timeText": "10:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.7,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "CONRAD TAYLOR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "1C4FA882-FA3B-5381-AB28-E4103401F8AD",
@@ -232,240 +237,636 @@
           "timeText": "10:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.7,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
-          "lineup": []
+          "lineup": [
+            {
+              "name": "CYRIL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
-          "id": "670BBD98-B2C8-50E2-8F7F-0BA9BFDA0716",
-          "sourceKind": "clubWebsite",
-          "title": "(map)",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
-          "city": "Vancouver",
-          "dateText": "Jul 10",
-          "timeText": "10:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "A93D7642-3571-5CAF-BE78-9EDF7FF8E060",
-          "sourceKind": "clubWebsite",
-          "title": "TAKE ME BACK TO 2016",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
-          "city": "Vancouver",
-          "dateText": "july 10",
-          "timeText": null,
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.55,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "EBC06F0D-86FB-5E25-9615-E703B6D3270A",
-          "sourceKind": "clubWebsite",
-          "title": "BODY. AT WYA? SATURDAYS",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "CB8B51B8-52D1-54B0-8FE0-B13EA85B2DAF",
+          "sourceKind": "venueCalendar",
+          "title": "Infected Mushroom",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
           "dateText": "Jul 11",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
+          "sourceURLText": "https://tixr.com/e/187780",
+          "lineup": [
+            {
+              "name": "Infected Mushroom",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
-          "id": "DD723CAC-7B89-50DD-A607-544A1726D669",
-          "sourceKind": "clubWebsite",
-          "title": "(map)",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "817073F1-54AD-5639-9E54-9D747A703DA2",
+          "sourceKind": "venueCalendar",
+          "title": "INQUISITIVE",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
-          "dateText": "Jul 11",
-          "timeText": "10:00",
+          "dateText": "Jul 17",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
+          "sourceURLText": "https://tixr.com/e/195395",
+          "lineup": [
+            {
+              "name": "INQUISITIVE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
-          "id": "F6BCCEDD-3418-548D-A2C0-0F2BD21A4D24",
-          "sourceKind": "clubWebsite",
-          "title": "(map)",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
-          "city": "Vancouver",
-          "dateText": "Jul 13",
-          "timeText": "10:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "8AE17786-B3C5-5A50-A4E1-A3BC3C9756C4",
-          "sourceKind": "clubWebsite",
-          "title": "Channel Orange Anniversary Celebration 🍊",
-          "subtitle": "Free DL Chicken • $5.25 Jameson",
-          "venue": "Fortune Sound Club",
-          "city": "Vancouver",
-          "dateText": "July 13",
-          "timeText": null,
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.6,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "33FEE0A0-ECFE-52FB-A4AD-B3CD4A7E8B56",
-          "sourceKind": "clubWebsite",
-          "title": "BEST OF 2010’S AT WYA? SATURDAYS",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "4B454302-68CB-5E30-A90D-EBC5D419C85E",
+          "sourceKind": "venueCalendar",
+          "title": "San Holo - Wholesome Riddim Chapter 2",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
           "dateText": "Jul 18",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
+          "sourceURLText": "https://tixr.com/e/182221",
+          "lineup": [
+            {
+              "name": "San Holo",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
-          "id": "C36CAA85-0D77-52EE-A55A-417905688D47",
-          "sourceKind": "clubWebsite",
-          "title": "(map)",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "6C434E61-84EE-5FE2-95C2-EC46B734DFA7",
+          "sourceKind": "venueCalendar",
+          "title": "Vintage Culture",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
-          "dateText": "Jul 18",
-          "timeText": "10:00",
+          "dateText": "Jul 24",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
+          "sourceURLText": "https://tixr.com/e/184769",
+          "lineup": [
+            {
+              "name": "Vintage Culture",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
-          "id": "39FEAD0A-7B0D-5D9F-833B-4B1FE38D06B1",
-          "sourceKind": "clubWebsite",
-          "title": "Tech G1rls",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "26396D3E-BBFC-5557-A221-FFAA491AF145",
+          "sourceKind": "venueCalendar",
+          "title": "PLAYGRND SERIES VANCOUVER: SUMMER 16 TOUR",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
-          "dateText": "Jul 23",
-          "timeText": "9:00",
+          "dateText": "Jul 25",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
+          "sourceURLText": "https://tixr.com/e/194433",
           "lineup": []
         },
         {
-          "id": "6CAA52A0-7908-5C34-B3B3-F569A6242CED",
-          "sourceKind": "clubWebsite",
-          "title": "(map)",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "BD798056-1830-5FDF-AF01-7718EAA7AC7E",
+          "sourceKind": "venueCalendar",
+          "title": "MASTER OF VINAHOUSE VOL.02",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
-          "dateText": "Jul 23",
-          "timeText": "9:00",
+          "dateText": "Jul 25",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
+          "sourceURLText": "https://tixr.com/e/197263",
           "lineup": []
         },
         {
-          "id": "CF1B603E-C1C1-55E1-B64B-DB71FC35362D",
-          "sourceKind": "clubWebsite",
-          "title": "DIMELIFE LIVE ASF!",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
-          "city": "Vancouver",
-          "dateText": "July 24",
-          "timeText": "7:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
-          "lineup": []
-        },
-        {
-          "id": "5C5287A1-44B4-5D67-902E-30840B182907",
-          "sourceKind": "clubWebsite",
-          "title": "DJ SEINFELD",
-          "subtitle": null,
-          "venue": "Fortune Sound Club",
+          "id": "7C3D3D77-A911-5599-8A6F-37666C8ADEE0",
+          "sourceKind": "venueCalendar",
+          "title": "Euphoria - Dombresky Presents Disco Dom",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
           "city": "Vancouver",
           "dateText": "Jul 31",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.65,
-          "lastRefreshedText": "Tue 18:42",
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.fortunesoundclub.com/events",
+          "sourceURLText": "https://tixr.com/e/192055",
+          "lineup": [
+            {
+              "name": "Dombresky",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "D3EC4053-5961-587D-AF85-72BABE5CD042",
+          "sourceKind": "venueCalendar",
+          "title": "Boris Brejcha",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 1",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/185416",
+          "lineup": [
+            {
+              "name": "Boris Brejcha",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "024E65D9-0347-5764-AD02-2E1E7ED9A661",
+          "sourceKind": "venueCalendar",
+          "title": "BASS NEXUS VOL 4. PRIDE EDITION",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 1",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass"
+          ],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/198329",
+          "lineup": []
+        },
+        {
+          "id": "3953E14A-AB1F-5C54-BFF0-F04CE774018F",
+          "sourceKind": "venueCalendar",
+          "title": "MUST DIE!",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 7",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/177104",
+          "lineup": [
+            {
+              "name": "MUST DIE!",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "88DFB8BA-9522-5722-A0A8-17A054845297",
+          "sourceKind": "venueCalendar",
+          "title": "Vini Vici",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 7",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/186501",
+          "lineup": [
+            {
+              "name": "Vini Vici",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "E5AC42D0-FFEF-5F5E-817F-70534AF6B7FE",
+          "sourceKind": "venueCalendar",
+          "title": "Monstercat 15 Anniversary w/ Adventure Club",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 8",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/196122",
+          "lineup": [
+            {
+              "name": "Adventure Club",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "B031F71C-7E5B-5DEE-98DC-2312DE1A2A11",
+          "sourceKind": "venueCalendar",
+          "title": "NOOSH: Toxic Techno with DORUKSEN",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 8",
+          "timeText": "23:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Techno"
+          ],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/198322",
+          "lineup": [
+            {
+              "name": "DORUKSEN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "2FE7BAE9-AD3E-5772-9FAE-D533F7BD254D",
+          "sourceKind": "venueCalendar",
+          "title": "Mike Williams",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 14",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/195425",
+          "lineup": [
+            {
+              "name": "Mike Williams",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "F005F7FC-2A02-5DC8-8351-8C01C8C63BE2",
+          "sourceKind": "venueCalendar",
+          "title": "DJ DIESEL",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 21",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/188737",
+          "lineup": [
+            {
+              "name": "DJ DIESEL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "55BB08F7-1248-5B3F-83CB-2FDE92F0767D",
+          "sourceKind": "venueCalendar",
+          "title": "Murphy's Law",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Aug 21",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/195109",
+          "lineup": [
+            {
+              "name": "Murphy's Law",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "5A3CC2A2-D124-5DFA-B95E-98125D3F788F",
+          "sourceKind": "venueCalendar",
+          "title": "Ben Nicky Presents Xtreme",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Sep 6",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/191670",
+          "lineup": [
+            {
+              "name": "Ben Nicky",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "FCA38009-A5A1-51DD-836E-A6418FC6A462",
+          "sourceKind": "venueCalendar",
+          "title": "HALO",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Sep 11",
+          "timeText": "23:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/197295",
+          "lineup": [
+            {
+              "name": "DubVision",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Third Party",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Matisse & Sadko",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "C8BEC29C-CD32-5507-B8F5-5554764BA25E",
+          "sourceKind": "venueCalendar",
+          "title": "FANTASM",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Sep 12",
+          "timeText": "23:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/196120",
+          "lineup": [
+            {
+              "name": "FANTASM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "678ED6BD-276E-5955-B2FA-A3F31929137B",
+          "sourceKind": "venueCalendar",
+          "title": "D-Block & S-Te-Fan",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Sep 18",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/195028",
+          "lineup": [
+            {
+              "name": "D-Block & S-Te-Fan",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "9E51ABCE-4F71-5F30-8EBD-304E1AE2F31E",
+          "sourceKind": "venueCalendar",
+          "title": "Da Tweekaz",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Sep 26",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/192435",
+          "lineup": [
+            {
+              "name": "Da Tweekaz",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "8E6D6419-DB82-5A5D-B022-E6541F284AD2",
+          "sourceKind": "venueCalendar",
+          "title": "WHETHAN - WAREHOUSE.WAVS TOUR",
+          "subtitle": "Harbour official calendar",
+          "venue": "Harbour Event & Convention Centre",
+          "city": "Vancouver",
+          "dateText": "Oct 9",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.82,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://tixr.com/e/191340",
+          "lineup": [
+            {
+              "name": "WHETHAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "834E2AB6-8D7F-54AE-B196-B905068B832A",
+          "sourceKind": "clubWebsite",
+          "title": "Roi Perez",
+          "subtitle": null,
+          "venue": "Village Studios",
+          "city": "Vancouver",
+          "dateText": "August 01",
+          "timeText": null,
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Techno",
+            "House"
+          ],
+          "confidence": 0.6,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.villagestudios.life/events",
           "lineup": []
         }
       ]
@@ -474,16 +875,110 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Tue 18:42",
+      "refreshText": "Thu 19:21",
       "userCoordinate": {
         "latitude": 22.5333,
         "longitude": 114.0556
       },
       "sourceEvents": [
         {
-          "id": "AF86FB50-9F84-5DA3-A6F0-28DB56A5CE45",
+          "id": "E1C20C5B-DD44-5E30-8CE5-9CD6BF7B5B8D",
+          "sourceKind": "festivalWebsite",
+          "title": "2026 SHENZHEN STORM Electronic Music Festival",
+          "subtitle": "PLVR official festival page",
+          "venue": "Hall 17, Shenzhen World Exhibition & Convention Center",
+          "city": "Shenzhen",
+          "dateText": "Jun 13-14, 2026",
+          "timeText": "14:00-22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass",
+            "Dubstep",
+            "House"
+          ],
+          "confidence": 0.86,
+          "lastRefreshedText": "Thu 19:21",
+          "isMajorFestival": true,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+          "lineup": [
+            {
+              "name": "MARSHMELLO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "EXCISION",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDY C",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BLONDEX",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GHENGAR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ILLENIUM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ERIC PRYDZ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ODD MOB",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JULIAN JORDAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VIDOJEAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "96A747C7-33D9-5F0D-B8DD-5916ACF690B6",
           "sourceKind": "ticketingPage",
-          "title": "Sulk",
+          "title": "Antigone, Sulk",
           "subtitle": "Spotify Tickets",
           "venue": "OIL Club",
           "city": "Shenzhen",
@@ -493,11 +988,18 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/1bI9xJVGMLrsvzDPjJPfub",
           "lineup": [
+            {
+              "name": "Antigone",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
             {
               "name": "Sulk",
               "setTime": null,
@@ -520,7 +1022,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
@@ -547,7 +1049,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
@@ -581,7 +1083,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Tue 18:42",
+          "lastRefreshedText": "Thu 19:21",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
