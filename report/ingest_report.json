@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-09T19:21:29",
+  "ranAt": "2026-07-10T06:51:16",
   "mode": "full",
   "sources": [
     {
@@ -93,9 +93,9 @@
       "sourceId": "spotify_shenzhen_concerts",
       "kind": "html",
       "status": "ok",
-      "captured": 4,
-      "usable": 4,
-      "consumerReady": 4,
+      "captured": 3,
+      "usable": 3,
+      "consumerReady": 3,
       "strategy": "spotify_location"
     },
     {
@@ -137,9 +137,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 6,
-      "usable": 5,
-      "consumerReady": 5,
+      "captured": 5,
+      "usable": 4,
+      "consumerReady": 4,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -181,11 +181,11 @@
     }
   ],
   "totals": {
-    "captured": 88,
-    "usable": 59
+    "captured": 87,
+    "usable": 58
   },
   "consumerQuality": {
-    "ready": 37,
+    "ready": 36,
     "rejected": 22,
     "rejectionReasons": {
       "missing_event_evidence": 16,
