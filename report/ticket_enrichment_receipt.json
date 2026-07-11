@@ -1,17 +1,17 @@
 {
-  "appliedCount": 4,
+  "appliedCount": 1,
   "coverage": {
     "after": {
       "Shenzhen": {
         "consumerEligible": {
-          "direct": 3,
+          "direct": 5,
           "ratio": 1.0,
-          "total": 3
+          "total": 5
         },
         "raw": {
-          "direct": 4,
+          "direct": 6,
           "ratio": 1.0,
-          "total": 4
+          "total": 6
         }
       },
       "Vancouver": {
@@ -30,14 +30,14 @@
     "before": {
       "Shenzhen": {
         "consumerEligible": {
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 3
+          "direct": 5,
+          "ratio": 1.0,
+          "total": 5
         },
         "raw": {
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 4
+          "direct": 5,
+          "ratio": 0.8333,
+          "total": 6
         }
       },
       "Vancouver": {
@@ -56,7 +56,7 @@
   },
   "entries": [
     {
-      "action": "applied",
+      "action": "unchanged",
       "canonicalVenue": "OIL Club",
       "city": "Shenzhen",
       "currentTitle": "Antigone, Sulk",
@@ -70,11 +70,11 @@
         "Antigone, Sulk"
       ],
       "newTicketURLText": "https://ra.co/events/2464468",
-      "oldTicketURLText": null,
+      "oldTicketURLText": "https://ra.co/events/2464468",
       "ticketURLText": "https://ra.co/events/2464468"
     },
     {
-      "action": "applied",
+      "action": "unchanged",
       "canonicalVenue": "OIL Club",
       "city": "Shenzhen",
       "currentTitle": "RAVEN UNLTD",
@@ -88,11 +88,11 @@
         "RAVEN UNLTD"
       ],
       "newTicketURLText": "https://ra.co/events/2459638",
-      "oldTicketURLText": null,
+      "oldTicketURLText": "https://ra.co/events/2459638",
       "ticketURLText": "https://ra.co/events/2459638"
     },
     {
-      "action": "applied",
+      "action": "unchanged",
       "canonicalVenue": "OIL Club",
       "city": "Shenzhen",
       "currentTitle": "Alion, Sirens",
@@ -106,7 +106,7 @@
         "Alion, Sirens"
       ],
       "newTicketURLText": "https://ra.co/events/2459646",
-      "oldTicketURLText": null,
+      "oldTicketURLText": "https://ra.co/events/2459646",
       "ticketURLText": "https://ra.co/events/2459646"
     },
     {
@@ -128,11 +128,11 @@
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     }
   ],
-  "eventCountAfter": 36,
-  "eventCountBefore": 36,
-  "feedSHA256After": "1275e8d50025db021b765ae1cf0b38078a92e43e5472c3e4d5a11f3f8dd115b2",
-  "feedSHA256Before": "89c4df3950c19a6eb3865f4d964daa6d9f653ea6d009bdbd921c52ec1bf81bea",
+  "eventCountAfter": 38,
+  "eventCountBefore": 38,
   "feedPath": "feed/v1/feed.draft.json",
+  "feedSHA256After": "fa2b85bcbff0d9c8dd2c7c0439a25d8bfc1c2193e00fca3773748fed909f8526",
+  "feedSHA256Before": "d32b21c5d53eb6030d551189e5212ce3a6b8a1be0f720dff9d0b5cf906d80da2",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
@@ -147,6 +147,6 @@
   "schemaVersion": 1,
   "staleSkippedCount": 0,
   "status": "applied",
-  "unchangedCount": 0,
+  "unchangedCount": 3,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }

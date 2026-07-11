@@ -1,12 +1,12 @@
 {
   "feedVersion": 1,
-  "generatedAtText": "Fri 06:51",
+  "generatedAtText": "Sat 09:17",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Fri 06:51",
+      "refreshText": "Sat 09:17",
       "userCoordinate": {
         "latitude": 49.2827,
         "longitude": -123.1207
@@ -27,10 +27,11 @@
             "House"
           ],
           "confidence": 0.7,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "Cristoph",
@@ -56,10 +57,11 @@
             "Trance"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": []
         },
         {
@@ -75,10 +77,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "UNDERSCORES",
@@ -102,10 +105,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "dj g2g",
@@ -129,10 +133,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "Coco & Breezy",
@@ -156,10 +161,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "ALEX CHAPMAN",
@@ -183,10 +189,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "EMMIT FENN",
@@ -212,10 +219,11 @@
             "House"
           ],
           "confidence": 0.7,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "CONRAD TAYLOR",
@@ -241,10 +249,11 @@
             "House"
           ],
           "confidence": 0.7,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "ticketURLText": null,
           "lineup": [
             {
               "name": "CYRIL",
@@ -268,7 +277,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/187780",
@@ -296,7 +305,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195395",
@@ -324,7 +333,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/182221",
@@ -352,7 +361,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/184769",
@@ -380,7 +389,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/194433",
@@ -402,7 +411,7 @@
             "House"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197263",
@@ -422,7 +431,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192055",
@@ -450,7 +459,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/185416",
@@ -480,7 +489,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198329",
@@ -500,7 +509,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/177104",
@@ -528,7 +537,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/186501",
@@ -556,7 +565,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196122",
@@ -586,7 +595,7 @@
             "Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198322",
@@ -614,7 +623,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195425",
@@ -642,7 +651,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/188737",
@@ -670,7 +679,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195109",
@@ -698,7 +707,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191670",
@@ -726,7 +735,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197295",
@@ -768,7 +777,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196120",
@@ -796,7 +805,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195028",
@@ -824,7 +833,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192435",
@@ -854,7 +863,7 @@
             "House"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191340",
@@ -885,10 +894,11 @@
             "House"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events",
+          "ticketURLText": null,
           "lineup": []
         }
       ]
@@ -897,7 +907,7 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Fri 06:51",
+      "refreshText": "Sat 09:17",
       "userCoordinate": {
         "latitude": 22.5333,
         "longitude": 114.0556
@@ -920,10 +930,11 @@
             "House"
           ],
           "confidence": 0.86,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+          "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
           "lineup": [
             {
               "name": "MARSHMELLO",
@@ -995,8 +1006,7 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ],
-          "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
+          ]
         },
         {
           "id": "96A747C7-33D9-5F0D-B8DD-5916ACF690B6",
@@ -1011,10 +1021,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/1bI9xJVGMLrsvzDPjJPfub",
+          "ticketURLText": "https://ra.co/events/2464468",
           "lineup": [
             {
               "name": "Antigone",
@@ -1030,8 +1041,7 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ],
-          "ticketURLText": "https://ra.co/events/2464468"
+          ]
         },
         {
           "id": "49C8679B-6A4A-5107-A8C9-022FECF90815",
@@ -1046,10 +1056,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
+          "ticketURLText": "https://ra.co/events/2459638",
           "lineup": [
             {
               "name": "RAVEN UNLTD",
@@ -1058,8 +1069,7 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ],
-          "ticketURLText": "https://ra.co/events/2459638"
+          ]
         },
         {
           "id": "3AF39237-6332-5D32-A09E-1D746047BA28",
@@ -1074,10 +1084,11 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Fri 06:51",
+          "lastRefreshedText": "Sat 09:17",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
+          "ticketURLText": "https://ra.co/events/2459646",
           "lineup": [
             {
               "name": "Alion",
@@ -1093,8 +1104,70 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ],
-          "ticketURLText": "https://ra.co/events/2459646"
+          ]
+        },
+        {
+          "id": "A13BA6D2-3412-5CEA-85D1-6301FD0AB971",
+          "sourceKind": "venueCalendar",
+          "title": "Alion",
+          "subtitle": "Spotify event listing",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "Jul 19",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.78,
+          "lastRefreshedText": "Sat 09:17",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
+          "ticketURLText": "https://ra.co/events/2447530",
+          "lineup": [
+            {
+              "name": "Alion",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "0973BF64-0724-5CD8-807D-49F107699079",
+          "sourceKind": "venueCalendar",
+          "title": "Answer Code Request, Mingo",
+          "subtitle": "Spotify event listing",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "Jul 24",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.78,
+          "lastRefreshedText": "Sat 09:17",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
+          "ticketURLText": "https://ra.co/events/2459652",
+          "lineup": [
+            {
+              "name": "Answer Code Request",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mingo",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         }
       ]
     }
