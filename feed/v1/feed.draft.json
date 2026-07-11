@@ -995,7 +995,8 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ]
+          ],
+          "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
         },
         {
           "id": "96A747C7-33D9-5F0D-B8DD-5916ACF690B6",
@@ -1029,7 +1030,8 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ]
+          ],
+          "ticketURLText": "https://ra.co/events/2464468"
         },
         {
           "id": "49C8679B-6A4A-5107-A8C9-022FECF90815",
@@ -1056,7 +1058,8 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ]
+          ],
+          "ticketURLText": "https://ra.co/events/2459638"
         },
         {
           "id": "3AF39237-6332-5D32-A09E-1D746047BA28",
@@ -1090,7 +1093,8 @@
               "representativeTracks": [],
               "peakDJMagRank": null
             }
-          ]
+          ],
+          "ticketURLText": "https://ra.co/events/2459646"
         }
       ]
     }

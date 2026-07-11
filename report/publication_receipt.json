@@ -5,13 +5,17 @@
   },
   "eventCount": 36,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "89c4df3950c19a6eb3865f4d964daa6d9f653ea6d009bdbd921c52ec1bf81bea",
+  "feedSHA256": "1275e8d50025db021b765ae1cf0b38078a92e43e5472c3e4d5a11f3f8dd115b2",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-10T21:51:35+08:00",
+  "publishedAt": "2026-07-11T08:40:29+08:00",
   "reportPath": "report/ingest_report.json",
   "reportSHA256": "73a22b56370817ac05ea2abef838d074447fc052d3eb1bc46a567d646b766893",
   "schemaVersion": 1,
-  "sourceCommitSHA": "531c38903130cefd3c99ad20c0f8cae94238e899",
+  "sourceCommitSHA": "1773e01bac80c517743d48836e883916abec3fcb",
   "sourceRepository": "roik378/RaverMVP",
-  "status": "ready"
+  "status": "ready",
+  "ticketEnrichmentStatus": "applied",
+  "ticketQualityGateStatus": "ready",
+  "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
+  "ticketReceiptSHA256": "109d40abafa3b18e8bc1668e8446ff4a6113089a0e65511db29be7320ba835f8"
 }

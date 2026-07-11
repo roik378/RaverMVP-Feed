@@ -1,0 +1,152 @@
+{
+  "appliedCount": 4,
+  "coverage": {
+    "after": {
+      "Shenzhen": {
+        "consumerEligible": {
+          "direct": 3,
+          "ratio": 1.0,
+          "total": 3
+        },
+        "raw": {
+          "direct": 4,
+          "ratio": 1.0,
+          "total": 4
+        }
+      },
+      "Vancouver": {
+        "consumerEligible": {
+          "direct": 22,
+          "ratio": 0.6875,
+          "total": 32
+        },
+        "raw": {
+          "direct": 22,
+          "ratio": 0.6875,
+          "total": 32
+        }
+      }
+    },
+    "before": {
+      "Shenzhen": {
+        "consumerEligible": {
+          "direct": 0,
+          "ratio": 0.0,
+          "total": 3
+        },
+        "raw": {
+          "direct": 0,
+          "ratio": 0.0,
+          "total": 4
+        }
+      },
+      "Vancouver": {
+        "consumerEligible": {
+          "direct": 22,
+          "ratio": 0.6875,
+          "total": 32
+        },
+        "raw": {
+          "direct": 22,
+          "ratio": 0.6875,
+          "total": 32
+        }
+      }
+    }
+  },
+  "entries": [
+    {
+      "action": "applied",
+      "canonicalVenue": "OIL Club",
+      "city": "Shenzhen",
+      "currentTitle": "Antigone, Sulk",
+      "dateText": "Jul 11",
+      "evidenceURLText": "https://open.spotify.com/concert/1bI9xJVGMLrsvzDPjJPfub",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "96A747C7-33D9-5F0D-B8DD-5916ACF690B6"
+      ],
+      "matchedEventTitles": [
+        "Antigone, Sulk"
+      ],
+      "newTicketURLText": "https://ra.co/events/2464468",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://ra.co/events/2464468"
+    },
+    {
+      "action": "applied",
+      "canonicalVenue": "OIL Club",
+      "city": "Shenzhen",
+      "currentTitle": "RAVEN UNLTD",
+      "dateText": "Jul 17",
+      "evidenceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "49C8679B-6A4A-5107-A8C9-022FECF90815"
+      ],
+      "matchedEventTitles": [
+        "RAVEN UNLTD"
+      ],
+      "newTicketURLText": "https://ra.co/events/2459638",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://ra.co/events/2459638"
+    },
+    {
+      "action": "applied",
+      "canonicalVenue": "OIL Club",
+      "city": "Shenzhen",
+      "currentTitle": "Alion, Sirens",
+      "dateText": "Jul 18",
+      "evidenceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "3AF39237-6332-5D32-A09E-1D746047BA28"
+      ],
+      "matchedEventTitles": [
+        "Alion, Sirens"
+      ],
+      "newTicketURLText": "https://ra.co/events/2459646",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://ra.co/events/2459646"
+    },
+    {
+      "action": "applied",
+      "canonicalVenue": "Hall 17, Shenzhen World Exhibition & Convention Center",
+      "city": "Shenzhen",
+      "currentTitle": "2026 SHENZHEN STORM Electronic Music Festival",
+      "dateText": "Jun 13-14, 2026",
+      "evidenceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "E1C20C5B-DD44-5E30-8CE5-9CD6BF7B5B8D"
+      ],
+      "matchedEventTitles": [
+        "2026 SHENZHEN STORM Electronic Music Festival"
+      ],
+      "newTicketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
+    }
+  ],
+  "eventCountAfter": 36,
+  "eventCountBefore": 36,
+  "feedSHA256After": "1275e8d50025db021b765ae1cf0b38078a92e43e5472c3e4d5a11f3f8dd115b2",
+  "feedSHA256Before": "89c4df3950c19a6eb3865f4d964daa6d9f653ea6d009bdbd921c52ec1bf81bea",
+  "feedPath": "feed/v1/feed.draft.json",
+  "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
+  "qualityGate": {
+    "blockedCities": [],
+    "launchCities": [
+      "Vancouver",
+      "Shenzhen"
+    ],
+    "minimumDirectTicketCoverage": 0.6,
+    "status": "ready"
+  },
+  "referenceDate": "2026-07-11",
+  "schemaVersion": 1,
+  "staleSkippedCount": 0,
+  "status": "applied",
+  "unchangedCount": 0,
+  "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
+}
