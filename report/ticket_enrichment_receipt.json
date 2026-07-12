@@ -17,13 +17,13 @@
       "Vancouver": {
         "consumerEligible": {
           "direct": 21,
-          "ratio": 0.6176,
-          "total": 34
+          "ratio": 0.6,
+          "total": 35
         },
         "raw": {
           "direct": 21,
-          "ratio": 0.6176,
-          "total": 34
+          "ratio": 0.6,
+          "total": 35
         }
       }
     },
@@ -43,13 +43,13 @@
       "Vancouver": {
         "consumerEligible": {
           "direct": 21,
-          "ratio": 0.6176,
-          "total": 34
+          "ratio": 0.6,
+          "total": 35
         },
         "raw": {
           "direct": 21,
-          "ratio": 0.6176,
-          "total": 34
+          "ratio": 0.6,
+          "total": 35
         }
       }
     }
@@ -118,11 +118,11 @@
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     }
   ],
-  "eventCountAfter": 39,
-  "eventCountBefore": 39,
+  "eventCountAfter": 40,
+  "eventCountBefore": 40,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "d852d2d6daf4072e99c638a77c594ed51f6d66c9f8358959f09796e5e1e4901c",
-  "feedSHA256Before": "d852d2d6daf4072e99c638a77c594ed51f6d66c9f8358959f09796e5e1e4901c",
+  "feedSHA256After": "deee34cbc9f0c248bbd9ca931a838b4f8b73a05ef4d402e1ef7d471bfbfa2f6a",
+  "feedSHA256Before": "deee34cbc9f0c248bbd9ca931a838b4f8b73a05ef4d402e1ef7d471bfbfa2f6a",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],

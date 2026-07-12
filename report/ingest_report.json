@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-12T11:44:14",
+  "ranAt": "2026-07-12T12:37:07",
   "mode": "full",
   "sources": [
     {
@@ -8,7 +8,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 11,
       "strategy": "squarespace_enriched_snippets"
     },
     {
@@ -35,7 +35,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 8,
+      "consumerReady": 4,
       "strategy": "squarespace_enriched_snippets"
     },
     {
@@ -121,13 +121,13 @@
       "cityName": "Vancouver",
       "captured": 81,
       "usable": 53,
-      "consumerReady": 34,
-      "consumerRejected": 19,
-      "consumerReadyRate": 0.642,
+      "consumerReady": 35,
+      "consumerRejected": 18,
+      "consumerReadyRate": 0.66,
       "rejectionReasons": {
         "past_event": 7,
-        "missing_event_evidence": 8,
-        "placeholder_title": 4
+        "placeholder_title": 4,
+        "missing_event_evidence": 7
       },
       "enabledSourceCount": 5,
       "errorSourceCount": 1,
@@ -188,12 +188,12 @@
     "usable": 59
   },
   "consumerQuality": {
-    "ready": 39,
-    "rejected": 20,
+    "ready": 40,
+    "rejected": 19,
     "rejectionReasons": {
       "past_event": 8,
-      "missing_event_evidence": 8,
-      "placeholder_title": 4
+      "placeholder_title": 4,
+      "missing_event_evidence": 7
     }
   },
   "referenceDate": "2026-07-12",
