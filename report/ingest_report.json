@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-12T10:34:07",
+  "ranAt": "2026-07-12T11:44:14",
   "mode": "full",
   "sources": [
     {
@@ -8,8 +8,8 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 10,
-      "strategy": "snippets"
+      "consumerReady": 12,
+      "strategy": "squarespace_enriched_snippets"
     },
     {
       "sourceId": "fortune_sound_club",
@@ -35,8 +35,8 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 6,
-      "strategy": "snippets"
+      "consumerReady": 8,
+      "strategy": "squarespace_enriched_snippets"
     },
     {
       "sourceId": "digital_motion_bc",
@@ -121,12 +121,12 @@
       "cityName": "Vancouver",
       "captured": 81,
       "usable": 53,
-      "consumerReady": 30,
-      "consumerRejected": 23,
-      "consumerReadyRate": 0.566,
+      "consumerReady": 34,
+      "consumerRejected": 19,
+      "consumerReadyRate": 0.642,
       "rejectionReasons": {
         "past_event": 7,
-        "missing_event_evidence": 12,
+        "missing_event_evidence": 8,
         "placeholder_title": 4
       },
       "enabledSourceCount": 5,
@@ -188,11 +188,11 @@
     "usable": 59
   },
   "consumerQuality": {
-    "ready": 35,
-    "rejected": 24,
+    "ready": 39,
+    "rejected": 20,
     "rejectionReasons": {
       "past_event": 8,
-      "missing_event_evidence": 12,
+      "missing_event_evidence": 8,
       "placeholder_title": 4
     }
   },
