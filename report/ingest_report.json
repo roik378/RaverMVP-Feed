@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-12T19:48:15",
+  "ranAt": "2026-07-12T21:31:00",
   "mode": "full",
   "sources": [
     {
@@ -125,9 +125,9 @@
       "consumerRejected": 18,
       "consumerReadyRate": 0.66,
       "rejectionReasons": {
-        "past_event": 7,
+        "past_event": 6,
         "placeholder_title": 4,
-        "missing_event_evidence": 7
+        "missing_event_evidence": 8
       },
       "enabledSourceCount": 5,
       "errorSourceCount": 1,
@@ -191,9 +191,9 @@
     "ready": 40,
     "rejected": 19,
     "rejectionReasons": {
-      "past_event": 8,
+      "past_event": 7,
       "placeholder_title": 4,
-      "missing_event_evidence": 7
+      "missing_event_evidence": 8
     }
   },
   "referenceDate": "2026-07-12",

@@ -157,8 +157,8 @@
   "eventCountAfter": 40,
   "eventCountBefore": 40,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "d86796b5c4b2718bfc46d8ad5f84e8de64cf09cba7a08cd8841dda34b2b615e9",
-  "feedSHA256Before": "bee176be2e67d86e09cd903fad1203288b55e612900bf111cbb2b3e7958edbac",
+  "feedSHA256After": "e028159c3964018f037bce8f1fc3a6fb4bcbc7b300f3ac23c211d5f6ed37a8bf",
+  "feedSHA256Before": "35f1a682336dc8ac0a597b8c4d0d381d35d67a5ff3c67459f47ec814683417e6",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
