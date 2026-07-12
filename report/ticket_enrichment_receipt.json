@@ -1,5 +1,5 @@
 {
-  "appliedCount": 0,
+  "appliedCount": 2,
   "coverage": {
     "after": {
       "Shenzhen": {
@@ -16,13 +16,13 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 21,
-          "ratio": 0.6,
+          "direct": 23,
+          "ratio": 0.6571,
           "total": 35
         },
         "raw": {
-          "direct": 21,
-          "ratio": 0.6,
+          "direct": 23,
+          "ratio": 0.6571,
           "total": 35
         }
       }
@@ -116,13 +116,49 @@
       "matchedEventTitles": [],
       "reason": "reviewed event is no longer present after its consumer date",
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
+    },
+    {
+      "action": "applied",
+      "canonicalVenue": "Village Studios",
+      "city": "Vancouver",
+      "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
+      "dateText": "Jul 18",
+      "evidenceURLText": "https://www.villagestudios.life/events/anthonyattalla",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "E3FD508E-13E6-545F-9061-B3048AA11311"
+      ],
+      "matchedEventTitles": [
+        "NITESHIFT pres. ANTHONY ATTALLA"
+      ],
+      "newTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
+    },
+    {
+      "action": "applied",
+      "canonicalVenue": "Village Studios",
+      "city": "Vancouver",
+      "currentTitle": "BIJOU (FREE BEFORE 11)",
+      "dateText": "Aug 14",
+      "evidenceURLText": "https://www.villagestudios.life/events/bijou",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "30ADDA9D-C2ED-5800-80E5-2C930FCCF83F"
+      ],
+      "matchedEventTitles": [
+        "BIJOU (FREE BEFORE 11)"
+      ],
+      "newTicketURLText": "https://on.villagestudios.life/trk/jCjpc",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
   "eventCountAfter": 40,
   "eventCountBefore": 40,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "7705183579ab51cd567e2c1ed4fd620c0627f12656b759ded9fa250e691a805c",
-  "feedSHA256Before": "7705183579ab51cd567e2c1ed4fd620c0627f12656b759ded9fa250e691a805c",
+  "feedSHA256After": "d86796b5c4b2718bfc46d8ad5f84e8de64cf09cba7a08cd8841dda34b2b615e9",
+  "feedSHA256Before": "bee176be2e67d86e09cd903fad1203288b55e612900bf111cbb2b3e7958edbac",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
