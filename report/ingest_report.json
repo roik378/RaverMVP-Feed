@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-11T09:17:04",
+  "ranAt": "2026-07-12T10:34:07",
   "mode": "full",
   "sources": [
     {
@@ -8,7 +8,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 10,
       "strategy": "snippets"
     },
     {
@@ -24,9 +24,9 @@
       "sourceId": "harbour_vancouver",
       "kind": "html",
       "status": "ok",
-      "captured": 22,
-      "usable": 22,
-      "consumerReady": 22,
+      "captured": 21,
+      "usable": 21,
+      "consumerReady": 21,
       "strategy": "harbour_calendar"
     },
     {
@@ -35,7 +35,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 5,
+      "consumerReady": 6,
       "strategy": "snippets"
     },
     {
@@ -77,7 +77,7 @@
       "status": "ok",
       "captured": 1,
       "usable": 1,
-      "consumerReady": 1,
+      "consumerReady": 0,
       "strategy": "plvr_event"
     },
     {
@@ -86,7 +86,7 @@
       "status": "ok",
       "captured": 1,
       "usable": 1,
-      "consumerReady": 1,
+      "consumerReady": 0,
       "strategy": "trip_storm_event"
     },
     {
@@ -119,14 +119,15 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 82,
-      "usable": 54,
-      "consumerReady": 32,
-      "consumerRejected": 22,
-      "consumerReadyRate": 0.593,
+      "captured": 81,
+      "usable": 53,
+      "consumerReady": 30,
+      "consumerRejected": 23,
+      "consumerReadyRate": 0.566,
       "rejectionReasons": {
-        "missing_event_evidence": 16,
-        "placeholder_title": 6
+        "past_event": 7,
+        "missing_event_evidence": 12,
+        "placeholder_title": 4
       },
       "enabledSourceCount": 5,
       "errorSourceCount": 1,
@@ -139,10 +140,12 @@
       "cityName": "Shenzhen",
       "captured": 7,
       "usable": 6,
-      "consumerReady": 6,
-      "consumerRejected": 0,
-      "consumerReadyRate": 1.0,
-      "rejectionReasons": {},
+      "consumerReady": 5,
+      "consumerRejected": 1,
+      "consumerReadyRate": 0.833,
+      "rejectionReasons": {
+        "past_event": 1
+      },
       "enabledSourceCount": 6,
       "errorSourceCount": 0,
       "missingOCRSourceCount": 2,
@@ -181,17 +184,19 @@
     }
   ],
   "totals": {
-    "captured": 89,
-    "usable": 60
+    "captured": 88,
+    "usable": 59
   },
   "consumerQuality": {
-    "ready": 38,
-    "rejected": 22,
+    "ready": 35,
+    "rejected": 24,
     "rejectionReasons": {
-      "missing_event_evidence": 16,
-      "placeholder_title": 6
+      "past_event": 8,
+      "missing_event_evidence": 12,
+      "placeholder_title": 4
     }
   },
+  "referenceDate": "2026-07-12",
   "publicationGate": {
     "status": "ready",
     "requiredCities": [

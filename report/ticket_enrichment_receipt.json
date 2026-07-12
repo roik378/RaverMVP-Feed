@@ -1,5 +1,5 @@
 {
-  "appliedCount": 1,
+  "appliedCount": 0,
   "coverage": {
     "after": {
       "Shenzhen": {
@@ -9,21 +9,21 @@
           "total": 5
         },
         "raw": {
-          "direct": 6,
+          "direct": 5,
           "ratio": 1.0,
-          "total": 6
+          "total": 5
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 22,
-          "ratio": 0.6875,
-          "total": 32
+          "direct": 21,
+          "ratio": 0.7,
+          "total": 30
         },
         "raw": {
-          "direct": 22,
-          "ratio": 0.6875,
-          "total": 32
+          "direct": 21,
+          "ratio": 0.7,
+          "total": 30
         }
       }
     },
@@ -36,41 +36,36 @@
         },
         "raw": {
           "direct": 5,
-          "ratio": 0.8333,
-          "total": 6
+          "ratio": 1.0,
+          "total": 5
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 22,
-          "ratio": 0.6875,
-          "total": 32
+          "direct": 21,
+          "ratio": 0.7,
+          "total": 30
         },
         "raw": {
-          "direct": 22,
-          "ratio": 0.6875,
-          "total": 32
+          "direct": 21,
+          "ratio": 0.7,
+          "total": 30
         }
       }
     }
   },
   "entries": [
     {
-      "action": "unchanged",
+      "action": "stale_skipped",
       "canonicalVenue": "OIL Club",
       "city": "Shenzhen",
       "currentTitle": "Antigone, Sulk",
       "dateText": "Jul 11",
       "evidenceURLText": "https://open.spotify.com/concert/1bI9xJVGMLrsvzDPjJPfub",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "96A747C7-33D9-5F0D-B8DD-5916ACF690B6"
-      ],
-      "matchedEventTitles": [
-        "Antigone, Sulk"
-      ],
-      "newTicketURLText": "https://ra.co/events/2464468",
-      "oldTicketURLText": "https://ra.co/events/2464468",
+      "matchCount": 0,
+      "matchedEventIDs": [],
+      "matchedEventTitles": [],
+      "reason": "reviewed event is no longer present after its consumer date",
       "ticketURLText": "https://ra.co/events/2464468"
     },
     {
@@ -110,29 +105,24 @@
       "ticketURLText": "https://ra.co/events/2459646"
     },
     {
-      "action": "applied",
+      "action": "stale_skipped",
       "canonicalVenue": "Hall 17, Shenzhen World Exhibition & Convention Center",
       "city": "Shenzhen",
       "currentTitle": "2026 SHENZHEN STORM Electronic Music Festival",
       "dateText": "Jun 13-14, 2026",
       "evidenceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "E1C20C5B-DD44-5E30-8CE5-9CD6BF7B5B8D"
-      ],
-      "matchedEventTitles": [
-        "2026 SHENZHEN STORM Electronic Music Festival"
-      ],
-      "newTicketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
-      "oldTicketURLText": null,
+      "matchCount": 0,
+      "matchedEventIDs": [],
+      "matchedEventTitles": [],
+      "reason": "reviewed event is no longer present after its consumer date",
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     }
   ],
-  "eventCountAfter": 38,
-  "eventCountBefore": 38,
+  "eventCountAfter": 35,
+  "eventCountBefore": 35,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "fa2b85bcbff0d9c8dd2c7c0439a25d8bfc1c2193e00fca3773748fed909f8526",
-  "feedSHA256Before": "d32b21c5d53eb6030d551189e5212ce3a6b8a1be0f720dff9d0b5cf906d80da2",
+  "feedSHA256After": "ef17e21ad6b96c43fc16f05bdbb0f2f9863db9a660bc7141bdab8e61e2a8d941",
+  "feedSHA256Before": "ef17e21ad6b96c43fc16f05bdbb0f2f9863db9a660bc7141bdab8e61e2a8d941",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
@@ -143,10 +133,10 @@
     "minimumDirectTicketCoverage": 0.6,
     "status": "ready"
   },
-  "referenceDate": "2026-07-11",
+  "referenceDate": "2026-07-12",
   "schemaVersion": 1,
-  "staleSkippedCount": 0,
+  "staleSkippedCount": 2,
   "status": "applied",
-  "unchangedCount": 3,
+  "unchangedCount": 2,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }

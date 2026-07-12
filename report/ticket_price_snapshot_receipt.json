@@ -1,0 +1,252 @@
+{
+  "entries": [
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "817073F1-54AD-5639-9E54-9D747A703DA2",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/195395"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "4B454302-68CB-5E30-A90D-EBC5D419C85E",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/182221"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "6C434E61-84EE-5FE2-95C2-EC46B734DFA7",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/184769"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "26396D3E-BBFC-5557-A221-FFAA491AF145",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/194433"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "BD798056-1830-5FDF-AF01-7718EAA7AC7E",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/197263"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "7C3D3D77-A911-5599-8A6F-37666C8ADEE0",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/192055"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "D3EC4053-5961-587D-AF85-72BABE5CD042",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/185416"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "024E65D9-0347-5764-AD02-2E1E7ED9A661",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/198329"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "3953E14A-AB1F-5C54-BFF0-F04CE774018F",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/177104"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "88DFB8BA-9522-5722-A0A8-17A054845297",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/186501"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "E5AC42D0-FFEF-5F5E-817F-70534AF6B7FE",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/196122"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "B031F71C-7E5B-5DEE-98DC-2312DE1A2A11",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/198322"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "2FE7BAE9-AD3E-5772-9FAE-D533F7BD254D",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/195425"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "F005F7FC-2A02-5DC8-8351-8C01C8C63BE2",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/188737"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "55BB08F7-1248-5B3F-83CB-2FDE92F0767D",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/195109"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "5A3CC2A2-D124-5DFA-B95E-98125D3F788F",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/191670"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "FCA38009-A5A1-51DD-836E-A6418FC6A462",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/197295"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "C8BEC29C-CD32-5507-B8F5-5554764BA25E",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/196120"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "678ED6BD-276E-5955-B2FA-A3F31929137B",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/195028"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "9E51ABCE-4F71-5F30-8EBD-304E1AE2F31E",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/192435"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "8E6D6419-DB82-5A5D-B022-E6541F284AD2",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/191340"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Shenzhen",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "49C8679B-6A4A-5107-A8C9-022FECF90815",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ra.co/events/2459638"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Shenzhen",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "3AF39237-6332-5D32-A09E-1D746047BA28",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ra.co/events/2459646"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Shenzhen",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "A13BA6D2-3412-5CEA-85D1-6301FD0AB971",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ra.co/events/2447530"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Shenzhen",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "0973BF64-0724-5CD8-807D-49F107699079",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ra.co/events/2459652"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Shenzhen",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "D7D1AFB7-B118-5C46-8B0A-ABCACF8C26FC",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ra.co/events/2459716"
+    }
+  ],
+  "feedSHA256After": "ef17e21ad6b96c43fc16f05bdbb0f2f9863db9a660bc7141bdab8e61e2a8d941",
+  "feedSHA256Before": "ef17e21ad6b96c43fc16f05bdbb0f2f9863db9a660bc7141bdab8e61e2a8d941",
+  "historySHA256After": "4433fc83b4915c8ad9b891f237c2d014e234f24cc4f037219fcd6c6d36d36c1e",
+  "priceProjectionSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "schemaVersion": 1,
+  "status": "no_prices",
+  "summary": {
+    "appliedCount": 0,
+    "candidateCount": 26,
+    "freshCount": 0,
+    "noSnapshotCount": 5,
+    "providerFailureCount": 21,
+    "staleCount": 0
+  }
+}
