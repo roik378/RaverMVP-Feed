@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-13T18:40:42",
+  "ranAt": "2026-07-13T19:33:00",
   "mode": "full",
   "sources": [
     {
@@ -37,6 +37,15 @@
       "usable": 20,
       "consumerReady": 4,
       "strategy": "squarespace_enriched_snippets"
+    },
+    {
+      "sourceId": "gorgomish_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 8,
+      "usable": 8,
+      "consumerReady": 2,
+      "strategy": "gorgomish_event_grid"
     },
     {
       "sourceId": "digital_motion_bc",
@@ -119,16 +128,17 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 81,
-      "usable": 53,
-      "consumerReady": 37,
-      "consumerRejected": 16,
-      "consumerReadyRate": 0.698,
+      "captured": 89,
+      "usable": 61,
+      "consumerReady": 39,
+      "consumerRejected": 22,
+      "consumerReadyRate": 0.639,
       "rejectionReasons": {
         "placeholder_title": 5,
-        "missing_event_evidence": 11
+        "missing_event_evidence": 11,
+        "past_event": 6
       },
-      "enabledSourceCount": 5,
+      "enabledSourceCount": 6,
       "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
@@ -183,16 +193,16 @@
     }
   ],
   "totals": {
-    "captured": 88,
-    "usable": 59
+    "captured": 96,
+    "usable": 67
   },
   "consumerQuality": {
-    "ready": 42,
-    "rejected": 17,
+    "ready": 44,
+    "rejected": 23,
     "rejectionReasons": {
       "placeholder_title": 5,
       "missing_event_evidence": 11,
-      "past_event": 1
+      "past_event": 7
     }
   },
   "referenceDate": "2026-07-13",

@@ -191,6 +191,24 @@
     },
     {
       "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "F94D5FF7-DA36-5D28-ABFC-1492DD3B0D22",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "EA802F9D-D62A-5D2C-B35C-C335FB4FAAF3",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a4976d64df4217fda772d1c"
+    },
+    {
+      "action": "no_snapshot",
       "city": "Shenzhen",
       "collectorStatus": "unsupported_provider",
       "eventID": "49C8679B-6A4A-5107-A8C9-022FECF90815",
@@ -235,17 +253,17 @@
       "ticketURLText": "https://ra.co/events/2459716"
     }
   ],
-  "feedSHA256After": "c05249f127f954f17a3bc077787d08b80b7219eae22f7ae98daa439ffd18b085",
-  "feedSHA256Before": "c05249f127f954f17a3bc077787d08b80b7219eae22f7ae98daa439ffd18b085",
+  "feedSHA256After": "546bd3cafa85957cb57390541ca0b3a0359566f82f5f4fbad2153e7c8f59a5d2",
+  "feedSHA256Before": "546bd3cafa85957cb57390541ca0b3a0359566f82f5f4fbad2153e7c8f59a5d2",
   "historySHA256After": "4433fc83b4915c8ad9b891f237c2d014e234f24cc4f037219fcd6c6d36d36c1e",
   "priceProjectionSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
   "schemaVersion": 1,
   "status": "no_prices",
   "summary": {
     "appliedCount": 0,
-    "candidateCount": 26,
+    "candidateCount": 28,
     "freshCount": 0,
-    "noSnapshotCount": 5,
+    "noSnapshotCount": 7,
     "providerFailureCount": 21,
     "staleCount": 0
   }
