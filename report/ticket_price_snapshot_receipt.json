@@ -235,8 +235,8 @@
       "ticketURLText": "https://ra.co/events/2459716"
     }
   ],
-  "feedSHA256After": "49820981337de4e4b07269bc8bba2ce8e343198293b386508b5d8c483e899521",
-  "feedSHA256Before": "49820981337de4e4b07269bc8bba2ce8e343198293b386508b5d8c483e899521",
+  "feedSHA256After": "c05249f127f954f17a3bc077787d08b80b7219eae22f7ae98daa439ffd18b085",
+  "feedSHA256Before": "c05249f127f954f17a3bc077787d08b80b7219eae22f7ae98daa439ffd18b085",
   "historySHA256After": "4433fc83b4915c8ad9b891f237c2d014e234f24cc4f037219fcd6c6d36d36c1e",
   "priceProjectionSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
   "schemaVersion": 1,
