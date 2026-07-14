@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T05:37:05",
+  "ranAt": "2026-07-15T04:03:20",
   "mode": "full",
   "sources": [
     {
@@ -8,8 +8,8 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 13,
-      "strategy": "snippets"
+      "consumerReady": 12,
+      "strategy": "squarespace_enriched_snippets"
     },
     {
       "sourceId": "fortune_sound_club",
@@ -35,13 +35,49 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 6,
-      "strategy": "snippets"
+      "consumerReady": 4,
+      "strategy": "squarespace_enriched_snippets"
+    },
+    {
+      "sourceId": "gorgomish_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 8,
+      "usable": 8,
+      "consumerReady": 2,
+      "strategy": "gorgomish_event_grid"
+    },
+    {
+      "sourceId": "commodore_ballroom_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
+      "strategy": "commodore_next_flight"
+    },
+    {
+      "sourceId": "biltmore_cabaret_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 2,
+      "usable": 2,
+      "consumerReady": 2,
+      "strategy": "biltmore_admitone"
     },
     {
       "sourceId": "digital_motion_bc",
       "kind": "html",
-      "status": "error: HTTPError: HTTP Error 404: Not Found",
+      "status": "ok",
+      "captured": 6,
+      "usable": 6,
+      "consumerReady": 6,
+      "strategy": "digital_motion_showpass"
+    },
+    {
+      "sourceId": "fox_cabaret_vancouver",
+      "kind": "html",
+      "status": "skipped",
       "captured": 0,
       "usable": 0,
       "consumerReady": 0
@@ -77,7 +113,7 @@
       "status": "ok",
       "captured": 1,
       "usable": 1,
-      "consumerReady": 1,
+      "consumerReady": 0,
       "strategy": "plvr_event"
     },
     {
@@ -86,7 +122,7 @@
       "status": "ok",
       "captured": 1,
       "usable": 1,
-      "consumerReady": 1,
+      "consumerReady": 0,
       "strategy": "trip_storm_event"
     },
     {
@@ -99,7 +135,40 @@
       "strategy": "spotify_location"
     },
     {
+      "sourceId": "showstart_oil_shenzhen",
+      "kind": "html",
+      "status": "ok",
+      "captured": 4,
+      "usable": 4,
+      "consumerReady": 4,
+      "strategy": "showstart_venue_calendar"
+    },
+    {
       "sourceId": "oil_wechat",
+      "kind": "visionOCR",
+      "status": "no_inbox_files",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
+    },
+    {
+      "sourceId": "yuyuan_miniprogram",
+      "kind": "visionOCR",
+      "status": "no_inbox_files",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
+    },
+    {
+      "sourceId": "sauce_wechat",
+      "kind": "visionOCR",
+      "status": "no_inbox_files",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
+    },
+    {
+      "sourceId": "am06_wechat",
       "kind": "visionOCR",
       "status": "no_inbox_files",
       "captured": 0,
@@ -113,23 +182,33 @@
       "captured": 0,
       "usable": 0,
       "consumerReady": 0
+    },
+    {
+      "sourceId": "ultra_miami_official",
+      "kind": "html",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "strategy": "ultra_miami_official"
     }
   ],
   "cities": [
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 82,
-      "usable": 54,
-      "consumerReady": 33,
+      "captured": 105,
+      "usable": 77,
+      "consumerReady": 56,
       "consumerRejected": 21,
-      "consumerReadyRate": 0.611,
+      "consumerReadyRate": 0.727,
       "rejectionReasons": {
-        "missing_event_evidence": 16,
-        "placeholder_title": 5
+        "missing_event_evidence": 9,
+        "past_event": 8,
+        "placeholder_title": 4
       },
-      "enabledSourceCount": 5,
-      "errorSourceCount": 1,
+      "enabledSourceCount": 8,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -137,15 +216,32 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 7,
+      "captured": 11,
       "usable": 6,
-      "consumerReady": 6,
+      "consumerReady": 5,
+      "consumerRejected": 1,
+      "consumerReadyRate": 0.833,
+      "rejectionReasons": {
+        "past_event": 1
+      },
+      "enabledSourceCount": 10,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 5,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "miami_us",
+      "cityName": "Miami",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
-      "enabledSourceCount": 6,
+      "enabledSourceCount": 1,
       "errorSourceCount": 0,
-      "missingOCRSourceCount": 2,
+      "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
     }
@@ -155,7 +251,7 @@
       "sourceId": "oil_wechat",
       "name": "OIL Club 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
       "dropGlob": "oil_wechat*.txt",
       "imageDropGlob": "oil_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -166,10 +262,52 @@
       "imageFiles": []
     },
     {
+      "sourceId": "yuyuan_miniprogram",
+      "name": "芋圆YuYuan 微信小程序",
+      "cityName": "Shenzhen",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "dropGlob": "yuyuan_miniprogram*.txt",
+      "imageDropGlob": "yuyuan_miniprogram*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
+      "foundFiles": 0,
+      "usableFiles": 0,
+      "status": "missing_input",
+      "actionText": "Drop OCR text files matching yuyuan_miniprogram*.txt",
+      "files": [],
+      "imageFiles": []
+    },
+    {
+      "sourceId": "sauce_wechat",
+      "name": "Sauce Club 微信公众号",
+      "cityName": "Shenzhen",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "dropGlob": "sauce_wechat*.txt",
+      "imageDropGlob": "sauce_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
+      "foundFiles": 0,
+      "usableFiles": 0,
+      "status": "missing_input",
+      "actionText": "Drop OCR text files matching sauce_wechat*.txt",
+      "files": [],
+      "imageFiles": []
+    },
+    {
+      "sourceId": "am06_wechat",
+      "name": "AM:06 微信公众号",
+      "cityName": "Shenzhen",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "dropGlob": "am06_wechat*.txt",
+      "imageDropGlob": "am06_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
+      "foundFiles": 0,
+      "usableFiles": 0,
+      "status": "missing_input",
+      "actionText": "Drop OCR text files matching am06_wechat*.txt",
+      "files": [],
+      "imageFiles": []
+    },
+    {
       "sourceId": "atmos_wechat",
       "name": "ATMOS/其他深圳夜店 微信",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
       "dropGlob": "atmos_wechat*.txt",
       "imageDropGlob": "atmos_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -180,18 +318,30 @@
       "imageFiles": []
     }
   ],
+  "raverReviewCandidates": [],
   "totals": {
-    "captured": 89,
-    "usable": 60
+    "captured": 117,
+    "usable": 84
   },
   "consumerQuality": {
-    "ready": 39,
-    "rejected": 21,
+    "ready": 62,
+    "rejected": 22,
     "rejectionReasons": {
-      "missing_event_evidence": 16,
-      "placeholder_title": 5
+      "missing_event_evidence": 9,
+      "past_event": 9,
+      "placeholder_title": 4
     }
   },
+  "referenceDates": {
+    "Vancouver": "2026-07-15",
+    "Shenzhen": "2026-07-15",
+    "Miami": "2026-07-15"
+  },
+  "reviewedArtistSeed": {
+    "status": "loaded",
+    "reviewedArtists": 58
+  },
+  "referenceDate": "2026-07-15",
   "publicationGate": {
     "status": "ready",
     "requiredCities": [

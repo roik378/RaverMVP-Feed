@@ -1,38 +1,83 @@
 {
   "feedVersion": 1,
-  "generatedAtText": "Tue 05:37",
+  "generatedAtText": "Wed 04:03",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Tue 05:37",
+      "refreshText": "Wed 04:03",
       "userCoordinate": {
         "latitude": 49.2827,
         "longitude": -123.1207
       },
       "sourceEvents": [
         {
-          "id": "CC1C897C-6539-5761-AA33-EACA0BA19632",
+          "id": "8C671D79-EF9C-5951-B0B6-E63B3EDC8333",
           "sourceKind": "clubWebsite",
           "title": "Gabriel & Dresden",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "July 18",
-          "timeText": null,
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [
             "Trance"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/gabrieldresden26",
           "ticketURLText": null,
-          "lineup": []
+          "lineup": [
+            {
+              "name": "Gabriel & Dresden",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "BDD13626-2025-5CE4-8FDA-6FC236598DF1",
+          "sourceKind": "clubWebsite",
+          "title": "PLAYHOUSE pres. CLUB CONTROLLER w/ SWEET & SAWA",
+          "subtitle": null,
+          "venue": "Celebrities Nightclub",
+          "city": "Vancouver",
+          "dateText": "Jul 25",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/clubcontrollerwithsweetandsawajuly25",
+          "ticketURLText": null,
+          "lineup": [
+            {
+              "name": "CLUB CONTROLLER w",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SWEET & SAWA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
         },
         {
           "id": "B4853EBE-B116-58B5-AEBE-EE3A75832F8C",
@@ -47,7 +92,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -63,22 +108,22 @@
           ]
         },
         {
-          "id": "FB7AEC21-51A8-5E84-9ED8-E0C634CC8FA2",
+          "id": "1C962D90-3A2D-59EA-8FAB-BC6CBD133742",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. dj g2g",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "Jul 30",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/djg2g",
           "ticketURLText": null,
           "lineup": [
             {
@@ -91,22 +136,24 @@
           ]
         },
         {
-          "id": "91A51ADD-A4BF-5297-AB84-77AE2147DA31",
+          "id": "5EA78BB6-18DD-5BEA-A314-BA1875F562FD",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. Coco & Breezy",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "Jul 31",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
+          "styles": [
+            "House"
+          ],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/cumtogether-cocoandbreezy",
           "ticketURLText": null,
           "lineup": [
             {
@@ -119,22 +166,22 @@
           ]
         },
         {
-          "id": "9F3E48BF-5992-5E24-AE8F-D59F4737DF7C",
+          "id": "4569E12F-EBB8-55D9-8A0D-79A06C782953",
           "sourceKind": "clubWebsite",
           "title": "CUM TOGETHER pres. ALEX CHAPMAN",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "Aug 1",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/alexchapman-pd72s",
           "ticketURLText": null,
           "lineup": [
             {
@@ -145,6 +192,26 @@
               "peakDJMagRank": null
             }
           ]
+        },
+        {
+          "id": "AA570A4D-D5CD-542F-B48A-7D69C7DE823A",
+          "sourceKind": "clubWebsite",
+          "title": "Celebrities Pride pres.  HISTORY SUNDAY",
+          "subtitle": null,
+          "venue": "Celebrities Nightclub",
+          "city": "Vancouver",
+          "dateText": "Aug 2",
+          "timeText": "14:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/historysunday2026",
+          "ticketURLText": null,
+          "lineup": []
         },
         {
           "id": "4A3A56C4-DD2D-5BED-963F-B31CDA178D52",
@@ -159,7 +226,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -175,24 +242,25 @@
           ]
         },
         {
-          "id": "63A1A7ED-C1E3-5CF5-BA8C-C4B2660D87E7",
+          "id": "2D25D113-C065-5E11-9949-4E036D70B8CC",
           "sourceKind": "clubWebsite",
           "title": "PLAYHOUSE Pres. CONRAD TAYLOR",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "Aug 22",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [
-            "House"
+            "Hard Techno",
+            "Techno"
           ],
-          "confidence": 0.7,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/conradtaylor",
           "ticketURLText": null,
           "lineup": [
             {
@@ -205,24 +273,24 @@
           ]
         },
         {
-          "id": "1C4FA882-FA3B-5381-AB28-E4103401F8AD",
+          "id": "7280AB10-A20A-5101-8E4E-9024D2963148",
           "sourceKind": "clubWebsite",
           "title": "PLAYHOUSE Pres. CYRIL",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "Aug 29",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [
             "House"
           ],
-          "confidence": 0.7,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/cyril",
           "ticketURLText": null,
           "lineup": [
             {
@@ -235,24 +303,24 @@
           ]
         },
         {
-          "id": "B55C623E-28C9-53A3-A3AD-EC092D48A38F",
+          "id": "AD866A00-6FBC-5BED-847E-389ACEFBE9C0",
           "sourceKind": "clubWebsite",
           "title": "PLAYHOUSE Pres. ELI & FUR",
           "subtitle": null,
           "venue": "Celebrities Nightclub",
           "city": "Vancouver",
           "dateText": "Sep 12",
-          "timeText": "10:00",
+          "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
           "styles": [
             "House"
           ],
-          "confidence": 0.7,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.celebritiesnightclub.com/events/eli-fur-2026",
           "ticketURLText": null,
           "lineup": [
             {
@@ -265,34 +333,48 @@
           ]
         },
         {
-          "id": "F624FE67-479A-52BE-8AD9-E9D6F665FD30",
+          "id": "CF1B603E-C1C1-55E1-B64B-DB71FC35362D",
           "sourceKind": "clubWebsite",
-          "title": "PLAYHOUSE Pres. INDO WAREHOUSE",
+          "title": "DIMELIFE LIVE ASF!",
           "subtitle": null,
-          "venue": "Celebrities Nightclub",
+          "venue": "Fortune Sound Club",
           "city": "Vancouver",
-          "dateText": "Oct 3",
-          "timeText": "10:00",
+          "dateText": "JULY 24",
+          "timeText": null,
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass"
+          ],
+          "confidence": 0.6,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.fortunesoundclub.com/events",
+          "ticketURLText": null,
+          "lineup": []
+        },
+        {
+          "id": "5C5287A1-44B4-5D67-902E-30840B182907",
+          "sourceKind": "clubWebsite",
+          "title": "DJ Seinfeld",
+          "subtitle": null,
+          "venue": "Fortune Sound Club",
+          "city": "Vancouver",
+          "dateText": "July 31",
+          "timeText": null,
           "distanceText": null,
           "coordinate": null,
           "styles": [
             "House"
           ],
-          "confidence": 0.7,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.6,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events",
+          "sourceURLText": "https://www.fortunesoundclub.com/events",
           "ticketURLText": null,
-          "lineup": [
-            {
-              "name": "INDO WAREHOUSE",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            }
-          ]
+          "lineup": []
         },
         {
           "id": "817073F1-54AD-5639-9E54-9D747A703DA2",
@@ -307,7 +389,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195395",
@@ -335,7 +417,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/182221",
@@ -363,7 +445,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/184769",
@@ -391,7 +473,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/194433",
@@ -409,11 +491,9 @@
           "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [
-            "House"
-          ],
+          "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197263",
@@ -433,7 +513,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192055",
@@ -461,7 +541,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/185416",
@@ -491,7 +571,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198329",
@@ -511,7 +591,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/177104",
@@ -539,7 +619,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/186501",
@@ -567,7 +647,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196122",
@@ -597,7 +677,7 @@
             "Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198322",
@@ -625,7 +705,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195425",
@@ -653,7 +733,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/188737",
@@ -681,7 +761,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195109",
@@ -707,11 +787,9 @@
           "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [
-            "House"
-          ],
+          "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198827",
@@ -739,7 +817,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191670",
@@ -767,7 +845,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197295",
@@ -809,7 +887,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196120",
@@ -837,7 +915,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195028",
@@ -865,7 +943,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192435",
@@ -891,11 +969,9 @@
           "timeText": "22:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [
-            "House"
-          ],
+          "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191340",
@@ -911,128 +987,26 @@
           ]
         },
         {
-          "id": "834E2AB6-8D7F-54AE-B196-B905068B832A",
+          "id": "E3FD508E-13E6-545F-9061-B3048AA11311",
           "sourceKind": "clubWebsite",
-          "title": "Roi Perez",
+          "title": "NITESHIFT pres. ANTHONY ATTALLA",
           "subtitle": null,
           "venue": "Village Studios",
           "city": "Vancouver",
-          "dateText": "August 01",
-          "timeText": null,
+          "dateText": "Jul 18",
+          "timeText": "23:00",
           "distanceText": null,
           "coordinate": null,
-          "styles": [
-            "Techno",
-            "House"
-          ],
-          "confidence": 0.6,
-          "lastRefreshedText": "Tue 05:37",
+          "styles": [],
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
-          "sourceURLText": "https://www.villagestudios.life/events",
-          "ticketURLText": null,
-          "lineup": []
-        }
-      ]
-    },
-    {
-      "id": "shenzhen_cn",
-      "name": "Shenzhen",
-      "country": "CN",
-      "refreshText": "Tue 05:37",
-      "userCoordinate": {
-        "latitude": 22.5333,
-        "longitude": 114.0556
-      },
-      "sourceEvents": [
-        {
-          "id": "E1C20C5B-DD44-5E30-8CE5-9CD6BF7B5B8D",
-          "sourceKind": "festivalWebsite",
-          "title": "2026 SHENZHEN STORM Electronic Music Festival",
-          "subtitle": "PLVR official festival page",
-          "venue": "Hall 17, Shenzhen World Exhibition & Convention Center",
-          "city": "Shenzhen",
-          "dateText": "Jun 13-14, 2026",
-          "timeText": "14:00-22:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [
-            "Bass",
-            "Dubstep",
-            "House"
-          ],
-          "confidence": 0.86,
-          "lastRefreshedText": "Tue 05:37",
-          "isMajorFestival": true,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
-          "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+          "sourceURLText": "https://www.villagestudios.life/events/anthonyattalla",
+          "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
           "lineup": [
             {
-              "name": "MARSHMELLO",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "EXCISION",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "ANDY C",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "BLONDEX",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "GHENGAR",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "ILLENIUM",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "ERIC PRYDZ",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "ODD MOB",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "JULIAN JORDAN",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
-              "name": "VIDOJEAN",
+              "name": "ANTHONY ATTALLA",
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
@@ -1041,10 +1015,657 @@
           ]
         },
         {
+          "id": "AC1C1043-F2F9-5B6E-8282-A64E6CCB77DB",
+          "sourceKind": "clubWebsite",
+          "title": "Roi Perez",
+          "subtitle": null,
+          "venue": "Village Studios",
+          "city": "Vancouver",
+          "dateText": "August 01",
+          "timeText": "23:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Techno",
+            "House"
+          ],
+          "confidence": 0.6,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.villagestudios.life/events/roiperezpride",
+          "ticketURLText": null,
+          "lineup": [
+            {
+              "name": "Roi Perez",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "1787190D-F8DB-52FA-A118-DB1B467EDB40",
+          "sourceKind": "clubWebsite",
+          "title": "Only Fire",
+          "subtitle": null,
+          "venue": "Village Studios",
+          "city": "Vancouver",
+          "dateText": "August 02",
+          "timeText": "23:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.55,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.villagestudios.life/events/onlyfire",
+          "ticketURLText": null,
+          "lineup": [
+            {
+              "name": "Only Fire",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "30ADDA9D-C2ED-5800-80E5-2C930FCCF83F",
+          "sourceKind": "clubWebsite",
+          "title": "BIJOU (FREE BEFORE 11)",
+          "subtitle": null,
+          "venue": "Village Studios",
+          "city": "Vancouver",
+          "dateText": "Aug 14",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "House"
+          ],
+          "confidence": 0.65,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.villagestudios.life/events/bijou",
+          "ticketURLText": "https://on.villagestudios.life/trk/jCjpc",
+          "lineup": [
+            {
+              "name": "BIJOU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "F94D5FF7-DA36-5D28-ABFC-1492DD3B0D22",
+          "sourceKind": "clubWebsite",
+          "title": "Andromo, Kevin Shiu & Wave Report",
+          "subtitle": null,
+          "venue": "Gorg-O-Mish",
+          "city": "Vancouver",
+          "dateText": "July 18, 2026",
+          "timeText": "23:00 - 08:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.86,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.gorgomish.com/",
+          "ticketURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f",
+          "lineup": [
+            {
+              "name": "Andromo",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kevin Shiu",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Wave Report",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "EA802F9D-D62A-5D2C-B35C-C335FB4FAAF3",
+          "sourceKind": "clubWebsite",
+          "title": "Deep Tissue",
+          "subtitle": null,
+          "venue": "Gorg-O-Mish",
+          "city": "Vancouver",
+          "dateText": "July 16, 2026",
+          "timeText": "23:00 - 08:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.86,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.gorgomish.com/",
+          "ticketURLText": "https://checkout.admitone.com/6a4976d64df4217fda772d1c",
+          "lineup": [
+            {
+              "name": "Deep Tissue",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "5A716EA3-A1C1-5B12-97D6-8B9216113E09",
+          "sourceKind": "venueCalendar",
+          "title": "SABAI",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-08-28",
+          "timeText": "22:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/sabai-vancouver-british-columbia-08-28-2026/event/1100648F80163F18",
+          "lineup": [
+            {
+              "name": "SABAI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "0DEEBBEC-67B1-5007-BBC8-C8F2A4841B14",
+          "sourceKind": "venueCalendar",
+          "title": "Peaches - No Lube So Rude Tour",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-09-04",
+          "timeText": "19:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/peaches-no-lube-so-rude-tour-vancouver-british-columbia-09-04-2026/event/110063479BDC5301",
+          "lineup": [
+            {
+              "name": "Peaches",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Pixel Grip",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "2C3F1FFD-A468-5A40-9577-384C604004EE",
+          "sourceKind": "venueCalendar",
+          "title": "Ninajirachi - I Love My Computer and It Loves Me Tour",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-09-16",
+          "timeText": "19:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/ninajirachi-i-love-my-computer-and-vancouver-british-columbia-09-16-2026/event/110064A5F3414169",
+          "lineup": [
+            {
+              "name": "Ninajirachi",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MGNA Crrrta",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "FF2417ED-0EE7-5265-BA27-1AF7FBD5D481",
+          "sourceKind": "venueCalendar",
+          "title": "Ninajirachi - I Love My Computer and It Loves Me Tour",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-09-17",
+          "timeText": "19:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/ninajirachi-i-love-my-computer-and-vancouver-british-columbia-09-17-2026/event/1100649D87E76E5F",
+          "lineup": [
+            {
+              "name": "Ninajirachi",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MGNA Crrrta",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "C8D70877-4C2A-5DF8-A9A1-EFAE1AC19CB0",
+          "sourceKind": "venueCalendar",
+          "title": "jigitz - 50 Ballerinas Tour",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-09-18",
+          "timeText": "22:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/jigitz-50-ballerinas-tour-vancouver-british-columbia-09-18-2026/event/110064BC9D19733A",
+          "lineup": [
+            {
+              "name": "jigitz",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "B0B9901A-06EB-5A11-8E9F-2DE618F2716A",
+          "sourceKind": "venueCalendar",
+          "title": "Mind Enterprises",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-09-23",
+          "timeText": "19:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/mind-enterprises-vancouver-british-columbia-09-23-2026/event/110064BD959E70D9",
+          "lineup": [
+            {
+              "name": "Mind Enterprises",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "E28DA9F2-FCAB-5A6F-9DF8-A9AA32AF694C",
+          "sourceKind": "venueCalendar",
+          "title": "Madeon presents Victory Live",
+          "subtitle": null,
+          "venue": "Commodore Ballroom",
+          "city": "Vancouver",
+          "dateText": "2026-09-26",
+          "timeText": "20:00:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.9,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.commodoreballroom.com/",
+          "ticketURLText": "https://www.ticketmaster.ca/madeon-presents-victory-live-vancouver-british-columbia-09-26-2026/event/110064A4D20DC829",
+          "lineup": [
+            {
+              "name": "Madeon",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "F4A35829-7D47-5A2F-A399-49847187AF1C",
+          "sourceKind": "venueCalendar",
+          "title": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
+          "subtitle": null,
+          "venue": "Biltmore Cabaret",
+          "city": "Vancouver",
+          "dateText": "2026-08-15",
+          "timeText": "22:30",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.95,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.biltmorecabaret.com/event",
+          "ticketURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
+          "lineup": [
+            {
+              "name": "POPMISFIT",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "8133F841-E7BA-5C9B-91D9-E3B107759D3B",
+          "sourceKind": "venueCalendar",
+          "title": "BUZZ KULL & KONTRAVOID",
+          "subtitle": null,
+          "venue": "Biltmore Cabaret",
+          "city": "Vancouver",
+          "dateText": "2026-10-08",
+          "timeText": "19:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.95,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://www.biltmorecabaret.com/event",
+          "ticketURLText": "https://admitone.com/events/buzz-kull-and-kontravoid-vancouver-170887",
+          "lineup": [
+            {
+              "name": "Buzz Kull",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kontravoid",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "77CEA05E-CF2E-5E11-8368-8AE2B2319278",
+          "sourceKind": "venueCalendar",
+          "title": "WonkyWilla at SUBculture Saturdays",
+          "subtitle": "Digital Motion official calendar",
+          "venue": "The Red Room",
+          "city": "Vancouver",
+          "dateText": "2026-07-18",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Dubstep",
+            "Bass"
+          ],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=wonkywillavancouver",
+          "ticketURLText": "https://www.showpass.com/wonkywillavancouver/",
+          "lineup": [
+            {
+              "name": "WonkyWilla",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "0874598C-91A8-5408-BB8D-EF9B7E78328E",
+          "sourceKind": "venueCalendar",
+          "title": "Onhell at SUBculture Saturdays [Pride Weekend]",
+          "subtitle": "Digital Motion official calendar",
+          "venue": "The Red Room",
+          "city": "Vancouver",
+          "dateText": "2026-08-01",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass"
+          ],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=onhellsubculture",
+          "ticketURLText": "https://www.showpass.com/onhellsubculture/",
+          "lineup": [
+            {
+              "name": "Onhell",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "D636BF7B-08DC-554B-AEA7-7F322256CC50",
+          "sourceKind": "venueCalendar",
+          "title": "Venjent at SUBculture Saturdays",
+          "subtitle": "Digital Motion official calendar",
+          "venue": "The Red Room",
+          "city": "Vancouver",
+          "dateText": "2026-08-29",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass"
+          ],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=venjentvancouver2026",
+          "ticketURLText": "https://www.showpass.com/venjentvancouver2026/",
+          "lineup": [
+            {
+              "name": "Venjent",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Oktae",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "89D094F8-B338-5DAA-B9EB-C3E1B6D82181",
+          "sourceKind": "venueCalendar",
+          "title": "IVY LAB - A FAREWELL TOUR at SUBculture Saturdays",
+          "subtitle": "Digital Motion official calendar",
+          "venue": "The Red Room",
+          "city": "Vancouver",
+          "dateText": "2026-09-05",
+          "timeText": "21:30",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass"
+          ],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=ivylabvancouver",
+          "ticketURLText": "https://www.showpass.com/ivylabvancouver/",
+          "lineup": [
+            {
+              "name": "IVY LAB",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "OAKK",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "B2B3486A-7620-5460-BAF2-1B55D3B55F8A",
+          "sourceKind": "venueCalendar",
+          "title": "Canabliss - After Glow Tour at SUBculture Saturdays",
+          "subtitle": "Digital Motion official calendar",
+          "venue": "The Red Room",
+          "city": "Vancouver",
+          "dateText": "2026-10-10",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Bass"
+          ],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=canablissvancouver",
+          "ticketURLText": "https://www.showpass.com/canablissvancouver/",
+          "lineup": [
+            {
+              "name": "Canabliss",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        },
+        {
+          "id": "08E1CD10-F89B-58F7-AC86-8318938173B7",
+          "sourceKind": "venueCalendar",
+          "title": "Whales - Dangerous Waters Tour at SUBculture Saturdays",
+          "subtitle": "Digital Motion official calendar",
+          "venue": "The Red Room",
+          "city": "Vancouver",
+          "dateText": "2026-11-14",
+          "timeText": "22:00",
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [
+            "Dubstep",
+            "Bass"
+          ],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=whalesvancouver",
+          "ticketURLText": "https://www.showpass.com/whalesvancouver/",
+          "lineup": [
+            {
+              "name": "Whales",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shenzhen_cn",
+      "name": "Shenzhen",
+      "country": "CN",
+      "refreshText": "Wed 04:03",
+      "userCoordinate": {
+        "latitude": 22.5333,
+        "longitude": 114.0556
+      },
+      "sourceEvents": [
+        {
           "id": "49C8679B-6A4A-5107-A8C9-022FECF90815",
           "sourceKind": "venueCalendar",
           "title": "RAVEN UNLTD",
-          "subtitle": "Spotify event listing",
+          "subtitle": "OIL Club Night",
           "venue": "OIL Club",
           "city": "Shenzhen",
           "dateText": "Jul 17",
@@ -1052,12 +1673,12 @@
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.78,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.92,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
-          "ticketURLText": "https://ra.co/events/2459638",
+          "ticketURLText": "https://www.showstart.com/event/302794",
           "lineup": [
             {
               "name": "RAVEN UNLTD",
@@ -1072,7 +1693,7 @@
           "id": "3AF39237-6332-5D32-A09E-1D746047BA28",
           "sourceKind": "venueCalendar",
           "title": "Alion, Sirens",
-          "subtitle": "Spotify event listing",
+          "subtitle": "OIL Club Night",
           "venue": "OIL Club",
           "city": "Shenzhen",
           "dateText": "Jul 18",
@@ -1080,12 +1701,12 @@
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.78,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.92,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
-          "ticketURLText": "https://ra.co/events/2459646",
+          "ticketURLText": "https://www.showstart.com/event/302796",
           "lineup": [
             {
               "name": "Alion",
@@ -1116,7 +1737,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Tue 05:37",
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
@@ -1135,7 +1756,7 @@
           "id": "0973BF64-0724-5CD8-807D-49F107699079",
           "sourceKind": "venueCalendar",
           "title": "Answer Code Request, Mingo",
-          "subtitle": "Spotify event listing",
+          "subtitle": "OIL Club Night",
           "venue": "OIL Club",
           "city": "Shenzhen",
           "dateText": "Jul 24",
@@ -1143,12 +1764,12 @@
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.78,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.92,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
-          "ticketURLText": "https://ra.co/events/2459652",
+          "ticketURLText": "https://www.showstart.com/event/302797",
           "lineup": [
             {
               "name": "Answer Code Request",
@@ -1170,7 +1791,7 @@
           "id": "D7D1AFB7-B118-5C46-8B0A-ABCACF8C26FC",
           "sourceKind": "venueCalendar",
           "title": "SCSI-9, YANGYANG",
-          "subtitle": "Spotify event listing",
+          "subtitle": "OIL Club Night",
           "venue": "OIL Club",
           "city": "Shenzhen",
           "dateText": "Jul 25",
@@ -1178,12 +1799,12 @@
           "distanceText": null,
           "coordinate": null,
           "styles": [],
-          "confidence": 0.78,
-          "lastRefreshedText": "Tue 05:37",
+          "confidence": 0.92,
+          "lastRefreshedText": "Wed 04:03",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/3vtsU0OIzoxENCxw5YENWQ",
-          "ticketURLText": "https://ra.co/events/2459716",
+          "ticketURLText": "https://www.showstart.com/event/302799",
           "lineup": [
             {
               "name": "SCSI-9",
@@ -1200,6 +1821,66 @@
               "peakDJMagRank": null
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "miami_us",
+      "name": "Miami",
+      "country": "US",
+      "refreshText": "Wed 04:03",
+      "userCoordinate": {
+        "latitude": 25.7617,
+        "longitude": -80.1918
+      },
+      "sourceEvents": [
+        {
+          "id": "4C5C218F-DF8F-5A5B-A5B5-CEB65296242B",
+          "sourceKind": "festivalWebsite",
+          "title": "Ultra Music Festival",
+          "subtitle": "Official festival facts",
+          "venue": "Bayfront Park",
+          "city": "Miami",
+          "dateText": "Mar 26-28, 2027",
+          "timeText": null,
+          "distanceText": null,
+          "coordinate": {
+            "latitude": 25.7753,
+            "longitude": -80.1862
+          },
+          "styles": [],
+          "confidence": 0.96,
+          "lastRefreshedText": "Wed 04:03",
+          "isMajorFestival": true,
+          "friendsGoing": null,
+          "sourceURLText": "https://ultramusicfestival.com/general-information/",
+          "ticketURLText": "https://ultramusicfestival.com/ticket-information/",
+          "lineup": [],
+          "festivalMetadata": {
+            "seriesID": "ultra-miami",
+            "editionID": "ultra-miami-2027",
+            "editionYear": 2027,
+            "startDate": "2027-03-26",
+            "endDate": "2027-03-28",
+            "city": "Miami",
+            "countryCode": "US",
+            "timeZoneIdentifier": "America/New_York",
+            "coordinate": {
+              "latitude": 25.7753,
+              "longitude": -80.1862
+            },
+            "lifecycleState": "ticketsLive",
+            "lineupPhaseLabel": null,
+            "lineupCompleteness": "notAnnounced",
+            "officialPosterURLText": null,
+            "officialPosterSourceURLText": null,
+            "dayCount": 3,
+            "stageCount": 0,
+            "artistCount": 0,
+            "schedule": null,
+            "minimumComparableGA": null,
+            "lineupDelta": null
+          }
         }
       ]
     }
