@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T02:46:36",
+  "ranAt": "2026-07-14T03:15:56",
   "mode": "full",
   "sources": [
     {
@@ -73,6 +73,14 @@
       "usable": 6,
       "consumerReady": 6,
       "strategy": "digital_motion_showpass"
+    },
+    {
+      "sourceId": "fox_cabaret_vancouver",
+      "kind": "html",
+      "status": "skipped",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     },
     {
       "sourceId": "19hz_bc",
