@@ -82,9 +82,9 @@
       "matchedEventTitles": [
         "RAVEN UNLTD"
       ],
-      "newTicketURLText": "https://ra.co/events/2459638",
-      "oldTicketURLText": "https://ra.co/events/2459638",
-      "ticketURLText": "https://ra.co/events/2459638"
+      "newTicketURLText": "https://www.showstart.com/event/302794",
+      "oldTicketURLText": "https://www.showstart.com/event/302794",
+      "ticketURLText": "https://www.showstart.com/event/302794"
     },
     {
       "action": "unchanged",
@@ -100,9 +100,9 @@
       "matchedEventTitles": [
         "Alion, Sirens"
       ],
-      "newTicketURLText": "https://ra.co/events/2459646",
-      "oldTicketURLText": "https://ra.co/events/2459646",
-      "ticketURLText": "https://ra.co/events/2459646"
+      "newTicketURLText": "https://www.showstart.com/event/302796",
+      "oldTicketURLText": "https://www.showstart.com/event/302796",
+      "ticketURLText": "https://www.showstart.com/event/302796"
     },
     {
       "action": "stale_skipped",
@@ -157,8 +157,8 @@
   "eventCountAfter": 60,
   "eventCountBefore": 60,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "e7ebd7750dc069b8a7d86bbe084cd579a5d1e4b36dea9835ec8b1199c710b934",
-  "feedSHA256Before": "df0090f76a9a323e86c3650baad5c628aeb0c624bfb35685050e7ce6f8fcab1e",
+  "feedSHA256After": "016fe54f5a1fc28e818e807bee8b3901a215a706a346b38a3038c1e1caec3329",
+  "feedSHA256Before": "188c9a9b5d3d1f719c3da0c26106e5b0f0dc0f89f77531110a7c4c9675e53159",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],

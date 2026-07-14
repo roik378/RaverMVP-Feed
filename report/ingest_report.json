@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T03:40:06",
+  "ranAt": "2026-07-14T04:36:18",
   "mode": "full",
   "sources": [
     {
@@ -135,6 +135,15 @@
       "strategy": "spotify_location"
     },
     {
+      "sourceId": "showstart_oil_shenzhen",
+      "kind": "html",
+      "status": "ok",
+      "captured": 4,
+      "usable": 4,
+      "consumerReady": 4,
+      "strategy": "showstart_venue_calendar"
+    },
+    {
       "sourceId": "oil_wechat",
       "kind": "visionOCR",
       "status": "no_inbox_files",
@@ -174,7 +183,7 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 7,
+      "captured": 11,
       "usable": 6,
       "consumerReady": 5,
       "consumerRejected": 1,
@@ -182,7 +191,7 @@
       "rejectionReasons": {
         "past_event": 1
       },
-      "enabledSourceCount": 6,
+      "enabledSourceCount": 7,
       "errorSourceCount": 0,
       "missingOCRSourceCount": 2,
       "status": "ok",
@@ -220,7 +229,7 @@
     }
   ],
   "totals": {
-    "captured": 112,
+    "captured": 116,
     "usable": 83
   },
   "consumerQuality": {
