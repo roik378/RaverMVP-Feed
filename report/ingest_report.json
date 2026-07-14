@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-15T04:03:20",
+  "ranAt": "2026-07-15T04:34:35",
   "mode": "full",
   "sources": [
     {
@@ -191,6 +191,15 @@
       "usable": 1,
       "consumerReady": 1,
       "strategy": "ultra_miami_official"
+    },
+    {
+      "sourceId": "edc_las_vegas_official",
+      "kind": "html",
+      "status": "ok",
+      "captured": 2,
+      "usable": 2,
+      "consumerReady": 2,
+      "strategy": "edc_las_vegas_official"
     }
   ],
   "cities": [
@@ -236,6 +245,21 @@
       "captured": 1,
       "usable": 1,
       "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "las_vegas_us",
+      "cityName": "Las Vegas",
+      "captured": 2,
+      "usable": 2,
+      "consumerReady": 2,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -320,11 +344,11 @@
   ],
   "raverReviewCandidates": [],
   "totals": {
-    "captured": 117,
-    "usable": 84
+    "captured": 119,
+    "usable": 86
   },
   "consumerQuality": {
-    "ready": 62,
+    "ready": 64,
     "rejected": 22,
     "rejectionReasons": {
       "missing_event_evidence": 9,
@@ -335,7 +359,8 @@
   "referenceDates": {
     "Vancouver": "2026-07-15",
     "Shenzhen": "2026-07-15",
-    "Miami": "2026-07-15"
+    "Miami": "2026-07-15",
+    "Las Vegas": "2026-07-15"
   },
   "reviewedArtistSeed": {
     "status": "loaded",

@@ -2,6 +2,18 @@
   "appliedCount": 2,
   "coverage": {
     "after": {
+      "Las Vegas": {
+        "consumerEligible": {
+          "direct": 2,
+          "ratio": 1.0,
+          "total": 2
+        },
+        "raw": {
+          "direct": 2,
+          "ratio": 1.0,
+          "total": 2
+        }
+      },
       "Miami": {
         "consumerEligible": {
           "direct": 1,
@@ -40,6 +52,18 @@
       }
     },
     "before": {
+      "Las Vegas": {
+        "consumerEligible": {
+          "direct": 2,
+          "ratio": 1.0,
+          "total": 2
+        },
+        "raw": {
+          "direct": 2,
+          "ratio": 1.0,
+          "total": 2
+        }
+      },
       "Miami": {
         "consumerEligible": {
           "direct": 1,
@@ -178,18 +202,19 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 62,
-  "eventCountBefore": 62,
+  "eventCountAfter": 64,
+  "eventCountBefore": 64,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "3b22107ae795ba76cd219ed6b3dd80640dd7035a27149fc6a838f042cc26b0ac",
-  "feedSHA256Before": "83c233a795b260d30c99827af15c1ded79edd09bdfa21a0bbd99884b4c77eed4",
+  "feedSHA256After": "4327c5ad3a8378fa93fe5bc33b29a7cb43f417836a5b094f513622cdeae04aec",
+  "feedSHA256Before": "b8ad2a075fb3f822d1ab2e4a8eb46540610e3e54b35dad364b5f71e67ad086a3",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
     "launchCities": [
       "Vancouver",
       "Shenzhen",
-      "Miami"
+      "Miami",
+      "Las Vegas"
     ],
     "minimumDirectTicketCoverage": 0.6,
     "status": "ready"
