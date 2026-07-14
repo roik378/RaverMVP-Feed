@@ -1,24 +1,24 @@
 {
   "cityEventCounts": {
     "Shenzhen": 5,
-    "Vancouver": 46
+    "Vancouver": 49
   },
-  "eventCount": 51,
+  "eventCount": 54,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "1636c31d37befcb13b057fbfb9d73e95d29ce64f2e12e4941236fa50b8ef7bd8",
+  "feedSHA256": "1290ceeb37e4d6404172cfe26cae8d352808a77a021e01e3320e564b51277f1e",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-14T00:46:02Z",
+  "publishedAt": "2026-07-14T01:56:13Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "0e3bf8f2f62008ec48eb4f8eecc9c019f96381f139946e52ce177d518fd37c14",
+  "reportSHA256": "84f6a4d2b7753485213a57a3f1c090a3eb5046cbb67b6d0f652853cd5bc54d8d",
   "schemaVersion": 1,
-  "sourceCommitSHA": "da4eab77f809690e9e920863be5bf8d41b76d987",
+  "sourceCommitSHA": "46830094009a27fd64af5fca0838a0d213fd935b",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
   "ticketEnrichmentStatus": "applied",
   "ticketPriceProjectionSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "c585a84c08735dcb7e57df099f150f081f676109318b61ab491b5eb60e136765",
+  "ticketPriceReceiptSHA256": "71378d630e424ad3bc285ffc87d87f8f2ec3427dc434d5432f377ebcb64e2b63",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "8af0641510f72a3c02afa135b73e4eb8cba1d0b719f3927d3b678d103ddd701e"
+  "ticketReceiptSHA256": "02f1e41d01a9a0e5f87a8f2a8b64c6901862963e3b42e8af9c7b41bf2ef7655b"
 }

@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T00:44:41",
+  "ranAt": "2026-07-14T01:55:11",
   "mode": "full",
   "sources": [
     {
@@ -24,9 +24,9 @@
       "sourceId": "harbour_vancouver",
       "kind": "html",
       "status": "ok",
-      "captured": 21,
-      "usable": 21,
-      "consumerReady": 21,
+      "captured": 22,
+      "usable": 22,
+      "consumerReady": 22,
       "strategy": "harbour_calendar"
     },
     {
@@ -55,6 +55,15 @@
       "usable": 7,
       "consumerReady": 7,
       "strategy": "commodore_next_flight"
+    },
+    {
+      "sourceId": "biltmore_cabaret_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 2,
+      "usable": 2,
+      "consumerReady": 2,
+      "strategy": "biltmore_admitone"
     },
     {
       "sourceId": "digital_motion_bc",
@@ -137,17 +146,17 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 96,
-      "usable": 68,
-      "consumerReady": 46,
+      "captured": 99,
+      "usable": 71,
+      "consumerReady": 49,
       "consumerRejected": 22,
-      "consumerReadyRate": 0.676,
+      "consumerReadyRate": 0.69,
       "rejectionReasons": {
-        "past_event": 8,
-        "missing_event_evidence": 10,
-        "placeholder_title": 4
+        "placeholder_title": 5,
+        "missing_event_evidence": 11,
+        "past_event": 6
       },
-      "enabledSourceCount": 7,
+      "enabledSourceCount": 8,
       "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
@@ -202,19 +211,22 @@
     }
   ],
   "totals": {
-    "captured": 103,
-    "usable": 74
+    "captured": 106,
+    "usable": 77
   },
   "consumerQuality": {
-    "ready": 51,
+    "ready": 54,
     "rejected": 23,
     "rejectionReasons": {
-      "past_event": 9,
-      "missing_event_evidence": 10,
-      "placeholder_title": 4
+      "placeholder_title": 5,
+      "missing_event_evidence": 11,
+      "past_event": 7
     }
   },
-  "referenceDate": "2026-07-14",
+  "referenceDates": {
+    "Vancouver": "2026-07-13",
+    "Shenzhen": "2026-07-14"
+  },
   "publicationGate": {
     "status": "ready",
     "requiredCities": [

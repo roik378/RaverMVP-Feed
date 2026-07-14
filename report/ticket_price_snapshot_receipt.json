@@ -139,6 +139,15 @@
       "action": "provider_failed",
       "city": "Vancouver",
       "collectorStatus": "provider_blocked",
+      "eventID": "0BEC868B-3A6A-5EC3-A8BF-DFA703A1E41C",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/198827"
+    },
+    {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
       "eventID": "5A3CC2A2-D124-5DFA-B95E-98125D3F788F",
       "reason": "access challenge",
       "stale": false,
@@ -272,6 +281,24 @@
     },
     {
       "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "F4A35829-7D47-5A2F-A399-49847187AF1C",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "8133F841-E7BA-5C9B-91D9-E3B107759D3B",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://admitone.com/events/buzz-kull-and-kontravoid-vancouver-170887"
+    },
+    {
+      "action": "no_snapshot",
       "city": "Shenzhen",
       "collectorStatus": "unsupported_provider",
       "eventID": "49C8679B-6A4A-5107-A8C9-022FECF90815",
@@ -316,18 +343,18 @@
       "ticketURLText": "https://ra.co/events/2459716"
     }
   ],
-  "feedSHA256After": "d95ed04aa82cc4d796de2e9dd8f570166910d613549ac9d461c82161df1c61de",
-  "feedSHA256Before": "d95ed04aa82cc4d796de2e9dd8f570166910d613549ac9d461c82161df1c61de",
+  "feedSHA256After": "44c2104f09b92c26f7f299cc73118b3a963ca4f65d2b05f8e3d17dafd587b6e8",
+  "feedSHA256Before": "44c2104f09b92c26f7f299cc73118b3a963ca4f65d2b05f8e3d17dafd587b6e8",
   "historySHA256After": "4433fc83b4915c8ad9b891f237c2d014e234f24cc4f037219fcd6c6d36d36c1e",
   "priceProjectionSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
   "schemaVersion": 1,
   "status": "no_prices",
   "summary": {
     "appliedCount": 0,
-    "candidateCount": 35,
+    "candidateCount": 38,
     "freshCount": 0,
-    "noSnapshotCount": 14,
-    "providerFailureCount": 21,
+    "noSnapshotCount": 16,
+    "providerFailureCount": 22,
     "staleCount": 0
   }
 }
