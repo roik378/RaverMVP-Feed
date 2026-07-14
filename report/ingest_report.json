@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T04:36:18",
+  "ranAt": "2026-07-14T04:54:07",
   "mode": "full",
   "sources": [
     {
@@ -68,11 +68,10 @@
     {
       "sourceId": "digital_motion_bc",
       "kind": "html",
-      "status": "ok",
-      "captured": 6,
-      "usable": 6,
-      "consumerReady": 6,
-      "strategy": "digital_motion_showpass"
+      "status": "error: URLError: <urlopen error timed out; curl fallback failed (28): curl: (28) Connection timed out after 20002 millis",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0
     },
     {
       "sourceId": "fox_cabaret_vancouver",
@@ -164,18 +163,18 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 105,
-      "usable": 77,
-      "consumerReady": 55,
+      "captured": 99,
+      "usable": 71,
+      "consumerReady": 49,
       "consumerRejected": 22,
-      "consumerReadyRate": 0.714,
+      "consumerReadyRate": 0.69,
       "rejectionReasons": {
         "placeholder_title": 5,
         "missing_event_evidence": 11,
         "past_event": 6
       },
       "enabledSourceCount": 8,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -229,11 +228,11 @@
     }
   ],
   "totals": {
-    "captured": 116,
-    "usable": 83
+    "captured": 110,
+    "usable": 77
   },
   "consumerQuality": {
-    "ready": 60,
+    "ready": 54,
     "rejected": 23,
     "rejectionReasons": {
       "placeholder_title": 5,
