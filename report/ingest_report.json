@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-13T19:33:00",
+  "ranAt": "2026-07-14T00:44:41",
   "mode": "full",
   "sources": [
     {
@@ -46,6 +46,15 @@
       "usable": 8,
       "consumerReady": 2,
       "strategy": "gorgomish_event_grid"
+    },
+    {
+      "sourceId": "commodore_ballroom_vancouver",
+      "kind": "html",
+      "status": "ok",
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
+      "strategy": "commodore_next_flight"
     },
     {
       "sourceId": "digital_motion_bc",
@@ -128,17 +137,17 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 89,
-      "usable": 61,
-      "consumerReady": 39,
+      "captured": 96,
+      "usable": 68,
+      "consumerReady": 46,
       "consumerRejected": 22,
-      "consumerReadyRate": 0.639,
+      "consumerReadyRate": 0.676,
       "rejectionReasons": {
-        "placeholder_title": 5,
-        "missing_event_evidence": 11,
-        "past_event": 6
+        "past_event": 8,
+        "missing_event_evidence": 10,
+        "placeholder_title": 4
       },
-      "enabledSourceCount": 6,
+      "enabledSourceCount": 7,
       "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
@@ -193,19 +202,19 @@
     }
   ],
   "totals": {
-    "captured": 96,
-    "usable": 67
+    "captured": 103,
+    "usable": 74
   },
   "consumerQuality": {
-    "ready": 44,
+    "ready": 51,
     "rejected": 23,
     "rejectionReasons": {
-      "placeholder_title": 5,
-      "missing_event_evidence": 11,
-      "past_event": 7
+      "past_event": 9,
+      "missing_event_evidence": 10,
+      "placeholder_title": 4
     }
   },
-  "referenceDate": "2026-07-13",
+  "referenceDate": "2026-07-14",
   "publicationGate": {
     "status": "ready",
     "requiredCities": [
