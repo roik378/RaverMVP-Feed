@@ -1,12 +1,12 @@
 {
   "feedVersion": 1,
-  "generatedAtText": "Wed 04:34",
+  "generatedAtText": "Wed 05:43",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Wed 04:34",
+      "refreshText": "Wed 05:43",
       "userCoordinate": {
         "latitude": 49.2827,
         "longitude": -123.1207
@@ -27,7 +27,7 @@
             "Trance"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/gabrieldresden26",
@@ -57,7 +57,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/clubcontrollerwithsweetandsawajuly25",
@@ -92,7 +92,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -120,7 +120,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/djg2g",
@@ -150,7 +150,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/cumtogether-cocoandbreezy",
@@ -178,7 +178,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/alexchapman-pd72s",
@@ -206,7 +206,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/historysunday2026",
@@ -226,7 +226,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -257,7 +257,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/conradtaylor",
@@ -287,7 +287,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/cyril",
@@ -317,7 +317,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/eli-fur-2026",
@@ -347,7 +347,7 @@
             "Bass"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
@@ -369,7 +369,7 @@
             "House"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events",
@@ -389,7 +389,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195395",
@@ -417,7 +417,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/182221",
@@ -445,7 +445,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/184769",
@@ -473,7 +473,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/194433",
@@ -493,7 +493,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197263",
@@ -513,7 +513,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192055",
@@ -541,7 +541,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/185416",
@@ -571,7 +571,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198329",
@@ -591,7 +591,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/177104",
@@ -619,7 +619,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/186501",
@@ -647,7 +647,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196122",
@@ -677,7 +677,7 @@
             "Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198322",
@@ -705,7 +705,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195425",
@@ -733,7 +733,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/188737",
@@ -761,7 +761,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195109",
@@ -789,7 +789,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198827",
@@ -817,7 +817,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191670",
@@ -845,7 +845,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197295",
@@ -887,7 +887,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196120",
@@ -915,7 +915,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195028",
@@ -943,7 +943,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192435",
@@ -971,7 +971,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191340",
@@ -999,7 +999,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/anthonyattalla",
@@ -1030,7 +1030,7 @@
             "House"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/roiperezpride",
@@ -1058,7 +1058,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/onlyfire",
@@ -1088,7 +1088,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/bijou",
@@ -1116,7 +1116,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -1158,7 +1158,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -1186,7 +1186,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1214,7 +1214,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1249,7 +1249,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1284,7 +1284,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1319,7 +1319,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1347,7 +1347,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1375,7 +1375,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1403,7 +1403,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -1431,7 +1431,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -1469,7 +1469,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=wonkywillavancouver",
@@ -1499,7 +1499,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=onhellsubculture",
@@ -1529,7 +1529,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=venjentvancouver2026",
@@ -1566,7 +1566,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=ivylabvancouver",
@@ -1603,7 +1603,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=canablissvancouver",
@@ -1634,7 +1634,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=whalesvancouver",
@@ -1655,7 +1655,7 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Wed 04:34",
+      "refreshText": "Wed 05:43",
       "userCoordinate": {
         "latitude": 22.5333,
         "longitude": 114.0556
@@ -1674,7 +1674,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.92,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
@@ -1702,7 +1702,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.92,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
@@ -1737,7 +1737,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
@@ -1765,7 +1765,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.92,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
@@ -1800,7 +1800,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.92,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/3vtsU0OIzoxENCxw5YENWQ",
@@ -1828,7 +1828,7 @@
       "id": "miami_us",
       "name": "Miami",
       "country": "US",
-      "refreshText": "Wed 04:34",
+      "refreshText": "Wed 05:43",
       "userCoordinate": {
         "latitude": 25.7617,
         "longitude": -80.1918
@@ -1850,7 +1850,7 @@
           },
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultramusicfestival.com/general-information/",
@@ -1888,7 +1888,7 @@
       "id": "las_vegas_us",
       "name": "Las Vegas",
       "country": "US",
-      "refreshText": "Wed 04:34",
+      "refreshText": "Wed 05:43",
       "userCoordinate": {
         "latitude": 36.1699,
         "longitude": -115.1398
@@ -1910,7 +1910,7 @@
           },
           "styles": [],
           "confidence": 0.97,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -1958,7 +1958,7 @@
           },
           "styles": [],
           "confidence": 0.97,
-          "lastRefreshedText": "Wed 04:34",
+          "lastRefreshedText": "Wed 05:43",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -1986,6 +1986,3174 @@
             "stageCount": 0,
             "artistCount": 0,
             "schedule": null,
+            "minimumComparableGA": null,
+            "lineupDelta": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "daresbury_uk",
+      "name": "Daresbury",
+      "country": "GB",
+      "refreshText": "Wed 05:43",
+      "userCoordinate": null,
+      "sourceEvents": [
+        {
+          "id": "225EEBD7-0C7D-51F8-9A07-3B5B0DBC4375",
+          "sourceKind": "festivalWebsite",
+          "title": "Creamfields 2026",
+          "subtitle": "Official lineup by day and stage",
+          "venue": "Creamfields Daresbury",
+          "city": "Daresbury",
+          "dateText": "Aug 27-30, 2026",
+          "timeText": null,
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.98,
+          "lastRefreshedText": "Wed 05:43",
+          "isMajorFestival": true,
+          "friendsGoing": null,
+          "sourceURLText": "https://creamfields.com/lineup/",
+          "ticketURLText": "https://creamfields.com/tickets/",
+          "lineup": [
+            {
+              "name": "Laidback Luke",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Vikkstar",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Pretty Pink",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Morgan Kasiera",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kola",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Richard Durand",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Shugz",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tenishia",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Maria Healy",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tyler Jack",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jordan Tilstone",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ferreck Dawn",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Alex Mills",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Matt Sassari",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Nancie",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kitty Hall",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Joe Lee",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Junkie Kidd",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jason Cluff",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MXGN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Dømina",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TONI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Regan",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Disclosure Live",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Chris Stussy",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Chloé Caillet",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Niva",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Fisher",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "John Summit",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Rossi.",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Syreeta",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Gareth Wyn",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Carl Cox",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Franky Wah",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ben Sterling",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Chelina Manuhutu",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "James Organ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Murfi",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Max Dean B2B Luke Dean",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Joss Dean",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Locky",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tommy Phillips",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Cam Stockman",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Adrián Mills",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Alex Farell B2B Sikoti",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AZYR B2B blk. B2B Restricted",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Cloudy B2B NOVAH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Holy Priest",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "I Hate Models",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Leaha",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Winson",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ben Nicky",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Darren Styles",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Lilly Palmer",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Maddix",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Space 92",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "David Rust",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mark Roma",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Brad Pickle",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Eats Everything",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Shy FX & MC Rage",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "4am Kru",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sarah Story",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "In Parallel",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Nikki Chong",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Paul Oakenfold",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Giuseppe Ottaviani",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ilan Bluestone",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Symmetrik",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ciaran McAuley",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Chris Metcalfe",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MDDLTN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jamie Cooper",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Rob Crouch",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mr Jay",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Poppy Geary",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Amba",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Pete James",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kami Foxx & Dax On Sax",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jack Bullock",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Calvin Harris",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Josh Baker",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jazzy",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tyson O’Brien",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kaci Lea Lynch",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Alesso",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Third Party",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Matisse & Sadko",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Dubvision",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Armin van Buuren",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ben Hemsley",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Dimitri Vegas",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Martin Garrix",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MK",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "L.P. Rhythm",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Samantha Neal",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Underworld Live",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Amelie Lens Presents AURA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Camelphat",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Dom Dolla",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Eli Brown",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Joseph Capriati B2B SOSA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kettama",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Lau",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Pete Tong",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Toriah",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Bella Claxton B2B Helena Lauwaert",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Benwal B2B Kyle Starkey",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ Cringey B2B Toximami",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Faster Horses",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jazzy B2B Vieze Asbak",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kruelty",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Paige Tomlinson B2B Juicy Romance",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PARTIBOI69 B2B X CLUB.",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VTSS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Patrick Topping",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "East End Dubs",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Rebūke",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Joshwa",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Manda Moor",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Lucia Cors",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Andy C ft Tonn Piper",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Hedex ft Eksman",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Hybrid Minds ft Tempza",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Basslayerz",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Culture Shock",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "[IVY] B2B Mandidextrous",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kanine",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Koven",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Lens",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Madelaine Jemaine",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mozey",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "North Base",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Rova",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sigma",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sidney Charles",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Omar+",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DXNBY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Riordan",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ellia Jaya",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "James Poole",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Local Dub",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Billy Gillies",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Bryan Kearney",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mauro Picotto",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Nifra",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Daxson",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Liam Wilson",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Gia",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Anselli",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Warface",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MISH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Schak",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Alex Kidd",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Klubfiller ft MC Storm",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Lee Ward",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MLN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Stavross",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sonny Fodera",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Becky Hill",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Armand van Helden",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Arielle Free",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Amelia Preston",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Anna Eager",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Swedish House Mafia",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "D.O.D",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Danny Howard",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ruby Richards",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ewan McVicar",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Duke Dumont",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tiësto",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Faithless Live",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Morgan Seatree",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Gaskin",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Marsolo",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Beccs Vernon",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Gorgon City",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Prospa",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Silva Bumpa",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Luuk Van Dijk",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Julian Fijma",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TeeDee",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Rooléh",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Cait",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Angerfist B2B Hardkar [Reinier Zonneveld]",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Elmefti",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jowi B2B Toxic Machinery",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kander B2B Eliiza",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Nikolina",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Serafina B2B Fumi",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SLVL B2B USH B2B Klofama",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Onlynumbers",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Fatboy Slim",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Diffrent",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Oppidan",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Joe Rolét",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Saidah",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kolter",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jamback",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Locklead",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Prunk B2B Olive F",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Job De Jong",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JWave",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Nautica B2B Riley",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Mwangi",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ferry Corsten",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Aly & Fila",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "The Rocketman",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kimmic",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Amy Wiles",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Don",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sickmode",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Coone",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Andy Whitby",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ammara",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Curtis Cousins",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tango",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ],
+          "festivalMetadata": {
+            "seriesID": "creamfields-uk",
+            "editionID": "creamfields-uk-2026",
+            "editionYear": 2026,
+            "startDate": "2026-08-27",
+            "endDate": "2026-08-30",
+            "city": "Daresbury",
+            "countryCode": "GB",
+            "timeZoneIdentifier": "Europe/London",
+            "coordinate": null,
+            "lifecycleState": "ticketsLive",
+            "lineupPhaseLabel": "2026 Lineup",
+            "lineupCompleteness": "announced",
+            "officialPosterURLText": "https://creamfields.com/wp-content/uploads/2026/02/26-og-update.png",
+            "officialPosterSourceURLText": "https://creamfields.com/lineup/",
+            "dayCount": 4,
+            "stageCount": 21,
+            "artistCount": 217,
+            "schedule": [
+              {
+                "id": "creamfields-uk-2026-2026-08-27",
+                "date": "2026-08-27",
+                "stages": [
+                  {
+                    "id": "creamfields-uk-2026-2026-08-27-steel-yard-cream-terrace",
+                    "name": "Steel Yard Cream Terrace",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-steel-yard-cream-terrace-laidback-luke-1",
+                        "artistName": "Laidback Luke",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-steel-yard-cream-terrace-vikkstar-1",
+                        "artistName": "Vikkstar",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-steel-yard-cream-terrace-pretty-pink-1",
+                        "artistName": "Pretty Pink",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-steel-yard-cream-terrace-morgan-kasiera-1",
+                        "artistName": "Morgan Kasiera",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-steel-yard-cream-terrace-kola-1",
+                        "artistName": "Kola",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-27-rong",
+                    "name": "Rong",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-rong-richard-durand-1",
+                        "artistName": "Richard Durand",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-rong-shugz-1",
+                        "artistName": "Shugz",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-rong-tenishia-1",
+                        "artistName": "Tenishia",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-rong-maria-healy-1",
+                        "artistName": "Maria Healy",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-rong-tyler-jack-1",
+                        "artistName": "Tyler Jack",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-rong-jordan-tilstone-1",
+                        "artistName": "Jordan Tilstone",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-27-cream",
+                    "name": "Cream",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-cream-ferreck-dawn-1",
+                        "artistName": "Ferreck Dawn",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-cream-alex-mills-1",
+                        "artistName": "Alex Mills",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-cream-matt-sassari-1",
+                        "artistName": "Matt Sassari",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-cream-nancie-1",
+                        "artistName": "Nancie",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-cream-kitty-hall-1",
+                        "artistName": "Kitty Hall",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-cream-joe-lee-1",
+                        "artistName": "Joe Lee",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-27-nation",
+                    "name": "Nation",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-nation-junkie-kidd-1",
+                        "artistName": "Junkie Kidd",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-nation-jason-cluff-1",
+                        "artistName": "Jason Cluff",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-nation-mxgn-1",
+                        "artistName": "MXGN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-nation-d-mina-1",
+                        "artistName": "Dømina",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-nation-toni-1",
+                        "artistName": "TONI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-27-nation-regan-1",
+                        "artistName": "Regan",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "creamfields-uk-2026-2026-08-28",
+                "date": "2026-08-28",
+                "stages": [
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-arc",
+                    "name": "Arc",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-arc-disclosure-live-1",
+                        "artistName": "Disclosure Live",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-arc-chris-stussy-1",
+                        "artistName": "Chris Stussy",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-arc-chlo-caillet-1",
+                        "artistName": "Chloé Caillet",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-arc-niva-1",
+                        "artistName": "Niva",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-apex",
+                    "name": "Apex",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-apex-fisher-1",
+                        "artistName": "Fisher",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-apex-john-summit-1",
+                        "artistName": "John Summit",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-apex-rossi-1",
+                        "artistName": "Rossi.",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-apex-syreeta-1",
+                        "artistName": "Syreeta",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-apex-gareth-wyn-1",
+                        "artistName": "Gareth Wyn",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein",
+                    "name": "HALO presented by SHEIN",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein-carl-cox-1",
+                        "artistName": "Carl Cox",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein-franky-wah-1",
+                        "artistName": "Franky Wah",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein-ben-sterling-1",
+                        "artistName": "Ben Sterling",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein-chelina-manuhutu-1",
+                        "artistName": "Chelina Manuhutu",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein-james-organ-1",
+                        "artistName": "James Organ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-halo-presented-by-shein-murfi-1",
+                        "artistName": "Murfi",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-nexup",
+                    "name": "Nexup",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nexup-max-dean-b2b-luke-dean-1",
+                        "artistName": "Max Dean B2B Luke Dean",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nexup-joss-dean-1",
+                        "artistName": "Joss Dean",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nexup-locky-1",
+                        "artistName": "Locky",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nexup-tommy-phillips-1",
+                        "artistName": "Tommy Phillips",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nexup-cam-stockman-1",
+                        "artistName": "Cam Stockman",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z",
+                    "name": "Steel Yard presents Teletech A-Z",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-adri-n-mills-1",
+                        "artistName": "Adrián Mills",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-alex-farell-b2b-sikoti-1",
+                        "artistName": "Alex Farell B2B Sikoti",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-azyr-b2b-blk-b2b-restricted-1",
+                        "artistName": "AZYR B2B blk. B2B Restricted",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-cloudy-b2b-novah-1",
+                        "artistName": "Cloudy B2B NOVAH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-holy-priest-1",
+                        "artistName": "Holy Priest",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-i-hate-models-1",
+                        "artistName": "I Hate Models",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-leaha-1",
+                        "artistName": "Leaha",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-steel-yard-presents-teletech-a-z-winson-1",
+                        "artistName": "Winson",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-nation",
+                    "name": "Nation",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-ben-nicky-1",
+                        "artistName": "Ben Nicky",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-darren-styles-1",
+                        "artistName": "Darren Styles",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-lilly-palmer-1",
+                        "artistName": "Lilly Palmer",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-maddix-1",
+                        "artistName": "Maddix",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-space-92-1",
+                        "artistName": "Space 92",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-david-rust-1",
+                        "artistName": "David Rust",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-mark-roma-1",
+                        "artistName": "Mark Roma",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-nation-brad-pickle-1",
+                        "artistName": "Brad Pickle",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave",
+                    "name": "The Forest presents History of Rave",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave-eats-everything-1",
+                        "artistName": "Eats Everything",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave-shy-fx-mc-rage-1",
+                        "artistName": "Shy FX & MC Rage",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave-4am-kru-1",
+                        "artistName": "4am Kru",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave-sarah-story-1",
+                        "artistName": "Sarah Story",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave-in-parallel-1",
+                        "artistName": "In Parallel",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-the-forest-presents-history-of-rave-nikki-chong-1",
+                        "artistName": "Nikki Chong",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on",
+                    "name": "Pepsi MAX presents Full On",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-paul-oakenfold-1",
+                        "artistName": "Paul Oakenfold",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-giuseppe-ottaviani-1",
+                        "artistName": "Giuseppe Ottaviani",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-ilan-bluestone-1",
+                        "artistName": "Ilan Bluestone",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-symmetrik-1",
+                        "artistName": "Symmetrik",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-ciaran-mcauley-1",
+                        "artistName": "Ciaran McAuley",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-chris-metcalfe-1",
+                        "artistName": "Chris Metcalfe",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-mddltn-1",
+                        "artistName": "MDDLTN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-pepsi-max-presents-full-on-jamie-cooper-1",
+                        "artistName": "Jamie Cooper",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party",
+                    "name": "PayPal+ presents Hospitality Hosted by The Garden Party",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-rob-crouch-1",
+                        "artistName": "Rob Crouch",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-mr-jay-1",
+                        "artistName": "Mr Jay",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-poppy-geary-1",
+                        "artistName": "Poppy Geary",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-amba-1",
+                        "artistName": "Amba",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-regan-1",
+                        "artistName": "Regan",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-pete-james-1",
+                        "artistName": "Pete James",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-kami-foxx-dax-on-sax-1",
+                        "artistName": "Kami Foxx & Dax On Sax",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-28-paypal-presents-hospitality-hosted-by-the-garden-party-jack-bullock-1",
+                        "artistName": "Jack Bullock",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "creamfields-uk-2026-2026-08-29",
+                "date": "2026-08-29",
+                "stages": [
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-arc",
+                    "name": "Arc",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-arc-calvin-harris-1",
+                        "artistName": "Calvin Harris",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-arc-josh-baker-1",
+                        "artistName": "Josh Baker",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-arc-jazzy-1",
+                        "artistName": "Jazzy",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-arc-tyson-o-brien-1",
+                        "artistName": "Tyson O’Brien",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-arc-kaci-lea-lynch-1",
+                        "artistName": "Kaci Lea Lynch",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-apex-a-z",
+                    "name": "Apex A-Z",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-alesso-1",
+                        "artistName": "Alesso",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-third-party-1",
+                        "artistName": "Third Party",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-matisse-sadko-1",
+                        "artistName": "Matisse & Sadko",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-dubvision-1",
+                        "artistName": "Dubvision",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-armin-van-buuren-1",
+                        "artistName": "Armin van Buuren",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-ben-hemsley-1",
+                        "artistName": "Ben Hemsley",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-dimitri-vegas-1",
+                        "artistName": "Dimitri Vegas",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-a-z-martin-garrix-1",
+                        "artistName": "Martin Garrix",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-apex",
+                    "name": "Apex",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-mk-1",
+                        "artistName": "MK",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-l-p-rhythm-1",
+                        "artistName": "L.P. Rhythm",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-apex-samantha-neal-1",
+                        "artistName": "Samantha Neal",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-steel-yard",
+                    "name": "Steel Yard",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-underworld-live-1",
+                        "artistName": "Underworld Live",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-amelie-lens-presents-aura-1",
+                        "artistName": "Amelie Lens Presents AURA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-camelphat-1",
+                        "artistName": "Camelphat",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-dom-dolla-1",
+                        "artistName": "Dom Dolla",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-eli-brown-1",
+                        "artistName": "Eli Brown",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-joseph-capriati-b2b-sosa-1",
+                        "artistName": "Joseph Capriati B2B SOSA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-kettama-1",
+                        "artistName": "Kettama",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-lau-1",
+                        "artistName": "Lau",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-pete-tong-1",
+                        "artistName": "Pete Tong",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-steel-yard-toriah-1",
+                        "artistName": "Toriah",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-teletech-a-z",
+                    "name": "Teletech A-Z",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-bella-claxton-b2b-helena-lauwaert-1",
+                        "artistName": "Bella Claxton B2B Helena Lauwaert",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-benwal-b2b-kyle-starkey-1",
+                        "artistName": "Benwal B2B Kyle Starkey",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-dj-cringey-b2b-toximami-1",
+                        "artistName": "DJ Cringey B2B Toximami",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-faster-horses-1",
+                        "artistName": "Faster Horses",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-jazzy-b2b-vieze-asbak-1",
+                        "artistName": "Jazzy B2B Vieze Asbak",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-kruelty-1",
+                        "artistName": "Kruelty",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-paige-tomlinson-b2b-juicy-romance-1",
+                        "artistName": "Paige Tomlinson B2B Juicy Romance",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-partiboi69-b2b-x-club-1",
+                        "artistName": "PARTIBOI69 B2B X CLUB.",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-teletech-a-z-vtss-1",
+                        "artistName": "VTSS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick",
+                    "name": "HALO presented by SHEIN Hosted by Trick",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick-patrick-topping-1",
+                        "artistName": "Patrick Topping",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick-east-end-dubs-1",
+                        "artistName": "East End Dubs",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick-reb-ke-1",
+                        "artistName": "Rebūke",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick-joshwa-1",
+                        "artistName": "Joshwa",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick-manda-moor-1",
+                        "artistName": "Manda Moor",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-halo-presented-by-shein-hosted-by-trick-lucia-cors-1",
+                        "artistName": "Lucia Cors",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-sub-aural",
+                    "name": "Sub_Aural",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-andy-c-ft-tonn-piper-1",
+                        "artistName": "Andy C ft Tonn Piper",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-hedex-ft-eksman-1",
+                        "artistName": "Hedex ft Eksman",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-hybrid-minds-ft-tempza-1",
+                        "artistName": "Hybrid Minds ft Tempza",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-basslayerz-1",
+                        "artistName": "Basslayerz",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-culture-shock-1",
+                        "artistName": "Culture Shock",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-ivy-b2b-mandidextrous-1",
+                        "artistName": "[IVY] B2B Mandidextrous",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-kanine-1",
+                        "artistName": "Kanine",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-koven-1",
+                        "artistName": "Koven",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-lens-1",
+                        "artistName": "Lens",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-madelaine-jemaine-1",
+                        "artistName": "Madelaine Jemaine",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-mozey-1",
+                        "artistName": "Mozey",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-north-base-1",
+                        "artistName": "North Base",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-rova-1",
+                        "artistName": "Rova",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-sub-aural-sigma-1",
+                        "artistName": "Sigma",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-the-forest",
+                    "name": "The Forest",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-sidney-charles-1",
+                        "artistName": "Sidney Charles",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-omar-1",
+                        "artistName": "Omar+",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-dxnby-1",
+                        "artistName": "DXNBY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-riordan-1",
+                        "artistName": "Riordan",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-ellia-jaya-1",
+                        "artistName": "Ellia Jaya",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-james-poole-1",
+                        "artistName": "James Poole",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-the-forest-local-dub-1",
+                        "artistName": "Local Dub",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong",
+                    "name": "Pepsi MAX Presents RONG",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-billy-gillies-1",
+                        "artistName": "Billy Gillies",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-bryan-kearney-1",
+                        "artistName": "Bryan Kearney",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-mauro-picotto-1",
+                        "artistName": "Mauro Picotto",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-nifra-1",
+                        "artistName": "Nifra",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-daxson-1",
+                        "artistName": "Daxson",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-liam-wilson-1",
+                        "artistName": "Liam Wilson",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-gia-1",
+                        "artistName": "Gia",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-rong-anselli-1",
+                        "artistName": "Anselli",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-goodgreef-xtra-hard",
+                    "name": "Pepsi MAX Presents Goodgreef Xtra Hard",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-goodgreef-xtra-hard-warface-1",
+                        "artistName": "Warface",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-goodgreef-xtra-hard-mish-1",
+                        "artistName": "MISH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-goodgreef-xtra-hard-schak-1",
+                        "artistName": "Schak",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-goodgreef-xtra-hard-alex-kidd-1",
+                        "artistName": "Alex Kidd",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-pepsi-max-presents-goodgreef-xtra-hard-klubfiller-ft-mc-storm-1",
+                        "artistName": "Klubfiller ft MC Storm",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party",
+                    "name": "PayPal+ presents Hospitality Hosted by The Garden Party",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-rob-crouch-1",
+                        "artistName": "Rob Crouch",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-mr-jay-1",
+                        "artistName": "Mr Jay",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-poppy-geary-1",
+                        "artistName": "Poppy Geary",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-lee-ward-1",
+                        "artistName": "Lee Ward",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-pete-james-1",
+                        "artistName": "Pete James",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-amba-1",
+                        "artistName": "Amba",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-mln-1",
+                        "artistName": "MLN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-29-paypal-presents-hospitality-hosted-by-the-garden-party-stavross-1",
+                        "artistName": "Stavross",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "creamfields-uk-2026-2026-08-30",
+                "date": "2026-08-30",
+                "stages": [
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-arc",
+                    "name": "Arc",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-arc-sonny-fodera-1",
+                        "artistName": "Sonny Fodera",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-arc-becky-hill-1",
+                        "artistName": "Becky Hill",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-arc-armand-van-helden-1",
+                        "artistName": "Armand van Helden",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-arc-arielle-free-1",
+                        "artistName": "Arielle Free",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-arc-amelia-preston-1",
+                        "artistName": "Amelia Preston",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-arc-anna-eager-1",
+                        "artistName": "Anna Eager",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-apex",
+                    "name": "Apex",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-apex-swedish-house-mafia-1",
+                        "artistName": "Swedish House Mafia",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-apex-d-o-d-1",
+                        "artistName": "D.O.D",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-apex-danny-howard-1",
+                        "artistName": "Danny Howard",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-apex-ruby-richards-1",
+                        "artistName": "Ruby Richards",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-apex-ewan-mcvicar-1",
+                        "artistName": "Ewan McVicar",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-apex-duke-dumont-1",
+                        "artistName": "Duke Dumont",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-steel-yard",
+                    "name": "Steel Yard",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-steel-yard-ti-sto-1",
+                        "artistName": "Tiësto",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-steel-yard-faithless-live-1",
+                        "artistName": "Faithless Live",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-steel-yard-morgan-seatree-1",
+                        "artistName": "Morgan Seatree",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-steel-yard-gaskin-1",
+                        "artistName": "Gaskin",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-steel-yard-marsolo-1",
+                        "artistName": "Marsolo",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-steel-yard-beccs-vernon-1",
+                        "artistName": "Beccs Vernon",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein",
+                    "name": "HALO presented by SHEIN",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-gorgon-city-1",
+                        "artistName": "Gorgon City",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-prospa-1",
+                        "artistName": "Prospa",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-silva-bumpa-1",
+                        "artistName": "Silva Bumpa",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-luuk-van-dijk-1",
+                        "artistName": "Luuk Van Dijk",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-julian-fijma-1",
+                        "artistName": "Julian Fijma",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-teedee-1",
+                        "artistName": "TeeDee",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-rool-h-1",
+                        "artistName": "Rooléh",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-halo-presented-by-shein-cait-1",
+                        "artistName": "Cait",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-teletech-a-z",
+                    "name": "Teletech A-Z",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-angerfist-b2b-hardkar-reinier-zonneveld-1",
+                        "artistName": "Angerfist B2B Hardkar [Reinier Zonneveld]",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-elmefti-1",
+                        "artistName": "Elmefti",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-jowi-b2b-toxic-machinery-1",
+                        "artistName": "Jowi B2B Toxic Machinery",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-kander-b2b-eliiza-1",
+                        "artistName": "Kander B2B Eliiza",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-nikolina-1",
+                        "artistName": "Nikolina",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-serafina-b2b-fumi-1",
+                        "artistName": "Serafina B2B Fumi",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-slvl-b2b-ush-b2b-klofama-1",
+                        "artistName": "SLVL B2B USH B2B Klofama",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-teletech-a-z-onlynumbers-1",
+                        "artistName": "Onlynumbers",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-fatboy-slim-loves",
+                    "name": "Fatboy Slim Loves",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-fatboy-slim-loves-fatboy-slim-1",
+                        "artistName": "Fatboy Slim",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-fatboy-slim-loves-diffrent-1",
+                        "artistName": "Diffrent",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-fatboy-slim-loves-oppidan-1",
+                        "artistName": "Oppidan",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-fatboy-slim-loves-joe-rol-t-1",
+                        "artistName": "Joe Rolét",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-fatboy-slim-loves-saidah-1",
+                        "artistName": "Saidah",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-the-forest",
+                    "name": "The Forest",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-kolter-1",
+                        "artistName": "Kolter",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-jamback-1",
+                        "artistName": "Jamback",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-locklead-1",
+                        "artistName": "Locklead",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-prunk-b2b-olive-f-1",
+                        "artistName": "Prunk B2B Olive F",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-job-de-jong-1",
+                        "artistName": "Job De Jong",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-jwave-1",
+                        "artistName": "JWave",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-nautica-b2b-riley-1",
+                        "artistName": "Nautica B2B Riley",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-the-forest-mwangi-1",
+                        "artistName": "Mwangi",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on",
+                    "name": "Pepsi MAX Presents Full On",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-ferry-corsten-1",
+                        "artistName": "Ferry Corsten",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-aly-fila-1",
+                        "artistName": "Aly & Fila",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-the-rocketman-1",
+                        "artistName": "The Rocketman",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-kimmic-1",
+                        "artistName": "Kimmic",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-amy-wiles-1",
+                        "artistName": "Amy Wiles",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-don-1",
+                        "artistName": "Don",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-sickmode-1",
+                        "artistName": "Sickmode",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-coone-1",
+                        "artistName": "Coone",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-andy-whitby-1",
+                        "artistName": "Andy Whitby",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-pepsi-max-presents-full-on-ammara-1",
+                        "artistName": "Ammara",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party",
+                    "name": "PayPal+ presents Hospitality Hosted by The Garden Party",
+                    "performances": [
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-rob-crouch-1",
+                        "artistName": "Rob Crouch",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-mr-jay-1",
+                        "artistName": "Mr Jay",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-pete-james-1",
+                        "artistName": "Pete James",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-lee-ward-1",
+                        "artistName": "Lee Ward",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-curtis-cousins-1",
+                        "artistName": "Curtis Cousins",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-amba-1",
+                        "artistName": "Amba",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-mln-1",
+                        "artistName": "MLN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "creamfields-uk-2026-2026-08-30-paypal-presents-hospitality-hosted-by-the-garden-party-tango-1",
+                        "artistName": "Tango",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
             "minimumComparableGA": null,
             "lineupDelta": null
           }

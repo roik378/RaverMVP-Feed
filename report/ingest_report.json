@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-15T04:34:35",
+  "ranAt": "2026-07-15T05:43:12",
   "mode": "full",
   "sources": [
     {
@@ -200,6 +200,15 @@
       "usable": 2,
       "consumerReady": 2,
       "strategy": "edc_las_vegas_official"
+    },
+    {
+      "sourceId": "creamfields_official",
+      "kind": "html",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "strategy": "creamfields_official"
     }
   ],
   "cities": [
@@ -260,6 +269,21 @@
       "captured": 2,
       "usable": 2,
       "consumerReady": 2,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "daresbury_uk",
+      "cityName": "Daresbury",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -344,11 +368,11 @@
   ],
   "raverReviewCandidates": [],
   "totals": {
-    "captured": 119,
-    "usable": 86
+    "captured": 120,
+    "usable": 87
   },
   "consumerQuality": {
-    "ready": 64,
+    "ready": 65,
     "rejected": 22,
     "rejectionReasons": {
       "missing_event_evidence": 9,
@@ -360,7 +384,8 @@
     "Vancouver": "2026-07-15",
     "Shenzhen": "2026-07-15",
     "Miami": "2026-07-15",
-    "Las Vegas": "2026-07-15"
+    "Las Vegas": "2026-07-15",
+    "Daresbury": "2026-07-15"
   },
   "reviewedArtistSeed": {
     "status": "loaded",

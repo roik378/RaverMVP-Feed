@@ -1,19 +1,20 @@
 {
   "cityEventCounts": {
+    "Daresbury": 1,
     "Las Vegas": 2,
     "Miami": 1,
     "Shenzhen": 5,
     "Vancouver": 56
   },
-  "eventCount": 64,
+  "eventCount": 65,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "4327c5ad3a8378fa93fe5bc33b29a7cb43f417836a5b094f513622cdeae04aec",
+  "feedSHA256": "b343373df93ab027146d2ffefa0f3e0c8aa61c87529fd7575e3a5bb8eb33ac2c",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-15T04:43:28+08:00",
+  "publishedAt": "2026-07-15T06:11:25+08:00",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "0fc4df61a0465420f9f6ff84b01007284f0f37edadee95748c8165de4f6eae0e",
+  "reportSHA256": "09058528e0749d3bfc27b5a7af5b4f465de6664e0c146ad206465e5df7700975",
   "schemaVersion": 1,
-  "sourceCommitSHA": "7575a3d400a134f376ee8450ea10fde6a20ebe2d",
+  "sourceCommitSHA": "022956b7f87c87b6b0c6370fbedc4aae5d34f3fb",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
   "ticketEnrichmentStatus": "applied",
@@ -22,5 +23,5 @@
   "ticketPriceReceiptSHA256": "34451b8dcb2010f405dd9fd60a32b7b3bbf47743a57547ecaf71230b65ef8325",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "1801048932d9a15051b4ca145ec8b71c02477ecf51015701aa05b444c461773e"
+  "ticketReceiptSHA256": "4b0143ba456c6b731ce9fe0d4a1a2b581752e1ca37f9bfbd206ba2181ac6331c"
 }

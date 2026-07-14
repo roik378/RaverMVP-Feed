@@ -2,6 +2,18 @@
   "appliedCount": 2,
   "coverage": {
     "after": {
+      "Daresbury": {
+        "consumerEligible": {
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        },
+        "raw": {
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
       "Las Vegas": {
         "consumerEligible": {
           "direct": 2,
@@ -52,6 +64,18 @@
       }
     },
     "before": {
+      "Daresbury": {
+        "consumerEligible": {
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        },
+        "raw": {
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
       "Las Vegas": {
         "consumerEligible": {
           "direct": 2,
@@ -202,11 +226,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 64,
-  "eventCountBefore": 64,
+  "eventCountAfter": 65,
+  "eventCountBefore": 65,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "4327c5ad3a8378fa93fe5bc33b29a7cb43f417836a5b094f513622cdeae04aec",
-  "feedSHA256Before": "b8ad2a075fb3f822d1ab2e4a8eb46540610e3e54b35dad364b5f71e67ad086a3",
+  "feedSHA256After": "b343373df93ab027146d2ffefa0f3e0c8aa61c87529fd7575e3a5bb8eb33ac2c",
+  "feedSHA256Before": "4a36a2a9b51ad42441bad230a08e0a849c695cd561a51d77ac099681c26ae5b0",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
@@ -214,7 +238,8 @@
       "Vancouver",
       "Shenzhen",
       "Miami",
-      "Las Vegas"
+      "Las Vegas",
+      "Daresbury"
     ],
     "minimumDirectTicketCoverage": 0.6,
     "status": "ready"
