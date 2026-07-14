@@ -306,7 +306,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:18:44Z",
+        "capturedAt": "2026-07-14T22:42:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -330,7 +330,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:18:44Z",
+        "capturedAt": "2026-07-14T22:42:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -354,7 +354,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:18:44Z",
+        "capturedAt": "2026-07-14T22:42:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -378,7 +378,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:18:44Z",
+        "capturedAt": "2026-07-14T22:42:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -402,7 +402,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:18:44Z",
+        "capturedAt": "2026-07-14T22:42:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -426,7 +426,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:18:44Z",
+        "capturedAt": "2026-07-14T22:42:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -523,10 +523,10 @@
       "ticketURLText": "https://creamfields.com/tickets/"
     }
   ],
-  "feedSHA256After": "0ddeb5cac70786ae41565c3f0a77f6ff111a764a00e6bf934fea9208b428c25a",
-  "feedSHA256Before": "00a189bf42c9b7b8dca302c7786a4a4bed009aa37f3ddc0f1b9c1c00f2df7215",
-  "historySHA256After": "5f9a183023ceab96055774349a8cef7b13613974f0674cfb07d8baef12c43a77",
-  "priceProjectionSHA256": "90d8377fde55ff9279db1522d0e9239ac474f667a9c8723c93139127d8551026",
+  "feedSHA256After": "62f6b9541a506356cad51a3b7a63e324951f563f5030fa5fa384d6ff71656ebd",
+  "feedSHA256Before": "a7bb7f7e01661a45a1cda1a6193c8c2edc4202c08e4b1b10e504fd7f8e351786",
+  "historySHA256After": "84e12c2f7db90047195eb093bc5241dab90b8276def1b19fadfa8b1e8274801d",
+  "priceProjectionSHA256": "1f0670421595f1784212091377e32a5a0f370fbbd1dcd5cbc81f0bd17ded2f2c",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
