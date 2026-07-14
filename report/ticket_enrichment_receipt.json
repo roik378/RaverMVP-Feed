@@ -1,5 +1,5 @@
 {
-  "appliedCount": 2,
+  "appliedCount": 1,
   "coverage": {
     "after": {
       "Shenzhen": {
@@ -9,21 +9,21 @@
           "total": 5
         },
         "raw": {
-          "direct": 5,
+          "direct": 6,
           "ratio": 1.0,
-          "total": 5
+          "total": 6
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 35,
-          "ratio": 0.7143,
-          "total": 49
+          "direct": 22,
+          "ratio": 0.6667,
+          "total": 33
         },
         "raw": {
-          "direct": 35,
-          "ratio": 0.7143,
-          "total": 49
+          "direct": 22,
+          "ratio": 0.6667,
+          "total": 33
         }
       }
     },
@@ -36,20 +36,20 @@
         },
         "raw": {
           "direct": 5,
-          "ratio": 1.0,
-          "total": 5
+          "ratio": 0.8333,
+          "total": 6
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 33,
-          "ratio": 0.6735,
-          "total": 49
+          "direct": 22,
+          "ratio": 0.6667,
+          "total": 33
         },
         "raw": {
-          "direct": 33,
-          "ratio": 0.6735,
-          "total": 49
+          "direct": 22,
+          "ratio": 0.6667,
+          "total": 33
         }
       }
     }
@@ -82,9 +82,9 @@
       "matchedEventTitles": [
         "RAVEN UNLTD"
       ],
-      "newTicketURLText": "https://www.showstart.com/event/302794",
-      "oldTicketURLText": "https://www.showstart.com/event/302794",
-      "ticketURLText": "https://www.showstart.com/event/302794"
+      "newTicketURLText": "https://ra.co/events/2459638",
+      "oldTicketURLText": "https://ra.co/events/2459638",
+      "ticketURLText": "https://ra.co/events/2459638"
     },
     {
       "action": "unchanged",
@@ -100,65 +100,34 @@
       "matchedEventTitles": [
         "Alion, Sirens"
       ],
-      "newTicketURLText": "https://www.showstart.com/event/302796",
-      "oldTicketURLText": "https://www.showstart.com/event/302796",
-      "ticketURLText": "https://www.showstart.com/event/302796"
+      "newTicketURLText": "https://ra.co/events/2459646",
+      "oldTicketURLText": "https://ra.co/events/2459646",
+      "ticketURLText": "https://ra.co/events/2459646"
     },
     {
-      "action": "stale_skipped",
+      "action": "applied",
       "canonicalVenue": "Hall 17, Shenzhen World Exhibition & Convention Center",
       "city": "Shenzhen",
       "currentTitle": "2026 SHENZHEN STORM Electronic Music Festival",
       "dateText": "Jun 13-14, 2026",
       "evidenceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
-      "matchCount": 0,
-      "matchedEventIDs": [],
-      "matchedEventTitles": [],
-      "reason": "reviewed event is no longer present after its consumer date",
+      "matchCount": 1,
+      "matchedEventIDs": [
+        "E1C20C5B-DD44-5E30-8CE5-9CD6BF7B5B8D"
+      ],
+      "matchedEventTitles": [
+        "2026 SHENZHEN STORM Electronic Music Festival"
+      ],
+      "newTicketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+      "oldTicketURLText": null,
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
-    },
-    {
-      "action": "applied",
-      "canonicalVenue": "Village Studios",
-      "city": "Vancouver",
-      "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
-      "dateText": "Jul 18",
-      "evidenceURLText": "https://www.villagestudios.life/events/anthonyattalla",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "E3FD508E-13E6-545F-9061-B3048AA11311"
-      ],
-      "matchedEventTitles": [
-        "NITESHIFT pres. ANTHONY ATTALLA"
-      ],
-      "newTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
-      "oldTicketURLText": null,
-      "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
-    },
-    {
-      "action": "applied",
-      "canonicalVenue": "Village Studios",
-      "city": "Vancouver",
-      "currentTitle": "BIJOU (FREE BEFORE 11)",
-      "dateText": "Aug 14",
-      "evidenceURLText": "https://www.villagestudios.life/events/bijou",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "30ADDA9D-C2ED-5800-80E5-2C930FCCF83F"
-      ],
-      "matchedEventTitles": [
-        "BIJOU (FREE BEFORE 11)"
-      ],
-      "newTicketURLText": "https://on.villagestudios.life/trk/jCjpc",
-      "oldTicketURLText": null,
-      "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 54,
-  "eventCountBefore": 54,
+  "eventCountAfter": 39,
+  "eventCountBefore": 39,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "d5254e2d2dc774141d83f4763c0701e02d7da54f0b86c26c6dc51b2db28c4c3f",
-  "feedSHA256Before": "eac54b34df8726ede7f7b2b0154b775cb08c34d6db8deee3a43ace1bd5fa9d8b",
+  "feedSHA256After": "bfc5dcb53f8a84bd6d13e2e6be0ea7ac841921b9a839d8374c062f6e4101e654",
+  "feedSHA256Before": "1bd3d00d1f2f6992c3727d0f0230e421157587dc6b624b75ab6ed065240c865e",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [],
@@ -171,7 +140,7 @@
   },
   "referenceDate": "2026-07-14",
   "schemaVersion": 1,
-  "staleSkippedCount": 2,
+  "staleSkippedCount": 1,
   "status": "applied",
   "unchangedCount": 2,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"

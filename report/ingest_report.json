@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T04:54:07",
+  "ranAt": "2026-07-14T05:37:05",
   "mode": "full",
   "sources": [
     {
@@ -9,7 +9,7 @@
       "captured": 20,
       "usable": 20,
       "consumerReady": 13,
-      "strategy": "squarespace_enriched_snippets"
+      "strategy": "snippets"
     },
     {
       "sourceId": "fortune_sound_club",
@@ -35,48 +35,13 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 4,
-      "strategy": "squarespace_enriched_snippets"
-    },
-    {
-      "sourceId": "gorgomish_vancouver",
-      "kind": "html",
-      "status": "ok",
-      "captured": 8,
-      "usable": 8,
-      "consumerReady": 2,
-      "strategy": "gorgomish_event_grid"
-    },
-    {
-      "sourceId": "commodore_ballroom_vancouver",
-      "kind": "html",
-      "status": "ok",
-      "captured": 7,
-      "usable": 7,
-      "consumerReady": 7,
-      "strategy": "commodore_next_flight"
-    },
-    {
-      "sourceId": "biltmore_cabaret_vancouver",
-      "kind": "html",
-      "status": "ok",
-      "captured": 2,
-      "usable": 2,
-      "consumerReady": 2,
-      "strategy": "biltmore_admitone"
+      "consumerReady": 6,
+      "strategy": "snippets"
     },
     {
       "sourceId": "digital_motion_bc",
       "kind": "html",
-      "status": "error: URLError: <urlopen error timed out; curl fallback failed (28): curl: (28) Connection timed out after 20002 millis",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0
-    },
-    {
-      "sourceId": "fox_cabaret_vancouver",
-      "kind": "html",
-      "status": "skipped",
+      "status": "error: HTTPError: HTTP Error 404: Not Found",
       "captured": 0,
       "usable": 0,
       "consumerReady": 0
@@ -112,7 +77,7 @@
       "status": "ok",
       "captured": 1,
       "usable": 1,
-      "consumerReady": 0,
+      "consumerReady": 1,
       "strategy": "plvr_event"
     },
     {
@@ -121,7 +86,7 @@
       "status": "ok",
       "captured": 1,
       "usable": 1,
-      "consumerReady": 0,
+      "consumerReady": 1,
       "strategy": "trip_storm_event"
     },
     {
@@ -132,15 +97,6 @@
       "usable": 5,
       "consumerReady": 5,
       "strategy": "spotify_location"
-    },
-    {
-      "sourceId": "showstart_oil_shenzhen",
-      "kind": "html",
-      "status": "ok",
-      "captured": 4,
-      "usable": 4,
-      "consumerReady": 4,
-      "strategy": "showstart_venue_calendar"
     },
     {
       "sourceId": "oil_wechat",
@@ -163,17 +119,16 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 99,
-      "usable": 71,
-      "consumerReady": 49,
-      "consumerRejected": 22,
-      "consumerReadyRate": 0.69,
+      "captured": 82,
+      "usable": 54,
+      "consumerReady": 33,
+      "consumerRejected": 21,
+      "consumerReadyRate": 0.611,
       "rejectionReasons": {
-        "placeholder_title": 5,
-        "missing_event_evidence": 11,
-        "past_event": 6
+        "missing_event_evidence": 16,
+        "placeholder_title": 5
       },
-      "enabledSourceCount": 8,
+      "enabledSourceCount": 5,
       "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
@@ -182,15 +137,13 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 11,
+      "captured": 7,
       "usable": 6,
-      "consumerReady": 5,
-      "consumerRejected": 1,
-      "consumerReadyRate": 0.833,
-      "rejectionReasons": {
-        "past_event": 1
-      },
-      "enabledSourceCount": 7,
+      "consumerReady": 6,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 6,
       "errorSourceCount": 0,
       "missingOCRSourceCount": 2,
       "status": "ok",
@@ -228,21 +181,16 @@
     }
   ],
   "totals": {
-    "captured": 110,
-    "usable": 77
+    "captured": 89,
+    "usable": 60
   },
   "consumerQuality": {
-    "ready": 54,
-    "rejected": 23,
+    "ready": 39,
+    "rejected": 21,
     "rejectionReasons": {
-      "placeholder_title": 5,
-      "missing_event_evidence": 11,
-      "past_event": 7
+      "missing_event_evidence": 16,
+      "placeholder_title": 5
     }
-  },
-  "referenceDates": {
-    "Vancouver": "2026-07-13",
-    "Shenzhen": "2026-07-14"
   },
   "publicationGate": {
     "status": "ready",
