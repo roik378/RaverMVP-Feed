@@ -3,25 +3,29 @@
     "Daresbury": 1,
     "Las Vegas": 2,
     "Miami": 1,
-    "Shenzhen": 5,
-    "Vancouver": 56
+    "Shenzhen": 10,
+    "Vancouver": 55
   },
-  "eventCount": 65,
+  "eventCount": 69,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "98909e6b8271d55859b23f31e645f3b563fe2625ab9acd26fd108bc307d2d131",
+  "feedSHA256": "217731db9c4d0204c1a6b1182ad55907aef13ff3c84265436a06a7d94063fd09",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-14T22:45:05Z",
+  "publishedAt": "2026-07-14T23:28:04Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "4cd21741932c4825b362769047de1a8c49d1514a64be784bacb5a6ee3393e782",
+  "reportSHA256": "4e11db19fc99815adc5c767ec507877fa5a92b0964f04f086586083d1483dde5",
   "schemaVersion": 1,
-  "sourceCommitSHA": "2f6f31658ba98be586776bbf4e118e41409a0cc4",
+  "sourceCommitSHA": "f00491d6bd529b223cc840218271a17ad2ae8402",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
+  "ticketCoverageLimited": true,
+  "ticketCoverageLimitedCities": [
+    "Shenzhen"
+  ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "1f0670421595f1784212091377e32a5a0f370fbbd1dcd5cbc81f0bd17ded2f2c",
+  "ticketPriceProjectionSHA256": "f7cd2559e08f73b0ae56c565a1f8cf5fa5236de2fdd17c97c7433b7d282a8375",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "bc930de537251b38d3c5be7236b70c21458c7dbe8a4e4de2aa40e3237931588c",
-  "ticketQualityGateStatus": "ready",
+  "ticketPriceReceiptSHA256": "51e46d66ee5cd214dc12b6148edf8725505e66a7537c7b748c0777a620a7fff8",
+  "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "08d796c048b412633ad03f8458fb2112d0476c15c8120b5fb487b3884d888514"
+  "ticketReceiptSHA256": "a538dd8e76d790668ec5ad6655202571418dc6c59d0be7fd2d2a699e2fc0d0dc"
 }

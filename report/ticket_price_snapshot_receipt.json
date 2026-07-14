@@ -130,15 +130,6 @@
       "action": "provider_failed",
       "city": "Vancouver",
       "collectorStatus": "provider_blocked",
-      "eventID": "55BB08F7-1248-5B3F-83CB-2FDE92F0767D",
-      "reason": "access challenge",
-      "stale": false,
-      "ticketURLText": "https://tixr.com/e/195109"
-    },
-    {
-      "action": "provider_failed",
-      "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
       "eventID": "0BEC868B-3A6A-5EC3-A8BF-DFA703A1E41C",
       "reason": "access challenge",
       "stale": false,
@@ -306,7 +297,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:42:00Z",
+        "capturedAt": "2026-07-14T23:24:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -330,7 +321,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:42:00Z",
+        "capturedAt": "2026-07-14T23:24:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -354,7 +345,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:42:00Z",
+        "capturedAt": "2026-07-14T23:24:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -378,7 +369,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:42:00Z",
+        "capturedAt": "2026-07-14T23:24:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -402,7 +393,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:42:00Z",
+        "capturedAt": "2026-07-14T23:24:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -426,7 +417,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-14T22:42:00Z",
+        "capturedAt": "2026-07-14T23:24:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -523,18 +514,18 @@
       "ticketURLText": "https://creamfields.com/tickets/"
     }
   ],
-  "feedSHA256After": "62f6b9541a506356cad51a3b7a63e324951f563f5030fa5fa384d6ff71656ebd",
-  "feedSHA256Before": "a7bb7f7e01661a45a1cda1a6193c8c2edc4202c08e4b1b10e504fd7f8e351786",
-  "historySHA256After": "84e12c2f7db90047195eb093bc5241dab90b8276def1b19fadfa8b1e8274801d",
-  "priceProjectionSHA256": "1f0670421595f1784212091377e32a5a0f370fbbd1dcd5cbc81f0bd17ded2f2c",
+  "feedSHA256After": "0ffb87cc96747a37f144162fe9f1c8b5c26b3991d4430878936f5b9a38a7b4fd",
+  "feedSHA256Before": "0f2e6f7fffc2912cf93357d2c0fe22d4c6b2ff7760e80a809d8cdff382d2afa1",
+  "historySHA256After": "d5560bbfdc84006d0af08020b8c7a5edf7e79933764effdbba15c3c29c9ccc13",
+  "priceProjectionSHA256": "f7cd2559e08f73b0ae56c565a1f8cf5fa5236de2fdd17c97c7433b7d282a8375",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 48,
+    "candidateCount": 47,
     "freshCount": 6,
     "noSnapshotCount": 20,
-    "providerFailureCount": 22,
+    "providerFailureCount": 21,
     "staleCount": 0
   }
 }

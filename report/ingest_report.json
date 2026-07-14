@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T22:41:28",
+  "ranAt": "2026-07-14T23:24:05",
   "mode": "full",
   "sources": [
     {
@@ -24,9 +24,9 @@
       "sourceId": "harbour_vancouver",
       "kind": "html",
       "status": "ok",
-      "captured": 22,
-      "usable": 22,
-      "consumerReady": 22,
+      "captured": 21,
+      "usable": 21,
+      "consumerReady": 21,
       "strategy": "harbour_calendar"
     },
     {
@@ -106,6 +106,18 @@
       "usable": 0,
       "consumerReady": 0,
       "strategy": "snippets"
+    },
+    {
+      "sourceId": "nowshenzhen_playx_schedule",
+      "kind": "html",
+      "status": "ok",
+      "captured": 5,
+      "usable": 5,
+      "consumerReady": 5,
+      "strategy": "reviewed_poster_schedule",
+      "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
+      "evidenceImageSHA256": "b2d4577109d7388d5cebc5a0b2770d505e12fb67ac598d465fca8696739f5984",
+      "reviewedAtText": "2026-07-15T07:00:00+08:00"
     },
     {
       "sourceId": "plvr_storm",
@@ -215,11 +227,11 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 105,
-      "usable": 76,
-      "consumerReady": 56,
+      "captured": 104,
+      "usable": 75,
+      "consumerReady": 55,
       "consumerRejected": 20,
-      "consumerReadyRate": 0.737,
+      "consumerReadyRate": 0.733,
       "rejectionReasons": {
         "missing_event_evidence": 9,
         "placeholder_title": 5,
@@ -234,15 +246,15 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 11,
-      "usable": 6,
-      "consumerReady": 5,
+      "captured": 16,
+      "usable": 11,
+      "consumerReady": 10,
       "consumerRejected": 1,
-      "consumerReadyRate": 0.833,
+      "consumerReadyRate": 0.909,
       "rejectionReasons": {
         "past_event": 1
       },
-      "enabledSourceCount": 10,
+      "enabledSourceCount": 11,
       "errorSourceCount": 0,
       "missingOCRSourceCount": 5,
       "status": "ok",
@@ -368,11 +380,11 @@
   ],
   "raverReviewCandidates": [],
   "totals": {
-    "captured": 120,
-    "usable": 86
+    "captured": 124,
+    "usable": 90
   },
   "consumerQuality": {
-    "ready": 65,
+    "ready": 69,
     "rejected": 21,
     "rejectionReasons": {
       "missing_event_evidence": 9,
@@ -385,7 +397,7 @@
     "Shenzhen": "2026-07-15",
     "Miami": "2026-07-14",
     "Las Vegas": "2026-07-14",
-    "Daresbury": "2026-07-14"
+    "Daresbury": "2026-07-15"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
