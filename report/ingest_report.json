@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-15T05:43:12",
+  "ranAt": "2026-07-14T22:18:11",
   "mode": "full",
   "sources": [
     {
@@ -216,14 +216,14 @@
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
       "captured": 105,
-      "usable": 77,
+      "usable": 76,
       "consumerReady": 56,
-      "consumerRejected": 21,
-      "consumerReadyRate": 0.727,
+      "consumerRejected": 20,
+      "consumerReadyRate": 0.737,
       "rejectionReasons": {
         "missing_event_evidence": 9,
-        "past_event": 8,
-        "placeholder_title": 4
+        "placeholder_title": 5,
+        "past_event": 6
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -299,7 +299,7 @@
       "sourceId": "oil_wechat",
       "name": "OIL Club 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "oil_wechat*.txt",
       "imageDropGlob": "oil_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -313,7 +313,7 @@
       "sourceId": "yuyuan_miniprogram",
       "name": "芋圆YuYuan 微信小程序",
       "cityName": "Shenzhen",
-      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "yuyuan_miniprogram*.txt",
       "imageDropGlob": "yuyuan_miniprogram*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -327,7 +327,7 @@
       "sourceId": "sauce_wechat",
       "name": "Sauce Club 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "sauce_wechat*.txt",
       "imageDropGlob": "sauce_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -341,7 +341,7 @@
       "sourceId": "am06_wechat",
       "name": "AM:06 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "am06_wechat*.txt",
       "imageDropGlob": "am06_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -355,7 +355,7 @@
       "sourceId": "atmos_wechat",
       "name": "ATMOS/其他深圳夜店 微信",
       "cityName": "Shenzhen",
-      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/main/_RaverMVP_github_export/.worktrees/trusted-ticket-price-snapshots/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "atmos_wechat*.txt",
       "imageDropGlob": "atmos_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -369,29 +369,28 @@
   "raverReviewCandidates": [],
   "totals": {
     "captured": 120,
-    "usable": 87
+    "usable": 86
   },
   "consumerQuality": {
     "ready": 65,
-    "rejected": 22,
+    "rejected": 21,
     "rejectionReasons": {
       "missing_event_evidence": 9,
-      "past_event": 9,
-      "placeholder_title": 4
+      "placeholder_title": 5,
+      "past_event": 7
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-15",
+    "Vancouver": "2026-07-14",
     "Shenzhen": "2026-07-15",
-    "Miami": "2026-07-15",
-    "Las Vegas": "2026-07-15",
-    "Daresbury": "2026-07-15"
+    "Miami": "2026-07-14",
+    "Las Vegas": "2026-07-14",
+    "Daresbury": "2026-07-14"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
     "reviewedArtists": 58
   },
-  "referenceDate": "2026-07-15",
   "publicationGate": {
     "status": "ready",
     "requiredCities": [
