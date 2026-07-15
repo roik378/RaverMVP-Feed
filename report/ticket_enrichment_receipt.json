@@ -52,14 +52,14 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 34,
-          "ratio": 0.6939,
-          "total": 49
+          "direct": 40,
+          "ratio": 0.7273,
+          "total": 55
         },
         "raw": {
-          "direct": 34,
-          "ratio": 0.6939,
-          "total": 49
+          "direct": 40,
+          "ratio": 0.7273,
+          "total": 55
         }
       }
     },
@@ -114,14 +114,14 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "direct": 32,
-          "ratio": 0.6531,
-          "total": 49
+          "direct": 38,
+          "ratio": 0.6909,
+          "total": 55
         },
         "raw": {
-          "direct": 32,
-          "ratio": 0.6531,
-          "total": 49
+          "direct": 38,
+          "ratio": 0.6909,
+          "total": 55
         }
       }
     }
@@ -226,11 +226,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 63,
-  "eventCountBefore": 63,
+  "eventCountAfter": 69,
+  "eventCountBefore": 69,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "60cc517686cdf6a959d0946703d38041563e5f0c33d5e53fe285023935ca725a",
-  "feedSHA256Before": "24fe8a0f7d727842e0c300b47d3d4aecbe57a3acbf04dfb374743d15438c1ad4",
+  "feedSHA256After": "662586821798eec757afafd916c11894b360697fac3b1db50f8ee9cd01f0f990",
+  "feedSHA256Before": "d164b77b63fb827535fbe0a7f304dfc03c7891a10f03ebc29a51ba3fa149192f",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [
