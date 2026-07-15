@@ -8,13 +8,13 @@
   },
   "eventCount": 69,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "217731db9c4d0204c1a6b1182ad55907aef13ff3c84265436a06a7d94063fd09",
+  "feedSHA256": "eca39c464e27799f0bd42d4e6f8f2341805e1146b0483ab5da8c2325c73da852",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-15T07:31:58+08:00",
+  "publishedAt": "2026-07-15T18:27:03Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "4e11db19fc99815adc5c767ec507877fa5a92b0964f04f086586083d1483dde5",
+  "reportSHA256": "dd851a0898585367ce5f952aa99e00542dcd5ad8ea119e0cde2dea6eb137b0c4",
   "schemaVersion": 1,
-  "sourceCommitSHA": "84d0ac72afe4abf6ac3d1477ec15d1a601816ea7",
+  "sourceCommitSHA": "a6001431c4eec4eb05179082a9220c8cbcbdaedd",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
   "ticketCoverageLimited": true,
@@ -22,10 +22,10 @@
     "Shenzhen"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "f7cd2559e08f73b0ae56c565a1f8cf5fa5236de2fdd17c97c7433b7d282a8375",
+  "ticketPriceProjectionSHA256": "9da5aa75e373deef1770af1556cd1a8fe243758276673acfd2363d1e6ed49e46",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "51e46d66ee5cd214dc12b6148edf8725505e66a7537c7b748c0777a620a7fff8",
+  "ticketPriceReceiptSHA256": "87456de4e58b57c83d31538006e79b21cb878e59cc9c779446ef901b1233e6fc",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "a538dd8e76d790668ec5ad6655202571418dc6c59d0be7fd2d2a699e2fc0d0dc"
+  "ticketReceiptSHA256": "1ff8f63c2103f24166c79c06c55d8009ee5d3ff735481e5b6e91e0899ab756e0"
 }

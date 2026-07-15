@@ -229,8 +229,8 @@
   "eventCountAfter": 69,
   "eventCountBefore": 69,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "217731db9c4d0204c1a6b1182ad55907aef13ff3c84265436a06a7d94063fd09",
-  "feedSHA256Before": "552307a0f1dc00db010913b19aa06dee6204635d8d72faf85f1a6f9ac9845676",
+  "feedSHA256After": "eca39c464e27799f0bd42d4e6f8f2341805e1146b0483ab5da8c2325c73da852",
+  "feedSHA256Before": "db9fd42c2372c96f78a7457cd38372043666eabad2e6b8ea85c529e8970ad251",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "blockedCities": [
@@ -252,7 +252,7 @@
     "minimumDirectTicketCoverage": 0.6,
     "status": "blocked"
   },
-  "referenceDate": "2026-07-14",
+  "referenceDate": "2026-07-15",
   "schemaVersion": 1,
   "staleSkippedCount": 2,
   "status": "applied",

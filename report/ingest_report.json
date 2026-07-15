@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-14T23:24:05",
+  "ranAt": "2026-07-15T18:23:09",
   "mode": "full",
   "sources": [
     {
@@ -311,7 +311,7 @@
       "sourceId": "oil_wechat",
       "name": "OIL Club 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "Scripts/ingest/wechat_inbox",
       "dropGlob": "oil_wechat*.txt",
       "imageDropGlob": "oil_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -325,7 +325,7 @@
       "sourceId": "yuyuan_miniprogram",
       "name": "芋圆YuYuan 微信小程序",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "Scripts/ingest/wechat_inbox",
       "dropGlob": "yuyuan_miniprogram*.txt",
       "imageDropGlob": "yuyuan_miniprogram*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -339,7 +339,7 @@
       "sourceId": "sauce_wechat",
       "name": "Sauce Club 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "Scripts/ingest/wechat_inbox",
       "dropGlob": "sauce_wechat*.txt",
       "imageDropGlob": "sauce_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -353,7 +353,7 @@
       "sourceId": "am06_wechat",
       "name": "AM:06 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "Scripts/ingest/wechat_inbox",
       "dropGlob": "am06_wechat*.txt",
       "imageDropGlob": "am06_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -367,7 +367,7 @@
       "sourceId": "atmos_wechat",
       "name": "ATMOS/其他深圳夜店 微信",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/RaverMVP/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "Scripts/ingest/wechat_inbox",
       "dropGlob": "atmos_wechat*.txt",
       "imageDropGlob": "atmos_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -393,10 +393,10 @@
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-14",
-    "Shenzhen": "2026-07-15",
-    "Miami": "2026-07-14",
-    "Las Vegas": "2026-07-14",
+    "Vancouver": "2026-07-15",
+    "Shenzhen": "2026-07-16",
+    "Miami": "2026-07-15",
+    "Las Vegas": "2026-07-15",
     "Daresbury": "2026-07-15"
   },
   "reviewedArtistSeed": {
