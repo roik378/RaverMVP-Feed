@@ -432,7 +432,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-17T17:48:52Z",
+        "capturedAt": "2026-07-17T18:18:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -456,7 +456,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T17:48:52Z",
+        "capturedAt": "2026-07-17T18:18:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -480,7 +480,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T17:48:52Z",
+        "capturedAt": "2026-07-17T18:18:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -504,7 +504,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T17:48:52Z",
+        "capturedAt": "2026-07-17T18:18:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -528,7 +528,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T17:48:52Z",
+        "capturedAt": "2026-07-17T18:18:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -552,7 +552,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T17:48:52Z",
+        "capturedAt": "2026-07-17T18:18:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -658,10 +658,10 @@
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
     }
   ],
-  "feedSHA256After": "f9222ba73e35d7649d597f4e4b2d492a4eb5c60d1b33981e0ca934ed41866220",
-  "feedSHA256Before": "33dbcb6d94befbfc64f6d95d1db84646a4d7e8765a75094dfb7f42c753872201",
-  "historySHA256After": "08913bf92a83f29be7ee9d6ddcb599b65f163e97324d410a860f1605f32d3a48",
-  "priceProjectionSHA256": "a781974c93fa2a0f7d51ccd459250ddce0ab577af4603d5678c3b6989254f61f",
+  "feedSHA256After": "0938ceddae0189ab0030da0c1731e883c83be1497c92a10f1eccd256757312ea",
+  "feedSHA256Before": "bb779853385b6c04970ce778d61bb7c3aec465c50c70e39c5eefa8fe4f24c2d8",
+  "historySHA256After": "99f7cca6279a0955a47780ab3089641d5ab64a26cd85bcf83bd3366a609d0ff8",
+  "priceProjectionSHA256": "9992945469ca40212b29c0754bfa45b8a7885926b8403dd66f5d22cfd9e25f27",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {

@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T17:48:03Z",
-  "ingestRunId": "9CABC221-254B-416E-BD01-211EFA9F5274",
-  "ingestRunAt": "2026-07-17T17:48:03Z",
+  "ranAt": "2026-07-17T18:17:10Z",
+  "ingestRunId": "3A99B1E7-3296-43EF-9181-10B0BAB10E71",
+  "ingestRunAt": "2026-07-17T18:17:10Z",
   "mode": "full",
   "sources": [
     {
@@ -194,7 +194,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-17T17:47:50Z",
+      "ticketOfferObservedAt": "2026-07-17T18:16:57Z",
       "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -886,8 +886,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "1BDC2C7D-DFFC-4C4D-A708-967767B0340C",
-      "ingestRunAt": "2026-07-17T17:34:26Z"
+      "ingestRunId": "9CABC221-254B-416E-BD01-211EFA9F5274",
+      "ingestRunAt": "2026-07-17T17:48:03Z"
     }
   },
   "executionCoverage": {
