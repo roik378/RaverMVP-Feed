@@ -292,6 +292,15 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "29851867-58D2-5FC0-B320-3C0BE0E27644",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/93Tpc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "AC1C1043-F2F9-5B6E-8282-A64E6CCB77DB",
       "reason": null,
       "stale": false,
@@ -332,6 +341,51 @@
       "reason": null,
       "stale": false,
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "A62931D4-4124-5B14-A182-1B6EDEF02A9E",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/Ibnpc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "E850A54B-35A7-5C03-8E3D-3F19CCA18AF2",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/HI5nc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "91FF3A33-4453-5C1E-9CF3-7AA39B2E577A",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/QTNnc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "1A294952-18E9-558A-80DA-7C3E90EC8EAD",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/gK0nc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "9297F99C-6132-5A6B-95E4-B10501753938",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/2tknc"
     },
     {
       "action": "no_snapshot",
@@ -432,7 +486,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-17T18:18:00Z",
+        "capturedAt": "2026-07-17T19:48:03Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -456,7 +510,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T18:18:00Z",
+        "capturedAt": "2026-07-17T19:48:03Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -480,7 +534,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T18:18:00Z",
+        "capturedAt": "2026-07-17T19:48:03Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -504,7 +558,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T18:18:00Z",
+        "capturedAt": "2026-07-17T19:48:03Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -528,7 +582,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T18:18:00Z",
+        "capturedAt": "2026-07-17T19:48:03Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -552,7 +606,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T18:18:00Z",
+        "capturedAt": "2026-07-17T19:48:03Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -658,17 +712,17 @@
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
     }
   ],
-  "feedSHA256After": "0938ceddae0189ab0030da0c1731e883c83be1497c92a10f1eccd256757312ea",
-  "feedSHA256Before": "bb779853385b6c04970ce778d61bb7c3aec465c50c70e39c5eefa8fe4f24c2d8",
-  "historySHA256After": "99f7cca6279a0955a47780ab3089641d5ab64a26cd85bcf83bd3366a609d0ff8",
-  "priceProjectionSHA256": "9992945469ca40212b29c0754bfa45b8a7885926b8403dd66f5d22cfd9e25f27",
+  "feedSHA256After": "a4337e1685c24d6c3b36546d3777e3cdb504ce23647337bae1e09ab00cb27f14",
+  "feedSHA256Before": "9adf41d97f7fc19e6d946168b1d6243b850fa74d182d9354b91ad014e53b6dba",
+  "historySHA256After": "8b76f20404d5e1d12a74aa968cd3187a9c7a405d2dbdbfed2a644a81d66f5e08",
+  "priceProjectionSHA256": "80ad551cf834e9c7a37b5453c0ec855536dc6b7bc216a66911c064abecdcf4df",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 63,
+    "candidateCount": 69,
     "freshCount": 6,
-    "noSnapshotCount": 36,
+    "noSnapshotCount": 42,
     "providerFailureCount": 21,
     "staleCount": 0
   }

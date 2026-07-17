@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T18:17:10Z",
-  "ingestRunId": "3A99B1E7-3296-43EF-9181-10B0BAB10E71",
-  "ingestRunAt": "2026-07-17T18:17:10Z",
+  "ranAt": "2026-07-17T19:47:16Z",
+  "ingestRunId": "3C28ABF9-1ECD-4DE2-B855-F2E3A7DB4685",
+  "ingestRunAt": "2026-07-17T19:47:16Z",
   "mode": "full",
   "sources": [
     {
@@ -54,9 +54,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 20,
-      "usable": 20,
-      "consumerReady": 14,
+      "captured": 80,
+      "usable": 80,
+      "consumerReady": 32,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -194,7 +194,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-17T18:16:57Z",
+      "ticketOfferObservedAt": "2026-07-17T19:47:03Z",
       "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -440,14 +440,14 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 104,
-      "usable": 76,
-      "consumerReady": 56,
-      "consumerRejected": 20,
-      "consumerReadyRate": 0.737,
+      "captured": 164,
+      "usable": 102,
+      "consumerReady": 63,
+      "consumerRejected": 39,
+      "consumerReadyRate": 0.618,
       "rejectionReasons": {
-        "past_event": 8,
-        "missing_raver_evidence": 5,
+        "past_event": 21,
+        "missing_raver_evidence": 11,
         "reviewed_non_raver_title": 2,
         "placeholder_title": 5
       },
@@ -815,6 +815,38 @@
     {
       "sourceId": "village_studios_vancouver",
       "sourceKind": "clubWebsite",
+      "eventId": "FE2DF439-4103-59A7-9ECD-B0B15BBE9ACC",
+      "title": "Propagate Pres. Underscores (DJ SET)",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "JULY 30",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "0C797A6B-7A58-54C9-835B-9F43D65287DB",
+      "title": "Underscores",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "July 30",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
       "eventId": "DAB972E2-CADC-5518-82DD-C1081A581E99",
       "title": "BIMBO 54",
       "venue": "Village Studios",
@@ -843,18 +875,152 @@
       "ticketPriceText": null,
       "reason": "missing_raver_evidence",
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "FC313592-C413-553A-A274-02D0A1D60DDA",
+      "title": "TAKUYA NAKAMURA",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "September 6",
+      "timeText": "10:00",
+      "lineupNames": [
+        "Takuya Nakamura"
+      ],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "94D76BA0-5D8F-54E3-B236-B4F580EFB049",
+      "title": "TAKUYA NAKAMURA",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "SEPTEMBER 05",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "3BD50038-65FE-58DC-AFBF-47E66BD9D2DE",
+      "title": "ATRIP & DJ BORING: CAN YOU KEEP UP? (VANCOUVER)",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "Sep 11",
+      "timeText": "23:00",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "1572A17F-DB50-5B3C-B234-316A46BE4AF9",
+      "title": "ATRIP & DJ BORING",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "SEPTEMBER 11",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "AE3A04C8-FD58-5FE2-8E62-8413207D0CFC",
+      "title": "julian fijma",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "Sep 19",
+      "timeText": "22:00",
+      "lineupNames": [
+        "Julian Fijma"
+      ],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "D8F65832-F50F-545D-8B10-4C3B1F9A1F82",
+      "title": "STACKED pres. CAMOUFLY",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "Oct 3",
+      "timeText": "22:00",
+      "lineupNames": [
+        "CAMOUFLY"
+      ],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "35D70F67-5AEF-5A6F-A9BE-C637466A08A9",
+      "title": "CAMOUFLY",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "OCTOBER 3",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "0660FEE2-71D7-5463-B652-E2BE993CC0F1",
+      "title": "Blueprint Events + STACKED present:",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "OCTOBER 3",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
   "totals": {
-    "captured": 133,
-    "usable": 100
+    "captured": 193,
+    "usable": 126
   },
   "consumerQuality": {
-    "ready": 80,
-    "rejected": 20,
+    "ready": 87,
+    "rejected": 39,
     "rejectionReasons": {
-      "past_event": 8,
-      "missing_raver_evidence": 5,
+      "past_event": 21,
+      "missing_raver_evidence": 11,
       "reviewed_non_raver_title": 2,
       "placeholder_title": 5
     }
@@ -886,8 +1052,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "9CABC221-254B-416E-BD01-211EFA9F5274",
-      "ingestRunAt": "2026-07-17T17:48:03Z"
+      "ingestRunId": "22BDB590-51DE-4206-829A-F8476F57CE44",
+      "ingestRunAt": "2026-07-17T19:27:42Z"
     }
   },
   "executionCoverage": {
