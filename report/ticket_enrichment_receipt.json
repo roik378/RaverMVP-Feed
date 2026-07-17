@@ -1,5 +1,5 @@
 {
-  "appliedCount": 0,
+  "appliedCount": 1,
   "coverage": {
     "after": {
       "Daresbury": {
@@ -62,24 +62,64 @@
           "total": 1
         }
       },
-      "Shenzhen": {
+      "Orlando": {
         "consumerEligible": {
-          "actionable": 19,
+          "actionable": 1,
           "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
         },
         "raw": {
-          "actionable": 19,
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
+      "Salmo": {
+        "consumerEligible": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        },
+        "raw": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
+      "Shenzhen": {
+        "consumerEligible": {
+          "actionable": 18,
           "actionableRatio": 1.0,
           "assisted": 16,
-          "assistedRatio": 0.8421,
+          "assistedRatio": 0.8889,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.2778,
+          "total": 18
+        },
+        "raw": {
+          "actionable": 18,
+          "actionableRatio": 1.0,
+          "assisted": 16,
+          "assistedRatio": 0.8889,
+          "direct": 5,
+          "ratio": 0.2778,
+          "total": 18
         }
       },
       "Vancouver": {
@@ -93,13 +133,13 @@
           "total": 56
         },
         "raw": {
-          "actionable": 55,
-          "actionableRatio": 0.9649,
+          "actionable": 54,
+          "actionableRatio": 0.9643,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 55,
-          "ratio": 0.9649,
-          "total": 57
+          "direct": 54,
+          "ratio": 0.9643,
+          "total": 56
         }
       }
     },
@@ -164,44 +204,84 @@
           "total": 1
         }
       },
-      "Shenzhen": {
+      "Orlando": {
         "consumerEligible": {
-          "actionable": 19,
+          "actionable": 1,
           "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
         },
         "raw": {
-          "actionable": 19,
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
+      "Salmo": {
+        "consumerEligible": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        },
+        "raw": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
+      "Shenzhen": {
+        "consumerEligible": {
+          "actionable": 18,
           "actionableRatio": 1.0,
           "assisted": 16,
-          "assistedRatio": 0.8421,
+          "assistedRatio": 0.8889,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.2778,
+          "total": 18
+        },
+        "raw": {
+          "actionable": 18,
+          "actionableRatio": 1.0,
+          "assisted": 16,
+          "assistedRatio": 0.8889,
+          "direct": 5,
+          "ratio": 0.2778,
+          "total": 18
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 54,
-          "actionableRatio": 0.9643,
+          "actionable": 53,
+          "actionableRatio": 0.9464,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 54,
-          "ratio": 0.9643,
+          "direct": 53,
+          "ratio": 0.9464,
           "total": 56
         },
         "raw": {
-          "actionable": 55,
-          "actionableRatio": 0.9649,
+          "actionable": 53,
+          "actionableRatio": 0.9464,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 55,
-          "ratio": 0.9649,
-          "total": 57
+          "direct": 53,
+          "ratio": 0.9464,
+          "total": 56
         }
       }
     }
@@ -288,7 +368,7 @@
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     },
     {
-      "action": "unchanged",
+      "action": "applied",
       "canonicalVenue": "Village Studios",
       "city": "Vancouver",
       "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
@@ -302,7 +382,7 @@
         "NITESHIFT pres. ANTHONY ATTALLA"
       ],
       "newTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
-      "oldTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
+      "oldTicketURLText": null,
       "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
     },
     {
@@ -327,8 +407,8 @@
   "eventCountAfter": 80,
   "eventCountBefore": 80,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "43e2ed09188f30109141d94cd3158d4c2ae90b4c8a735ffecfb039a15701af80",
-  "feedSHA256Before": "43e2ed09188f30109141d94cd3158d4c2ae90b4c8a735ffecfb039a15701af80",
+  "feedSHA256After": "0e52ac9bae02d2eee9c60d1f28e9bcd679f40a316408c0f6e73319e684852c35",
+  "feedSHA256Before": "7cfc8f1b71977e388674e3511799f2ef30426614215075036b6f4fd0b9e3d289",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -356,6 +436,6 @@
   "schemaVersion": 1,
   "staleSkippedCount": 2,
   "status": "applied",
-  "unchangedCount": 5,
+  "unchangedCount": 4,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }
