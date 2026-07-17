@@ -1,14 +1,14 @@
 {
   "feedVersion": 1,
-  "ingestRunId": "D39ACB1C-A9BF-4213-8806-DE7E85649A1E",
-  "ingestRunAt": "2026-07-17T21:11:56Z",
-  "generatedAtText": "Fri 21:11",
+  "ingestRunId": "B2604507-47ED-4ACF-AD63-B46C395F2D4E",
+  "ingestRunAt": "2026-07-17T21:42:21Z",
+  "generatedAtText": "Fri 21:42",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": {
         "latitude": 49.2827,
@@ -31,7 +31,7 @@
             "Trance"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/gabrieldresden26",
@@ -40,14 +40,32 @@
             {
               "name": "Gabriel & Dresden",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "71B90C0F-92BF-5963-8545-A025C0571B16",
+                  "title": "Sequoia",
+                  "label": "Gabriel & Dresden"
+                },
+                {
+                  "id": "579DFBDF-AEA9-5424-AC9E-A52523D6A090",
+                  "title": "Tracking Treasure Down (Original Mix) [feat. Molly Bancroft]",
+                  "label": "Gabriel & Dresden"
+                },
+                {
+                  "id": "E7836BE6-E5D7-5808-8243-85A0F8ADBBD8",
+                  "title": "Gabriel & Dresden (Full Continuous Mix)",
+                  "label": "Gabriel & Dresden"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -66,7 +84,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/clubcontrollerwithsweetandsawajuly25",
@@ -89,7 +107,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -106,7 +124,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/underscores",
@@ -115,14 +133,32 @@
             {
               "name": "UNDERSCORES",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D81CF992-7455-55DE-B9DB-B23C0C23D173",
+                  "title": "Locals (Girls like us)",
+                  "label": "Mom+Pop"
+                },
+                {
+                  "id": "D66B4A1D-1A66-54F1-AC17-E46D1756A0AE",
+                  "title": "Music",
+                  "label": "Mom+Pop"
+                },
+                {
+                  "id": "C7E2CECA-ADD0-5C20-9BE5-B774045B79C6",
+                  "title": "Tell Me (U Want It)",
+                  "label": "Mom+Pop"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -139,7 +175,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/djg2g",
@@ -148,14 +184,32 @@
             {
               "name": "dj g2g",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hard Dance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D02C9785-9ADD-5919-A1D6-FDE66FB52955",
+                  "title": "Tócame (feat. Dillom)",
+                  "label": "DALE PLAY Records"
+                },
+                {
+                  "id": "5D59800B-08BB-594E-A3C3-78681FD614E6",
+                  "title": "bby luv x3 (feat. dj g2g)",
+                  "label": "Three Six Zero Recordings"
+                },
+                {
+                  "id": "9AF09AD8-D534-5205-84E9-CB875DDBAAA3",
+                  "title": "Angel Music (dj g2g & Vrod Beatz Remix)",
+                  "label": "NLV Records"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -174,7 +228,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/cumtogether-cocoandbreezy",
@@ -183,14 +237,32 @@
             {
               "name": "Coco & Breezy",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "679F5B57-AB0E-5C31-8BAA-83CC7DCD75CF",
+                  "title": "Just Say",
+                  "label": "Coco & Breezy"
+                },
+                {
+                  "id": "311EE9E3-5C9D-570C-8306-F516E780941B",
+                  "title": "I Am Free",
+                  "label": "Coco & Breezy"
+                },
+                {
+                  "id": "A6CDD3FD-11A8-5E68-95ED-19AE4C0A7253",
+                  "title": "There Is A Light",
+                  "label": "Coco & Breezy"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -207,7 +279,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/alexchapman-pd72s",
@@ -216,14 +288,32 @@
             {
               "name": "ALEX CHAPMAN",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2BCAC448-2A99-56F1-8C30-32BC98FC72EA",
+                  "title": "Stay The Weekend (feat. Uffie)",
+                  "label": "Big Beat Records"
+                },
+                {
+                  "id": "514FABFC-EDF8-5945-B313-0CE33AA169D7",
+                  "title": "Slip & Slide",
+                  "label": "Ultra Records"
+                },
+                {
+                  "id": "244AF1AE-FFB7-52FE-8AF7-18348C0C1851",
+                  "title": "Horsey",
+                  "label": "Oh Ok Entertainment"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -240,7 +330,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -249,14 +339,32 @@
             {
               "name": "EMMIT FENN",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F6D7FFB5-D7C8-5646-B8CD-F64D465CB923",
+                  "title": "Painting Greys",
+                  "label": "Emmit Fenn"
+                },
+                {
+                  "id": "F8B3AF6D-B0CD-5607-A28A-06A808355C98",
+                  "title": "Control",
+                  "label": "Emmit Fenn"
+                },
+                {
+                  "id": "ABF6D7CA-2C49-5CC0-AF1B-8384031E0405",
+                  "title": "Until We Leave the Ground",
+                  "label": "Emmit Fenn"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -276,7 +384,7 @@
             "Progressive"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/oliversmith2026",
@@ -292,7 +400,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -312,7 +420,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/conradtaylor",
@@ -321,49 +429,33 @@
             {
               "name": "CONRAD TAYLOR",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Hard Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "4464C3B7-7965-50C1-BE07-1B70BAC1BEF9",
+                  "title": "MOVE",
+                  "label": "Conrad Taylor"
+                },
+                {
+                  "id": "F97E9A53-1839-574C-86D9-C7EFE2846AF8",
+                  "title": "ich kann's nicht",
+                  "label": "Conrad Taylor"
+                },
+                {
+                  "id": "1DE6748B-596C-54EC-8386-D033C9E7E4C2",
+                  "title": "Something Like This",
+                  "label": "Conrad Taylor"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
-          }
-        },
-        {
-          "id": "7280AB10-A20A-5101-8E4E-9024D2963148",
-          "sourceId": "celebrities_vancouver",
-          "sourceKind": "clubWebsite",
-          "title": "PLAYHOUSE Pres. CYRIL",
-          "subtitle": null,
-          "venue": "Celebrities Nightclub",
-          "city": "Vancouver",
-          "dateText": "Aug 29",
-          "timeText": "22:00",
-          "distanceText": null,
-          "coordinate": null,
-          "styles": [
-            "House"
-          ],
-          "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://www.celebritiesnightclub.com/events/cyril",
-          "ticketURLText": "https://on.celebritiesnightclub.com/trk/Xmknc",
-          "lineup": [
-            {
-              "name": "CYRIL",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            }
-          ],
-          "sourceFreshness": {
-            "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -380,7 +472,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/tech-g1rls",
@@ -388,7 +480,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -407,7 +499,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/djseinfeld2026",
@@ -423,7 +515,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -442,7 +534,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/taylahelaine",
@@ -450,7 +542,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -467,7 +559,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195395",
@@ -476,14 +568,33 @@
             {
               "name": "INQUISITIVE",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hardstyle",
+                "Hard Dance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "4D21BE58-17ED-5FB5-B91D-5135C1120267",
+                  "title": "Fairy Dynasty",
+                  "label": "INQUISITIVE"
+                },
+                {
+                  "id": "80A43B87-B12C-59C8-B72C-C1660742BB4C",
+                  "title": "Cupid (Hardstyle Mix)",
+                  "label": "INQUISITIVE"
+                },
+                {
+                  "id": "279D022C-B7D4-5FD7-856F-A3ED55E2321F",
+                  "title": "Can't Help Falling In Love",
+                  "label": "INQUISITIVE"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -500,7 +611,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/182221",
@@ -509,14 +620,33 @@
             {
               "name": "San Holo",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Bass",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "C8A772F7-C50A-55FF-ABB6-7C2046738EB3",
+                  "title": "Light",
+                  "label": "San Holo"
+                },
+                {
+                  "id": "E84D5064-4BFD-53C4-AC9E-E7696372228C",
+                  "title": "We Rise",
+                  "label": "San Holo"
+                },
+                {
+                  "id": "3AEEB5FC-C214-5940-B6C2-AEA5920C90A8",
+                  "title": "Stfu (feat. Kompany, SampliFire & IVORY)",
+                  "label": "San Holo"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -533,7 +663,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/184769",
@@ -542,14 +672,32 @@
             {
               "name": "Vintage Culture",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "1F9BCD45-26E2-5885-8017-EAC65EF2F8AB",
+                  "title": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
+                  "label": "Vintage Culture & Zerky"
+                },
+                {
+                  "id": "1F9D5285-A5B4-55C9-B6CE-557A83D5915D",
+                  "title": "Freaky 1",
+                  "label": "Vintage Culture"
+                },
+                {
+                  "id": "CEAE2A93-5F77-5598-8B47-B63EA42FC050",
+                  "title": "You Give Me a Feeling",
+                  "label": "Vintage Culture"
+                }
+              ],
+              "peakDJMagRank": 9
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -566,7 +714,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/194433",
@@ -574,7 +722,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -591,7 +739,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197263",
@@ -599,7 +747,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -616,7 +764,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192055",
@@ -625,14 +773,32 @@
             {
               "name": "Dombresky",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "80F45190-2D60-5742-AB40-C5183C72BACA",
+                  "title": "Soul Sacrifice",
+                  "label": "Dombresky"
+                },
+                {
+                  "id": "09DB1343-411D-5996-8621-3DD47172A35C",
+                  "title": "Simple Hit",
+                  "label": "Dombresky"
+                },
+                {
+                  "id": "84DD87B6-EF5F-582D-9F87-2F9008175648",
+                  "title": "Down Low",
+                  "label": "Dombresky"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -649,7 +815,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/185416",
@@ -658,14 +824,33 @@
             {
               "name": "Boris Brejcha",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2C5BC33C-4859-540B-A4ED-5F726C02E649",
+                  "title": "House Music (feat. Arctic Lake) [Edit]",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "6973487E-F19B-53C9-BA1A-E940E993091A",
+                  "title": "Purple Noise",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "FFBD006E-C184-57C3-BCCD-309C229F5063",
+                  "title": "Gravity (feat. Laura Korinth) [Edit]",
+                  "label": "Boris Brejcha"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -684,7 +869,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198329",
@@ -692,7 +877,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -709,7 +894,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/177104",
@@ -718,14 +903,32 @@
             {
               "name": "MUST DIE!",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "79B8F42B-3E43-5A55-9508-71256BC03B51",
+                  "title": "CHAOS",
+                  "label": "MUST DIE!"
+                },
+                {
+                  "id": "BE10A973-E7E6-55B6-8F6E-36ED1B470267",
+                  "title": "Neo Tokyo",
+                  "label": "MUST DIE!"
+                },
+                {
+                  "id": "E187E81B-5030-5588-B6CB-3AF182305B2B",
+                  "title": "BLISS 2K",
+                  "label": "MUST DIE!"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -742,7 +945,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/186501",
@@ -751,14 +954,22 @@
             {
               "name": "Vini Vici",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "96745DDC-5E45-5477-B987-9F6139AC5FFB",
+                  "title": "The Tribe",
+                  "label": "Vini Vici"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -775,7 +986,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196122",
@@ -784,14 +995,33 @@
             {
               "name": "Adventure Club",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep",
+                "Future Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "44F63944-160A-5DFE-B0B8-C08581DA9385",
+                  "title": "Gold (feat. Yuna)",
+                  "label": "Adventure Club"
+                },
+                {
+                  "id": "79BC62CD-755E-5AEB-8A4A-E8EB154397C3",
+                  "title": "Crash 2.0 (feat. Dallas Koehlke)",
+                  "label": "Adventure Club"
+                },
+                {
+                  "id": "F803FE7F-094E-540C-AD51-DDC0B966F4B5",
+                  "title": "Crave You (Adventure Club Remix)",
+                  "label": "Flight Facilities & Adventure Club"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -810,7 +1040,7 @@
             "Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198322",
@@ -819,14 +1049,33 @@
             {
               "name": "DORUKSEN",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Acid",
+                "Hard Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "5018CA08-C1CB-5BB8-884A-B16499F40521",
+                  "title": "Intoxicated",
+                  "label": "NOSS Label"
+                },
+                {
+                  "id": "49FC7CF6-18F1-58BA-B83B-E99FD46F9B12",
+                  "title": "ACXD",
+                  "label": "NOSS Label"
+                },
+                {
+                  "id": "7D5A8415-A55B-5D8B-A13E-BD331E3F1FA1",
+                  "title": "Detoxicated (Intoxicated 2.0)",
+                  "label": "NOSS Label"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -843,7 +1092,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195425",
@@ -852,14 +1101,32 @@
             {
               "name": "Mike Williams",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "A9C4B0B2-14DC-5E3A-A4AA-4BBB6C915FBE",
+                  "title": "Dynamite",
+                  "label": "Mike Williams"
+                },
+                {
+                  "id": "A96A1E06-8DE7-5EB8-BA76-74950B95AD22",
+                  "title": "Wait Another Day",
+                  "label": "Mike Williams & Mesto"
+                },
+                {
+                  "id": "9AA364B1-A401-50A0-ACE1-8881F4871401",
+                  "title": "Lullaby",
+                  "label": "R3HAB & Mike Williams"
+                }
+              ],
+              "peakDJMagRank": 72
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -876,7 +1143,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/188737",
@@ -885,14 +1152,32 @@
             {
               "name": "DJ DIESEL",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "391DD109-5A23-5EC5-8AF1-2FBC8C7D66C3",
+                  "title": "WARFARE",
+                  "label": "DJ DIESEL, CELO & Shaquille O'Neal"
+                },
+                {
+                  "id": "30830187-FD49-56B0-AD3D-BDC7AFC8865A",
+                  "title": "BANG YOUR HEAD",
+                  "label": "DJ DIESEL, Hairitage & Shaquille O'Neal"
+                },
+                {
+                  "id": "0DC25601-38F2-5A52-B246-E6EE092F84A8",
+                  "title": "NO FEAR",
+                  "label": "DJ DIESEL, Jessica Audiffred & Shaquille O'Neal"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -909,7 +1194,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198827",
@@ -925,7 +1210,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -942,7 +1227,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191670",
@@ -951,14 +1236,33 @@
             {
               "name": "Ben Nicky",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hardstyle",
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "345A8C19-3BDC-59AF-A32C-96124D790147",
+                  "title": "Dirty Rave",
+                  "label": "Ben Nicky"
+                },
+                {
+                  "id": "770CF917-1AC1-5DD9-9E6B-0B9C4FEB587F",
+                  "title": "Numb (feat. Distorted Dreams)",
+                  "label": "Ben Nicky"
+                },
+                {
+                  "id": "AB766AA8-FF7B-5458-A855-49A821D3E8FF",
+                  "title": "Keep Me High",
+                  "label": "Ben Nicky"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -975,7 +1279,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197295",
@@ -984,28 +1288,82 @@
             {
               "name": "DubVision",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "83200266-5DA0-51A7-80E5-8542D5223A84",
+                  "title": "Turn It Around",
+                  "label": "DubVision"
+                },
+                {
+                  "id": "58813245-4B41-5D26-8221-045A91B6A426",
+                  "title": "I Found Your Heart (feat. Emeni)",
+                  "label": "DubVision"
+                },
+                {
+                  "id": "A19EE9D9-6B01-5D75-8BA9-F9CFEA2DA1C2",
+                  "title": "Backlash (Martin Garrix Edit)",
+                  "label": "DubVision & Martin Garrix"
+                }
+              ],
+              "peakDJMagRank": 87
             },
             {
               "name": "Third Party",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "CE9922A1-2A8A-52A5-A9B8-5891143185BD",
+                  "title": "Carry You (feat. Declan J Donovan)",
+                  "label": "Martin Garrix, Third Party & Oaks"
+                },
+                {
+                  "id": "DA99CF54-D4CB-5821-B03F-7BBF6A64D3CA",
+                  "title": "Live Forever",
+                  "label": "Third Party"
+                },
+                {
+                  "id": "E7B5A815-4218-589D-ADD6-1EADD8B6822E",
+                  "title": "Everyday of My Life",
+                  "label": "Third Party"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Matisse & Sadko",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "10DD8DAE-331A-505B-A5F6-806A5588DD7B",
+                  "title": "Into You (feat. Hanne Mjøen)",
+                  "label": "Matisse & Sadko"
+                },
+                {
+                  "id": "CB69F154-4F18-592E-AE35-CD13C5DDA250",
+                  "title": "Strings Again",
+                  "label": "Matisse & Sadko"
+                },
+                {
+                  "id": "21D5CD8E-D25B-52B9-90F3-049F3918EC36",
+                  "title": "Saga",
+                  "label": "Matisse & Sadko"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1022,7 +1380,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196120",
@@ -1031,14 +1389,33 @@
             {
               "name": "FANTASM",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Hard Techno",
+                "Hard Dance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "FF3E1FB5-37C1-5556-99BD-97D86C29BA20",
+                  "title": "Venom",
+                  "label": "Fantasm"
+                },
+                {
+                  "id": "6479C294-9458-5759-B61D-B2D29231A340",
+                  "title": "Burn the Floor",
+                  "label": "Fantasm"
+                },
+                {
+                  "id": "28D2AA2E-D0A5-5530-B690-81BBF18F1F40",
+                  "title": "Masterclass",
+                  "label": "Fantasm"
+                }
+              ],
+              "peakDJMagRank": 93
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1055,7 +1432,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195028",
@@ -1064,14 +1441,32 @@
             {
               "name": "D-Block & S-Te-Fan",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Hardstyle"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "3CD4A013-0C62-59AF-989C-061FF3DAA266",
+                  "title": "Tomorrow Can Wait",
+                  "label": "D-Block & S-Te-Fan & Dual Damage"
+                },
+                {
+                  "id": "21BEA9C9-CCD0-5235-AACD-F35CDFE16ECA",
+                  "title": "Feel It!",
+                  "label": "D-Block & S-Te-Fan & D-Sturb"
+                },
+                {
+                  "id": "31965599-7523-5F4F-9C24-500C0D57ABF3",
+                  "title": "Darkest Hour (The Clock)",
+                  "label": "D-Block & S-Te-Fan & Sub Zero Project"
+                }
+              ],
+              "peakDJMagRank": 72
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1088,7 +1483,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192435",
@@ -1097,14 +1492,32 @@
             {
               "name": "Da Tweekaz",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hardstyle"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AB96271C-7CCB-5DCD-A365-300BD040CEF7",
+                  "title": "Can Can (Hardstyle Mix)",
+                  "label": "Da Tweekaz & High Level"
+                },
+                {
+                  "id": "5D1C3766-BCE2-5DE3-A248-1E083E9D208D",
+                  "title": "Lambada (Your Love)",
+                  "label": "Da Tweekaz"
+                },
+                {
+                  "id": "1B3B7C97-B0C9-5CE9-A48A-C2404E072F32",
+                  "title": "Jägermeister",
+                  "label": "Da Tweekaz"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1121,7 +1534,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191340",
@@ -1130,14 +1543,32 @@
             {
               "name": "WHETHAN",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "607E8A10-98FA-5780-A932-5BEBF948137A",
+                  "title": "When I'm Down",
+                  "label": "Whethan / Oliver Tree"
+                },
+                {
+                  "id": "0655B345-4D7D-51D6-B37A-C3B9049F37E8",
+                  "title": "MONEY ON THE DASH",
+                  "label": "Whethan / Elley Duhé"
+                },
+                {
+                  "id": "EBEA6334-3C7E-5B0C-94FE-6A19A39719E9",
+                  "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
+                  "label": "Whethan"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1154,7 +1585,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/199503",
@@ -1163,14 +1594,32 @@
             {
               "name": "MURPHY'S LAW",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AF858659-F2C7-5BAF-B173-F63C655BEAFD",
+                  "title": "Ain't No Other Man (Rework)",
+                  "label": "Murphy's Law"
+                },
+                {
+                  "id": "BC3C6B5C-3ABF-5B67-8227-260074444B24",
+                  "title": "Pub Talk",
+                  "label": "Murphy's Law"
+                },
+                {
+                  "id": "63B00B3C-55EA-5214-8531-7EC32ED9F0F9",
+                  "title": "Every Day, All Day",
+                  "label": "Murphy's Law"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1189,7 +1638,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/testpilot",
@@ -1197,7 +1646,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1214,7 +1663,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/anthonyattalla",
@@ -1223,14 +1672,32 @@
             {
               "name": "ANTHONY ATTALLA",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B5710093-0D0B-570E-9B27-B1B5C4973037",
+                  "title": "Talk To Me",
+                  "label": "Anthony Attalla"
+                },
+                {
+                  "id": "9E0B7967-E48F-5587-B5FA-82AEE17DAAE0",
+                  "title": "About You",
+                  "label": "Anthony Attalla"
+                },
+                {
+                  "id": "F339F11E-511D-549F-B3A7-5FB352BE4740",
+                  "title": "Afrodesia",
+                  "label": "Anthony Attalla"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1247,7 +1714,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/underscoresap",
@@ -1256,14 +1723,32 @@
             {
               "name": "Underscores",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D81CF992-7455-55DE-B9DB-B23C0C23D173",
+                  "title": "Locals (Girls like us)",
+                  "label": "Mom+Pop"
+                },
+                {
+                  "id": "D66B4A1D-1A66-54F1-AC17-E46D1756A0AE",
+                  "title": "Music",
+                  "label": "Mom+Pop"
+                },
+                {
+                  "id": "C7E2CECA-ADD0-5C20-9BE5-B774045B79C6",
+                  "title": "Tell Me (U Want It)",
+                  "label": "Mom+Pop"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1283,7 +1768,7 @@
             "House"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/roiperezpride",
@@ -1292,14 +1777,23 @@
             {
               "name": "Roi Perez",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House",
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "9E6D1D0A-EEE1-5600-A8AE-9230ED4876A1",
+                  "title": "Champu Princess",
+                  "label": "Avalon Emerson & Roi Perez · Ostgut Ton"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1316,7 +1810,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.55,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/onlyfire",
@@ -1325,14 +1819,33 @@
             {
               "name": "Only Fire",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House",
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D1B95B8B-C093-5F4A-A551-509ECB137AFC",
+                  "title": "Moana Lisa",
+                  "label": "Only Fire"
+                },
+                {
+                  "id": "04C3739A-E778-5BAA-A99A-E5AA3CF80B06",
+                  "title": "Up n Down",
+                  "label": "Only Fire"
+                },
+                {
+                  "id": "2CEE266C-EBB6-5A8F-9E2D-BC1759C405E5",
+                  "title": "Cheeks",
+                  "label": "Only Fire feat. Chase Icon"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1352,7 +1865,7 @@
             "Bass"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/chasewest",
@@ -1360,7 +1873,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1377,7 +1890,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/otha",
@@ -1393,7 +1906,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1412,7 +1925,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/bijou",
@@ -1421,14 +1934,32 @@
             {
               "name": "BIJOU",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "FCC0DB90-B84E-598C-82A9-7B993584EDBC",
+                  "title": "I Know",
+                  "label": "Marten Hørger & BIJOU"
+                },
+                {
+                  "id": "1EBDE663-54D6-58FD-84C6-14E811122DD2",
+                  "title": "WHOA",
+                  "label": "BIJOU feat. Party Favor"
+                },
+                {
+                  "id": "A5A05592-5B4E-5E93-8D23-F62B6073C98E",
+                  "title": "Mamacita",
+                  "label": "BIJOU"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1447,7 +1978,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/westend",
@@ -1463,7 +1994,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1482,7 +2013,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/discip",
@@ -1498,7 +2029,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1517,7 +2048,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/simondotyreup-rxgct",
@@ -1533,7 +2064,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1552,7 +2083,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/deanturnley",
@@ -1560,7 +2091,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1579,7 +2110,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/dublon2026",
@@ -1595,7 +2126,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1614,7 +2145,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/jazzy",
@@ -1630,7 +2161,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1647,7 +2178,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -1677,7 +2208,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1694,7 +2225,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1710,7 +2241,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1727,7 +2258,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1743,14 +2274,32 @@
             {
               "name": "Pixel Grip",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "91671F15-1B65-50B4-B8D5-0F6B15EC1CF1",
+                  "title": "Pursuit",
+                  "label": "Pixel Grip"
+                },
+                {
+                  "id": "3D673A4F-9F45-5EA8-9C58-B8118287885A",
+                  "title": "Insignificant",
+                  "label": "Pixel Grip"
+                },
+                {
+                  "id": "66F0A1B2-ADFC-5BA8-B640-5CC7A0296231",
+                  "title": "Diamonds",
+                  "label": "Pixel Grip"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1767,7 +2316,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1790,7 +2339,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1807,7 +2356,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1830,7 +2379,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1847,7 +2396,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1863,7 +2412,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1880,7 +2429,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1889,14 +2438,32 @@
             {
               "name": "Mind Enterprises",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "E670A299-6F84-5B66-B131-D6E520969F14",
+                  "title": "Idol",
+                  "label": "Mind Enterprises"
+                },
+                {
+                  "id": "61E0754A-74CE-5CB0-B772-A8BC39B6F8EA",
+                  "title": "Tacchini",
+                  "label": "Mind Enterprises"
+                },
+                {
+                  "id": "4CDC2D44-20F5-50F5-B680-590D1480A2B2",
+                  "title": "Negroni Love",
+                  "label": "Mind Enterprises"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1913,7 +2480,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -1929,7 +2496,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1946,7 +2513,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -1962,7 +2529,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -1979,7 +2546,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -2002,7 +2569,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2022,7 +2589,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=wonkywillavancouver",
@@ -2038,7 +2605,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2051,7 +2618,7 @@
             "displayText": "From C$30 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-17T21:12:40Z",
+            "capturedAt": "2026-07-17T21:43:05Z",
             "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2072,7 +2639,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=onhellsubculture",
@@ -2088,7 +2655,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2101,7 +2668,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-17T21:12:40Z",
+            "capturedAt": "2026-07-17T21:43:05Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -2122,7 +2689,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=venjentvancouver2026",
@@ -2145,7 +2712,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2158,7 +2725,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-17T21:12:40Z",
+            "capturedAt": "2026-07-17T21:43:05Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -2179,7 +2746,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=ivylabvancouver",
@@ -2202,7 +2769,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2215,7 +2782,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-17T21:12:40Z",
+            "capturedAt": "2026-07-17T21:43:05Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2236,7 +2803,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=canablissvancouver",
@@ -2252,7 +2819,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2265,7 +2832,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-17T21:12:40Z",
+            "capturedAt": "2026-07-17T21:43:05Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2287,7 +2854,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=whalesvancouver",
@@ -2303,7 +2870,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2316,7 +2883,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-17T21:12:40Z",
+            "capturedAt": "2026-07-17T21:43:05Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2327,7 +2894,7 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "Asia/Shanghai",
       "userCoordinate": {
         "latitude": 22.5333,
@@ -2351,7 +2918,7 @@
           },
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -2360,8 +2927,26 @@
             {
               "name": "Sick Individuals",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "777233C4-A7EA-560C-984A-A20F21F0B7A4",
+                  "title": "Upside Down",
+                  "label": "Tomorrowland Music"
+                },
+                {
+                  "id": "9E89E9D5-7650-5702-B101-94829B415CC0",
+                  "title": "Take Me There",
+                  "label": "1001 Recordings"
+                },
+                {
+                  "id": "F251C0D5-9DFB-5ADF-BAA9-A9B664C182E0",
+                  "title": "Endless Dreamers",
+                  "label": "STMPD RCRDS"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
@@ -2382,7 +2967,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2402,7 +2987,7 @@
           },
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -2411,8 +2996,26 @@
             {
               "name": "BISCITS",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "42097D50-6EDF-518B-915C-1BB504C136A9",
+                  "title": "Don't Stop",
+                  "label": "Insomniac Records"
+                },
+                {
+                  "id": "1269B920-F137-5620-AD21-2C644EFBB0FB",
+                  "title": "Me & U",
+                  "label": "THRIVE MUSIC"
+                },
+                {
+                  "id": "D100D8B9-BA2C-5A26-A293-E5D97F2C4547",
+                  "title": "Transition",
+                  "label": "Good Company"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
@@ -2433,7 +3036,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2453,7 +3056,7 @@
           },
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -2484,7 +3087,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2504,7 +3107,7 @@
           },
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -2513,8 +3116,26 @@
             {
               "name": "William Black",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "5EFF5DDF-B42F-58CF-99DB-3C51DCB79C48",
+                  "title": "Goodbye",
+                  "label": "Lost In Dreams"
+                },
+                {
+                  "id": "7822BB69-7B96-5D6F-AAA8-772200585B97",
+                  "title": "Back To U",
+                  "label": "Gud Vibrations"
+                },
+                {
+                  "id": "66424699-2420-53DE-957A-DF38D49ED626",
+                  "title": "Nightmare",
+                  "label": "Lost In Dreams"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
@@ -2535,7 +3156,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2552,7 +3173,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/5Y47Z7eE9ZXhkvV92KCtgv",
@@ -2561,21 +3182,25 @@
             {
               "name": "Alion",
               "setTime": null,
-              "styles": [],
+              "styles": [
+                "Bass"
+              ],
               "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
               "name": "Sirens",
               "setTime": null,
-              "styles": [],
+              "styles": [
+                "Bass"
+              ],
               "representativeTracks": [],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2592,7 +3217,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.78,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
@@ -2601,14 +3226,16 @@
             {
               "name": "Alion",
               "setTime": null,
-              "styles": [],
+              "styles": [
+                "Bass"
+              ],
               "representativeTracks": [],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2630,7 +3257,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
@@ -2639,21 +3266,41 @@
             {
               "name": "Answer Code Request",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "9A52A012-4C73-53B4-966D-DF743FC38D57",
+                  "title": "Zeitspielraum",
+                  "label": "Ostgut Ton"
+                },
+                {
+                  "id": "DFAA4E36-DEB2-5351-A945-D767B069BBD9",
+                  "title": "Thermal Capacity",
+                  "label": "Ostgut Ton"
+                },
+                {
+                  "id": "7CB24A11-2399-51DD-8E3F-1BA54678289E",
+                  "title": "Main Mode",
+                  "label": "Marcel Dettmann Records"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Mingo",
               "setTime": null,
-              "styles": [],
+              "styles": [
+                "Techno"
+              ],
               "representativeTracks": [],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低展示价",
@@ -2689,7 +3336,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/3vtsU0OIzoxENCxw5YENWQ",
@@ -2698,21 +3345,42 @@
             {
               "name": "SCSI-9",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House",
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "34F7846C-FB2F-5761-AEA5-024875A2193D",
+                  "title": "All She Wants Is (Scsi-9 Mix)",
+                  "label": "Kompakt"
+                },
+                {
+                  "id": "AD9C72E5-8D1F-58A7-8509-C8D656DAFFA3",
+                  "title": "On The Edge",
+                  "label": "Kompakt"
+                },
+                {
+                  "id": "F6B3829C-BA32-5393-87FD-CF64A8176D28",
+                  "title": "The Line Of Nine",
+                  "label": "Kompakt"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "YANGYANG",
               "setTime": null,
-              "styles": [],
+              "styles": [
+                "Bass"
+              ],
               "representativeTracks": [],
               "peakDJMagRank": null
             }
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低展示价",
@@ -2750,7 +3418,7 @@
             "Trance"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072592095781281794",
@@ -2783,7 +3451,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2805,7 +3473,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072587211161952258",
@@ -2838,7 +3506,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2860,7 +3528,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072583967958327298",
@@ -2893,7 +3561,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2913,7 +3581,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
@@ -2938,7 +3606,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -2960,7 +3628,7 @@
             "Bass"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072260451555827713",
@@ -2985,7 +3653,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -3005,7 +3673,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2076260189447872514",
@@ -3038,7 +3706,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -3060,7 +3728,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072259110527787010",
@@ -3093,7 +3761,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]
@@ -3102,7 +3770,7 @@
       "id": "miami_us",
       "name": "Miami",
       "country": "US",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": {
         "latitude": 25.7617,
@@ -3126,7 +3794,7 @@
           },
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultramusicfestival.com/general-information/",
@@ -3159,7 +3827,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]
@@ -3168,7 +3836,7 @@
       "id": "las_vegas_us",
       "name": "Las Vegas",
       "country": "US",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": {
         "latitude": 36.1699,
@@ -3192,7 +3860,7 @@
           },
           "styles": [],
           "confidence": 0.97,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -3225,7 +3893,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -3245,7 +3913,7 @@
           },
           "styles": [],
           "confidence": 0.97,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -3278,7 +3946,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]
@@ -3287,7 +3955,7 @@
       "id": "daresbury_uk",
       "name": "Daresbury",
       "country": "GB",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "Europe/London",
       "userCoordinate": null,
       "sourceEvents": [
@@ -3305,7 +3973,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.98,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://creamfields.com/lineup/",
@@ -3314,8 +3982,16 @@
             {
               "name": "Laidback Luke",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2EF25E23-71E1-5270-8E2B-0F9B276076F8",
+                  "title": "Now That We Found Love",
+                  "label": "Laidback Luke"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3349,8 +4025,26 @@
             {
               "name": "Richard Durand",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "9B0B2324-69FC-5BAF-8CEB-0D1B07839D2A",
+                  "title": "The Air I Breathe",
+                  "label": "Richard Durand"
+                },
+                {
+                  "id": "7F8F4190-AFA5-511E-8959-A6FD580E227B",
+                  "title": "Air on the G String",
+                  "label": "Richard Durand"
+                },
+                {
+                  "id": "DDEC37ED-9665-5396-8F7F-2C5CFF6BE2B9",
+                  "title": "Always the Sun (Radio Edit)",
+                  "label": "Richard Durand"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3510,8 +4204,26 @@
             {
               "name": "John Summit",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "17C4F672-4ED0-574E-A127-A08B5D0E5E3E",
+                  "title": "crystallized (feat. Inéz)",
+                  "label": "John Summit"
+                },
+                {
+                  "id": "95C2D990-B7FA-5918-8145-EBD2DB275EB3",
+                  "title": "Focus (feat. CLOVES)",
+                  "label": "John Summit"
+                },
+                {
+                  "id": "A574550E-7E75-5BA9-BFE0-4DD0D8584AFD",
+                  "title": "light years (feat. Inéz)",
+                  "label": "John Summit"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3538,8 +4250,26 @@
             {
               "name": "Carl Cox",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "A0804080-67EA-5A48-9E53-3E9C780837C4",
+                  "title": "I Want You (Forever) [Josh Butler Remix]",
+                  "label": "Carl Cox"
+                },
+                {
+                  "id": "2C19D036-B720-56A4-A888-34F72C66EA24",
+                  "title": "Time for House Music",
+                  "label": "Carl Cox"
+                },
+                {
+                  "id": "F187185E-4D69-584D-A7CA-739F8993BE65",
+                  "title": "Your Light Shines On",
+                  "label": "Carl Cox"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3671,8 +4401,27 @@
             {
               "name": "Ben Nicky",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hardstyle",
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "345A8C19-3BDC-59AF-A32C-96124D790147",
+                  "title": "Dirty Rave",
+                  "label": "Ben Nicky"
+                },
+                {
+                  "id": "770CF917-1AC1-5DD9-9E6B-0B9C4FEB587F",
+                  "title": "Numb (feat. Distorted Dreams)",
+                  "label": "Ben Nicky"
+                },
+                {
+                  "id": "AB766AA8-FF7B-5458-A855-49A821D3E8FF",
+                  "title": "Keep Me High",
+                  "label": "Ben Nicky"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3727,8 +4476,26 @@
             {
               "name": "Eats Everything",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "5C4CB672-835D-5FCB-A90A-20F01CAB539F",
+                  "title": "Upside Down",
+                  "label": "Eats Everything"
+                },
+                {
+                  "id": "8DCE94E5-88D2-51DC-AD52-B6836BC2AE12",
+                  "title": "Make Some Noise",
+                  "label": "Eats Everything"
+                },
+                {
+                  "id": "F3965FC6-0202-5D2D-AD7D-36384B706945",
+                  "title": "Euphoria",
+                  "label": "Eats Everything"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3769,22 +4536,76 @@
             {
               "name": "Paul Oakenfold",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "276AC1B4-7B72-50B3-9331-01A2550B8F63",
+                  "title": "Starry Eyed Surprise (feat. Shifty Shellshock & Crazy Town)",
+                  "label": "Paul Oakenfold"
+                },
+                {
+                  "id": "78ED7752-E6EF-5DB2-BBF6-98BB4954FD76",
+                  "title": "Ready Steady Go (feat. Asher D) [Extended Mix]",
+                  "label": "Paul Oakenfold"
+                },
+                {
+                  "id": "D7FDD8FB-EC5F-5CD3-89B3-50B21EE6E708",
+                  "title": "Faster Kill Pussycat (feat. Brittany Murphy)",
+                  "label": "Paul Oakenfold"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Giuseppe Ottaviani",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F7C2EF5F-B760-557E-A32D-F5839F6B5ED8",
+                  "title": "To the Stars (A Dreamstate Anthem)",
+                  "label": "Giuseppe Ottaviani"
+                },
+                {
+                  "id": "88897988-EE38-5330-B491-4F4D9BA2ED54",
+                  "title": "Till We Meet Again",
+                  "label": "Giuseppe Ottaviani"
+                },
+                {
+                  "id": "7F08EC84-6058-5ED5-BD56-61FD91E68E71",
+                  "title": "Keep Your Dreams Alive",
+                  "label": "Giuseppe Ottaviani"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Ilan Bluestone",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "07EE3A21-1552-5CDF-A27E-69BD614B10B1",
+                  "title": "Spheres",
+                  "label": "Ilan Bluestone"
+                },
+                {
+                  "id": "A7099413-44C6-5342-A52D-ECC589F1DC91",
+                  "title": "Another Lover (feat. Koven)",
+                  "label": "Ilan Bluestone"
+                },
+                {
+                  "id": "8B0030FF-5EA5-5C8E-8EA2-B0FC83609538",
+                  "title": "Mama Africa (feat. EL Waves)",
+                  "label": "Ilan Bluestone"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -3916,29 +4737,102 @@
             {
               "name": "Third Party",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "CE9922A1-2A8A-52A5-A9B8-5891143185BD",
+                  "title": "Carry You (feat. Declan J Donovan)",
+                  "label": "Martin Garrix, Third Party & Oaks"
+                },
+                {
+                  "id": "DA99CF54-D4CB-5821-B03F-7BBF6A64D3CA",
+                  "title": "Live Forever",
+                  "label": "Third Party"
+                },
+                {
+                  "id": "E7B5A815-4218-589D-ADD6-1EADD8B6822E",
+                  "title": "Everyday of My Life",
+                  "label": "Third Party"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Matisse & Sadko",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "10DD8DAE-331A-505B-A5F6-806A5588DD7B",
+                  "title": "Into You (feat. Hanne Mjøen)",
+                  "label": "Matisse & Sadko"
+                },
+                {
+                  "id": "CB69F154-4F18-592E-AE35-CD13C5DDA250",
+                  "title": "Strings Again",
+                  "label": "Matisse & Sadko"
+                },
+                {
+                  "id": "21D5CD8E-D25B-52B9-90F3-049F3918EC36",
+                  "title": "Saga",
+                  "label": "Matisse & Sadko"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Dubvision",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "83200266-5DA0-51A7-80E5-8542D5223A84",
+                  "title": "Turn It Around",
+                  "label": "DubVision"
+                },
+                {
+                  "id": "58813245-4B41-5D26-8221-045A91B6A426",
+                  "title": "I Found Your Heart (feat. Emeni)",
+                  "label": "DubVision"
+                },
+                {
+                  "id": "A19EE9D9-6B01-5D75-8BA9-F9CFEA2DA1C2",
+                  "title": "Backlash (Martin Garrix Edit)",
+                  "label": "DubVision & Martin Garrix"
+                }
+              ],
+              "peakDJMagRank": 87
             },
             {
               "name": "Armin van Buuren",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F10ECEC0-9DF0-5287-B4A6-EE5C916AE7EA",
+                  "title": "This Is What It Feels Like (feat. Trevor Guthrie)",
+                  "label": "Armin van Buuren"
+                },
+                {
+                  "id": "43A81378-3A81-555A-A070-64BE890AC95F",
+                  "title": "In and out of Love (feat. Sharon den Adel)",
+                  "label": "Armin van Buuren"
+                },
+                {
+                  "id": "F93975DF-0D1A-5FDB-BA84-F66375D79F3C",
+                  "title": "Blah Blah Blah",
+                  "label": "Armin van Buuren"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -4315,15 +5209,51 @@
             {
               "name": "Bryan Kearney",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "68FCC208-F1E7-5225-8729-2A414408AA50",
+                  "title": "Kaia",
+                  "label": "Bryan Kearney"
+                },
+                {
+                  "id": "45B0B038-2DC3-5FA7-AFC9-AFFD194FB244",
+                  "title": "The Things We Should Say (Edit)",
+                  "label": "Bryan Kearney"
+                },
+                {
+                  "id": "AB738DD9-6CC7-570E-ACAF-65AB48357CDD",
+                  "title": "Adrenaline",
+                  "label": "Bryan Kearney"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Mauro Picotto",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "BEBA97B8-0C1E-5D3C-A489-E2EBA9B32528",
+                  "title": "Komodo",
+                  "label": "Mauro Picotto"
+                },
+                {
+                  "id": "CB70108C-B84A-5175-A66F-79FE64ACBA0D",
+                  "title": "Save A Soul",
+                  "label": "Mauro Picotto"
+                },
+                {
+                  "id": "AD6B1C0F-F0E0-5AC7-9BE4-82881D135622",
+                  "title": "Iguana",
+                  "label": "Mauro Picotto"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -4427,15 +5357,51 @@
             {
               "name": "Becky Hill",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D92518A9-E6CD-5936-AB32-61CCD7E12632",
+                  "title": "Remember (Acoustic)",
+                  "label": "Becky Hill"
+                },
+                {
+                  "id": "56181545-FAFD-5BB3-8E0B-106AE7183C68",
+                  "title": ">>>hands on me<<<",
+                  "label": "Becky Hill"
+                },
+                {
+                  "id": "BF11FC26-8828-5FA5-B267-B07E38C6E9A6",
+                  "title": "Outside Of Love",
+                  "label": "Becky Hill"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Armand van Helden",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "24B6F899-56F1-5E17-A948-F5732263579C",
+                  "title": "You Don't Know Me (feat. Duane Harden)",
+                  "label": "Armand Van Helden"
+                },
+                {
+                  "id": "279B6519-4C40-5B4E-B0B2-E5EBCD9ACCE1",
+                  "title": "You Don't Know Me (feat. Duane Harden) [Radio Edit]",
+                  "label": "Armand Van Helden"
+                },
+                {
+                  "id": "61350D7E-F9EF-5C20-A3E0-1E80446686A4",
+                  "title": "The Funk Phenomena (feat. Old Skool Junkies)",
+                  "label": "Armand Van Helden"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -4462,8 +5428,27 @@
             {
               "name": "Swedish House Mafia",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "3F12AEA0-057E-5358-942C-0E2F0223C441",
+                  "title": "Don't You Worry Child (Radio Edit) [feat. John Martin]",
+                  "label": "Swedish House Mafia"
+                },
+                {
+                  "id": "50CD040F-8CC8-58AA-91A1-962E94320F6B",
+                  "title": "Greyhound",
+                  "label": "Swedish House Mafia"
+                },
+                {
+                  "id": "6CCDF2E1-5D32-5E15-8FBE-7FBFB1055F72",
+                  "title": "Don't You Worry Child (feat. John Martin)",
+                  "label": "Swedish House Mafia"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -4546,8 +5531,26 @@
             {
               "name": "Gorgon City",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B2984AAE-5319-5179-ACA5-CCC093453BA1",
+                  "title": "Voodoo",
+                  "label": "Gorgon City"
+                },
+                {
+                  "id": "C9178DAD-7988-5FFD-9334-5C00DC0787AE",
+                  "title": "Mitsubishi (feat. Muki)",
+                  "label": "Gorgon City"
+                },
+                {
+                  "id": "22CDAFAE-AEEA-5145-889C-6C9A1BE46982",
+                  "title": "Run It Back (feat. Caroline Byrne)",
+                  "label": "Gorgon City"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -4756,8 +5759,27 @@
             {
               "name": "Aly & Fila",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "350A5816-7B1A-5568-9CD5-3108F7D47E45",
+                  "title": "Euphony",
+                  "label": "Aly & Fila"
+                },
+                {
+                  "id": "6986DC55-0B04-5689-9C63-468CF63A6D20",
+                  "title": "Somebody Loves You (with Plumb)",
+                  "label": "Aly & Fila"
+                },
+                {
+                  "id": "41C57829-D070-5324-A249-11D17D03B864",
+                  "title": "End of the Road (feat. Jaren) [Hazem Beltagui Radio Edit]",
+                  "label": "Aly & Fila"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -6452,7 +7474,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]
@@ -6461,7 +7483,7 @@
       "id": "salmo_ca",
       "name": "Salmo",
       "country": "CA",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": null,
       "sourceEvents": [
@@ -6479,7 +7501,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.98,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.shambhalamusicfestival.com/lineup",
@@ -6502,8 +7524,27 @@
             {
               "name": "Boris Brejcha",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2C5BC33C-4859-540B-A4ED-5F726C02E649",
+                  "title": "House Music (feat. Arctic Lake) [Edit]",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "6973487E-F19B-53C9-BA1A-E940E993091A",
+                  "title": "Purple Noise",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "FFBD006E-C184-57C3-BCCD-309C229F5063",
+                  "title": "Gravity (feat. Laura Korinth) [Edit]",
+                  "label": "Boris Brejcha"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -6579,8 +7620,27 @@
             {
               "name": "Excision",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep",
+                "Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "51C4B1AB-7589-5838-B132-D7F405D3AEF7",
+                  "title": "Feel Something",
+                  "label": "Excision / I Prevail"
+                },
+                {
+                  "id": "4DEBF97F-8878-5F91-B87D-FA59D32A1641",
+                  "title": "Zombie (feat. Valerie Broussard)",
+                  "label": "Excision"
+                },
+                {
+                  "id": "BAA41270-9019-5B43-B55A-A1F11B877B4C",
+                  "title": "Throwin' Elbows (feat. Space Laces)",
+                  "label": "Rottun Recordings"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -6677,8 +7737,26 @@
             {
               "name": "Whethan",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "607E8A10-98FA-5780-A932-5BEBF948137A",
+                  "title": "When I'm Down",
+                  "label": "Whethan / Oliver Tree"
+                },
+                {
+                  "id": "0655B345-4D7D-51D6-B37A-C3B9049F37E8",
+                  "title": "MONEY ON THE DASH",
+                  "label": "Whethan / Elley Duhé"
+                },
+                {
+                  "id": "EBEA6334-3C7E-5B0C-94FE-6A19A39719E9",
+                  "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
+                  "label": "Whethan"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
@@ -6706,7 +7784,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]
@@ -6715,7 +7793,7 @@
       "id": "orlando_us",
       "name": "Orlando",
       "country": "US",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": null,
       "sourceEvents": [
@@ -6733,7 +7811,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://orlando.edc.com/lineup/",
@@ -7470,8 +8548,26 @@
             {
               "name": "Whethan",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "607E8A10-98FA-5780-A932-5BEBF948137A",
+                  "title": "When I'm Down",
+                  "label": "Whethan / Oliver Tree"
+                },
+                {
+                  "id": "0655B345-4D7D-51D6-B37A-C3B9049F37E8",
+                  "title": "MONEY ON THE DASH",
+                  "label": "Whethan / Elley Duhé"
+                },
+                {
+                  "id": "EBEA6334-3C7E-5B0C-94FE-6A19A39719E9",
+                  "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
+                  "label": "Whethan"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -7513,7 +8609,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]
@@ -7522,7 +8618,7 @@
       "id": "boom_be",
       "name": "Boom",
       "country": "BE",
-      "refreshText": "Fri 21:11",
+      "refreshText": "Fri 21:42",
       "timeZoneIdentifier": "Europe/Brussels",
       "userCoordinate": {
         "latitude": 51.0873789,
@@ -7546,7 +8642,7 @@
           },
           "styles": [],
           "confidence": 1.0,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://belgium.tomorrowland.com/en/line-up/?page=stages",
@@ -7723,8 +8819,27 @@
             {
               "name": "Armin van Buuren",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F10ECEC0-9DF0-5287-B4A6-EE5C916AE7EA",
+                  "title": "This Is What It Feels Like (feat. Trevor Guthrie)",
+                  "label": "Armin van Buuren"
+                },
+                {
+                  "id": "43A81378-3A81-555A-A070-64BE890AC95F",
+                  "title": "In and out of Love (feat. Sharon den Adel)",
+                  "label": "Armin van Buuren"
+                },
+                {
+                  "id": "F93975DF-0D1A-5FDB-BA84-F66375D79F3C",
+                  "title": "Blah Blah Blah",
+                  "label": "Armin van Buuren"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -7856,8 +8971,27 @@
             {
               "name": "Blondex",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hard Techno",
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "0E9B2EB2-1EA7-5123-962D-1F6CB1468E91",
+                  "title": "SIMULATION",
+                  "label": "BLONDEX"
+                },
+                {
+                  "id": "24135587-EC8B-5A32-95FA-7AD1A9F1D7AE",
+                  "title": "RAVEHELL",
+                  "label": "BLONDEX"
+                },
+                {
+                  "id": "A51E349C-33E0-57D9-AE75-24D917A5B928",
+                  "title": "TRAUMATIC",
+                  "label": "BLONDEX"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -7891,8 +9025,27 @@
             {
               "name": "Boris Brejcha",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2C5BC33C-4859-540B-A4ED-5F726C02E649",
+                  "title": "House Music (feat. Arctic Lake) [Edit]",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "6973487E-F19B-53C9-BA1A-E940E993091A",
+                  "title": "Purple Noise",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "FFBD006E-C184-57C3-BCCD-309C229F5063",
+                  "title": "Gravity (feat. Laura Korinth) [Edit]",
+                  "label": "Boris Brejcha"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -7968,8 +9121,26 @@
             {
               "name": "Chocolate Puma",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "FF1527B7-40B7-56A1-B0C0-EC04F9D35482",
+                  "title": "Gotta Get Away (feat. Chateau)",
+                  "label": "Chocolate Puma"
+                },
+                {
+                  "id": "9E5382C9-6829-5E32-AE5F-87FCCF8768A0",
+                  "title": "The Same Way",
+                  "label": "Chocolate Puma"
+                },
+                {
+                  "id": "C6320EA1-98FC-528F-9034-8366AEDD6BA4",
+                  "title": "I Could Be Wrong",
+                  "label": "Chocolate Puma"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8003,8 +9174,27 @@
             {
               "name": "Conrad Taylor",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Hard Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "4464C3B7-7965-50C1-BE07-1B70BAC1BEF9",
+                  "title": "MOVE",
+                  "label": "Conrad Taylor"
+                },
+                {
+                  "id": "F97E9A53-1839-574C-86D9-C7EFE2846AF8",
+                  "title": "ich kann's nicht",
+                  "label": "Conrad Taylor"
+                },
+                {
+                  "id": "1DE6748B-596C-54EC-8386-D033C9E7E4C2",
+                  "title": "Something Like This",
+                  "label": "Conrad Taylor"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8059,8 +9249,26 @@
             {
               "name": "Da Tweekaz",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hardstyle"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AB96271C-7CCB-5DCD-A365-300BD040CEF7",
+                  "title": "Can Can (Hardstyle Mix)",
+                  "label": "Da Tweekaz & High Level"
+                },
+                {
+                  "id": "5D1C3766-BCE2-5DE3-A248-1E083E9D208D",
+                  "title": "Lambada (Your Love)",
+                  "label": "Da Tweekaz"
+                },
+                {
+                  "id": "1B3B7C97-B0C9-5CE9-A48A-C2404E072F32",
+                  "title": "Jägermeister",
+                  "label": "Da Tweekaz"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8661,8 +9869,27 @@
             {
               "name": "Illenium",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass",
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "0F882B19-9D0A-501C-BE35-745BD4F440D0",
+                  "title": "All That Really Matters",
+                  "label": "ILLENIUM / Teddy Swims"
+                },
+                {
+                  "id": "D5C9673B-3087-5439-8FD0-5FBE36FA23E4",
+                  "title": "Good Things Fall Apart",
+                  "label": "Astralwerks"
+                },
+                {
+                  "id": "409D545E-7CDC-562D-8F88-12A7A954C31E",
+                  "title": "Fractures (feat. Nevve)",
+                  "label": "Seeking Blue"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8808,8 +10035,26 @@
             {
               "name": "John Summit",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "17C4F672-4ED0-574E-A127-A08B5D0E5E3E",
+                  "title": "crystallized (feat. Inéz)",
+                  "label": "John Summit"
+                },
+                {
+                  "id": "95C2D990-B7FA-5918-8145-EBD2DB275EB3",
+                  "title": "Focus (feat. CLOVES)",
+                  "label": "John Summit"
+                },
+                {
+                  "id": "A574550E-7E75-5BA9-BFE0-4DD0D8584AFD",
+                  "title": "light years (feat. Inéz)",
+                  "label": "John Summit"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8941,8 +10186,16 @@
             {
               "name": "Laidback Luke",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2EF25E23-71E1-5270-8E2B-0F9B276076F8",
+                  "title": "Now That We Found Love",
+                  "label": "Laidback Luke"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -9025,8 +10278,26 @@
             {
               "name": "Lucas & Steve",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "47101A37-5FF0-55EE-AF5E-2A5BBCA39588",
+                  "title": "Push The Feeling On",
+                  "label": "Lucas & Steve"
+                },
+                {
+                  "id": "4415D910-4072-51F1-9BC5-1C4654099629",
+                  "title": "When You're Alone (feat. Kiesza)",
+                  "label": "Lucas & Steve"
+                },
+                {
+                  "id": "C8883A2D-5B1B-528A-98DF-B00AC3F96124",
+                  "title": "Where Have You Gone (Anywhere)",
+                  "label": "Lucas & Steve"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -9242,8 +10513,26 @@
             {
               "name": "Matisse & Sadko",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "10DD8DAE-331A-505B-A5F6-806A5588DD7B",
+                  "title": "Into You (feat. Hanne Mjøen)",
+                  "label": "Matisse & Sadko"
+                },
+                {
+                  "id": "CB69F154-4F18-592E-AE35-CD13C5DDA250",
+                  "title": "Strings Again",
+                  "label": "Matisse & Sadko"
+                },
+                {
+                  "id": "21D5CD8E-D25B-52B9-90F3-049F3918EC36",
+                  "title": "Saga",
+                  "label": "Matisse & Sadko"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -9291,9 +10580,27 @@
             {
               "name": "Mike Williams",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "A9C4B0B2-14DC-5E3A-A4AA-4BBB6C915FBE",
+                  "title": "Dynamite",
+                  "label": "Mike Williams"
+                },
+                {
+                  "id": "A96A1E06-8DE7-5EB8-BA76-74950B95AD22",
+                  "title": "Wait Another Day",
+                  "label": "Mike Williams & Mesto"
+                },
+                {
+                  "id": "9AA364B1-A401-50A0-ACE1-8881F4871401",
+                  "title": "Lullaby",
+                  "label": "R3HAB & Mike Williams"
+                }
+              ],
+              "peakDJMagRank": 72
             },
             {
               "name": "Mike Williams Throwback Set",
@@ -10187,16 +11494,42 @@
             {
               "name": "Vini Vici",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "96745DDC-5E45-5477-B987-9F6139AC5FFB",
+                  "title": "The Tribe",
+                  "label": "Vini Vici"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Vintage Culture",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "1F9BCD45-26E2-5885-8017-EAC65EF2F8AB",
+                  "title": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
+                  "label": "Vintage Culture & Zerky"
+                },
+                {
+                  "id": "1F9D5285-A5B4-55C9-B6CE-557A83D5915D",
+                  "title": "Freaky 1",
+                  "label": "Vintage Culture"
+                },
+                {
+                  "id": "CEAE2A93-5F77-5598-8B47-B63EA42FC050",
+                  "title": "You Give Me a Feeling",
+                  "label": "Vintage Culture"
+                }
+              ],
+              "peakDJMagRank": 9
             },
             {
               "name": "Vitucci",
@@ -13071,7 +14404,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         },
         {
@@ -13091,7 +14424,7 @@
           },
           "styles": [],
           "confidence": 1.0,
-          "lastRefreshedText": "Fri 21:11",
+          "lastRefreshedText": "Fri 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://belgium.tomorrowland.com/en/line-up/?page=stages",
@@ -13163,8 +14496,26 @@
             {
               "name": "Alan Walker",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "CA16725D-9D51-5194-A6F5-45D5ED25B3EC",
+                  "title": "Faded",
+                  "label": "Alan Walker"
+                },
+                {
+                  "id": "F3585118-64BF-526A-9787-A01B67538F5C",
+                  "title": "Alone",
+                  "label": "Alan Walker"
+                },
+                {
+                  "id": "1E5014CC-6428-5D62-991E-0CC62E5CE6A7",
+                  "title": "The Spectre",
+                  "label": "Alan Walker"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -13282,8 +14633,27 @@
             {
               "name": "Armin van Buuren",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Trance",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F10ECEC0-9DF0-5287-B4A6-EE5C916AE7EA",
+                  "title": "This Is What It Feels Like (feat. Trevor Guthrie)",
+                  "label": "Armin van Buuren"
+                },
+                {
+                  "id": "43A81378-3A81-555A-A070-64BE890AC95F",
+                  "title": "In and out of Love (feat. Sharon den Adel)",
+                  "label": "Armin van Buuren"
+                },
+                {
+                  "id": "F93975DF-0D1A-5FDB-BA84-F66375D79F3C",
+                  "title": "Blah Blah Blah",
+                  "label": "Armin van Buuren"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -13639,8 +15009,26 @@
             {
               "name": "Chocolate Puma",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "FF1527B7-40B7-56A1-B0C0-EC04F9D35482",
+                  "title": "Gotta Get Away (feat. Chateau)",
+                  "label": "Chocolate Puma"
+                },
+                {
+                  "id": "9E5382C9-6829-5E32-AE5F-87FCCF8768A0",
+                  "title": "The Same Way",
+                  "label": "Chocolate Puma"
+                },
+                {
+                  "id": "C6320EA1-98FC-528F-9034-8366AEDD6BA4",
+                  "title": "I Could Be Wrong",
+                  "label": "Chocolate Puma"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -13688,8 +15076,26 @@
             {
               "name": "Cyril",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "E7E4DAC4-3B2E-538F-82B0-FB4341C27277",
+                  "title": "Stumblin' In",
+                  "label": "Spinnin Records"
+                },
+                {
+                  "id": "27C96D64-D5B6-562E-A82C-6B59B1D3CD51",
+                  "title": "Fall At Your Feet (with Dean Lewis)",
+                  "label": "Spinnin Records"
+                },
+                {
+                  "id": "6EBAC094-61C4-5D55-97CA-97F652C4379C",
+                  "title": "Still Into You",
+                  "label": "Spinnin Records"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -13716,8 +15122,26 @@
             {
               "name": "Da Tweekaz",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hardstyle"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AB96271C-7CCB-5DCD-A365-300BD040CEF7",
+                  "title": "Can Can (Hardstyle Mix)",
+                  "label": "Da Tweekaz & High Level"
+                },
+                {
+                  "id": "5D1C3766-BCE2-5DE3-A248-1E083E9D208D",
+                  "title": "Lambada (Your Love)",
+                  "label": "Da Tweekaz"
+                },
+                {
+                  "id": "1B3B7C97-B0C9-5CE9-A48A-C2404E072F32",
+                  "title": "Jägermeister",
+                  "label": "Da Tweekaz"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14073,8 +15497,27 @@
             {
               "name": "Ghengar",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep",
+                "Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "416A12F7-2BF5-513E-B8F8-10D852800E7D",
+                  "title": "NECROMANCER",
+                  "label": "GHENGAR"
+                },
+                {
+                  "id": "9F0EAE42-6DC9-556E-9A4A-B6AB756E148F",
+                  "title": "FINAL BOSS",
+                  "label": "GHENGAR"
+                },
+                {
+                  "id": "5D0C9850-0721-5690-A1CE-4C55293486F3",
+                  "title": "BLOOD OATH",
+                  "label": "GHENGAR"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14094,8 +15537,26 @@
             {
               "name": "Gorgon City",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B2984AAE-5319-5179-ACA5-CCC093453BA1",
+                  "title": "Voodoo",
+                  "label": "Gorgon City"
+                },
+                {
+                  "id": "C9178DAD-7988-5FFD-9334-5C00DC0787AE",
+                  "title": "Mitsubishi (feat. Muki)",
+                  "label": "Gorgon City"
+                },
+                {
+                  "id": "22CDAFAE-AEEA-5145-889C-6C9A1BE46982",
+                  "title": "Run It Back (feat. Caroline Byrne)",
+                  "label": "Gorgon City"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14213,8 +15674,27 @@
             {
               "name": "Illenium",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass",
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "0F882B19-9D0A-501C-BE35-745BD4F440D0",
+                  "title": "All That Really Matters",
+                  "label": "ILLENIUM / Teddy Swims"
+                },
+                {
+                  "id": "D5C9673B-3087-5439-8FD0-5FBE36FA23E4",
+                  "title": "Good Things Fall Apart",
+                  "label": "Astralwerks"
+                },
+                {
+                  "id": "409D545E-7CDC-562D-8F88-12A7A954C31E",
+                  "title": "Fractures (feat. Nevve)",
+                  "label": "Seeking Blue"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14346,8 +15826,26 @@
             {
               "name": "John Summit",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "17C4F672-4ED0-574E-A127-A08B5D0E5E3E",
+                  "title": "crystallized (feat. Inéz)",
+                  "label": "John Summit"
+                },
+                {
+                  "id": "95C2D990-B7FA-5918-8145-EBD2DB275EB3",
+                  "title": "Focus (feat. CLOVES)",
+                  "label": "John Summit"
+                },
+                {
+                  "id": "A574550E-7E75-5BA9-BFE0-4DD0D8584AFD",
+                  "title": "light years (feat. Inéz)",
+                  "label": "John Summit"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14493,8 +15991,16 @@
             {
               "name": "Laidback Luke",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2EF25E23-71E1-5270-8E2B-0F9B276076F8",
+                  "title": "Now That We Found Love",
+                  "label": "Laidback Luke"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14612,8 +16118,26 @@
             {
               "name": "Lucas & Steve",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "47101A37-5FF0-55EE-AF5E-2A5BBCA39588",
+                  "title": "Push The Feeling On",
+                  "label": "Lucas & Steve"
+                },
+                {
+                  "id": "4415D910-4072-51F1-9BC5-1C4654099629",
+                  "title": "When You're Alone (feat. Kiesza)",
+                  "label": "Lucas & Steve"
+                },
+                {
+                  "id": "C8883A2D-5B1B-528A-98DF-B00AC3F96124",
+                  "title": "Where Have You Gone (Anywhere)",
+                  "label": "Lucas & Steve"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -14829,9 +16353,27 @@
             {
               "name": "Mike Williams",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "A9C4B0B2-14DC-5E3A-A4AA-4BBB6C915FBE",
+                  "title": "Dynamite",
+                  "label": "Mike Williams"
+                },
+                {
+                  "id": "A96A1E06-8DE7-5EB8-BA76-74950B95AD22",
+                  "title": "Wait Another Day",
+                  "label": "Mike Williams & Mesto"
+                },
+                {
+                  "id": "9AA364B1-A401-50A0-ACE1-8881F4871401",
+                  "title": "Lullaby",
+                  "label": "R3HAB & Mike Williams"
+                }
+              ],
+              "peakDJMagRank": 72
             },
             {
               "name": "Mind Against",
@@ -15081,8 +16623,26 @@
             {
               "name": "Odd Mob",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "436AB584-021B-561A-9E5B-6870A2DECFA9",
+                  "title": "Losing Control",
+                  "label": "Odd Mob & OMNOM"
+                },
+                {
+                  "id": "C9ECD0E9-FF21-57E4-BF67-95235B0C13C1",
+                  "title": "LEFT TO RIGHT",
+                  "label": "Odd Mob"
+                },
+                {
+                  "id": "869F79FE-2CB1-5FC7-B852-DD2E98460C2A",
+                  "title": "Is It A Banger",
+                  "label": "Odd Mob"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -15438,8 +16998,26 @@
             {
               "name": "Sick individuals",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "777233C4-A7EA-560C-984A-A20F21F0B7A4",
+                  "title": "Upside Down",
+                  "label": "Tomorrowland Music"
+                },
+                {
+                  "id": "9E89E9D5-7650-5702-B101-94829B415CC0",
+                  "title": "Take Me There",
+                  "label": "1001 Recordings"
+                },
+                {
+                  "id": "F251C0D5-9DFB-5ADF-BAA9-A9B664C182E0",
+                  "title": "Endless Dreamers",
+                  "label": "STMPD RCRDS"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -15697,9 +17275,27 @@
             {
               "name": "Vicetone",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "34B20F20-76B3-5954-9612-66B7D715B7D4",
+                  "title": "Nevada",
+                  "label": "Monstercat"
+                },
+                {
+                  "id": "54EEC19D-2791-5840-985D-5785DFB8C1EE",
+                  "title": "Walk Thru Fire",
+                  "label": "Monstercat"
+                },
+                {
+                  "id": "7338F299-CFCA-5FA5-B4F0-ACD1D13DDAD9",
+                  "title": "Way Back",
+                  "label": "Monstercat"
+                }
+              ],
+              "peakDJMagRank": 36
             },
             {
               "name": "Vikkstar",
@@ -18575,7 +20171,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-17T21:11:56Z"
+            "observedAt": "2026-07-17T21:42:21Z"
           }
         }
       ]

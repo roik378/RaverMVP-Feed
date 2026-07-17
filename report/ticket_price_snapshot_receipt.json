@@ -67,15 +67,6 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
-      "eventID": "7280AB10-A20A-5101-8E4E-9024D2963148",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://on.celebritiesnightclub.com/trk/Xmknc"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Vancouver",
-      "collectorStatus": "unsupported_provider",
       "eventID": "F38AAB64-B97F-57AE-9776-4DCD0DB9936E",
       "reason": null,
       "stale": false,
@@ -504,7 +495,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:12:40Z",
+        "capturedAt": "2026-07-17T21:43:05Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -528,7 +519,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:12:40Z",
+        "capturedAt": "2026-07-17T21:43:05Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -552,7 +543,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:12:40Z",
+        "capturedAt": "2026-07-17T21:43:05Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -576,7 +567,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:12:40Z",
+        "capturedAt": "2026-07-17T21:43:05Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -600,7 +591,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:12:40Z",
+        "capturedAt": "2026-07-17T21:43:05Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -624,7 +615,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:12:40Z",
+        "capturedAt": "2026-07-17T21:43:05Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -730,17 +721,17 @@
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
     }
   ],
-  "feedSHA256After": "f66cd278c5c136c4c9ec7fc332eb171c9805235423c6c4715d29cdb12a6c98f0",
-  "feedSHA256Before": "25d9b44d1b19c104f9a58401d81402a51c90dde85dbf9112c4f7c4602f13c768",
-  "historySHA256After": "5fe8a7b1521e01c0cd0bb8453edaafbb7bf095bbed682f6c56b285bd3f4c3aa3",
-  "priceProjectionSHA256": "a7eb4efa6562e46c9f3bd7c894df9838ae2c33d88656a55be05ae13476443257",
+  "feedSHA256After": "ea3300d4af69a44d5fa6a8d4158d77b6da6ca188392486660e7cfcea34f9787f",
+  "feedSHA256Before": "6ff62939ec0a33ccf0692a12086ca1ca0000e72fc426959d06aae29051fbdf77",
+  "historySHA256After": "6c33bd228687749daad6c14539c6fb84e2ad4905b5a56ccc6f0f981500c84ec8",
+  "priceProjectionSHA256": "2e53db207c8429cbf842029aba2b6049b8c303bcaa2687a1651c4604c972ed31",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 71,
+    "candidateCount": 70,
     "freshCount": 6,
-    "noSnapshotCount": 43,
+    "noSnapshotCount": 42,
     "providerFailureCount": 22,
     "staleCount": 0
   }

@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T21:11:56Z",
-  "ingestRunId": "D39ACB1C-A9BF-4213-8806-DE7E85649A1E",
-  "ingestRunAt": "2026-07-17T21:11:56Z",
+  "ranAt": "2026-07-17T21:42:21Z",
+  "ingestRunId": "B2604507-47ED-4ACF-AD63-B46C395F2D4E",
+  "ingestRunAt": "2026-07-17T21:42:21Z",
   "mode": "full",
   "sources": [
     {
@@ -11,7 +11,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 11,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -194,7 +194,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-17T21:11:41Z",
+      "ticketOfferObservedAt": "2026-07-17T21:42:09Z",
       "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -442,14 +442,14 @@
       "cityName": "Vancouver",
       "captured": 165,
       "usable": 103,
-      "consumerReady": 65,
-      "consumerRejected": 38,
-      "consumerReadyRate": 0.631,
+      "consumerReady": 64,
+      "consumerRejected": 39,
+      "consumerReadyRate": 0.621,
       "rejectionReasons": {
+        "past_event": 21,
         "missing_raver_evidence": 11,
         "reviewed_non_raver_title": 2,
-        "placeholder_title": 5,
-        "past_event": 20
+        "placeholder_title": 5
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -1016,13 +1016,13 @@
     "usable": 126
   },
   "consumerQuality": {
-    "ready": 88,
-    "rejected": 38,
+    "ready": 87,
+    "rejected": 39,
     "rejectionReasons": {
+      "past_event": 21,
       "missing_raver_evidence": 11,
       "reviewed_non_raver_title": 2,
-      "placeholder_title": 5,
-      "past_event": 20
+      "placeholder_title": 5
     }
   },
   "referenceDates": {
@@ -1037,7 +1037,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 79
+    "reviewedArtists": 80
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1052,8 +1052,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "3C28ABF9-1ECD-4DE2-B855-F2E3A7DB4685",
-      "ingestRunAt": "2026-07-17T19:47:16Z"
+      "ingestRunId": "D39ACB1C-A9BF-4213-8806-DE7E85649A1E",
+      "ingestRunAt": "2026-07-17T21:11:56Z"
     }
   },
   "executionCoverage": {
