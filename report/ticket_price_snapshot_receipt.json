@@ -67,6 +67,15 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "7280AB10-A20A-5101-8E4E-9024D2963148",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/Xmknc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "F38AAB64-B97F-57AE-9776-4DCD0DB9936E",
       "reason": null,
       "stale": false,
@@ -280,6 +289,15 @@
       "ticketURLText": "https://tixr.com/e/191340"
     },
     {
+      "action": "provider_failed",
+      "city": "Vancouver",
+      "collectorStatus": "provider_blocked",
+      "eventID": "AD84E5D5-41DF-5B44-8C4A-D2B6F9454735",
+      "reason": "access challenge",
+      "stale": false,
+      "ticketURLText": "https://tixr.com/e/199503"
+    },
+    {
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
@@ -486,7 +504,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-17T19:48:03Z",
+        "capturedAt": "2026-07-17T21:12:40Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -510,7 +528,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T19:48:03Z",
+        "capturedAt": "2026-07-17T21:12:40Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -534,7 +552,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T19:48:03Z",
+        "capturedAt": "2026-07-17T21:12:40Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -558,7 +576,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T19:48:03Z",
+        "capturedAt": "2026-07-17T21:12:40Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -582,7 +600,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T19:48:03Z",
+        "capturedAt": "2026-07-17T21:12:40Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -606,7 +624,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T19:48:03Z",
+        "capturedAt": "2026-07-17T21:12:40Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -712,18 +730,18 @@
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
     }
   ],
-  "feedSHA256After": "a4337e1685c24d6c3b36546d3777e3cdb504ce23647337bae1e09ab00cb27f14",
-  "feedSHA256Before": "9adf41d97f7fc19e6d946168b1d6243b850fa74d182d9354b91ad014e53b6dba",
-  "historySHA256After": "8b76f20404d5e1d12a74aa968cd3187a9c7a405d2dbdbfed2a644a81d66f5e08",
-  "priceProjectionSHA256": "80ad551cf834e9c7a37b5453c0ec855536dc6b7bc216a66911c064abecdcf4df",
+  "feedSHA256After": "f66cd278c5c136c4c9ec7fc332eb171c9805235423c6c4715d29cdb12a6c98f0",
+  "feedSHA256Before": "25d9b44d1b19c104f9a58401d81402a51c90dde85dbf9112c4f7c4602f13c768",
+  "historySHA256After": "5fe8a7b1521e01c0cd0bb8453edaafbb7bf095bbed682f6c56b285bd3f4c3aa3",
+  "priceProjectionSHA256": "a7eb4efa6562e46c9f3bd7c894df9838ae2c33d88656a55be05ae13476443257",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 69,
+    "candidateCount": 71,
     "freshCount": 6,
-    "noSnapshotCount": 42,
-    "providerFailureCount": 21,
+    "noSnapshotCount": 43,
+    "providerFailureCount": 22,
     "staleCount": 0
   }
 }

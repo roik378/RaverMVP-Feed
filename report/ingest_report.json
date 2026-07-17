@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T19:47:16Z",
-  "ingestRunId": "3C28ABF9-1ECD-4DE2-B855-F2E3A7DB4685",
-  "ingestRunAt": "2026-07-17T19:47:16Z",
+  "ranAt": "2026-07-17T21:11:56Z",
+  "ingestRunId": "D39ACB1C-A9BF-4213-8806-DE7E85649A1E",
+  "ingestRunAt": "2026-07-17T21:11:56Z",
   "mode": "full",
   "sources": [
     {
@@ -11,7 +11,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 11,
+      "consumerReady": 12,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -39,9 +39,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 21,
-      "usable": 21,
-      "consumerReady": 21,
+      "captured": 22,
+      "usable": 22,
+      "consumerReady": 22,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -194,7 +194,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-17T19:47:03Z",
+      "ticketOfferObservedAt": "2026-07-17T21:11:41Z",
       "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -264,9 +264,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 10,
-      "usable": 10,
-      "consumerReady": 10,
+      "captured": 9,
+      "usable": 9,
+      "consumerReady": 9,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -440,16 +440,16 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 164,
-      "usable": 102,
-      "consumerReady": 63,
-      "consumerRejected": 39,
-      "consumerReadyRate": 0.618,
+      "captured": 165,
+      "usable": 103,
+      "consumerReady": 65,
+      "consumerRejected": 38,
+      "consumerReadyRate": 0.631,
       "rejectionReasons": {
-        "past_event": 21,
         "missing_raver_evidence": 11,
         "reviewed_non_raver_title": 2,
-        "placeholder_title": 5
+        "placeholder_title": 5,
+        "past_event": 20
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -460,9 +460,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 21,
-      "usable": 16,
-      "consumerReady": 16,
+      "captured": 20,
+      "usable": 15,
+      "consumerReady": 15,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1016,13 +1016,13 @@
     "usable": 126
   },
   "consumerQuality": {
-    "ready": 87,
-    "rejected": 39,
+    "ready": 88,
+    "rejected": 38,
     "rejectionReasons": {
-      "past_event": 21,
       "missing_raver_evidence": 11,
       "reviewed_non_raver_title": 2,
-      "placeholder_title": 5
+      "placeholder_title": 5,
+      "past_event": 20
     }
   },
   "referenceDates": {
@@ -1052,8 +1052,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "22BDB590-51DE-4206-829A-F8476F57CE44",
-      "ingestRunAt": "2026-07-17T19:27:42Z"
+      "ingestRunId": "3C28ABF9-1ECD-4DE2-B855-F2E3A7DB4685",
+      "ingestRunAt": "2026-07-17T19:47:16Z"
     }
   },
   "executionCoverage": {

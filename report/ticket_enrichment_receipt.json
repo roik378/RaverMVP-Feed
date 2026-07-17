@@ -124,42 +124,42 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 16,
+          "actionable": 15,
           "actionableRatio": 1.0,
-          "assisted": 14,
-          "assistedRatio": 0.875,
+          "assisted": 13,
+          "assistedRatio": 0.8667,
           "direct": 4,
-          "ratio": 0.25,
-          "total": 16
+          "ratio": 0.2667,
+          "total": 15
         },
         "raw": {
-          "actionable": 16,
+          "actionable": 15,
           "actionableRatio": 1.0,
-          "assisted": 14,
-          "assistedRatio": 0.875,
+          "assisted": 13,
+          "assistedRatio": 0.8667,
           "direct": 4,
-          "ratio": 0.25,
-          "total": 16
+          "ratio": 0.2667,
+          "total": 15
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 60,
-          "actionableRatio": 0.9524,
+          "actionable": 62,
+          "actionableRatio": 0.9538,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9524,
-          "total": 63
+          "direct": 62,
+          "ratio": 0.9538,
+          "total": 65
         },
         "raw": {
-          "actionable": 60,
-          "actionableRatio": 0.9524,
+          "actionable": 62,
+          "actionableRatio": 0.9538,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9524,
-          "total": 63
+          "direct": 62,
+          "ratio": 0.9538,
+          "total": 65
         }
       }
     },
@@ -286,42 +286,42 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 16,
+          "actionable": 15,
           "actionableRatio": 1.0,
-          "assisted": 14,
-          "assistedRatio": 0.875,
+          "assisted": 13,
+          "assistedRatio": 0.8667,
           "direct": 4,
-          "ratio": 0.25,
-          "total": 16
+          "ratio": 0.2667,
+          "total": 15
         },
         "raw": {
-          "actionable": 16,
+          "actionable": 15,
           "actionableRatio": 1.0,
-          "assisted": 14,
-          "assistedRatio": 0.875,
+          "assisted": 13,
+          "assistedRatio": 0.8667,
           "direct": 4,
-          "ratio": 0.25,
-          "total": 16
+          "ratio": 0.2667,
+          "total": 15
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 59,
-          "actionableRatio": 0.9365,
+          "actionable": 61,
+          "actionableRatio": 0.9385,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 59,
-          "ratio": 0.9365,
-          "total": 63
+          "direct": 61,
+          "ratio": 0.9385,
+          "total": 65
         },
         "raw": {
-          "actionable": 59,
-          "actionableRatio": 0.9365,
+          "actionable": 61,
+          "actionableRatio": 0.9385,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 59,
-          "ratio": 0.9365,
-          "total": 63
+          "direct": 61,
+          "ratio": 0.9385,
+          "total": 65
         }
       }
     }
@@ -439,11 +439,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 87,
-  "eventCountBefore": 87,
+  "eventCountAfter": 88,
+  "eventCountBefore": 88,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "2df88c5d00a70a0d4f83174746cd0e890d7dc91329c9093ae8be76d3f90f4426",
-  "feedSHA256Before": "52b0ba9fe422c5d2b568dc56e60f4f5f5a43898a48bdc311b76daf2a62e55c4a",
+  "feedSHA256After": "9244001a6190030ef96c44127a7814efe77754dc9a88c0549f846a7d252d230b",
+  "feedSHA256Before": "4e63601c8f948c97e5ae074f9232801cdd5ae0e878447993ac85c2ac4be523c0",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
