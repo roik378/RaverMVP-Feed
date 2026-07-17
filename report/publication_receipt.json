@@ -1,31 +1,49 @@
 {
+  "assistedTicketCoverageCities": [
+    "Shenzhen"
+  ],
   "cityEventCounts": {
     "Daresbury": 1,
     "Las Vegas": 2,
     "Miami": 1,
-    "Shenzhen": 10,
-    "Vancouver": 55
+    "Shenzhen": 18,
+    "Vancouver": 57
   },
-  "eventCount": 69,
-  "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "662586821798eec757afafd916c11894b360697fac3b1db50f8ee9cd01f0f990",
-  "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-16T04:39:20+08:00",
-  "reportPath": "report/ingest_report.json",
-  "reportSHA256": "812f4682f79e3bb53e139a94f247a1059e5908f50a976a079d1757d808310ac9",
-  "schemaVersion": 1,
-  "sourceCommitSHA": "a8d7d26c505d598a619ec0225bb5673e4c3b4026",
-  "sourceRepository": "roik378/RaverMVP",
-  "status": "ready",
-  "ticketCoverageLimited": true,
-  "ticketCoverageLimitedCities": [
+  "directTicketCoverageLimited": true,
+  "directTicketCoverageLimitedCities": [
     "Shenzhen"
   ],
+  "eventCount": 79,
+  "executionLane": "githubHTML",
+  "feedPath": "feed/v1/feed.draft.json",
+  "feedSHA256": "7e98c8fb2a89a3961164ed1ee87435dea8793259c61d91698757557198388b54",
+  "inactiveRetainedEventCount": 0,
+  "inactiveSourceCount": 5,
+  "inactiveSourceIDs": [
+    "am06_wechat",
+    "atmos_wechat",
+    "oil_wechat",
+    "sauce_wechat",
+    "yuyuan_miniprogram"
+  ],
+  "ingestRunAt": "2026-07-17T05:00:54Z",
+  "ingestRunId": "DF41BDCF-C560-40B1-82E1-BAF4F9C4C055",
+  "publicationGateStatus": "ready",
+  "publishedAt": "2026-07-17T05:05:04Z",
+  "reportPath": "report/ingest_report.json",
+  "reportSHA256": "6728aec43c57cd25029d83babd3cb6f8ae5f956b7da0c459c513e680d3760cf3",
+  "schemaVersion": 1,
+  "sourceCommitSHA": "4275425435869f102ddf2f842967acb4a52221c8",
+  "sourceCoverageStatus": "partial",
+  "sourceRepository": "roik378/RaverMVP",
+  "status": "ready",
+  "ticketCoverageLimited": false,
+  "ticketCoverageLimitedCities": [],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "d901932b0b3cf20886cba305afff4749a02648c839b047e52d744198a69a838e",
+  "ticketPriceProjectionSHA256": "5e800ec5773c621e15a4456e0d1fa8908363fb049c6d5e1f184d5d32e6b7a058",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "bbc3eeaba13c57f540631255d2f641ccc4a57d51dfb87cdbb484958100c930b1",
-  "ticketQualityGateStatus": "blocked",
+  "ticketPriceReceiptSHA256": "bbaaae65eca58f80ce2a76ad487a3c3f292dddc20eb4c60247a7679801bdf003",
+  "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "a1afb8ac1ef296d82f9bb0c13e70fabe731a058abc27a3680bebd7518207868f"
+  "ticketReceiptSHA256": "c5d32b4113c41f1015839c45093b88d6bd869c8c2de080e23736429e19d139af"
 }

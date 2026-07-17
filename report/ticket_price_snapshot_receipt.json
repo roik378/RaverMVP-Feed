@@ -1,6 +1,96 @@
 {
   "entries": [
     {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "8C671D79-EF9C-5951-B0B6-E63B3EDC8333",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/0eDmc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "103C135F-362A-5F49-8952-71978A8B963F",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/eU0mc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "1C962D90-3A2D-59EA-8FAB-BC6CBD133742",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/auknc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "5EA78BB6-18DD-5BEA-A314-BA1875F562FD",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/CNTmc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "4569E12F-EBB8-55D9-8A0D-79A06C782953",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/BmQmc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "06899189-1947-5EA0-B2F4-050428B20FF7",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/BEMpc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "2D25D113-C065-5E11-9949-4E036D70B8CC",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/HTnnc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "F38AAB64-B97F-57AE-9776-4DCD0DB9936E",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.fortunesoundclub.com/trk/D9Voc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "BD926B5A-3355-5A87-AD60-F2ACAC65CE78",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.fortunesoundclub.com/trk/pCEnc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "71D6A251-9FF1-5797-8B22-33EC93114594",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.fortunesoundclub.com/trk/lyIpc"
+    },
+    {
       "action": "provider_failed",
       "city": "Vancouver",
       "collectorStatus": "provider_blocked",
@@ -193,6 +283,60 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "E4186DCD-6D58-5A5E-88F2-FC8CF225E813",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/8qtpc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "AC1C1043-F2F9-5B6E-8282-A64E6CCB77DB",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/RG0mc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "1787190D-F8DB-52FA-A118-DB1B467EDB40",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/4fUmc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "96512632-CC32-5716-94CE-21C60210E527",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/HI5nc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "FCFE4246-E06A-5C1E-97FD-F4EC9B87D734",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/1vNkc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "30ADDA9D-C2ED-5800-80E5-2C930FCCF83F",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "F94D5FF7-DA36-5D28-ABFC-1492DD3B0D22",
       "reason": null,
       "stale": false,
@@ -297,7 +441,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-15T19:17:44Z",
+        "capturedAt": "2026-07-17T05:01:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -321,7 +465,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-15T19:17:44Z",
+        "capturedAt": "2026-07-17T05:01:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -343,18 +487,18 @@
       "eventID": "D636BF7B-08DC-554B-AEA7-7F322256CC50",
       "reason": null,
       "snapshot": {
-        "amountMinor": 3000,
+        "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-15T19:17:44Z",
+        "capturedAt": "2026-07-17T05:01:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
-        "displayText": "From C$30 + fees",
+        "displayText": "From C$35 + fees",
         "feeBasis": "feesExcluded",
         "provider": "showpass",
         "providerEventID": "venjentvancouver2026",
         "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
-        "tierKey": "primary-ga|showpass-ticket-4399785",
-        "tierName": "GA - Tier 1",
+        "tierKey": "primary-ga|showpass-ticket-4399786",
+        "tierName": "GA - Tier 2",
         "verificationState": "fresh"
       },
       "stale": false,
@@ -369,7 +513,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-15T19:17:44Z",
+        "capturedAt": "2026-07-17T05:01:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -393,7 +537,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-15T19:17:44Z",
+        "capturedAt": "2026-07-17T05:01:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -417,7 +561,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-15T19:17:44Z",
+        "capturedAt": "2026-07-17T05:01:39Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -472,7 +616,7 @@
       "action": "no_snapshot",
       "city": "Shenzhen",
       "collectorStatus": "unsupported_provider",
-      "eventID": "D7D1AFB7-B118-5C46-8B0A-ABCACF8C26FC",
+      "eventID": "7F93B8F3-7147-5D33-8329-A077A4B3CECB",
       "reason": null,
       "stale": false,
       "ticketURLText": "https://www.showstart.com/event/302799"
@@ -514,17 +658,17 @@
       "ticketURLText": "https://creamfields.com/tickets/"
     }
   ],
-  "feedSHA256After": "fd76c54c63c22420789e63846329bcc1e1e513f46268ebe70f4f7ba0bd8117f3",
-  "feedSHA256Before": "8c4e046baabf078b28840ac0baf78dc990223047306507f8acdbb95a688e6eb8",
-  "historySHA256After": "156fce62047e787364ce9acaffcef3adb55a813b392d443e560f9b1532e517a5",
-  "priceProjectionSHA256": "d901932b0b3cf20886cba305afff4749a02648c839b047e52d744198a69a838e",
+  "feedSHA256After": "c6f7bdad7a8edd88203fa5459ed14d13c36e25dc91e73bef3c0f0dd8aae0f642",
+  "feedSHA256Before": "07952f2970afd482c8e1c950899aa534c095c2e9ffbb732aabe62971816d0d3b",
+  "historySHA256After": "272aeb15e9982effe68c964f7e2f0c737a45e464984e9d0887fd4f790bb2bf8c",
+  "priceProjectionSHA256": "5e800ec5773c621e15a4456e0d1fa8908363fb049c6d5e1f184d5d32e6b7a058",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 47,
+    "candidateCount": 63,
     "freshCount": 6,
-    "noSnapshotCount": 20,
+    "noSnapshotCount": 36,
     "providerFailureCount": 21,
     "staleCount": 0
   }

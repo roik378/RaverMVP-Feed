@@ -1,119 +1,201 @@
 {
-  "ranAt": "2026-07-15T19:17:11",
+  "ranAt": "2026-07-17T05:00:54Z",
+  "ingestRunId": "DF41BDCF-C560-40B1-82E1-BAF4F9C4C055",
+  "ingestRunAt": "2026-07-17T05:00:54Z",
   "mode": "full",
   "sources": [
     {
       "sourceId": "celebrities_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 11,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "squarespace_enriched_snippets"
     },
     {
       "sourceId": "fortune_sound_club",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 2,
-      "strategy": "snippets"
+      "consumerReady": 7,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "squarespace_enriched_snippets"
     },
     {
       "sourceId": "harbour_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 21,
       "usable": 21,
       "consumerReady": 21,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "harbour_calendar"
     },
     {
       "sourceId": "village_studios_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 4,
+      "consumerReady": 14,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "squarespace_enriched_snippets"
     },
     {
       "sourceId": "gorgomish_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 8,
       "usable": 8,
       "consumerReady": 2,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "gorgomish_event_grid"
     },
     {
       "sourceId": "commodore_ballroom_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 7,
       "usable": 7,
       "consumerReady": 7,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "commodore_next_flight"
     },
     {
       "sourceId": "biltmore_cabaret_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 2,
       "usable": 2,
       "consumerReady": 2,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "biltmore_admitone"
     },
     {
       "sourceId": "digital_motion_bc",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 6,
       "usable": 6,
       "consumerReady": 6,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "digital_motion_showpass"
     },
     {
       "sourceId": "fox_cabaret_vancouver",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "skipped",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "19hz_bc",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "skipped",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "ra_vancouver",
       "kind": "benchmark",
+      "executionLane": null,
       "status": "skipped",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "nowshenzhen_events",
       "kind": "html",
-      "status": "ok",
+      "executionLane": "githubHTML",
+      "status": "skipped",
       "captured": 0,
       "usable": 0,
       "consumerReady": 0,
-      "strategy": "snippets"
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "nowshenzhen_playx_schedule",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 5,
       "usable": 5,
       "consumerReady": 5,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "ticketOfferEvidence": "live_public_api",
+      "ticketOfferObservedAt": "2026-07-17T05:00:42Z",
+      "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
       "evidenceImageSHA256": "b2d4577109d7388d5cebc5a0b2770d505e12fb67ac598d465fca8696739f5984",
@@ -122,104 +204,189 @@
     {
       "sourceId": "plvr_storm",
       "kind": "html",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
+      "executionLane": "githubHTML",
+      "status": "skipped",
+      "captured": 0,
+      "usable": 0,
       "consumerReady": 0,
-      "strategy": "plvr_event"
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "trip_storm",
       "kind": "html",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
+      "executionLane": "githubHTML",
+      "status": "skipped",
+      "captured": 0,
+      "usable": 0,
       "consumerReady": 0,
-      "strategy": "trip_storm_event"
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "spotify_shenzhen_concerts",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 5,
-      "usable": 5,
-      "consumerReady": 5,
+      "captured": 4,
+      "usable": 4,
+      "consumerReady": 4,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "spotify_location"
     },
     {
       "sourceId": "showstart_oil_shenzhen",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 4,
       "usable": 4,
       "consumerReady": 4,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "showstart_venue_calendar"
+    },
+    {
+      "sourceId": "yuyuan_shenzhen_public_inventory",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 11,
+      "usable": 11,
+      "consumerReady": 11,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "yuyuan_shenzhen_public_inventory"
     },
     {
       "sourceId": "oil_wechat",
       "kind": "visionOCR",
-      "status": "no_inbox_files",
+      "executionLane": "localMacOCR",
+      "status": "not_run_in_lane",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "no_eligible_events",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "yuyuan_miniprogram",
       "kind": "visionOCR",
-      "status": "no_inbox_files",
+      "executionLane": "localMacOCR",
+      "status": "not_run_in_lane",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "no_eligible_events",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "sauce_wechat",
       "kind": "visionOCR",
-      "status": "no_inbox_files",
+      "executionLane": "localMacOCR",
+      "status": "not_run_in_lane",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "no_eligible_events",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "am06_wechat",
       "kind": "visionOCR",
-      "status": "no_inbox_files",
+      "executionLane": "localMacOCR",
+      "status": "not_run_in_lane",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "no_eligible_events",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "atmos_wechat",
       "kind": "visionOCR",
-      "status": "no_inbox_files",
+      "executionLane": "localMacOCR",
+      "status": "not_run_in_lane",
       "captured": 0,
       "usable": 0,
-      "consumerReady": 0
+      "consumerReady": 0,
+      "fallback": {
+        "status": "no_eligible_events",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      }
     },
     {
       "sourceId": "ultra_miami_official",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 1,
       "usable": 1,
       "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "ultra_miami_official"
     },
     {
       "sourceId": "edc_las_vegas_official",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 2,
       "usable": 2,
       "consumerReady": 2,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "edc_las_vegas_official"
     },
     {
       "sourceId": "creamfields_official",
       "kind": "html",
+      "executionLane": "githubHTML",
       "status": "ok",
       "captured": 1,
       "usable": 1,
       "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
       "strategy": "creamfields_official"
     }
   ],
@@ -228,12 +395,13 @@
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
       "captured": 104,
-      "usable": 75,
-      "consumerReady": 55,
-      "consumerRejected": 20,
-      "consumerReadyRate": 0.733,
+      "usable": 76,
+      "consumerReady": 57,
+      "consumerRejected": 19,
+      "consumerReadyRate": 0.75,
       "rejectionReasons": {
-        "missing_event_evidence": 9,
+        "missing_raver_evidence": 6,
+        "reviewed_non_raver_title": 2,
         "placeholder_title": 5,
         "past_event": 6
       },
@@ -246,17 +414,15 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 16,
-      "usable": 11,
-      "consumerReady": 10,
-      "consumerRejected": 1,
-      "consumerReadyRate": 0.909,
-      "rejectionReasons": {
-        "past_event": 1
-      },
-      "enabledSourceCount": 11,
+      "captured": 24,
+      "usable": 18,
+      "consumerReady": 18,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 9,
       "errorSourceCount": 0,
-      "missingOCRSourceCount": 5,
+      "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
     },
@@ -316,8 +482,8 @@
       "imageDropGlob": "oil_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
-      "status": "missing_input",
-      "actionText": "Drop OCR text files matching oil_wechat*.txt",
+      "status": "run_local_lane",
+      "actionText": "Run localMacOCR or drop OCR text files matching oil_wechat*.txt",
       "files": [],
       "imageFiles": []
     },
@@ -330,8 +496,8 @@
       "imageDropGlob": "yuyuan_miniprogram*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
-      "status": "missing_input",
-      "actionText": "Drop OCR text files matching yuyuan_miniprogram*.txt",
+      "status": "run_local_lane",
+      "actionText": "Run localMacOCR or drop OCR text files matching yuyuan_miniprogram*.txt",
       "files": [],
       "imageFiles": []
     },
@@ -344,8 +510,8 @@
       "imageDropGlob": "sauce_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
-      "status": "missing_input",
-      "actionText": "Drop OCR text files matching sauce_wechat*.txt",
+      "status": "run_local_lane",
+      "actionText": "Run localMacOCR or drop OCR text files matching sauce_wechat*.txt",
       "files": [],
       "imageFiles": []
     },
@@ -358,8 +524,8 @@
       "imageDropGlob": "am06_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
-      "status": "missing_input",
-      "actionText": "Drop OCR text files matching am06_wechat*.txt",
+      "status": "run_local_lane",
+      "actionText": "Run localMacOCR or drop OCR text files matching am06_wechat*.txt",
       "files": [],
       "imageFiles": []
     },
@@ -372,36 +538,294 @@
       "imageDropGlob": "atmos_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
       "usableFiles": 0,
-      "status": "missing_input",
-      "actionText": "Drop OCR text files matching atmos_wechat*.txt",
+      "status": "run_local_lane",
+      "actionText": "Run localMacOCR or drop OCR text files matching atmos_wechat*.txt",
       "files": [],
       "imageFiles": []
     }
   ],
-  "raverReviewCandidates": [],
+  "raverReviewCandidates": [
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "A5A3941F-1983-5A37-9EE3-912168AB81F3",
+      "title": "KPOP THURSDAYS pres. SUMMER FESTIVAL",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Jul 16",
+      "timeText": "22:00",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "8C2964C4-AC60-5405-B024-035AE6F457FC",
+      "title": "Club Controller",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "July 25",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "D70242E5-AD5E-5116-9B29-E1AE2AABDFB0",
+      "title": "Underscores",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "July 30",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "37666C6F-12CE-5C24-8282-59E1BF868E90",
+      "title": "dj g2g",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "July 30",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "96AD134F-6FE2-5C27-A108-5EFDBFE6462C",
+      "title": "Coco & Breezy",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "July 31",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "FBC445D1-DAA6-5E64-9FD9-175DAFC8A08D",
+      "title": "Alex Chapman",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "August 1",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "AA570A4D-D5CD-542F-B48A-7D69C7DE823A",
+      "title": "Celebrities Pride pres.  HISTORY SUNDAY",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Aug 2",
+      "timeText": "14:00",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "5F1E56BC-2688-57AB-9F35-AD886BCAEFAE",
+      "title": "EMMIT FENN",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Aug 8",
+      "timeText": "22:00",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "77B6BE70-FF72-532E-B96A-1D37987B92E1",
+      "title": "REAL LOVE pres. DAY PARTY",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "August 15",
+      "timeText": "4:00",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "fortune_sound_club",
+      "sourceKind": "clubWebsite",
+      "eventId": "09438C1D-BA80-5E48-A9C3-6560BB4E871D",
+      "title": "CLUB:OBSESSED Fri. July 24",
+      "venue": "OBSESSED",
+      "city": "Vancouver",
+      "dateText": "july 24",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "fortune_sound_club",
+      "sourceKind": "clubWebsite",
+      "eventId": "12739F9B-8BA6-56E6-BFEE-31D08CE121DC",
+      "title": "TAYLAH ELAINE",
+      "venue": "Fortune Sound Club",
+      "city": "Vancouver",
+      "dateText": "August 3",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "7D802707-82CD-5FB3-BE5B-694CF8DAE3F3",
+      "title": "ANTHONY ATTALLA",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "july 18",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "DAB972E2-CADC-5518-82DD-C1081A581E99",
+      "title": "BIMBO 54",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "JULY 31",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "894F6D9F-16E7-54B2-8762-9B01EC08BA36",
+      "title": "Are you on the list?",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "July 31",
+      "timeText": null,
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    }
+  ],
   "totals": {
-    "captured": 124,
-    "usable": 90
+    "captured": 132,
+    "usable": 98
   },
   "consumerQuality": {
-    "ready": 69,
-    "rejected": 21,
+    "ready": 79,
+    "rejected": 19,
     "rejectionReasons": {
-      "missing_event_evidence": 9,
+      "missing_raver_evidence": 6,
+      "reviewed_non_raver_title": 2,
       "placeholder_title": 5,
-      "past_event": 7
+      "past_event": 6
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-15",
-    "Shenzhen": "2026-07-16",
-    "Miami": "2026-07-15",
-    "Las Vegas": "2026-07-15",
-    "Daresbury": "2026-07-15"
+    "Vancouver": "2026-07-16",
+    "Shenzhen": "2026-07-17",
+    "Miami": "2026-07-17",
+    "Las Vegas": "2026-07-16",
+    "Daresbury": "2026-07-17"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
     "reviewedArtists": 58
+  },
+  "reviewedArtistBilling": {
+    "status": "loaded",
+    "reviewedEvents": 2
+  },
+  "sourceResilience": {
+    "schemaVersion": 1,
+    "status": "healthy",
+    "ttlHours": 120,
+    "failedSourceCount": 0,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
+    "baseline": {
+      "status": "valid",
+      "ingestRunId": "79E13735-23AC-4930-8CFF-89634A55FE3D",
+      "ingestRunAt": "2026-07-16T16:55:17Z"
+    }
+  },
+  "executionCoverage": {
+    "schemaVersion": 1,
+    "status": "partial",
+    "executionLane": "githubHTML",
+    "activeSourceCount": 15,
+    "inactiveSourceCount": 5,
+    "inactiveSourceIDs": [
+      "am06_wechat",
+      "atmos_wechat",
+      "oil_wechat",
+      "sauce_wechat",
+      "yuyuan_miniprogram"
+    ],
+    "inactiveRetainedEventCount": 0
   },
   "publicationGate": {
     "status": "ready",
@@ -418,6 +842,7 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish."
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   }
 }
