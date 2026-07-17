@@ -1,5 +1,5 @@
 {
-  "appliedCount": 1,
+  "appliedCount": 0,
   "coverage": {
     "after": {
       "Daresbury": {
@@ -64,22 +64,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 18,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 15,
-          "assistedRatio": 0.8333,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.2778,
-          "total": 18
+          "ratio": 0.2632,
+          "total": 19
         },
         "raw": {
-          "actionable": 18,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 15,
-          "assistedRatio": 0.8333,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.2778,
-          "total": 18
+          "ratio": 0.2632,
+          "total": 19
         }
       },
       "Vancouver": {
@@ -166,41 +166,41 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 18,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 15,
-          "assistedRatio": 0.8333,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.2778,
-          "total": 18
+          "ratio": 0.2632,
+          "total": 19
         },
         "raw": {
-          "actionable": 18,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 15,
-          "assistedRatio": 0.8333,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.2778,
-          "total": 18
+          "ratio": 0.2632,
+          "total": 19
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 53,
-          "actionableRatio": 0.9464,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 53,
-          "ratio": 0.9464,
-          "total": 56
-        },
-        "raw": {
           "actionable": 54,
-          "actionableRatio": 0.9474,
+          "actionableRatio": 0.9643,
           "assisted": 0,
           "assistedRatio": 0.0,
           "direct": 54,
-          "ratio": 0.9474,
+          "ratio": 0.9643,
+          "total": 56
+        },
+        "raw": {
+          "actionable": 55,
+          "actionableRatio": 0.9649,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 55,
+          "ratio": 0.9649,
           "total": 57
         }
       }
@@ -288,7 +288,7 @@
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     },
     {
-      "action": "applied",
+      "action": "unchanged",
       "canonicalVenue": "Village Studios",
       "city": "Vancouver",
       "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
@@ -302,7 +302,7 @@
         "NITESHIFT pres. ANTHONY ATTALLA"
       ],
       "newTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
-      "oldTicketURLText": null,
+      "oldTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
       "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
     },
     {
@@ -324,11 +324,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 79,
-  "eventCountBefore": 79,
+  "eventCountAfter": 80,
+  "eventCountBefore": 80,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "7e98c8fb2a89a3961164ed1ee87435dea8793259c61d91698757557198388b54",
-  "feedSHA256Before": "d0f367fca872d376bc0015b9555f05a46b1bf32324ffabc7bbb9699eba4b692a",
+  "feedSHA256After": "43e2ed09188f30109141d94cd3158d4c2ae90b4c8a735ffecfb039a15701af80",
+  "feedSHA256Before": "43e2ed09188f30109141d94cd3158d4c2ae90b4c8a735ffecfb039a15701af80",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -356,6 +356,6 @@
   "schemaVersion": 1,
   "staleSkippedCount": 2,
   "status": "applied",
-  "unchangedCount": 4,
+  "unchangedCount": 5,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }

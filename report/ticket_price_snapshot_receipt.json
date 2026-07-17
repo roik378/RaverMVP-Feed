@@ -292,6 +292,15 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "E3FD508E-13E6-545F-9061-B3048AA11311",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "AC1C1043-F2F9-5B6E-8282-A64E6CCB77DB",
       "reason": null,
       "stale": false,
@@ -441,7 +450,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-17T05:01:39Z",
+        "capturedAt": "2026-07-17T06:50:53Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -465,7 +474,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T05:01:39Z",
+        "capturedAt": "2026-07-17T06:50:53Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -489,7 +498,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T05:01:39Z",
+        "capturedAt": "2026-07-17T06:50:53Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -513,7 +522,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T05:01:39Z",
+        "capturedAt": "2026-07-17T06:50:53Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -537,7 +546,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T05:01:39Z",
+        "capturedAt": "2026-07-17T06:50:53Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -561,7 +570,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T05:01:39Z",
+        "capturedAt": "2026-07-17T06:50:53Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -616,7 +625,7 @@
       "action": "no_snapshot",
       "city": "Shenzhen",
       "collectorStatus": "unsupported_provider",
-      "eventID": "7F93B8F3-7147-5D33-8329-A077A4B3CECB",
+      "eventID": "D7D1AFB7-B118-5C46-8B0A-ABCACF8C26FC",
       "reason": null,
       "stale": false,
       "ticketURLText": "https://www.showstart.com/event/302799"
@@ -658,17 +667,17 @@
       "ticketURLText": "https://creamfields.com/tickets/"
     }
   ],
-  "feedSHA256After": "c6f7bdad7a8edd88203fa5459ed14d13c36e25dc91e73bef3c0f0dd8aae0f642",
-  "feedSHA256Before": "07952f2970afd482c8e1c950899aa534c095c2e9ffbb732aabe62971816d0d3b",
-  "historySHA256After": "272aeb15e9982effe68c964f7e2f0c737a45e464984e9d0887fd4f790bb2bf8c",
-  "priceProjectionSHA256": "5e800ec5773c621e15a4456e0d1fa8908363fb049c6d5e1f184d5d32e6b7a058",
+  "feedSHA256After": "43e2ed09188f30109141d94cd3158d4c2ae90b4c8a735ffecfb039a15701af80",
+  "feedSHA256Before": "4d52e463abafb8502069e0f8480626a4f9ae2e4bf3c12aa3467c245b923eed0e",
+  "historySHA256After": "2e5195924b36624fd9232ba9cd9af55dfcc4ab9168dd05d3011c5f368a507bf9",
+  "priceProjectionSHA256": "52884bf94f01efbc2b2766bb50b1e4afc5d316720f1be455622e92d53ce9cd24",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 63,
+    "candidateCount": 64,
     "freshCount": 6,
-    "noSnapshotCount": 36,
+    "noSnapshotCount": 37,
     "providerFailureCount": 21,
     "staleCount": 0
   }

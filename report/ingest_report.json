@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T05:00:54Z",
-  "ingestRunId": "DF41BDCF-C560-40B1-82E1-BAF4F9C4C055",
-  "ingestRunAt": "2026-07-17T05:00:54Z",
+  "ranAt": "2026-07-17T06:34:15Z",
+  "ingestRunId": "9A0D9B72-C887-4929-8892-24BF3ADDBEEC",
+  "ingestRunAt": "2026-07-17T06:34:15Z",
   "mode": "full",
   "sources": [
     {
@@ -233,14 +233,16 @@
       "sourceId": "spotify_shenzhen_concerts",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
+      "status": "error: incomplete_reviewed_corroboration",
       "captured": 4,
       "usable": 4,
       "consumerReady": 4,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 1,
+        "retainedEventCount": 1,
+        "fallbackAgeHours": 13,
+        "requiredSourceURLCount": 1
       },
       "strategy": "spotify_location"
     },
@@ -264,15 +266,16 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 11,
-      "usable": 11,
-      "consumerReady": 11,
+      "captured": 12,
+      "usable": 12,
+      "consumerReady": 12,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "yuyuan_shenzhen_public_inventory"
+      "strategy": "yuyuan_shenzhen_public_inventory",
+      "reviewedEventStyleCount": 4
     },
     {
       "sourceId": "oil_wechat",
@@ -414,14 +417,14 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 24,
-      "usable": 18,
-      "consumerReady": 18,
+      "captured": 25,
+      "usable": 19,
+      "consumerReady": 19,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 9,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -771,11 +774,11 @@
     }
   ],
   "totals": {
-    "captured": 132,
-    "usable": 98
+    "captured": 133,
+    "usable": 99
   },
   "consumerQuality": {
-    "ready": 79,
+    "ready": 80,
     "rejected": 19,
     "rejectionReasons": {
       "missing_raver_evidence": 6,
@@ -793,7 +796,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 58
+    "reviewedArtists": 78
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -801,11 +804,11 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 0,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 1,
+    "materialFailureCount": 1,
+    "retainedEventCount": 1,
     "baseline": {
       "status": "valid",
       "ingestRunId": "79E13735-23AC-4930-8CFF-89634A55FE3D",
@@ -842,7 +845,23 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
+  },
+  "reviewedCorroboration": {
+    "schemaVersion": 1,
+    "status": "incomplete",
+    "expectedPairCount": 4,
+    "livePairCount": 3,
+    "missingPairCount": 1,
+    "missingPairs": [
+      {
+        "cityName": "Shenzhen",
+        "corroboratingSourceId": "showstart_oil_shenzhen",
+        "corroboratingSourceURLText": "https://www.showstart.com/event/302799",
+        "corroboratedSourceId": "spotify_shenzhen_concerts",
+        "sourceURLText": "https://open.spotify.com/concert/3vtsU0OIzoxENCxw5YENWQ"
+      }
+    ]
   }
 }
