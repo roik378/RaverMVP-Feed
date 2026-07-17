@@ -93,189 +93,189 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "817073F1-54AD-5639-9E54-9D747A703DA2",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/195395"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "4B454302-68CB-5E30-A90D-EBC5D419C85E",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/182221"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "6C434E61-84EE-5FE2-95C2-EC46B734DFA7",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/184769"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "26396D3E-BBFC-5557-A221-FFAA491AF145",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/194433"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "BD798056-1830-5FDF-AF01-7718EAA7AC7E",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/197263"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "7C3D3D77-A911-5599-8A6F-37666C8ADEE0",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/192055"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "D3EC4053-5961-587D-AF85-72BABE5CD042",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/185416"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "024E65D9-0347-5764-AD02-2E1E7ED9A661",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/198329"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "3953E14A-AB1F-5C54-BFF0-F04CE774018F",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/177104"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "88DFB8BA-9522-5722-A0A8-17A054845297",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/186501"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "E5AC42D0-FFEF-5F5E-817F-70534AF6B7FE",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/196122"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "B031F71C-7E5B-5DEE-98DC-2312DE1A2A11",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/198322"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "2FE7BAE9-AD3E-5772-9FAE-D533F7BD254D",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/195425"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "F005F7FC-2A02-5DC8-8351-8C01C8C63BE2",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/188737"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "0BEC868B-3A6A-5EC3-A8BF-DFA703A1E41C",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/198827"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "5A3CC2A2-D124-5DFA-B95E-98125D3F788F",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/191670"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "FCA38009-A5A1-51DD-836E-A6418FC6A462",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/197295"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "C8BEC29C-CD32-5507-B8F5-5554764BA25E",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/196120"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "678ED6BD-276E-5955-B2FA-A3F31929137B",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/195028"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "9E51ABCE-4F71-5F30-8EBD-304E1AE2F31E",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/192435"
     },
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "provider_blocked",
       "eventID": "8E6D6419-DB82-5A5D-B022-E6541F284AD2",
-      "reason": "NoSuchDriverException: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+      "reason": "access challenge",
       "stale": false,
       "ticketURLText": "https://tixr.com/e/191340"
     },
@@ -287,15 +287,6 @@
       "reason": null,
       "stale": false,
       "ticketURLText": "https://on.villagestudios.life/trk/8qtpc"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Vancouver",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "E3FD508E-13E6-545F-9061-B3048AA11311",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
     },
     {
       "action": "no_snapshot",
@@ -433,15 +424,15 @@
       "ticketURLText": "https://admitone.com/events/buzz-kull-and-kontravoid-vancouver-170887"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "77CEA05E-CF2E-5E11-8368-8AE2B2319278",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 3000,
-        "availability": "unknown",
-        "capturedAt": "2026-07-17T13:10:10Z",
+        "availability": "available",
+        "capturedAt": "2026-07-17T17:48:52Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -451,21 +442,21 @@
         "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
         "tierKey": "primary-ga|showpass-ticket-4410457",
         "tierName": "GA - Tier 1",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://www.showpass.com/wonkywillavancouver/"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "0874598C-91A8-5408-BB8D-EF9B7E78328E",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 2500,
-        "availability": "unknown",
-        "capturedAt": "2026-07-17T13:10:10Z",
+        "availability": "available",
+        "capturedAt": "2026-07-17T17:48:52Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -475,21 +466,21 @@
         "sourceURLText": "https://www.showpass.com/onhellsubculture/",
         "tierKey": "primary-ga|showpass-ticket-4445238",
         "tierName": "GA - Early Bird",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://www.showpass.com/onhellsubculture/"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "D636BF7B-08DC-554B-AEA7-7F322256CC50",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 3500,
-        "availability": "unknown",
-        "capturedAt": "2026-07-17T13:10:10Z",
+        "availability": "available",
+        "capturedAt": "2026-07-17T17:48:52Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -499,21 +490,21 @@
         "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
         "tierKey": "primary-ga|showpass-ticket-4399786",
         "tierName": "GA - Tier 2",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://www.showpass.com/venjentvancouver2026/"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "89D094F8-B338-5DAA-B9EB-C3E1B6D82181",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 3500,
-        "availability": "unknown",
-        "capturedAt": "2026-07-17T13:10:10Z",
+        "availability": "available",
+        "capturedAt": "2026-07-17T17:48:52Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -523,21 +514,21 @@
         "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
         "tierKey": "primary-ga|showpass-ticket-4449767",
         "tierName": "GA - Tier 1",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://www.showpass.com/ivylabvancouver/"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "B2B3486A-7620-5460-BAF2-1B55D3B55F8A",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 2500,
-        "availability": "unknown",
-        "capturedAt": "2026-07-17T13:10:10Z",
+        "availability": "available",
+        "capturedAt": "2026-07-17T17:48:52Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -547,21 +538,21 @@
         "sourceURLText": "https://www.showpass.com/canablissvancouver/",
         "tierKey": "primary-ga|showpass-ticket-4459359",
         "tierName": "GA - Early Bird",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://www.showpass.com/canablissvancouver/"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "08E1CD10-F89B-58F7-AC86-8318938173B7",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 2500,
-        "availability": "unknown",
-        "capturedAt": "2026-07-17T13:10:10Z",
+        "availability": "available",
+        "capturedAt": "2026-07-17T17:48:52Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -571,9 +562,9 @@
         "sourceURLText": "https://www.showpass.com/whalesvancouver/",
         "tierKey": "primary-ga|showpass-ticket-4439720",
         "tierName": "GA - Early Bird",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://www.showpass.com/whalesvancouver/"
     },
     {
@@ -611,15 +602,6 @@
       "reason": null,
       "stale": false,
       "ticketURLText": "https://www.showstart.com/event/302799"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Shenzhen",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "49C8679B-6A4A-5107-A8C9-022FECF90815",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://www.showstart.com/event/302794"
     },
     {
       "action": "no_snapshot",
@@ -676,18 +658,18 @@
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
     }
   ],
-  "feedSHA256After": "da59d6925c5acb8bcdddb31ea99455fad65da407d8d5377d8421633fcf99b656",
-  "feedSHA256Before": "9ecc4dd3140c1c6d15ca927cc20fb55f3d3719b3c0b1441a99c38a5fd00c1ac2",
-  "historySHA256After": "62a2723b5386842bf79ca3c15570fe9abf60d6d71db2074b28b0e9b0803b485b",
-  "priceProjectionSHA256": "d7e0ae09207d98dc899b8fdfbaeb68f4465b0949990b016f582b4ca1ca834ccb",
+  "feedSHA256After": "f9222ba73e35d7649d597f4e4b2d492a4eb5c60d1b33981e0ca934ed41866220",
+  "feedSHA256Before": "33dbcb6d94befbfc64f6d95d1db84646a4d7e8765a75094dfb7f42c753872201",
+  "historySHA256After": "08913bf92a83f29be7ee9d6ddcb599b65f163e97324d410a860f1605f32d3a48",
+  "priceProjectionSHA256": "a781974c93fa2a0f7d51ccd459250ddce0ab577af4603d5678c3b6989254f61f",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 65,
-    "freshCount": 0,
-    "noSnapshotCount": 38,
-    "providerFailureCount": 27,
-    "staleCount": 6
+    "candidateCount": 63,
+    "freshCount": 6,
+    "noSnapshotCount": 36,
+    "providerFailureCount": 21,
+    "staleCount": 0
   }
 }

@@ -1,5 +1,5 @@
 {
-  "appliedCount": 0,
+  "appliedCount": 1,
   "coverage": {
     "after": {
       "Boom": {
@@ -124,22 +124,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
+          "actionable": 16,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.8947,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "assisted": 14,
+          "assistedRatio": 0.875,
+          "direct": 4,
+          "ratio": 0.25,
+          "total": 16
         },
         "raw": {
-          "actionable": 19,
+          "actionable": 16,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.8947,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "assisted": 14,
+          "assistedRatio": 0.875,
+          "direct": 4,
+          "ratio": 0.25,
+          "total": 16
         }
       },
       "Vancouver": {
@@ -286,41 +286,41 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
+          "actionable": 16,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.8947,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "assisted": 14,
+          "assistedRatio": 0.875,
+          "direct": 4,
+          "ratio": 0.25,
+          "total": 16
         },
         "raw": {
-          "actionable": 19,
+          "actionable": 16,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.8947,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "assisted": 14,
+          "assistedRatio": 0.875,
+          "direct": 4,
+          "ratio": 0.25,
+          "total": 16
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 54,
-          "actionableRatio": 0.9643,
+          "actionable": 53,
+          "actionableRatio": 0.9464,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 54,
-          "ratio": 0.9643,
+          "direct": 53,
+          "ratio": 0.9464,
           "total": 56
         },
         "raw": {
-          "actionable": 54,
-          "actionableRatio": 0.9643,
+          "actionable": 53,
+          "actionableRatio": 0.9464,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 54,
-          "ratio": 0.9643,
+          "direct": 53,
+          "ratio": 0.9464,
           "total": 56
         }
       }
@@ -341,21 +341,16 @@
       "ticketURLText": "https://ra.co/events/2464468"
     },
     {
-      "action": "unchanged",
+      "action": "stale_skipped",
       "canonicalVenue": "OIL Club",
       "city": "Shenzhen",
       "currentTitle": "RAVEN UNLTD",
       "dateText": "Jul 17",
       "evidenceURLText": "https://open.spotify.com/concert/2wHe3VzDq1WHRR6pgJ7Ylc",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "49C8679B-6A4A-5107-A8C9-022FECF90815"
-      ],
-      "matchedEventTitles": [
-        "RAVEN UNLTD"
-      ],
-      "newTicketURLText": "https://www.showstart.com/event/302794",
-      "oldTicketURLText": "https://www.showstart.com/event/302794",
+      "matchCount": 0,
+      "matchedEventIDs": [],
+      "matchedEventTitles": [],
+      "reason": "reviewed event is no longer present after its consumer date",
       "ticketURLText": "https://www.showstart.com/event/302794"
     },
     {
@@ -408,7 +403,7 @@
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     },
     {
-      "action": "unchanged",
+      "action": "applied",
       "canonicalVenue": "Village Studios",
       "city": "Vancouver",
       "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
@@ -422,7 +417,7 @@
         "NITESHIFT pres. ANTHONY ATTALLA"
       ],
       "newTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
-      "oldTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
+      "oldTicketURLText": null,
       "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
     },
     {
@@ -444,11 +439,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 83,
-  "eventCountBefore": 83,
+  "eventCountAfter": 80,
+  "eventCountBefore": 80,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "da59d6925c5acb8bcdddb31ea99455fad65da407d8d5377d8421633fcf99b656",
-  "feedSHA256Before": "da59d6925c5acb8bcdddb31ea99455fad65da407d8d5377d8421633fcf99b656",
+  "feedSHA256After": "d8437197ebdb2be8356cc6668e853318dddd3a64ac131b2f32c46069ecfa699c",
+  "feedSHA256Before": "f694dfa67c1fe6cbf9e240721701c68421f2a971f48c742c333451efe2434f3f",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -473,9 +468,19 @@
     "status": "ready"
   },
   "referenceDate": "2026-07-17",
+  "referenceDatesByCity": {
+    "Boom": "2026-07-17",
+    "Daresbury": "2026-07-17",
+    "Las Vegas": "2026-07-17",
+    "Miami": "2026-07-17",
+    "Orlando": "2026-07-17",
+    "Salmo": "2026-07-17",
+    "Shenzhen": "2026-07-18",
+    "Vancouver": "2026-07-17"
+  },
   "schemaVersion": 1,
-  "staleSkippedCount": 2,
+  "staleSkippedCount": 3,
   "status": "applied",
-  "unchangedCount": 5,
+  "unchangedCount": 3,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }
