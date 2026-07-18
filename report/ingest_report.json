@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T02:16:25Z",
-  "ingestRunId": "DEE18E50-3C2D-491E-92CB-88F191DEF925",
-  "ingestRunAt": "2026-07-18T02:16:25Z",
+  "ranAt": "2026-07-18T13:46:54Z",
+  "ingestRunId": "66740C2D-2ACF-47D0-B85E-E8643DF3B0A3",
+  "ingestRunAt": "2026-07-18T13:46:54Z",
   "mode": "full",
   "sources": [
     {
@@ -11,13 +11,14 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 13,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "squarespace_enriched_snippets"
+      "strategy": "squarespace_enriched_snippets",
+      "exactReviewedArtistTitleBillingCount": 1
     },
     {
       "sourceId": "fortune_sound_club",
@@ -39,9 +40,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 22,
-      "usable": 22,
-      "consumerReady": 22,
+      "captured": 21,
+      "usable": 21,
+      "consumerReady": 21,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -62,7 +63,10 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "squarespace_enriched_snippets"
+      "strategy": "squarespace_enriched_snippets",
+      "exactReviewedArtistTitleBillingCount": 1,
+      "reviewedEventFactCorrectionCount": 1,
+      "reviewedEventLineupCount": 1
     },
     {
       "sourceId": "gorgomish_vancouver",
@@ -71,7 +75,7 @@
       "status": "ok",
       "captured": 7,
       "usable": 7,
-      "consumerReady": 7,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -194,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-18T02:16:10Z",
+      "ticketOfferObservedAt": "2026-07-18T13:46:42Z",
       "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -234,9 +238,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 4,
-      "usable": 4,
-      "consumerReady": 4,
+      "captured": 6,
+      "usable": 6,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -264,15 +268,16 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 9,
-      "usable": 9,
-      "consumerReady": 9,
+      "captured": 11,
+      "usable": 11,
+      "consumerReady": 11,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
+      "reviewedEventInventoryCount": 2,
       "reviewedEventStyleCount": 3,
       "reviewedTicketTierCount": 1
     },
@@ -458,16 +463,16 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 164,
-      "usable": 103,
+      "captured": 163,
+      "usable": 102,
       "consumerReady": 70,
-      "consumerRejected": 33,
-      "consumerReadyRate": 0.68,
+      "consumerRejected": 32,
+      "consumerReadyRate": 0.686,
       "rejectionReasons": {
-        "missing_raver_evidence": 13,
+        "missing_raver_evidence": 10,
         "reviewed_non_raver_title": 2,
         "placeholder_title": 5,
-        "past_event": 13
+        "past_event": 15
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -478,9 +483,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 20,
-      "usable": 15,
-      "consumerReady": 15,
+      "captured": 24,
+      "usable": 17,
+      "consumerReady": 17,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -678,6 +683,7 @@
       "city": "Vancouver",
       "dateText": "July 25",
       "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -694,6 +700,7 @@
       "city": "Vancouver",
       "dateText": "July 30",
       "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -710,6 +717,7 @@
       "city": "Vancouver",
       "dateText": "July 30",
       "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -726,6 +734,7 @@
       "city": "Vancouver",
       "dateText": "July 31",
       "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -742,6 +751,7 @@
       "city": "Vancouver",
       "dateText": "August 1",
       "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -758,22 +768,7 @@
       "city": "Vancouver",
       "dateText": "Aug 2",
       "timeText": "14:00",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "5F1E56BC-2688-57AB-9F35-AD886BCAEFAE",
-      "title": "EMMIT FENN",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "Aug 8",
-      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/historysunday2026",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -790,6 +785,7 @@
       "city": "Vancouver",
       "dateText": "August 15",
       "timeText": "4:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -806,6 +802,7 @@
       "city": "Vancouver",
       "dateText": "july 24",
       "timeText": null,
+      "sourceURLText": "https://www.fortunesoundclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -822,6 +819,7 @@
       "city": "Vancouver",
       "dateText": "Jul 25",
       "timeText": "22:00",
+      "sourceURLText": "https://www.fortunesoundclub.com/events/cold-drinks-aug-2026",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -838,6 +836,7 @@
       "city": "Vancouver",
       "dateText": "Aug 2",
       "timeText": "20:00",
+      "sourceURLText": "https://www.fortunesoundclub.com/events/babes-pride",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -854,6 +853,7 @@
       "city": "Vancouver",
       "dateText": "july 18",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -870,6 +870,7 @@
       "city": "Vancouver",
       "dateText": "JULY 30",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -886,6 +887,7 @@
       "city": "Vancouver",
       "dateText": "July 30",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -902,6 +904,7 @@
       "city": "Vancouver",
       "dateText": "JULY 31",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -918,25 +921,8 @@
       "city": "Vancouver",
       "dateText": "July 31",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "FC313592-C413-553A-A274-02D0A1D60DDA",
-      "title": "TAKUYA NAKAMURA",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "September 6",
-      "timeText": "10:00",
-      "lineupNames": [
-        "Takuya Nakamura"
-      ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
       "ticketPriceText": null,
@@ -952,22 +938,7 @@
       "city": "Vancouver",
       "dateText": "SEPTEMBER 05",
       "timeText": null,
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "3BD50038-65FE-58DC-AFBF-47E66BD9D2DE",
-      "title": "ATRIP & DJ BORING: CAN YOU KEEP UP? (VANCOUVER)",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "Sep 11",
-      "timeText": "23:00",
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -984,6 +955,7 @@
       "city": "Vancouver",
       "dateText": "SEPTEMBER 11",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1000,26 +972,9 @@
       "city": "Vancouver",
       "dateText": "Sep 19",
       "timeText": "22:00",
+      "sourceURLText": "https://www.villagestudios.life/events/julianfijma",
       "lineupNames": [
         "Julian Fijma"
-      ],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "D8F65832-F50F-545D-8B10-4C3B1F9A1F82",
-      "title": "STACKED pres. CAMOUFLY",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "Oct 3",
-      "timeText": "22:00",
-      "lineupNames": [
-        "CAMOUFLY"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1036,6 +991,7 @@
       "city": "Vancouver",
       "dateText": "OCTOBER 3",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1052,6 +1008,7 @@
       "city": "Vancouver",
       "dateText": "OCTOBER 3",
       "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1061,33 +1018,33 @@
     }
   ],
   "totals": {
-    "captured": 193,
-    "usable": 127
+    "captured": 196,
+    "usable": 128
   },
   "consumerQuality": {
-    "ready": 94,
-    "rejected": 33,
+    "ready": 96,
+    "rejected": 32,
     "rejectionReasons": {
-      "missing_raver_evidence": 13,
+      "missing_raver_evidence": 10,
       "reviewed_non_raver_title": 2,
       "placeholder_title": 5,
-      "past_event": 13
+      "past_event": 15
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-17",
+    "Vancouver": "2026-07-18",
     "Shenzhen": "2026-07-18",
-    "Miami": "2026-07-17",
-    "Las Vegas": "2026-07-17",
+    "Miami": "2026-07-18",
+    "Las Vegas": "2026-07-18",
     "Daresbury": "2026-07-18",
-    "Salmo": "2026-07-17",
-    "Orlando": "2026-07-17",
+    "Salmo": "2026-07-18",
+    "Orlando": "2026-07-18",
     "Boom": "2026-07-18",
     "Tokyo": "2026-07-18"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 83
+    "reviewedArtists": 90
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1102,8 +1059,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "B2604507-47ED-4ACF-AD63-B46C395F2D4E",
-      "ingestRunAt": "2026-07-17T21:42:21Z"
+      "ingestRunId": "DEE18E50-3C2D-491E-92CB-88F191DEF925",
+      "ingestRunAt": "2026-07-18T02:16:25Z"
     }
   },
   "executionCoverage": {

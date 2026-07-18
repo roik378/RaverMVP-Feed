@@ -124,22 +124,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 15,
+          "actionable": 17,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.8667,
-          "direct": 4,
-          "ratio": 0.2667,
-          "total": 15
+          "assisted": 15,
+          "assistedRatio": 0.8824,
+          "direct": 6,
+          "ratio": 0.3529,
+          "total": 17
         },
         "raw": {
-          "actionable": 15,
+          "actionable": 17,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.8667,
-          "direct": 4,
-          "ratio": 0.2667,
-          "total": 15
+          "assisted": 15,
+          "assistedRatio": 0.8824,
+          "direct": 6,
+          "ratio": 0.3529,
+          "total": 17
         }
       },
       "Tokyo": {
@@ -164,21 +164,21 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 66,
-          "actionableRatio": 0.9429,
+          "actionable": 64,
+          "actionableRatio": 0.9143,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
-          "ratio": 0.9429,
+          "direct": 64,
+          "ratio": 0.9143,
           "total": 70
         },
         "raw": {
-          "actionable": 66,
-          "actionableRatio": 0.9429,
+          "actionable": 64,
+          "actionableRatio": 0.9143,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
-          "ratio": 0.9429,
+          "direct": 64,
+          "ratio": 0.9143,
           "total": 70
         }
       }
@@ -306,22 +306,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 15,
+          "actionable": 17,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.8667,
-          "direct": 4,
-          "ratio": 0.2667,
-          "total": 15
+          "assisted": 15,
+          "assistedRatio": 0.8824,
+          "direct": 6,
+          "ratio": 0.3529,
+          "total": 17
         },
         "raw": {
-          "actionable": 15,
+          "actionable": 17,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.8667,
-          "direct": 4,
-          "ratio": 0.2667,
-          "total": 15
+          "assisted": 15,
+          "assistedRatio": 0.8824,
+          "direct": 6,
+          "ratio": 0.3529,
+          "total": 17
         }
       },
       "Tokyo": {
@@ -346,21 +346,21 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9286,
+          "actionable": 63,
+          "actionableRatio": 0.9,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9286,
+          "direct": 63,
+          "ratio": 0.9,
           "total": 70
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9286,
+          "actionable": 63,
+          "actionableRatio": 0.9,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9286,
+          "direct": 63,
+          "ratio": 0.9,
           "total": 70
         }
       }
@@ -479,11 +479,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 94,
-  "eventCountBefore": 94,
+  "eventCountAfter": 96,
+  "eventCountBefore": 96,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "caf01e1207ce7c32ae046ac2d2c4617ae640d81d5a59aceff96d05ae479f6d15",
-  "feedSHA256Before": "3a77557bfc41586ae4ef72fa43bc4f12afa87d2de2ae0f76407e4deb5637efe9",
+  "feedSHA256After": "79b1bc77594fcb62aa2d4eb3e2e7bc88842baf3ca8e75b6a76c0c016335627b8",
+  "feedSHA256Before": "84812902d571e84cc5c8a089c011a2ec105880d7204b7ba753ac19ecda62bb45",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -511,13 +511,13 @@
   "referenceDatesByCity": {
     "Boom": "2026-07-18",
     "Daresbury": "2026-07-18",
-    "Las Vegas": "2026-07-17",
-    "Miami": "2026-07-17",
-    "Orlando": "2026-07-17",
-    "Salmo": "2026-07-17",
+    "Las Vegas": "2026-07-18",
+    "Miami": "2026-07-18",
+    "Orlando": "2026-07-18",
+    "Salmo": "2026-07-18",
     "Shenzhen": "2026-07-18",
     "Tokyo": "2026-07-18",
-    "Vancouver": "2026-07-17"
+    "Vancouver": "2026-07-18"
   },
   "schemaVersion": 1,
   "staleSkippedCount": 3,
