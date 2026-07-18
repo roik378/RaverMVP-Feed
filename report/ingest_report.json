@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T20:37:49Z",
-  "ingestRunId": "D3E2DAF6-D6AF-4522-B708-0324B396F9C2",
-  "ingestRunAt": "2026-07-18T20:37:49Z",
+  "ranAt": "2026-07-18T21:15:00Z",
+  "ingestRunId": "A97A4CDD-3534-4B1D-AF72-F8820935505E",
+  "ingestRunAt": "2026-07-18T21:15:00Z",
   "mode": "full",
   "sources": [
     {
@@ -268,9 +268,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 10,
-      "usable": 10,
-      "consumerReady": 10,
+      "captured": 9,
+      "usable": 9,
+      "consumerReady": 9,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -278,8 +278,7 @@
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
       "reviewedEventInventoryCount": 2,
-      "reviewedEventStyleCount": 2,
-      "reviewedTicketTierCount": 1
+      "reviewedEventStyleCount": 2
     },
     {
       "sourceId": "oil_wechat",
@@ -680,9 +679,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 20,
-      "usable": 14,
-      "consumerReady": 14,
+      "captured": 19,
+      "usable": 13,
+      "consumerReady": 13,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1410,11 +1409,11 @@
     }
   ],
   "totals": {
-    "captured": 205,
-    "usable": 138
+    "captured": 204,
+    "usable": 137
   },
   "consumerQuality": {
-    "ready": 106,
+    "ready": 105,
     "rejected": 32,
     "rejectionReasons": {
       "missing_raver_evidence": 10,
@@ -1434,7 +1433,7 @@
     "Boom": "2026-07-18",
     "Hilvarenbeek": "2026-07-18",
     "Arnhem": "2026-07-18",
-    "Cluj-Napoca": "2026-07-18",
+    "Cluj-Napoca": "2026-07-19",
     "Thornville": "2026-07-18",
     "Los Angeles": "2026-07-18",
     "Long Beach": "2026-07-18",

@@ -344,22 +344,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 5,
+          "ratio": 0.3846,
+          "total": 13
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 5,
+          "ratio": 0.3846,
+          "total": 13
         }
       },
       "Split": {
@@ -786,22 +786,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 5,
+          "ratio": 0.3846,
+          "total": 13
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 13,
-          "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 5,
+          "ratio": 0.3846,
+          "total": 13
         }
       },
       "Split": {
@@ -994,11 +994,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 106,
-  "eventCountBefore": 106,
+  "eventCountAfter": 105,
+  "eventCountBefore": 105,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "59387db3bd5cd5618b6c0e0e8f4702c17669c971a5c3208e1b13204d31b4a9a8",
-  "feedSHA256Before": "59387db3bd5cd5618b6c0e0e8f4702c17669c971a5c3208e1b13204d31b4a9a8",
+  "feedSHA256After": "65ce2fa86d95a286e5e838d703208e211c2aa5164b49e122b249c110cb5c6bcb",
+  "feedSHA256Before": "65ce2fa86d95a286e5e838d703208e211c2aa5164b49e122b249c110cb5c6bcb",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1022,13 +1022,13 @@
     "minimumTicketActionCoverage": 0.6,
     "status": "ready"
   },
-  "referenceDate": "2026-07-18",
+  "referenceDate": "2026-07-19",
   "referenceDatesByCity": {
     "Alpe d'Huez": "2026-07-18",
     "Arnhem": "2026-07-18",
     "Boom": "2026-07-18",
     "Chicago": "2026-07-18",
-    "Cluj-Napoca": "2026-07-18",
+    "Cluj-Napoca": "2026-07-19",
     "Daresbury": "2026-07-18",
     "Hilvarenbeek": "2026-07-18",
     "Jakarta": "2026-07-19",
