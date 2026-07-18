@@ -348,8 +348,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 5,
-          "ratio": 0.3571,
+          "direct": 3,
+          "ratio": 0.2143,
           "total": 14
         },
         "raw": {
@@ -357,8 +357,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 5,
-          "ratio": 0.3571,
+          "direct": 3,
+          "ratio": 0.2143,
           "total": 14
         }
       },
@@ -790,8 +790,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 5,
-          "ratio": 0.3571,
+          "direct": 3,
+          "ratio": 0.2143,
           "total": 14
         },
         "raw": {
@@ -799,8 +799,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 5,
-          "ratio": 0.3571,
+          "direct": 3,
+          "ratio": 0.2143,
           "total": 14
         }
       },
@@ -997,8 +997,8 @@
   "eventCountAfter": 106,
   "eventCountBefore": 106,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "6bf9b623131876e9cadfe28f02fbc009e0c701b37bcbe0990b7902e5da26d769",
-  "feedSHA256Before": "6bf9b623131876e9cadfe28f02fbc009e0c701b37bcbe0990b7902e5da26d769",
+  "feedSHA256After": "59387db3bd5cd5618b6c0e0e8f4702c17669c971a5c3208e1b13204d31b4a9a8",
+  "feedSHA256Before": "59387db3bd5cd5618b6c0e0e8f4702c17669c971a5c3208e1b13204d31b4a9a8",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [

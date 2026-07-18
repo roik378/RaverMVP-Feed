@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T19:55:20Z",
-  "ingestRunId": "64E81E78-17DB-4005-9C31-7B4A378034B3",
-  "ingestRunAt": "2026-07-18T19:55:20Z",
+  "ranAt": "2026-07-18T20:37:49Z",
+  "ingestRunId": "D3E2DAF6-D6AF-4522-B708-0324B396F9C2",
+  "ingestRunAt": "2026-07-18T20:37:49Z",
   "mode": "full",
   "sources": [
     {
@@ -516,7 +516,7 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "reviewed_festival_facts"
+      "strategy": "hard_summer_official"
     },
     {
       "sourceId": "dreamstate_socal_official",
@@ -1464,8 +1464,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "9DD25FB6-9CDF-4BAE-B75D-A7626C87E8EC",
-      "ingestRunAt": "2026-07-18T19:23:06Z"
+      "ingestRunId": "64E81E78-17DB-4005-9C31-7B4A378034B3",
+      "ingestRunAt": "2026-07-18T19:55:20Z"
     }
   },
   "executionCoverage": {
