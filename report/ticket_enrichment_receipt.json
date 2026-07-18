@@ -997,8 +997,8 @@
   "eventCountAfter": 106,
   "eventCountBefore": 106,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "056bc9e16d6347727814291c1e5bc9c0443175c24d1ecc854a3fa3a4dd9e96c1",
-  "feedSHA256Before": "056bc9e16d6347727814291c1e5bc9c0443175c24d1ecc854a3fa3a4dd9e96c1",
+  "feedSHA256After": "6bf9b623131876e9cadfe28f02fbc009e0c701b37bcbe0990b7902e5da26d769",
+  "feedSHA256Before": "6bf9b623131876e9cadfe28f02fbc009e0c701b37bcbe0990b7902e5da26d769",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1022,7 +1022,7 @@
     "minimumTicketActionCoverage": 0.6,
     "status": "ready"
   },
-  "referenceDate": "2026-07-19",
+  "referenceDate": "2026-07-18",
   "referenceDatesByCity": {
     "Alpe d'Huez": "2026-07-18",
     "Arnhem": "2026-07-18",
