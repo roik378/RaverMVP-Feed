@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T13:46:54Z",
-  "ingestRunId": "66740C2D-2ACF-47D0-B85E-E8643DF3B0A3",
-  "ingestRunAt": "2026-07-18T13:46:54Z",
+  "ranAt": "2026-07-18T18:23:01Z",
+  "ingestRunId": "3DFF0831-16BA-456D-99E3-7B1B2D269ECB",
+  "ingestRunAt": "2026-07-18T18:23:01Z",
   "mode": "full",
   "sources": [
     {
@@ -189,9 +189,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 4,
-      "usable": 4,
-      "consumerReady": 4,
+      "captured": 3,
+      "usable": 3,
+      "consumerReady": 3,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -238,9 +238,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 6,
-      "usable": 6,
-      "consumerReady": 6,
+      "captured": 5,
+      "usable": 5,
+      "consumerReady": 5,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -253,9 +253,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 3,
-      "usable": 3,
-      "consumerReady": 3,
+      "captured": 2,
+      "usable": 2,
+      "consumerReady": 2,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -268,9 +268,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 11,
-      "usable": 11,
-      "consumerReady": 11,
+      "captured": 10,
+      "usable": 10,
+      "consumerReady": 10,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -278,7 +278,7 @@
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
       "reviewedEventInventoryCount": 2,
-      "reviewedEventStyleCount": 3,
+      "reviewedEventStyleCount": 2,
       "reviewedTicketTierCount": 1
     },
     {
@@ -370,14 +370,15 @@
       "sourceId": "edc_las_vegas_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 2,
-      "usable": 2,
-      "consumerReady": 2,
+      "status": "error: no_parsed_events",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 2,
+        "retainedEventCount": 2,
+        "fallbackAgeHours": 4
       },
       "strategy": "edc_las_vegas_official"
     },
@@ -442,6 +443,156 @@
       "strategy": "tomorrowland_belgium_official"
     },
     {
+      "sourceId": "awakenings_festival_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "transmission_netherlands_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "untold_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "lost_lands_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "hard_summer_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "dreamstate_socal_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "dreamstate_socal_official"
+    },
+    {
+      "sourceId": "arc_music_festival_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "sunburn_festival_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "dwp_jakarta_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "reviewed_festival_facts"
+    },
+    {
+      "sourceId": "edc_thailand_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "edc_thailand_official"
+    },
+    {
       "sourceId": "ultra_japan_official",
       "kind": "html",
       "executionLane": "githubHTML",
@@ -483,9 +634,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 24,
-      "usable": 17,
-      "consumerReady": 17,
+      "captured": 20,
+      "usable": 14,
+      "consumerReady": 14,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -513,14 +664,14 @@
     {
       "cityId": "las_vegas_us",
       "cityName": "Las Vegas",
-      "captured": 2,
+      "captured": 0,
       "usable": 2,
       "consumerReady": 2,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -576,6 +727,156 @@
       "captured": 2,
       "usable": 2,
       "consumerReady": 2,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "hilvarenbeek_nl",
+      "cityName": "Hilvarenbeek",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "arnhem_nl",
+      "cityName": "Arnhem",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "cluj_napoca_ro",
+      "cityName": "Cluj-Napoca",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "thornville_us",
+      "cityName": "Thornville",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "los_angeles_us",
+      "cityName": "Los Angeles",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "long_beach_us",
+      "cityName": "Long Beach",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "chicago_us",
+      "cityName": "Chicago",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "mumbai_in",
+      "cityName": "Mumbai",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "jakarta_id",
+      "cityName": "Jakarta",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "phuket_th",
+      "cityName": "Phuket",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1018,11 +1319,11 @@
     }
   ],
   "totals": {
-    "captured": 196,
-    "usable": 128
+    "captured": 200,
+    "usable": 135
   },
   "consumerQuality": {
-    "ready": 96,
+    "ready": 103,
     "rejected": 32,
     "rejectionReasons": {
       "missing_raver_evidence": 10,
@@ -1033,18 +1334,28 @@
   },
   "referenceDates": {
     "Vancouver": "2026-07-18",
-    "Shenzhen": "2026-07-18",
+    "Shenzhen": "2026-07-19",
     "Miami": "2026-07-18",
     "Las Vegas": "2026-07-18",
     "Daresbury": "2026-07-18",
     "Salmo": "2026-07-18",
     "Orlando": "2026-07-18",
     "Boom": "2026-07-18",
-    "Tokyo": "2026-07-18"
+    "Hilvarenbeek": "2026-07-18",
+    "Arnhem": "2026-07-18",
+    "Cluj-Napoca": "2026-07-18",
+    "Thornville": "2026-07-18",
+    "Los Angeles": "2026-07-18",
+    "Long Beach": "2026-07-18",
+    "Chicago": "2026-07-18",
+    "Mumbai": "2026-07-18",
+    "Jakarta": "2026-07-19",
+    "Phuket": "2026-07-19",
+    "Tokyo": "2026-07-19"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 90
+    "reviewedArtists": 104
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1052,22 +1363,22 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 0,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 1,
+    "materialFailureCount": 1,
+    "retainedEventCount": 2,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "DEE18E50-3C2D-491E-92CB-88F191DEF925",
-      "ingestRunAt": "2026-07-18T02:16:25Z"
+      "ingestRunId": "66740C2D-2ACF-47D0-B85E-E8643DF3B0A3",
+      "ingestRunAt": "2026-07-18T13:46:54Z"
     }
   },
   "executionCoverage": {
     "schemaVersion": 1,
     "status": "partial",
     "executionLane": "githubHTML",
-    "activeSourceCount": 19,
+    "activeSourceCount": 29,
     "inactiveSourceCount": 5,
     "inactiveSourceIDs": [
       "am06_wechat",
@@ -1093,14 +1404,14 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
     "status": "complete",
-    "expectedPairCount": 3,
-    "livePairCount": 3,
+    "expectedPairCount": 2,
+    "livePairCount": 2,
     "missingPairCount": 0,
     "missingPairs": []
   }
