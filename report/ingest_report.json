@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T18:23:01Z",
-  "ingestRunId": "3DFF0831-16BA-456D-99E3-7B1B2D269ECB",
-  "ingestRunAt": "2026-07-18T18:23:01Z",
+  "ranAt": "2026-07-18T19:02:25Z",
+  "ingestRunId": "0A3AA132-476E-4893-9591-6B12D9882806",
+  "ingestRunAt": "2026-07-18T19:02:25Z",
   "mode": "full",
   "sources": [
     {
@@ -370,15 +370,14 @@
       "sourceId": "edc_las_vegas_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "error: no_parsed_events",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0,
+      "status": "ok",
+      "captured": 2,
+      "usable": 2,
+      "consumerReady": 2,
       "fallback": {
-        "status": "retained",
-        "eligibleEventCount": 2,
-        "retainedEventCount": 2,
-        "fallbackAgeHours": 4
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
       },
       "strategy": "edc_las_vegas_official"
     },
@@ -664,14 +663,14 @@
     {
       "cityId": "las_vegas_us",
       "cityName": "Las Vegas",
-      "captured": 0,
+      "captured": 2,
       "usable": 2,
       "consumerReady": 2,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 1,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1319,7 +1318,7 @@
     }
   ],
   "totals": {
-    "captured": 200,
+    "captured": 202,
     "usable": 135
   },
   "consumerQuality": {
@@ -1348,7 +1347,7 @@
     "Los Angeles": "2026-07-18",
     "Long Beach": "2026-07-18",
     "Chicago": "2026-07-18",
-    "Mumbai": "2026-07-18",
+    "Mumbai": "2026-07-19",
     "Jakarta": "2026-07-19",
     "Phuket": "2026-07-19",
     "Tokyo": "2026-07-19"
@@ -1363,11 +1362,11 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "degraded",
+    "status": "healthy",
     "ttlHours": 120,
-    "failedSourceCount": 1,
-    "materialFailureCount": 1,
-    "retainedEventCount": 2,
+    "failedSourceCount": 0,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
       "ingestRunId": "66740C2D-2ACF-47D0-B85E-E8643DF3B0A3",
@@ -1404,8 +1403,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish with retained source disclosure.",
-    "sourceResilienceStatus": "degraded"
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,

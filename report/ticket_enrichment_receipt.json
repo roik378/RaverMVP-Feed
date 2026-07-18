@@ -308,8 +308,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
+          "direct": 5,
+          "ratio": 0.3571,
           "total": 14
         },
         "raw": {
@@ -317,8 +317,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
+          "direct": 5,
+          "ratio": 0.3571,
           "total": 14
         }
       },
@@ -690,8 +690,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
+          "direct": 5,
+          "ratio": 0.3571,
           "total": 14
         },
         "raw": {
@@ -699,8 +699,8 @@
           "actionableRatio": 1.0,
           "assisted": 13,
           "assistedRatio": 0.9286,
-          "direct": 3,
-          "ratio": 0.2143,
+          "direct": 5,
+          "ratio": 0.3571,
           "total": 14
         }
       },
@@ -877,8 +877,8 @@
   "eventCountAfter": 103,
   "eventCountBefore": 103,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "7f415b11ae16a085615e52865b1ef10b577dd7b6485b062bfdd2a8a39479b0f6",
-  "feedSHA256Before": "7f415b11ae16a085615e52865b1ef10b577dd7b6485b062bfdd2a8a39479b0f6",
+  "feedSHA256After": "31f32b43d3b5be00a230822a7c5eb95b6d86ae59f710ebfaceb86dce8c21d729",
+  "feedSHA256Before": "31f32b43d3b5be00a230822a7c5eb95b6d86ae59f710ebfaceb86dce8c21d729",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -915,7 +915,7 @@
     "Long Beach": "2026-07-18",
     "Los Angeles": "2026-07-18",
     "Miami": "2026-07-18",
-    "Mumbai": "2026-07-18",
+    "Mumbai": "2026-07-19",
     "Orlando": "2026-07-18",
     "Phuket": "2026-07-19",
     "Salmo": "2026-07-18",
