@@ -396,7 +396,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -420,7 +420,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -444,7 +444,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -468,7 +468,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -492,7 +492,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -516,7 +516,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -603,7 +603,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -636,7 +636,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -660,7 +660,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -684,7 +684,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -708,7 +708,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -732,7 +732,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -756,7 +756,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T19:05:12Z",
+        "capturedAt": "2026-07-18T19:27:08Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -962,6 +962,33 @@
     },
     {
       "action": "no_snapshot",
+      "city": "Alpe d'Huez",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "1D31DEFE-8AAD-561E-AF01-2ADDD8FF29D6",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://winter.tomorrowland.com/en/passes-packages/"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Mexico City",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "1C61236C-F560-5B66-A84B-90376B4DDB1E",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://mexico.edc.com/tickets/"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Split",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "37CB901D-4E71-5E0E-853A-007495005ACB",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ultraeurope.com/tickets/"
+    },
+    {
+      "action": "no_snapshot",
       "city": "Tokyo",
       "collectorStatus": "unsupported_provider",
       "eventID": "712BD3CC-6B82-5B18-9504-77595D3B1666",
@@ -970,17 +997,17 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "77629fcf8921726707e88b1cdfce7cc0eb7907c813cfa7dfec39109dc4da7d58",
-  "feedSHA256Before": "aa7390247e2faa69534e03cf94143536ed7909d1627fa7fe9747024f426ce65d",
-  "historySHA256After": "005690d9d59d81368ae3fec111acd90e2270830fcce41d6b086f08dc7d010726",
-  "priceProjectionSHA256": "df43f2c5a63ba1862977ed67c7f8643a39caad717c6a7a7946e4369a8cec430c",
+  "feedSHA256After": "73761989324962e2fdece55bd1fff0b0d100a0dbb996e16f3b41996ef35712c9",
+  "feedSHA256Before": "fcf48c504357505d3833a04086363cbc1998bbcb77b1f0eb4e08ed1423096f81",
+  "historySHA256After": "a625a16a04fc6b8ba153b22c25ee5d3b9cbf69e6b2f6f611347cb172ea77a751",
+  "priceProjectionSHA256": "81f92fae7facdf98afb3e55cc27b3c22219c736f7c4cb1ed7437825bfcdd2380",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 13,
-    "candidateCount": 86,
+    "candidateCount": 89,
     "freshCount": 13,
-    "noSnapshotCount": 52,
+    "noSnapshotCount": 55,
     "providerFailureCount": 21,
     "staleCount": 0
   }
