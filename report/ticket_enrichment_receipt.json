@@ -142,24 +142,44 @@
           "total": 15
         }
       },
-      "Vancouver": {
+      "Tokyo": {
         "consumerEligible": {
-          "actionable": 61,
-          "actionableRatio": 0.9531,
+          "actionable": 1,
+          "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 61,
-          "ratio": 0.9531,
-          "total": 64
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
         },
         "raw": {
-          "actionable": 61,
-          "actionableRatio": 0.9531,
+          "actionable": 1,
+          "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 61,
-          "ratio": 0.9531,
-          "total": 64
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
+      "Vancouver": {
+        "consumerEligible": {
+          "actionable": 66,
+          "actionableRatio": 0.9429,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 66,
+          "ratio": 0.9429,
+          "total": 70
+        },
+        "raw": {
+          "actionable": 66,
+          "actionableRatio": 0.9429,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 66,
+          "ratio": 0.9429,
+          "total": 70
         }
       }
     },
@@ -304,24 +324,44 @@
           "total": 15
         }
       },
-      "Vancouver": {
+      "Tokyo": {
         "consumerEligible": {
-          "actionable": 60,
-          "actionableRatio": 0.9375,
+          "actionable": 1,
+          "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9375,
-          "total": 64
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
         },
         "raw": {
-          "actionable": 60,
-          "actionableRatio": 0.9375,
+          "actionable": 1,
+          "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9375,
-          "total": 64
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
+      "Vancouver": {
+        "consumerEligible": {
+          "actionable": 65,
+          "actionableRatio": 0.9286,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 65,
+          "ratio": 0.9286,
+          "total": 70
+        },
+        "raw": {
+          "actionable": 65,
+          "actionableRatio": 0.9286,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 65,
+          "ratio": 0.9286,
+          "total": 70
         }
       }
     }
@@ -439,11 +479,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 87,
-  "eventCountBefore": 87,
+  "eventCountAfter": 94,
+  "eventCountBefore": 94,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "b0d8b02d86653e22af12b7d0d31547d3876d41084a76c8c100dab669a41ecac8",
-  "feedSHA256Before": "d9f87bfb8e0e7171e1d7e2f8dc169c191a7c989d8720cba4086f34d78b37200d",
+  "feedSHA256After": "caf01e1207ce7c32ae046ac2d2c4617ae640d81d5a59aceff96d05ae479f6d15",
+  "feedSHA256Before": "3a77557bfc41586ae4ef72fa43bc4f12afa87d2de2ae0f76407e4deb5637efe9",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -467,15 +507,16 @@
     "minimumTicketActionCoverage": 0.6,
     "status": "ready"
   },
-  "referenceDate": "2026-07-17",
+  "referenceDate": "2026-07-18",
   "referenceDatesByCity": {
-    "Boom": "2026-07-17",
-    "Daresbury": "2026-07-17",
+    "Boom": "2026-07-18",
+    "Daresbury": "2026-07-18",
     "Las Vegas": "2026-07-17",
     "Miami": "2026-07-17",
     "Orlando": "2026-07-17",
     "Salmo": "2026-07-17",
     "Shenzhen": "2026-07-18",
+    "Tokyo": "2026-07-18",
     "Vancouver": "2026-07-17"
   },
   "schemaVersion": 1,

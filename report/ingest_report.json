@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T21:42:21Z",
-  "ingestRunId": "B2604507-47ED-4ACF-AD63-B46C395F2D4E",
-  "ingestRunAt": "2026-07-17T21:42:21Z",
+  "ranAt": "2026-07-18T02:16:25Z",
+  "ingestRunId": "DEE18E50-3C2D-491E-92CB-88F191DEF925",
+  "ingestRunAt": "2026-07-18T02:16:25Z",
   "mode": "full",
   "sources": [
     {
@@ -11,7 +11,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 11,
+      "consumerReady": 12,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -26,7 +26,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 7,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -69,9 +69,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 8,
-      "usable": 8,
-      "consumerReady": 1,
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -194,7 +194,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-17T21:42:09Z",
+      "ticketOfferObservedAt": "2026-07-18T02:16:10Z",
       "ticketOfferCount": 3,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -273,7 +273,8 @@
         "retainedEventCount": 0
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
-      "reviewedEventStyleCount": 3
+      "reviewedEventStyleCount": 3,
+      "reviewedTicketTierCount": 1
     },
     {
       "sourceId": "oil_wechat",
@@ -434,22 +435,39 @@
         "retainedEventCount": 0
       },
       "strategy": "tomorrowland_belgium_official"
+    },
+    {
+      "sourceId": "ultra_japan_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "ultra_japan_official",
+      "evidenceImageURL": "https://ultrajapan.com/wp-content/uploads/2026/07/ULTRA_JAPAN_26_PH2_Ig-Post.png",
+      "evidenceImageSHA256": "750f568c17e24c9c8cbfb2de1d6dcd255b798377c8930e82c336a507114c7cb9"
     }
   ],
   "cities": [
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 165,
+      "captured": 164,
       "usable": 103,
-      "consumerReady": 64,
-      "consumerRejected": 39,
-      "consumerReadyRate": 0.621,
+      "consumerReady": 70,
+      "consumerRejected": 33,
+      "consumerReadyRate": 0.68,
       "rejectionReasons": {
-        "past_event": 21,
-        "missing_raver_evidence": 11,
+        "missing_raver_evidence": 13,
         "reviewed_non_raver_title": 2,
-        "placeholder_title": 5
+        "placeholder_title": 5,
+        "past_event": 13
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -553,6 +571,21 @@
       "captured": 2,
       "usable": 2,
       "consumerReady": 2,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "tokyo_jp",
+      "cityName": "Tokyo",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -783,12 +816,28 @@
     {
       "sourceId": "fortune_sound_club",
       "sourceKind": "clubWebsite",
-      "eventId": "12739F9B-8BA6-56E6-BFEE-31D08CE121DC",
-      "title": "TAYLAH ELAINE",
+      "eventId": "17B694E2-FDE1-5C57-9316-362BED4D6537",
+      "title": "COLD DRINKS AT WYA? SATURDAYS",
       "venue": "Fortune Sound Club",
       "city": "Vancouver",
-      "dateText": "August 3",
-      "timeText": null,
+      "dateText": "Jul 25",
+      "timeText": "22:00",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "fortune_sound_club",
+      "sourceKind": "clubWebsite",
+      "eventId": "33EC4B77-DA17-59B6-8CB2-E32B2D27292D",
+      "title": "BABES ON BABES PRIDE 2026",
+      "venue": "Fortune Sound Club",
+      "city": "Vancouver",
+      "dateText": "Aug 2",
+      "timeText": "20:00",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1013,16 +1062,16 @@
   ],
   "totals": {
     "captured": 193,
-    "usable": 126
+    "usable": 127
   },
   "consumerQuality": {
-    "ready": 87,
-    "rejected": 39,
+    "ready": 94,
+    "rejected": 33,
     "rejectionReasons": {
-      "past_event": 21,
-      "missing_raver_evidence": 11,
+      "missing_raver_evidence": 13,
       "reviewed_non_raver_title": 2,
-      "placeholder_title": 5
+      "placeholder_title": 5,
+      "past_event": 13
     }
   },
   "referenceDates": {
@@ -1030,14 +1079,15 @@
     "Shenzhen": "2026-07-18",
     "Miami": "2026-07-17",
     "Las Vegas": "2026-07-17",
-    "Daresbury": "2026-07-17",
+    "Daresbury": "2026-07-18",
     "Salmo": "2026-07-17",
     "Orlando": "2026-07-17",
-    "Boom": "2026-07-17"
+    "Boom": "2026-07-18",
+    "Tokyo": "2026-07-18"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 80
+    "reviewedArtists": 83
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1052,15 +1102,15 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "D39ACB1C-A9BF-4213-8806-DE7E85649A1E",
-      "ingestRunAt": "2026-07-17T21:11:56Z"
+      "ingestRunId": "B2604507-47ED-4ACF-AD63-B46C395F2D4E",
+      "ingestRunAt": "2026-07-17T21:42:21Z"
     }
   },
   "executionCoverage": {
     "schemaVersion": 1,
     "status": "partial",
     "executionLane": "githubHTML",
-    "activeSourceCount": 18,
+    "activeSourceCount": 19,
     "inactiveSourceCount": 5,
     "inactiveSourceIDs": [
       "am06_wechat",

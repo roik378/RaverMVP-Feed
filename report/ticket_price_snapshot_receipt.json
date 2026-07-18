@@ -82,15 +82,6 @@
       "ticketURLText": "https://on.fortunesoundclub.com/trk/pCEnc"
     },
     {
-      "action": "no_snapshot",
-      "city": "Vancouver",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "71D6A251-9FF1-5797-8B22-33EC93114594",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://on.fortunesoundclub.com/trk/lyIpc"
-    },
-    {
       "action": "provider_failed",
       "city": "Vancouver",
       "collectorStatus": "provider_blocked",
@@ -409,6 +400,60 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "DF2BE896-0565-5D80-819C-27D4C687AFFF",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a4977419456d411a301826f"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "DF2FBA30-834B-57A1-8856-CE35E7567677",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "68CBE3A6-A791-539F-98BF-894FC0561D38",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "AD966CF2-87FB-5F4A-9096-2ECB3AC84383",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a497986bf7d4c91bb55137b"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "F08FDBF7-8DA4-5E2F-AE0C-1706B35FEBE1",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a497a1abf7d4c91bb551381"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "3EF2F186-3E3E-54BD-AF03-E3026519911F",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://checkout.admitone.com/6a497a884df4217fda772d26"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "5A716EA3-A1C1-5B12-97D6-8B9216113E09",
       "reason": null,
       "stale": false,
@@ -495,7 +540,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:43:05Z",
+        "capturedAt": "2026-07-18T02:17:15Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -519,7 +564,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:43:05Z",
+        "capturedAt": "2026-07-18T02:17:15Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -543,7 +588,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:43:05Z",
+        "capturedAt": "2026-07-18T02:17:15Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -567,7 +612,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:43:05Z",
+        "capturedAt": "2026-07-18T02:17:15Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -591,7 +636,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:43:05Z",
+        "capturedAt": "2026-07-18T02:17:15Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -615,7 +660,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-17T21:43:05Z",
+        "capturedAt": "2026-07-18T02:17:15Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -719,19 +764,28 @@
       "reason": null,
       "stale": false,
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Tokyo",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "712BD3CC-6B82-5B18-9504-77595D3B1666",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "ea3300d4af69a44d5fa6a8d4158d77b6da6ca188392486660e7cfcea34f9787f",
-  "feedSHA256Before": "6ff62939ec0a33ccf0692a12086ca1ca0000e72fc426959d06aae29051fbdf77",
-  "historySHA256After": "6c33bd228687749daad6c14539c6fb84e2ad4905b5a56ccc6f0f981500c84ec8",
-  "priceProjectionSHA256": "2e53db207c8429cbf842029aba2b6049b8c303bcaa2687a1651c4604c972ed31",
+  "feedSHA256After": "a93759f7ce0bbf07b2d3f1169f9fccf1e6b236148c47e5c4869d05115b3a26ea",
+  "feedSHA256Before": "4b74298b544ab1ca7691732004730a138279cdaaf0b4e5478262c0e4afa72ead",
+  "historySHA256After": "40d3fc61a70a2f35df3a4bffb6b7c21eb0c9b211a7020b89ca90f7759939a3d1",
+  "priceProjectionSHA256": "92d2538fa5570a3542634de46127b9a5dc85dbd0d20aa19ab1ffb0558d677fe9",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 6,
-    "candidateCount": 70,
+    "candidateCount": 76,
     "freshCount": 6,
-    "noSnapshotCount": 42,
+    "noSnapshotCount": 48,
     "providerFailureCount": 22,
     "staleCount": 0
   }
