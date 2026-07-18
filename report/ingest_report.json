@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T21:15:00Z",
-  "ingestRunId": "A97A4CDD-3534-4B1D-AF72-F8820935505E",
-  "ingestRunAt": "2026-07-18T21:15:00Z",
+  "ranAt": "2026-07-18T21:42:43Z",
+  "ingestRunId": "64BC5C09-A5DD-4FD3-A93D-5087C6FB4DBB",
+  "ingestRunAt": "2026-07-18T21:42:43Z",
   "mode": "full",
   "sources": [
     {
@@ -483,7 +483,7 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "reviewed_festival_facts"
+      "strategy": "untold_official"
     },
     {
       "sourceId": "lost_lands_official",

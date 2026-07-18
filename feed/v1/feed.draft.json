@@ -1,14 +1,14 @@
 {
   "feedVersion": 1,
-  "ingestRunId": "A97A4CDD-3534-4B1D-AF72-F8820935505E",
-  "ingestRunAt": "2026-07-18T21:15:00Z",
-  "generatedAtText": "Sat 21:15",
+  "ingestRunId": "64BC5C09-A5DD-4FD3-A93D-5087C6FB4DBB",
+  "ingestRunAt": "2026-07-18T21:42:43Z",
+  "generatedAtText": "Sat 21:42",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": {
         "latitude": 49.2827,
@@ -31,7 +31,7 @@
             "Trance"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/gabrieldresden26",
@@ -65,7 +65,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -82,7 +82,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/bedby10july25",
@@ -90,7 +90,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -109,7 +109,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/clubcontrollerwithsweetandsawajuly25",
@@ -132,7 +132,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -151,7 +151,7 @@
             "Dubstep"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/underscores",
@@ -185,7 +185,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -204,7 +204,7 @@
             "Hard Dance"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/djg2g",
@@ -238,7 +238,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -257,7 +257,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/cumtogether-cocoandbreezy",
@@ -291,7 +291,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -310,7 +310,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/alexchapman-pd72s",
@@ -344,7 +344,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -363,7 +363,7 @@
             "House"
           ],
           "confidence": 0.55,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events",
@@ -397,7 +397,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -417,7 +417,7 @@
             "Progressive"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/oliversmith2026",
@@ -433,7 +433,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -453,7 +453,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/conradtaylor",
@@ -488,7 +488,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -505,7 +505,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/tech-g1rls",
@@ -513,7 +513,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -532,7 +532,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/djseinfeld2026",
@@ -548,7 +548,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -568,7 +568,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/182221",
@@ -603,7 +603,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -622,7 +622,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/184769",
@@ -656,7 +656,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -673,7 +673,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/194433",
@@ -681,7 +681,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -698,7 +698,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197263",
@@ -706,7 +706,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -725,7 +725,7 @@
             "House"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192055",
@@ -759,7 +759,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -779,7 +779,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/185416",
@@ -814,7 +814,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -833,7 +833,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198329",
@@ -841,7 +841,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -860,7 +860,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/177104",
@@ -894,7 +894,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -913,7 +913,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/186501",
@@ -937,7 +937,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -957,7 +957,7 @@
             "Future Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196122",
@@ -992,7 +992,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1013,7 +1013,7 @@
             "Hard Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198322",
@@ -1048,7 +1048,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1067,7 +1067,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195425",
@@ -1101,7 +1101,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "Dubstep"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/188737",
@@ -1154,7 +1154,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1171,7 +1171,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198827",
@@ -1187,7 +1187,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1207,7 +1207,7 @@
             "Trance"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191670",
@@ -1242,7 +1242,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1261,7 +1261,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197295",
@@ -1345,7 +1345,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "Hard Dance"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196120",
@@ -1400,7 +1400,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "Hardstyle"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195028",
@@ -1453,7 +1453,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1472,7 +1472,7 @@
             "Hardstyle"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192435",
@@ -1506,7 +1506,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1525,7 +1525,7 @@
             "Future Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191340",
@@ -1559,7 +1559,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1578,7 +1578,7 @@
             "House"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/199503",
@@ -1612,7 +1612,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1631,7 +1631,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/anthonyattalla",
@@ -1665,7 +1665,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1684,7 +1684,7 @@
             "Dubstep"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/underscoresap",
@@ -1718,7 +1718,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1738,7 +1738,7 @@
             "House"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/roiperezpride",
@@ -1763,7 +1763,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1783,7 +1783,7 @@
             "Techno"
           ],
           "confidence": 0.55,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/onlyfire",
@@ -1818,7 +1818,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1838,7 +1838,7 @@
             "Bass"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/chasewest",
@@ -1846,7 +1846,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1863,7 +1863,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/otha",
@@ -1879,7 +1879,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1898,7 +1898,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/bijou",
@@ -1932,7 +1932,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1951,7 +1951,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/westend",
@@ -1967,7 +1967,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -1986,7 +1986,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/discip",
@@ -2002,7 +2002,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2021,7 +2021,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/simondotyreup-rxgct",
@@ -2037,7 +2037,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2057,7 +2057,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/takuyanakamura",
@@ -2092,7 +2092,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2114,7 +2114,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/atripdjboring",
@@ -2177,7 +2177,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2196,7 +2196,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/deanturnley",
@@ -2204,7 +2204,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2223,7 +2223,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/dublon2026",
@@ -2239,7 +2239,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2259,7 +2259,7 @@
             "Bass"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/camoufly2026",
@@ -2294,7 +2294,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2313,7 +2313,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/jazzy",
@@ -2329,7 +2329,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2346,7 +2346,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -2376,7 +2376,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2389,7 +2389,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2408,7 +2408,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -2438,7 +2438,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2451,7 +2451,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2470,7 +2470,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -2486,7 +2486,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2499,7 +2499,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2518,7 +2518,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -2548,7 +2548,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2561,7 +2561,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://checkout.admitone.com/6a497986bf7d4c91bb55137b",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2580,7 +2580,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -2610,7 +2610,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2623,7 +2623,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a1abf7d4c91bb551381",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2642,7 +2642,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.86,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.gorgomish.com/",
@@ -2672,7 +2672,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2685,7 +2685,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a884df4217fda772d26",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2707,7 +2707,7 @@
             "House"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2726,7 +2726,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2745,7 +2745,7 @@
             "Techno"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2786,7 +2786,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2805,7 +2805,7 @@
             "House"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2830,7 +2830,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2849,7 +2849,7 @@
             "House"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2874,7 +2874,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2891,7 +2891,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2907,7 +2907,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2926,7 +2926,7 @@
             "Techno"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2960,7 +2960,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -2977,7 +2977,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2993,7 +2993,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -3010,7 +3010,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -3026,7 +3026,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -3039,7 +3039,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3058,7 +3058,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -3081,7 +3081,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -3101,7 +3101,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=wonkywillavancouver",
@@ -3117,7 +3117,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -3130,7 +3130,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3151,7 +3151,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=onhellsubculture",
@@ -3167,7 +3167,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -3180,7 +3180,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -3201,7 +3201,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=venjentvancouver2026",
@@ -3224,7 +3224,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -3237,7 +3237,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -3258,7 +3258,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=ivylabvancouver",
@@ -3281,7 +3281,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -3294,7 +3294,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3315,7 +3315,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=canablissvancouver",
@@ -3331,7 +3331,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -3344,7 +3344,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3366,7 +3366,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=whalesvancouver",
@@ -3382,7 +3382,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -3395,7 +3395,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-18T21:17:41Z",
+            "capturedAt": "2026-07-18T21:45:23Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3406,7 +3406,7 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Asia/Shanghai",
       "userCoordinate": {
         "latitude": 22.5333,
@@ -3432,7 +3432,7 @@
             "House"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3481,7 +3481,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -3501,7 +3501,7 @@
           },
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3532,7 +3532,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -3554,7 +3554,7 @@
             "Future Bass"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3603,7 +3603,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -3622,7 +3622,7 @@
             "Bass"
           ],
           "confidence": 0.78,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
@@ -3640,7 +3640,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -3662,7 +3662,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/0mZMW5U6srwUtMXVSRZh0C",
@@ -3705,7 +3705,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低展示价",
@@ -3745,7 +3745,7 @@
             "Bass"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/3vtsU0OIzoxENCxw5YENWQ",
@@ -3789,7 +3789,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低展示价",
@@ -3827,7 +3827,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/6SD0Ers8gUW0HwIdeLP7qK",
@@ -3843,7 +3843,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低展示价",
@@ -3882,7 +3882,7 @@
             "Bass"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/2TTVl2oBK9EFjwpjVT93RC",
@@ -3915,7 +3915,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低展示价",
@@ -3953,7 +3953,7 @@
             "Trance"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072592095781281794",
@@ -3986,7 +3986,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -4008,7 +4008,7 @@
             "House"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078055955722579970",
@@ -4033,7 +4033,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -4055,7 +4055,7 @@
             "House"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2075285815488110594",
@@ -4080,7 +4080,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -4100,7 +4100,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
@@ -4125,7 +4125,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -4147,7 +4147,7 @@
             "Bass"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072260451555827713",
@@ -4172,7 +4172,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -4181,7 +4181,7 @@
       "id": "miami_us",
       "name": "Miami",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": {
         "latitude": 25.7617,
@@ -4205,7 +4205,7 @@
           },
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultramusicfestival.com/general-information/",
@@ -4238,7 +4238,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -4247,7 +4247,7 @@
       "id": "las_vegas_us",
       "name": "Las Vegas",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": {
         "latitude": 36.1699,
@@ -4271,7 +4271,7 @@
           },
           "styles": [],
           "confidence": 0.97,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -4304,7 +4304,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -4324,7 +4324,7 @@
           },
           "styles": [],
           "confidence": 0.97,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -4357,7 +4357,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -4366,7 +4366,7 @@
       "id": "daresbury_uk",
       "name": "Daresbury",
       "country": "GB",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/London",
       "userCoordinate": null,
       "sourceEvents": [
@@ -4390,7 +4390,7 @@
             "Progressive"
           ],
           "confidence": 0.98,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://creamfields.com/lineup/",
@@ -8017,7 +8017,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -8026,7 +8026,7 @@
       "id": "salmo_ca",
       "name": "Salmo",
       "country": "CA",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": null,
       "sourceEvents": [
@@ -8052,7 +8052,7 @@
             "Trance"
           ],
           "confidence": 0.98,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.shambhalamusicfestival.com/lineup",
@@ -9244,7 +9244,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -9253,7 +9253,7 @@
       "id": "orlando_us",
       "name": "Orlando",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": null,
       "sourceEvents": [
@@ -9275,7 +9275,7 @@
             "Progressive"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://orlando.edc.com/lineup/",
@@ -10110,7 +10110,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -10119,7 +10119,7 @@
       "id": "boom_be",
       "name": "Boom",
       "country": "BE",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/Brussels",
       "userCoordinate": {
         "latitude": 51.0873789,
@@ -10152,7 +10152,7 @@
             "Dubstep"
           ],
           "confidence": 1.0,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://belgium.tomorrowland.com/en/line-up/?page=stages",
@@ -15941,7 +15941,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         },
         {
@@ -15970,7 +15970,7 @@
             "Techno"
           ],
           "confidence": 1.0,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://belgium.tomorrowland.com/en/line-up/?page=stages",
@@ -21801,7 +21801,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -21810,7 +21810,7 @@
       "id": "hilvarenbeek_nl",
       "name": "Hilvarenbeek",
       "country": "NL",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/Amsterdam",
       "userCoordinate": null,
       "sourceEvents": [
@@ -21830,7 +21830,7 @@
             "Techno"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.awakenings.com/en/events/2027/07/awakenings-festival-2027/399344/",
@@ -21860,7 +21860,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -21869,7 +21869,7 @@
       "id": "arnhem_nl",
       "name": "Arnhem",
       "country": "NL",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/Amsterdam",
       "userCoordinate": null,
       "sourceEvents": [
@@ -21887,7 +21887,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://transmissionfestival.com/events/tmnl26/",
@@ -21917,7 +21917,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -21926,16 +21926,16 @@
       "id": "cluj_napoca_ro",
       "name": "Cluj-Napoca",
       "country": "RO",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/Bucharest",
       "userCoordinate": null,
       "sourceEvents": [
         {
-          "id": "9F56524F-E6CF-5B7B-BA83-CB3CACDD2C1F",
+          "id": "72E31734-89F2-533E-871E-170828B9952E",
           "sourceId": "untold_official",
           "sourceKind": "festivalWebsite",
           "title": "UNTOLD 2026",
-          "subtitle": "Official festival facts",
+          "subtitle": "Official music-stage lineup",
           "venue": "Cluj-Napoca",
           "city": "Cluj-Napoca",
           "dateText": "Aug 6-9, 2026",
@@ -21943,17 +21943,113 @@
           "distanceText": null,
           "coordinate": null,
           "styles": [
-            "Future Bass"
+            "Progressive",
+            "House",
+            "Future Bass",
+            "Techno",
+            "Bass"
           ],
-          "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "confidence": 0.99,
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
-          "sourceURLText": "https://www.untold.com/",
+          "sourceURLText": "https://www.untold.com/artists",
           "ticketURLText": "https://tickets.untold.com/",
           "lineup": [
             {
+              "name": "AFROJACK B2B R3HAB",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ALAN WALKER",
+              "setTime": null,
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "CA16725D-9D51-5194-A6F5-45D5ED25B3EC",
+                  "title": "Faded",
+                  "label": "Alan Walker"
+                },
+                {
+                  "id": "F3585118-64BF-526A-9787-A01B67538F5C",
+                  "title": "Alone",
+                  "label": "Alan Walker"
+                },
+                {
+                  "id": "1E5014CC-6428-5D62-991E-0CC62E5CE6A7",
+                  "title": "The Spectre",
+                  "label": "Alan Walker"
+                }
+              ],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CANCELLED MUSIC (KRIS FADE & DEAN CURTIS)",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DAN T - DIGI FM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ BLISS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ SILENT DISCIPLE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
               "name": "FLO RIDA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JAMES HYPE",
+              "setTime": null,
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F3F14809-C10E-5A3B-BCDA-CEA1B4F145CB",
+                  "title": "Seratonin",
+                  "label": "James Hype"
+                },
+                {
+                  "id": "591CD87E-3B5C-58E3-AE74-7C1C4320D949",
+                  "title": "Be Mine",
+                  "label": "James Hype"
+                },
+                {
+                  "id": "558BCCD6-85B3-5C0D-A44D-FF66E6A0B445",
+                  "title": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+                  "label": "James Hype"
+                }
+              ],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JUNII SIBIULUI & MARIANA ANGHEL SI IONUT FULEA",
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
@@ -21975,6 +22071,13 @@
             },
             {
               "name": "LOST FREQUENCIES",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MADDIX",
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
@@ -22013,6 +22116,62 @@
               "peakDJMagRank": null
             },
             {
+              "name": "MEDUZA LIVE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MESTIZA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PADRE GUILHERME",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PARTYDUL KISS FM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PUYA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ȘAGUNA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SEBASTIAN INGROSSO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SMILEY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
               "name": "STEVE AOKI",
               "setTime": null,
               "styles": [],
@@ -22034,7 +22193,1412 @@
               "peakDJMagRank": null
             },
             {
+              "name": "TCHAMI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "THE CHAINSMOKERS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TUJAMO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
               "name": "ZARA LARSSON",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ARAPU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BUDAI HOUSE CLIQUE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CARL COX",
+              "setTime": null,
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "A0804080-67EA-5A48-9E53-3E9C780837C4",
+                  "title": "I Want You (Forever) [Josh Butler Remix]",
+                  "label": "Carl Cox"
+                },
+                {
+                  "id": "2C19D036-B720-56A4-A888-34F72C66EA24",
+                  "title": "Time for House Music",
+                  "label": "Carl Cox"
+                },
+                {
+                  "id": "F187185E-4D69-584D-A7CA-739F8993BE65",
+                  "title": "Your Light Shines On",
+                  "label": "Carl Cox"
+                }
+              ],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CÉLAVI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CEZAR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CRISTI CONS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DUMITRESCU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GORDO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "HOLY PRIEST",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JAMIE JONES",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JOSEPH CAPRIATI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JUST2",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MACEO PLEX",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MAHONY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MARWAN DUA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MAU P",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MIHIGH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MIHNEA ROG",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MRAK",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "NIC FANCIULLI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PERSIC B2B PAUL SVENSON",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "POLTOM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PRIKU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "RBØR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SARA LANDRY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SOLOMUN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AKOS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ARMEN MIRAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AWEN(HYBRID)",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BEARD2BEARD",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CALEESI & KREIS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DANAGA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DEIAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DYMOS & JAY FASE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ETY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "HRAACH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "IGOR MARIJUAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JAN BLOMQVIST",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "LANGERHANS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "LEE BURRIDGE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MAJOR LEAGUE DJZ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MANO LE TOUGH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MIHAI POPOVICIU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "NTO LIVE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PAAX",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PANDHORA LIVE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PARALLELLE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "RAMPUE LIVE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "RY X(DJ)",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SÉBASTIEN LÉGER",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SHIMZA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TINLICKER DJ SET",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VIKEN ARMAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VITE B2B MIGANOVA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VLADPIT",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "WHOMADEWHO HYBRYD DJ SET",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "WOLO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "911",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ALBERT NBN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ALEXANDRA CĂPITĂNESCU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ALEX VELEA & MADATORICELLI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDY C",
+              "setTime": null,
+              "styles": [
+                "Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "BE1A481C-DABC-5212-98A6-61F5F5012B40",
+                  "title": "Train Track",
+                  "label": "Andy C"
+                },
+                {
+                  "id": "EB684019-A024-5EF8-846D-0FA87DC87A89",
+                  "title": "What Bass",
+                  "label": "Andy C"
+                },
+                {
+                  "id": "3FCAE6B2-8534-5159-A2AD-C835BFB732C6",
+                  "title": "Positions (feat. whoismoli)",
+                  "label": "Andy C"
+                }
+              ],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AZTECA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BBNO$",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BERECHET",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BIPOLVR B2B CHVOS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CAMO & KROOKED",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DELIRIC X SILENT STRIKE X MUSE ORCHESTRA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DENZEL CURRY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ SAUCE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ERIKA ISAC",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "EVA NICOLESCU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "FACEY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GRAMATIK",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GRASU XXL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "IAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "IDK",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MARKO GLASS X BVCOVIA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MAXIMILIAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "M.G.L.",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PARAZIȚII",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PENDULUM DJ SET",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PETRE ȘTEFAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "RAREȘ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "RAVA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ȘATRA B.E.N.Z.",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SIGMA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TZU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VLAD FLUERARU & DJ NASA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "YNY SEBI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ZO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "4 AWL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AIIA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDRE RIZO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ARKADYAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CEMI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CHRISTIAN THOMSON",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DALI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DAN TANEV B2B TALAZ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DARIO DI BONA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DA VINCI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DEAF JULES",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DIGITALOVE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "EDO DENOVA & MANDU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ETHAN ENGLISH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "EVA KIM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "FREESPIRIT B2B DIMO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GIADA BRINCE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GINO INGROSSO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GOLDCHER B2B DENY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GROSSOMODDO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "HOTLAP",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "HVMZA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JAMES MAC",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JAY KO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JOHN TREND B2B ADRIEN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JUNIOR B2B MINDBLOW",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "LIWAA B2B ANDREW MAZE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MANUEL RIVA B2B ALBWHO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MIKE KROSS X SEBUH",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ONFAYA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PAAKMAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PEPPE CITARELLA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "RBØR B2B TAYLLOR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SAGUNA X BENZOL B2B DAMIANO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SEAN NORVIS X MIGUEL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SLLASH & DOPPE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SUNNERY JAMES & RYAN MARCIANO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TOBY ROMEO B2B ARIAS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VIDOJEAN",
+              "setTime": null,
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D95B842F-E487-5044-B815-70B7A7924EB5",
+                  "title": "SXY",
+                  "label": "Vidojean X Oliver Loenn"
+                },
+                {
+                  "id": "22FE5B2B-74C8-58B9-86BD-97CDDE7FF07E",
+                  "title": "Alameyo",
+                  "label": "Vidojean X Oliver Loenn"
+                },
+                {
+                  "id": "D8E6838A-899D-5CE7-9B1F-7DE66439A36B",
+                  "title": "Drift",
+                  "label": "Vidojean X Oliver Loenn"
+                }
+              ],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VIIIAIN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ADRIAN ROTAR & MC NFC",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ALBWHO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ALLEN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDREI M & LUCAS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDREW DUM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BALKN MAFIA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BIDI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "BIPOLVR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "B.MIKE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CANDINO D",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CDJ CRISTIAN DANIEL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CLANKER JONES",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CUCUGRAM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DACIAN T",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ JACK ORANGE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ SEBIC",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DRAOS&DFO TRUMPETS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DREURESCU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ELEEZ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "IST",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "JUNIOR B2B ȘTEFANIA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "KAMIL X MC SHUTHY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "KAROL DIAC",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "KHØDA LEON",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "LUCIAN BARBULESCU B2B DJ ANDI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MANUEL RIVA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MARC RAYEN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MARVO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MILYO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "OVIR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PICI",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "QUICK MIKE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SERGINIO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SHARAF",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SIMEA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SIXTEE SECONDS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "UNDERR",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "YOYO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ZOICS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDI MOISESCU",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDREEA ESCA & OTRAVA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANDREI M",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ANTENNA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ARSENIUM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AURIK & PELIN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CELIA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "COSMIN NADASAN",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "CRAZY DJ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DAN T & MC ZEDHO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ ARROW",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "DJ KUKY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ELLIE WHITE",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "EMO REUNION",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "GRINGO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "PAPPA M & MC DYLMA",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SHURUBEL",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "SOA DEEJAYS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VISA CREATORS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "VYBE 2 PLAY",
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
@@ -22052,20 +23616,1611 @@
             "timeZoneIdentifier": "Europe/Bucharest",
             "coordinate": null,
             "lifecycleState": "ticketsLive",
-            "lineupPhaseLabel": "Featured artists",
+            "lineupPhaseLabel": "Official music-stage lineup",
             "lineupCompleteness": "partial",
             "officialPosterURLText": null,
             "officialPosterSourceURLText": null,
             "dayCount": 4,
-            "stageCount": 0,
-            "artistCount": 10,
-            "schedule": null,
+            "stageCount": 7,
+            "artistCount": 220,
+            "schedule": [
+              {
+                "id": "untold-2026-2026-08-06",
+                "date": "2026-08-06",
+                "stages": [
+                  {
+                    "id": "untold-2026-2026-08-06-main",
+                    "name": "Main",
+                    "performances": [
+                      {
+                        "id": "e006694c-9574-4388-9417-cbd2896211fb",
+                        "artistName": "CANCELLED MUSIC (KRIS FADE & DEAN CURTIS)",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b8417397-1785-45ac-b1b4-7dd181eabe6d",
+                        "artistName": "DJ BLISS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "dda7279c-1b66-4dcd-9f33-62abd29a21d2",
+                        "artistName": "JAMES HYPE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8b13328d-0876-49af-8973-547522bdf90e",
+                        "artistName": "MADDIX",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "3c5e52b8-5ca6-40cd-8ea8-9be36807afc2",
+                        "artistName": "PARTYDUL KISS FM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "4a43a275-3ab3-4761-bce8-67e2d9718ce7",
+                        "artistName": "SMILEY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0d23920b-ce59-4a0d-8d5e-73ceabe49e32",
+                        "artistName": "STING",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0929887a-ec98-42aa-beee-1dca4c4afac2",
+                        "artistName": "THE CHAINSMOKERS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-06-galaxy",
+                    "name": "Galaxy",
+                    "performances": [
+                      {
+                        "id": "8c6d680f-473e-4f60-8483-9bbec087d189",
+                        "artistName": "CARL COX",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "46be81ef-633b-4271-b8fd-cb5977161051",
+                        "artistName": "CEZAR",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "af5e3ec0-70d1-4285-ad16-24620ee0fb80",
+                        "artistName": "NIC FANCIULLI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b8babc96-8f09-4da5-bf24-29137dee670a",
+                        "artistName": "PERSIC B2B PAUL SVENSON",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2df9011d-10b6-4815-bbf9-272d53721a4e",
+                        "artistName": "PRIKU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ed2917a1-f148-4599-bb3f-3cc921cae6b4",
+                        "artistName": "RBØR",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-06-daydreaming",
+                    "name": "Daydreaming",
+                    "performances": [
+                      {
+                        "id": "c22898c5-79cb-4b6e-94d3-dbade1a38663",
+                        "artistName": "ARMEN MIRAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "beada6e1-0092-4e52-8c8a-40556d8fdb73",
+                        "artistName": "BEARD2BEARD",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "564b9d04-7a63-434a-8bd2-b8c2d1919187",
+                        "artistName": "ETY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2f616cde-9a77-4ce6-8a7c-49e01ccd6774",
+                        "artistName": "IGOR MARIJUAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "4ee80c53-b5c0-4d62-b745-147132aacfaa",
+                        "artistName": "PANDHORA LIVE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e61c6643-1d50-4e0c-abac-f3dfbbe0e95e",
+                        "artistName": "RY X(DJ)",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "05f1ae5c-c627-44ea-805f-d4e9536c504a",
+                        "artistName": "WHOMADEWHO HYBRYD DJ SET",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "1b35a626-6b22-4dcf-9065-4310968e8c9b",
+                        "artistName": "WOLO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-06-alchemy",
+                    "name": "Alchemy",
+                    "performances": [
+                      {
+                        "id": "25dc1b7c-f020-47ac-a88d-85920285ca7f",
+                        "artistName": "ALEXANDRA CĂPITĂNESCU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b92ae030-01f1-4cc2-9485-2e60b9f5c402",
+                        "artistName": "EVA NICOLESCU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8e8d9d22-93ed-4006-a14e-3c91cd8af666",
+                        "artistName": "GRAMATIK",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a4a4b05b-a8f5-4adb-93a1-04a370c13369",
+                        "artistName": "GRASU XXL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5e0efbfc-1bd5-480e-91fc-46d16098d835",
+                        "artistName": "IAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ac5649ce-bcdd-49cc-86b1-5a19b84e0f6c",
+                        "artistName": "MARKO GLASS X BVCOVIA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "9d75150c-4bbc-4dbb-a292-2c5a0d0de582",
+                        "artistName": "SIGMA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "4ad8d90b-fc08-4ba9-8503-246e7bb40bae",
+                        "artistName": "TZU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "68d4b5d4-144c-4c73-b21d-b1486ef5486e",
+                        "artistName": "ZO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-06-time",
+                    "name": "Time",
+                    "performances": [
+                      {
+                        "id": "5109290b-a6b3-45b1-a9b7-9b069a316420",
+                        "artistName": "4 AWL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b145f612-7827-4a00-9c21-481e5a5825cb",
+                        "artistName": "AIIA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b544119c-e7e4-4089-9698-68fe4e7cd580",
+                        "artistName": "ANDRE RIZO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8feb3099-2958-4ec0-bc14-72b7df2f2a71",
+                        "artistName": "CHRISTIAN THOMSON",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "631d2ff5-b873-4625-b27c-210b3a43e2f2",
+                        "artistName": "DA VINCI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ddcae7ed-b007-4168-af5e-fb61c344208c",
+                        "artistName": "EDO DENOVA & MANDU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "fa39b2e6-f01f-4ca6-94af-a927b5541bb6",
+                        "artistName": "FREESPIRIT B2B DIMO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ebdb5388-3e31-4104-bca9-0ab5422c9beb",
+                        "artistName": "HVMZA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "520c328a-31b4-4c94-ba60-3456b7f8e251",
+                        "artistName": "MANUEL RIVA B2B ALBWHO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "1b74b638-48ef-4d04-997f-1f58cbd5a853",
+                        "artistName": "ONFAYA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b1908a8a-8bea-4a26-b402-cf8969be2244",
+                        "artistName": "VIIIAIN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-06-tram",
+                    "name": "Tram",
+                    "performances": [
+                      {
+                        "id": "076fa29e-cbf0-4572-b11a-9bb35bd9a012",
+                        "artistName": "ALBWHO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "15c7039f-9101-40cf-b48b-a755bdcf7d56",
+                        "artistName": "ALLEN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0af79265-9ab2-4e62-9447-0ce83c7a4230",
+                        "artistName": "B.MIKE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8d464d84-5c51-4136-9596-62f439c48b4a",
+                        "artistName": "CANDINO D",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7691eb3c-abb0-4e6d-b34a-a1590c916a73",
+                        "artistName": "CDJ CRISTIAN DANIEL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "50e17760-8364-4e78-8441-7c8035a8a546",
+                        "artistName": "DJ JACK ORANGE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "16355b1e-cbd0-45a5-bf91-cdb76e55b772",
+                        "artistName": "ELEEZ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f26bb8d2-9dde-473d-9013-4f08e4ae4c0d",
+                        "artistName": "KHØDA LEON",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6e2c205a-6514-4cdd-b074-3881ad5ae732",
+                        "artistName": "SERGINIO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8c6e0f07-d567-458c-97c7-b1b7c9ece9ee",
+                        "artistName": "SIXTEE SECONDS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e4098039-cf7e-4b6a-b512-f842914b7062",
+                        "artistName": "ZOICS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-06-retro",
+                    "name": "Retro",
+                    "performances": [
+                      {
+                        "id": "d9a6f8f6-5665-4ced-9bb4-ac355448b113",
+                        "artistName": "COSMIN NADASAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ac37ec5e-88c0-4372-9dfb-1f6b749d644a",
+                        "artistName": "DAN T & MC ZEDHO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "1d326fa2-9917-46e3-806d-0669389921ce",
+                        "artistName": "DJ ARROW",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "103d83e0-99e7-4736-9d32-53c9199d51ea",
+                        "artistName": "DJ KUKY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "eabee161-15c4-4cf8-91f9-3f9de634c261",
+                        "artistName": "EMO REUNION",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "3596d7f9-7664-479e-9d01-d7318f341fb3",
+                        "artistName": "SOA DEEJAYS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d8157cdc-42c6-49db-9c0b-a9b28696f983",
+                        "artistName": "VISA CREATORS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "untold-2026-2026-08-07",
+                "date": "2026-08-07",
+                "stages": [
+                  {
+                    "id": "untold-2026-2026-08-07-main",
+                    "name": "Main",
+                    "performances": [
+                      {
+                        "id": "56e21eeb-cf1e-47ae-b7e4-917498f32ff7",
+                        "artistName": "DJ SILENT DISCIPLE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "40f9ed2a-fd39-4bbd-8eb4-54ed75dbe198",
+                        "artistName": "KYGO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7663ac10-d755-4ef6-8b6f-0afe33c67c2b",
+                        "artistName": "MARSHMELLO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "1b2f4c45-36a9-45b0-8289-d045ee45836e",
+                        "artistName": "PUYA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a17c4e77-4254-434f-a4f4-e02fa0553a90",
+                        "artistName": "SEBASTIAN INGROSSO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "358ec8c5-564a-445e-b35a-d074be7afe5f",
+                        "artistName": "SWAE LEE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8f029031-bc24-4111-8527-6653cf2484ca",
+                        "artistName": "TCHAMI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ce687fd5-924c-40c9-8544-ff872f60ecb7",
+                        "artistName": "ZARA LARSSON",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-07-galaxy",
+                    "name": "Galaxy",
+                    "performances": [
+                      {
+                        "id": "5f1f821f-cf41-41fa-8e0c-8ab63a9357ab",
+                        "artistName": "ARAPU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "1c4c190b-6b34-4fc6-bab9-6bc074f3ff4d",
+                        "artistName": "CRISTI CONS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d988f3fb-b2de-4f87-8fe8-a884daaffd9e",
+                        "artistName": "GORDO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6bcfbe1f-4dae-4669-9926-e99b8d50df83",
+                        "artistName": "MACEO PLEX",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "67ad6541-d95c-4621-827b-4a9aaa5d2798",
+                        "artistName": "MIHIGH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8614faac-3d52-44cf-9aab-5463d549cca0",
+                        "artistName": "MIHNEA ROG",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "11814e87-302f-4336-85e4-85abeec3fa93",
+                        "artistName": "POLTOM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-07-daydreaming",
+                    "name": "Daydreaming",
+                    "performances": [
+                      {
+                        "id": "75801cc9-8038-4b16-bdf1-ba69b2f08e69",
+                        "artistName": "MARWAN DUA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0bc7f8fb-e7b1-4554-b903-07941595d399",
+                        "artistName": "AKOS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a432d018-9a80-4cd0-8982-18ff0f7b5044",
+                        "artistName": "AWEN(HYBRID)",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "97360636-e971-4d13-b211-6ff156e75e5f",
+                        "artistName": "DANAGA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "eb70a45a-3706-4e13-800e-f09fab7088fc",
+                        "artistName": "MANO LE TOUGH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "15d1ba55-4388-4616-b33b-c5bd4cdac62c",
+                        "artistName": "MIHAI POPOVICIU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e95e4fd0-c751-4dd7-afb9-b29023d29cf3",
+                        "artistName": "SÉBASTIEN LÉGER",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "3f2c8072-f8ec-4422-812e-9c9ebc85f123",
+                        "artistName": "VIKEN ARMAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-07-alchemy",
+                    "name": "Alchemy",
+                    "performances": [
+                      {
+                        "id": "7c44b575-b14b-409a-a8bd-d48ddebd80d6",
+                        "artistName": "ALEX VELEA & MADATORICELLI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2af1088c-53a6-45d2-bdbf-546f07377e61",
+                        "artistName": "BBNO$",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e2c974f0-af80-4a98-9581-e4fb15edf3a6",
+                        "artistName": "ERIKA ISAC",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "705a97ce-74f2-4e06-ae3d-a0a5479d3362",
+                        "artistName": "FACEY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "4970cd3d-ee98-4f7c-814d-c20afbd4a8cb",
+                        "artistName": "IDK",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "679e9bb3-01a1-4e83-8b0e-c350ad1784c0",
+                        "artistName": "M.G.L.",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2d7cd24b-bf8f-464c-98b2-ac525375d3a9",
+                        "artistName": "PARAZIȚII",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "61ed5a24-b66e-4c0a-a1d1-659a3dd236f6",
+                        "artistName": "PENDULUM DJ SET",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-07-time",
+                    "name": "Time",
+                    "performances": [
+                      {
+                        "id": "e2c0ddff-8992-47c2-b078-c85830a3b0b1",
+                        "artistName": "ARKADYAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "76916a52-20b3-4a5b-a1fd-9f8bac9d70aa",
+                        "artistName": "DAN TANEV B2B TALAZ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "86f97d80-375f-4bab-9203-2c498021e3ce",
+                        "artistName": "DARIO DI BONA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6ff15a91-c298-4fe3-ad39-f0292358ed1d",
+                        "artistName": "DEAF JULES",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "83b7865b-556c-4832-8ab2-f8d1097a52fa",
+                        "artistName": "GIADA BRINCE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "cfbcbc3d-5dad-417a-8b61-3fa0b58c9902",
+                        "artistName": "GROSSOMODDO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "c6139223-bc7b-41aa-bfde-8b70883d1af9",
+                        "artistName": "JAY KO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5277cd55-37b6-40b6-984d-cefe1a8a6a99",
+                        "artistName": "JUNIOR B2B MINDBLOW",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "43fcaad5-b634-4caa-9463-f2ef0e345c4c",
+                        "artistName": "PEPPE CITARELLA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "cc8b3fdb-8f49-48eb-9747-cb30646b109a",
+                        "artistName": "RBØR B2B TAYLLOR",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-07-tram",
+                    "name": "Tram",
+                    "performances": [
+                      {
+                        "id": "205344fb-2948-4a92-bfbd-c3f047f305cb",
+                        "artistName": "ADRIAN ROTAR & MC NFC",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a8555460-49d4-4cb0-9f6e-8e11aae997c4",
+                        "artistName": "ANDREW DUM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "64c8ea4d-28fe-4e56-a268-2a6bfdb86037",
+                        "artistName": "DACIAN T",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0237ea6c-0b9a-496d-8872-21ee27775475",
+                        "artistName": "JUNIOR B2B ȘTEFANIA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "00e8f8c6-c3b0-4442-b083-27112ccd5707",
+                        "artistName": "MANUEL RIVA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a7b31e09-3acf-4c56-9e3b-50ee5f2ea329",
+                        "artistName": "MARVO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "3ed7a09c-f44e-4ceb-b994-fec75482acbe",
+                        "artistName": "MILYO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f6a60a9d-b7c2-4a32-988f-2753a81e8169",
+                        "artistName": "OVIR",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8f59f770-6641-432f-a545-a7bc5bec8390",
+                        "artistName": "SHARAF",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "59822022-9915-41c6-89d1-73678327e358",
+                        "artistName": "UNDERR",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-07-retro",
+                    "name": "Retro",
+                    "performances": [
+                      {
+                        "id": "d9418dd1-c120-4e57-becc-20a889dbb895",
+                        "artistName": "ANDI MOISESCU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "630b3969-1cb6-465d-9466-e61123c04473",
+                        "artistName": "ANTENNA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "82eb3e15-97d3-4238-b8d2-47f0aad82d3c",
+                        "artistName": "CELIA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "16e41774-d89b-41fc-85aa-8575d2ca1331",
+                        "artistName": "DAN T & MC ZEDHO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5cf70f2d-517f-48a4-82ca-c718d059555e",
+                        "artistName": "EMO REUNION",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0d504f59-dac4-4755-8811-0361be61aa7a",
+                        "artistName": "SHURUBEL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f3f1a830-0be2-4912-97e0-3f681869f77e",
+                        "artistName": "VISA CREATORS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "untold-2026-2026-08-08",
+                "date": "2026-08-08",
+                "stages": [
+                  {
+                    "id": "untold-2026-2026-08-08-main",
+                    "name": "Main",
+                    "performances": [
+                      {
+                        "id": "08a98403-52e8-4dfc-85c3-57cd1e4de0de",
+                        "artistName": "JUNII SIBIULUI & MARIANA ANGHEL SI IONUT FULEA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "1813dad1-d9c6-4fd7-8119-71155d58e3be",
+                        "artistName": "LEWIS CAPALDI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "bbe56a1c-d98d-4f85-afdd-3cc0b2d9d354",
+                        "artistName": "LOST FREQUENCIES",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f2f32423-0fc2-400f-bfa0-56de3c2271d5",
+                        "artistName": "MARTIN GARRIX",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "cc3459f6-f539-4e14-ab35-c67082db2944",
+                        "artistName": "MESTIZA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "60072c53-c7c0-4b0a-a7fe-a5e94f053956",
+                        "artistName": "ȘAGUNA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "9c1ae076-9f4f-43d6-a9f8-dcab4efda994",
+                        "artistName": "TUJAMO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-08-galaxy",
+                    "name": "Galaxy",
+                    "performances": [
+                      {
+                        "id": "ad60d324-397e-4456-b89d-09a4f5969ce1",
+                        "artistName": "BUDAI HOUSE CLIQUE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "bc3b28f6-a5d5-4d52-a0e7-6672f0796eae",
+                        "artistName": "HOLY PRIEST",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "af883f4d-0c29-4623-86f9-5560ff18bf60",
+                        "artistName": "JOSEPH CAPRIATI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "4f0348de-3770-42d0-a524-5c91a2f9d609",
+                        "artistName": "MARWAN DUA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "14c45fee-4503-4af8-a00f-1d9f7c305933",
+                        "artistName": "MAU P",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "9a2b2785-4fa8-42cd-baa9-5136a7e46258",
+                        "artistName": "SOLOMUN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-08-daydreaming",
+                    "name": "Daydreaming",
+                    "performances": [
+                      {
+                        "id": "4a551e76-b64d-443b-8356-f6fd7f0a6818",
+                        "artistName": "CALEESI & KREIS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "731f9bfc-7046-410d-81df-b0e296f84a90",
+                        "artistName": "DEIAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "90d353b7-0a88-4586-a63c-077c08ab314a",
+                        "artistName": "HRAACH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "9c11a3eb-7730-475e-a246-0ffd86b7fa83",
+                        "artistName": "LEE BURRIDGE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "59fa766f-7a50-4f2f-ae0b-b07c3936d645",
+                        "artistName": "RAMPUE LIVE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "875592f2-fd57-483e-8af2-d178e37d4a43",
+                        "artistName": "SHIMZA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b1a9c7d1-2e33-4b63-9c57-9caf94bcdaa1",
+                        "artistName": "TINLICKER DJ SET",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "4f9c4708-f109-41b4-91b4-ac2475f046f6",
+                        "artistName": "VLADPIT",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-08-alchemy",
+                    "name": "Alchemy",
+                    "performances": [
+                      {
+                        "id": "fd2d6722-371c-41df-80ae-1dfc4cea883e",
+                        "artistName": "ALBERT NBN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "20ac2b9e-c1c9-4555-a730-0f8ad3cc94db",
+                        "artistName": "BIPOLVR B2B CHVOS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b6cde088-79af-4de3-8ff4-67c352dbcccb",
+                        "artistName": "CAMO & KROOKED",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0a9682bf-1395-4b22-bbb3-d65deae1f2de",
+                        "artistName": "DELIRIC X SILENT STRIKE X MUSE ORCHESTRA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "b53472f1-4853-4672-9f7c-ddc2db7d9fb7",
+                        "artistName": "DENZEL CURRY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ee51aff9-e175-428e-b889-adddd6223320",
+                        "artistName": "MAXIMILIAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "12fa0611-e29f-435b-b182-3cf7af734104",
+                        "artistName": "PETRE ȘTEFAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "903ea209-687f-4399-9c4b-bd964fb2b4c4",
+                        "artistName": "VLAD FLUERARU & DJ NASA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "55dcd133-2bc0-4331-99b3-2fc6eff66c59",
+                        "artistName": "YNY SEBI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-08-time",
+                    "name": "Time",
+                    "performances": [
+                      {
+                        "id": "78612650-36fe-4e11-b496-70a5bedeff36",
+                        "artistName": "DIGITALOVE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6c756f61-06c4-4da9-8e21-a5a2667f978e",
+                        "artistName": "ETHAN ENGLISH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "bfa65a3b-5fde-481f-a29d-70941f1e96bb",
+                        "artistName": "EVA KIM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5dd2e66b-412d-4f36-b95e-e8e6d7f32dab",
+                        "artistName": "HOTLAP",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ae8b0420-3cc1-4a37-bc13-019e3ace29a5",
+                        "artistName": "LIWAA B2B ANDREW MAZE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7b13eb68-76ea-4b29-a087-236508b4b916",
+                        "artistName": "MIKE KROSS X SEBUH",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8d418336-27c2-4b23-8512-fe12712c5626",
+                        "artistName": "PAAKMAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d2b822a5-0168-42df-b4ba-2e9223a8fae0",
+                        "artistName": "SAGUNA X BENZOL B2B DAMIANO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "464c5047-1829-4a49-a7d2-dc967d74b6c8",
+                        "artistName": "SLLASH & DOPPE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "748a058a-b8f1-45b8-98dc-649e94045366",
+                        "artistName": "VIDOJEAN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-08-tram",
+                    "name": "Tram",
+                    "performances": [
+                      {
+                        "id": "b055f748-cdd9-4410-a5f0-d395e4e6d254",
+                        "artistName": "ANDREI M & LUCAS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ac52eb81-a2b5-4076-b829-8c9768bb76ba",
+                        "artistName": "BIDI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "86b68dbe-e212-4de2-8773-d227bb29191c",
+                        "artistName": "CLANKER JONES",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "af09acd5-cf7b-4cce-99bf-fcaf333be8a3",
+                        "artistName": "DJ SEBIC",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "167caa69-b414-489c-aae5-e5df15a15363",
+                        "artistName": "MARC RAYEN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "144331a1-632c-4734-9cdb-e5140eac8627",
+                        "artistName": "SIMEA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e98a51a4-a488-4b3d-8aa3-9052f1cb17e4",
+                        "artistName": "YOYO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2923de69-77ed-4019-99d9-08f516b62bab",
+                        "artistName": "ANTENNA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "200f94ba-3d54-4b29-b99d-6be6f24ef60c",
+                        "artistName": "AURIK & PELIN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-08-retro",
+                    "name": "Retro",
+                    "performances": [
+                      {
+                        "id": "c1a1d7e1-4c87-4fbd-b2bc-02c733d13f3a",
+                        "artistName": "ANDREEA ESCA & OTRAVA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "166b7979-8460-408c-9630-97a42190cac9",
+                        "artistName": "ANTENNA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f4b0b877-83dc-4a25-9011-7b9b0ace29f8",
+                        "artistName": "ARSENIUM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6f5b66b5-f19f-42d5-a1af-8c56198bd1fa",
+                        "artistName": "AURIK & PELIN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "085cf002-55d7-4c63-bf20-8d425caa2fe7",
+                        "artistName": "PAPPA M & MC DYLMA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "fc5bc3cb-a323-40ea-ae3f-369bb000e491",
+                        "artistName": "SHURUBEL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0881474a-12ef-4e61-b920-aa95e9833edf",
+                        "artistName": "VISA CREATORS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "untold-2026-2026-08-09",
+                "date": "2026-08-09",
+                "stages": [
+                  {
+                    "id": "untold-2026-2026-08-09-main",
+                    "name": "Main",
+                    "performances": [
+                      {
+                        "id": "82c131f1-d8b3-4c84-93be-51c6db3e0621",
+                        "artistName": "AFROJACK B2B R3HAB",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "785b0817-4b5a-4546-a4f3-85f92b9c1686",
+                        "artistName": "ALAN WALKER",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2f193bc2-4c7b-4aec-8913-0b3ef040db38",
+                        "artistName": "DAN T - DIGI FM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5faa2b68-2c78-4e7e-855f-73b8df6d43bb",
+                        "artistName": "FLO RIDA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5272bf5b-7f29-4507-b14f-38794e775b16",
+                        "artistName": "MEDUZA LIVE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d17eaea2-c1f7-407d-9696-6dc00bfb88e0",
+                        "artistName": "PADRE GUILHERME",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f4ef7788-08b7-4f23-b553-0854be8e67e6",
+                        "artistName": "STEVE AOKI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-09-galaxy",
+                    "name": "Galaxy",
+                    "performances": [
+                      {
+                        "id": "742331ef-afec-453d-bffd-b5a88711f425",
+                        "artistName": "CÉLAVI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a126e90d-70a4-4645-91ee-9897be1fcd40",
+                        "artistName": "DUMITRESCU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0fc23482-2dd2-4c22-8d8f-4e7da74d66d8",
+                        "artistName": "JAMIE JONES",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "00ce4cdb-be3f-4737-b1ed-6d11063ccd98",
+                        "artistName": "JUST2",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "5c6a24a1-354c-4abe-acbb-ef0dbf6ea415",
+                        "artistName": "MAHONY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "2b49bcac-0844-4c48-a8f5-a7d96e71d85c",
+                        "artistName": "MRAK",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e67a8ef3-8963-4b42-a6f5-9d7b73e4d1fd",
+                        "artistName": "SARA LANDRY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-09-daydreaming",
+                    "name": "Daydreaming",
+                    "performances": [
+                      {
+                        "id": "30f65643-d5d6-4240-a612-064adbfa148e",
+                        "artistName": "DYMOS & JAY FASE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "07e88482-4a12-4af1-92ba-40cbbccdfa6b",
+                        "artistName": "JAN BLOMQVIST",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "89b6dd0a-17db-4ab0-9234-aadf41a1fcc2",
+                        "artistName": "LANGERHANS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d838b5b3-c79d-466c-a6d1-90bba5fbad17",
+                        "artistName": "MAJOR LEAGUE DJZ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "cee322b2-6c50-4ca3-8073-118843ab584c",
+                        "artistName": "NTO LIVE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6bbf74d8-f11e-4fc6-8bec-753d61c60651",
+                        "artistName": "PAAX",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "a124dcd9-17a8-4f10-86ea-685ce2c99aa9",
+                        "artistName": "PARALLELLE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "3363d072-fc20-42e5-90bb-2de98c1db42d",
+                        "artistName": "VITE B2B MIGANOVA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-09-alchemy",
+                    "name": "Alchemy",
+                    "performances": [
+                      {
+                        "id": "3abff1f6-22a0-4ebe-a779-676fec81349e",
+                        "artistName": "911",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "bad854f3-58b4-42c5-8fc9-bd3031dda210",
+                        "artistName": "ANDY C",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7e0b5af4-5a7e-4bf0-b567-faebbe9eb963",
+                        "artistName": "AZTECA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6f5f221f-6bcb-4caf-802e-36a8f69ca6af",
+                        "artistName": "BERECHET",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "27f0fba6-4a05-495d-80df-910c558d71f0",
+                        "artistName": "DJ SAUCE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8f57c530-195c-423c-9b0d-9475988a8f22",
+                        "artistName": "RAREȘ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "fb84d608-a4cf-4be0-84a2-6a39f8e4086f",
+                        "artistName": "RAVA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "842cd040-c426-46fa-94a8-cfcf0b262620",
+                        "artistName": "ȘATRA B.E.N.Z.",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-09-time",
+                    "name": "Time",
+                    "performances": [
+                      {
+                        "id": "36ffdac8-e905-4243-8f35-5178accc4717",
+                        "artistName": "CEMI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "09d06b09-e7d6-4c40-955f-df2a48abe16b",
+                        "artistName": "DALI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "fa0d8ceb-d6b6-4940-839a-71ad7e0a3d2f",
+                        "artistName": "GINO INGROSSO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "c759471f-e4bf-479a-8f4e-0b2e248b329f",
+                        "artistName": "GOLDCHER B2B DENY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "40f5fdb8-6bc0-4ce4-8e7e-de4ac569b999",
+                        "artistName": "JAMES MAC",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "c1f27ef7-28b1-4a8b-b480-f2bfafac3162",
+                        "artistName": "JOHN TREND B2B ADRIEN",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "0e8adc4b-13f4-46cc-bd14-681c3efd29da",
+                        "artistName": "SEAN NORVIS X MIGUEL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ff0cdb83-5353-45f4-ab98-b908695209fc",
+                        "artistName": "SUNNERY JAMES & RYAN MARCIANO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "675c6c26-d4aa-4662-92af-304f1035f1dc",
+                        "artistName": "TOBY ROMEO B2B ARIAS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7350241e-521c-4235-9631-5764e478fc3e",
+                        "artistName": "LUCIAN BARBULESCU B2B DJ ANDI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-09-tram",
+                    "name": "Tram",
+                    "performances": [
+                      {
+                        "id": "8d2e9415-9195-4d50-bf6b-e52e069cc3ff",
+                        "artistName": "BALKN MAFIA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8bbbde79-ea11-41cc-9806-baeb4a5983d8",
+                        "artistName": "BIPOLVR",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "bab4f622-368e-4b1b-80dc-b3621143b922",
+                        "artistName": "CUCUGRAM",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "67953a56-e55d-4a21-a71a-c8693cbaacc7",
+                        "artistName": "DRAOS&DFO TRUMPETS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "439a517c-dbf2-4456-93ea-c7f2b627c5e2",
+                        "artistName": "DREURESCU",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "534f3cd8-ebc1-4576-8dd6-704137738f5e",
+                        "artistName": "IST",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "8dfabb89-612c-4d92-83cb-2fbcc4949740",
+                        "artistName": "KAMIL X MC SHUTHY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7265fe91-7f97-40c8-a160-a89ef4d88035",
+                        "artistName": "KAROL DIAC",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d8716d46-0d57-4a52-a0fc-caea26bf1a73",
+                        "artistName": "PICI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "e6425376-7252-4f1b-863c-cfe9c8c44fcd",
+                        "artistName": "QUICK MIKE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "d4f6507c-2d7a-4c66-b9b2-6a6310a43a62",
+                        "artistName": "SHURUBEL",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "untold-2026-2026-08-09-retro",
+                    "name": "Retro",
+                    "performances": [
+                      {
+                        "id": "a2b18dce-b582-4da5-833e-71e1e7c4807c",
+                        "artistName": "ANDREI M",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "ea7091e3-c1c3-4e87-a5ac-bb8379345ba7",
+                        "artistName": "CRAZY DJ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "bd9ec8d6-6328-442d-869e-55b810b01c74",
+                        "artistName": "DAN T & MC ZEDHO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "25ac9137-9006-49ec-971f-9cda918892e7",
+                        "artistName": "ELLIE WHITE",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "f69781f3-05d0-4c3b-b3a0-7ca13d495c0b",
+                        "artistName": "GRINGO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "896ee82d-d27f-4c98-90db-b18e8f77d0e8",
+                        "artistName": "PAPPA M & MC DYLMA",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "6989fdbb-b682-4148-94c6-623e58d64d08",
+                        "artistName": "VISA CREATORS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "7d164961-8491-4904-961c-8bcbd08fda86",
+                        "artistName": "VYBE 2 PLAY",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
             "minimumComparableGA": null,
             "lineupDelta": null
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -22074,7 +25229,7 @@
       "id": "thornville_us",
       "name": "Thornville",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": null,
       "sourceEvents": [
@@ -22096,7 +25251,7 @@
             "Future Bass"
           ],
           "confidence": 1.0,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.lostlandsfestival.com/info/",
@@ -23708,7 +26863,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -23717,7 +26872,7 @@
       "id": "los_angeles_us",
       "name": "Los Angeles",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": null,
       "sourceEvents": [
@@ -23739,7 +26894,7 @@
             "Progressive"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.hardsummer.com/lineup/",
@@ -24304,7 +27459,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -24313,7 +27468,7 @@
       "id": "long_beach_us",
       "name": "Long Beach",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": null,
       "sourceEvents": [
@@ -24335,7 +27490,7 @@
             "Techno"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://socal.dreamstateusa.com/lineup/",
@@ -24893,7 +28048,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -24902,7 +28057,7 @@
       "id": "chicago_us",
       "name": "Chicago",
       "country": "US",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Chicago",
       "userCoordinate": null,
       "sourceEvents": [
@@ -24923,7 +28078,7 @@
             "Techno"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://arcmusicfestival.com/",
@@ -24953,7 +28108,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -24962,7 +28117,7 @@
       "id": "mumbai_in",
       "name": "Mumbai",
       "country": "IN",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Asia/Calcutta",
       "userCoordinate": null,
       "sourceEvents": [
@@ -24980,7 +28135,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://sunburn.in/event/sunburn-festival-2026/",
@@ -25010,7 +28165,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -25019,7 +28174,7 @@
       "id": "jakarta_id",
       "name": "Jakarta",
       "country": "ID",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Asia/Jakarta",
       "userCoordinate": null,
       "sourceEvents": [
@@ -25037,7 +28192,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://dwpfest.com/",
@@ -25067,7 +28222,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -25076,7 +28231,7 @@
       "id": "phuket_th",
       "name": "Phuket",
       "country": "TH",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Asia/Bangkok",
       "userCoordinate": null,
       "sourceEvents": [
@@ -25103,7 +28258,7 @@
             "Dubstep"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://thailand.edc.com/en/lineup/",
@@ -25969,7 +29124,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -25978,7 +29133,7 @@
       "id": "alpe_d_huez_fr",
       "name": "Alpe d'Huez",
       "country": "FR",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/Paris",
       "userCoordinate": null,
       "sourceEvents": [
@@ -25996,7 +29151,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://winter.tomorrowland.com/en/welcome/",
@@ -26026,7 +29181,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -26035,7 +29190,7 @@
       "id": "mexico_city_mx",
       "name": "Mexico City",
       "country": "MX",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "America/Mexico_City",
       "userCoordinate": null,
       "sourceEvents": [
@@ -26053,7 +29208,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://mexico.edc.com/?noredirect=1",
@@ -26083,7 +29238,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -26092,7 +29247,7 @@
       "id": "split_hr",
       "name": "Split",
       "country": "HR",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Europe/Zagreb",
       "userCoordinate": null,
       "sourceEvents": [
@@ -26110,7 +29265,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.96,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultraeurope.com/",
@@ -26140,7 +29295,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
@@ -26149,7 +29304,7 @@
       "id": "tokyo_jp",
       "name": "Tokyo",
       "country": "JP",
-      "refreshText": "Sat 21:15",
+      "refreshText": "Sat 21:42",
       "timeZoneIdentifier": "Asia/Tokyo",
       "userCoordinate": null,
       "sourceEvents": [
@@ -26172,7 +29327,7 @@
             "Techno"
           ],
           "confidence": 1.0,
-          "lastRefreshedText": "Sat 21:15",
+          "lastRefreshedText": "Sat 21:42",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultrajapan.com/lineup/",
@@ -26364,7 +29519,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T21:15:00Z"
+            "observedAt": "2026-07-18T21:42:43Z"
           }
         }
       ]
