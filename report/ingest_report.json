@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T20:59:32Z",
-  "ingestRunId": "24650364-C9C6-4F31-BF84-D03A42C58677",
-  "ingestRunAt": "2026-07-19T20:59:32Z",
+  "ranAt": "2026-07-19T21:20:03Z",
+  "ingestRunId": "956E2BD4-8562-42CA-995A-C3D62BD38E13",
+  "ingestRunAt": "2026-07-19T21:20:03Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T20:59:21Z",
+      "ticketOfferObservedAt": "2026-07-19T21:19:50Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -282,7 +282,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 04:59:52",
+        "observedAtText": "2026-07-20 05:20:24",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -1750,7 +1750,7 @@
     "Boom": "2026-07-19",
     "Hilvarenbeek": "2026-07-19",
     "Arnhem": "2026-07-19",
-    "Cluj-Napoca": "2026-07-19",
+    "Cluj-Napoca": "2026-07-20",
     "Thornville": "2026-07-19",
     "Los Angeles": "2026-07-19",
     "Long Beach": "2026-07-19",
@@ -1780,8 +1780,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "E3920BEE-FEEC-441F-9CDA-EA20B862321F",
-      "ingestRunAt": "2026-07-19T20:37:07Z"
+      "ingestRunId": "24650364-C9C6-4F31-BF84-D03A42C58677",
+      "ingestRunAt": "2026-07-19T20:59:32Z"
     }
   },
   "executionCoverage": {
