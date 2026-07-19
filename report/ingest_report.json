@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T10:41:56Z",
-  "ingestRunId": "9B8736FE-6464-4F80-A961-A151CDF2923F",
-  "ingestRunAt": "2026-07-19T10:41:56Z",
+  "ranAt": "2026-07-19T11:59:24Z",
+  "ingestRunId": "E8DCC356-A52F-4D80-AA71-CA4567A8B062",
+  "ingestRunAt": "2026-07-19T11:59:24Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T10:41:46Z",
+      "ticketOfferObservedAt": "2026-07-19T11:59:15Z",
       "ticketOfferCount": 2,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -238,9 +238,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 5,
-      "usable": 5,
-      "consumerReady": 5,
+      "captured": 6,
+      "usable": 6,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -278,10 +278,199 @@
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
       "reviewedEventInventoryCount": 1,
+      "inventoryReviewCandidates": [
+        {
+          "reviewKey": "yuyuan|2072592095781281794",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072592095781281794",
+          "title": "Safety Trance",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-01",
+          "endDateText": "2026-08-02",
+          "timeText": "22:00",
+          "lineupNames": [
+            "Safety Trance"
+          ],
+          "styles": [
+            "Trance"
+          ],
+          "priceDisplayText": "¥80/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "observed",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072592095781281794",
+          "miniProgramSearchText": "【双厅】TURMOIL呈现: 拉丁邪魅美学领袖 Safety Trance @OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072592095781281794&isShare=true"
+          },
+          "requiredActions": [
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2072587211161952258",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072587211161952258",
+          "title": "Orlando Voorn",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-07-31",
+          "endDateText": "2026-08-01",
+          "timeText": "22:00",
+          "lineupNames": [
+            "Orlando Voorn"
+          ],
+          "styles": [
+            "Techno"
+          ],
+          "priceDisplayText": "¥80/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "observed",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072587211161952258",
+          "miniProgramSearchText": "【双厅】OIL呈现：90s 荷兰Techno先驱Orlando Voorn",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072587211161952258&isShare=true"
+          },
+          "requiredActions": [
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2072583967958327298",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072583967958327298",
+          "title": "Andrew Moore",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-07-30",
+          "endDateText": "2026-07-31",
+          "timeText": "22:00",
+          "lineupNames": [
+            "Andrew Moore"
+          ],
+          "styles": [],
+          "priceDisplayText": "¥50/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072583967958327298",
+          "miniProgramSearchText": "【Mainroom】柏林星期四：Andrew Moore @OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072583967958327298&isShare=true"
+          },
+          "requiredActions": [
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2072262191009193986",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072262191009193986",
+          "title": "Answer Code Request",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-07-24",
+          "endDateText": "2026-07-25",
+          "timeText": "22:00",
+          "lineupNames": [
+            "Answer Code Request"
+          ],
+          "styles": [
+            "Techno"
+          ],
+          "priceDisplayText": "¥80/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "observed",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072262191009193986",
+          "miniProgramSearchText": "【双厅】NOIR 呈现 Answer Code Request 黑色Techno之夜 @ OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072262191009193986&isShare=true"
+          },
+          "requiredActions": [
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2072261295009390593",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072261295009390593",
+          "title": "新面孔 xīn miàn kǒng Vol.47",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-07-23",
+          "endDateText": "2026-07-24",
+          "timeText": "22:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥30/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
+          "miniProgramSearchText": "【Mainroom】新面孔 xīn miàn kǒng Vol.47 @OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072261295009390593&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2072260451555827713",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072260451555827713",
+          "title": "森林奇境",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-07-19",
+          "endDateText": "2026-07-20",
+          "timeText": "22:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥50/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072260451555827713",
+          "miniProgramSearchText": "【Mainroom】TRI ON AIR 呈现：森林奇境 @OIL Club",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072260451555827713&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        }
+      ],
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-19 18:42:17",
+        "observedAtText": "2026-07-19 19:59:46",
         "totalSearchRecords": 15,
         "acceptedReviewedRecordCount": 9,
         "venues": [
@@ -734,7 +923,7 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 17,
+      "captured": 18,
       "usable": 12,
       "consumerReady": 12,
       "consumerRejected": 0,
@@ -1490,7 +1679,7 @@
     }
   ],
   "totals": {
-    "captured": 202,
+    "captured": 203,
     "usable": 136
   },
   "consumerQuality": {
@@ -1531,7 +1720,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 108
+    "reviewedArtists": 110
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1546,8 +1735,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "37A53EC0-D925-4B65-B701-37F4C237EB01",
-      "ingestRunAt": "2026-07-19T10:09:54Z"
+      "ingestRunId": "9B8736FE-6464-4F80-A961-A151CDF2923F",
+      "ingestRunAt": "2026-07-19T10:41:56Z"
     }
   },
   "executionCoverage": {

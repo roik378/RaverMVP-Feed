@@ -369,7 +369,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -393,7 +393,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -417,7 +417,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -441,7 +441,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -465,7 +465,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -552,7 +552,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -585,7 +585,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -609,7 +609,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -633,7 +633,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -657,7 +657,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -681,7 +681,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -705,7 +705,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T10:43:05Z",
+        "capturedAt": "2026-07-19T12:00:32Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -764,6 +764,15 @@
       "reason": null,
       "stale": false,
       "ticketURLText": "https://ra.co/events/2464476"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Shenzhen",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "C514E71C-7EDD-55FC-BA5B-96E4CAF39460",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://ra.co/events/2464482"
     },
     {
       "action": "no_snapshot",
@@ -955,17 +964,17 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "76eb56f2c910d287d57999cd13ae60cc8407249524fcfc5b6b00ac1f62989a75",
-  "feedSHA256Before": "48cb1d2abe6653404b5331487827977b6fefe67756a731b35c7ff8711615796d",
-  "historySHA256After": "e5835b67143da6a0357a1bf79b430125f9069f741e19467f74ad3db61a037923",
-  "priceProjectionSHA256": "eaf71ec87239f5faa8075f3faf130c05b7dd72f02921052911d4f804dc7dc0ab",
+  "feedSHA256After": "a50c6f94a66b14c3660e739dfb81f260a145d6dab6887bb70a7cfb8d463c6fa7",
+  "feedSHA256Before": "1695abb4c34641e16bbc5bf91742cbc6b22d8194a27754d89c9e4305067ff28d",
+  "historySHA256After": "036d7dbcace1a870bfbf1b8cf4da081b5e0a70d165c8aa98f4cb8e237f6d851b",
+  "priceProjectionSHA256": "aae17492a0a3c09ba6afb4908de5690844cc9e6b078b18f2e99a8f67a64a392c",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 12,
-    "candidateCount": 86,
+    "candidateCount": 87,
     "freshCount": 12,
-    "noSnapshotCount": 54,
+    "noSnapshotCount": 55,
     "providerFailureCount": 20,
     "staleCount": 0
   }
