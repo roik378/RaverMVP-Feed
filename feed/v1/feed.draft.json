@@ -1,8 +1,8 @@
 {
   "feedVersion": 1,
-  "ingestRunId": "D1F3B9B3-E82C-4FC0-9FBC-F56AE21758DA",
-  "ingestRunAt": "2026-07-19T00:36:51Z",
-  "generatedAtText": "Sat 23:57",
+  "ingestRunId": "DADD7151-79FA-487A-8C03-8F715C79BDF8",
+  "ingestRunAt": "2026-07-19T01:27:30Z",
+  "generatedAtText": "Sun 01:27",
   "cities": [
     {
       "id": "vancouver_ca",
@@ -2389,7 +2389,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2451,7 +2451,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2497,8 +2497,8 @@
             "currency": "CAD",
             "feeBasis": "feesExcluded",
             "displayText": "From C$25 + fees",
-            "availability": "available",
-            "verificationState": "fresh",
+            "availability": "unknown",
+            "verificationState": "staleFallback",
             "capturedAt": "2026-07-19T00:04:09Z",
             "sourceURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757",
             "collectorKind": "admitoneGraphQL"
@@ -2561,7 +2561,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://checkout.admitone.com/6a497986bf7d4c91bb55137b",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2623,7 +2623,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a1abf7d4c91bb551381",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2685,7 +2685,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a884df4217fda772d26",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3039,7 +3039,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3130,7 +3130,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3180,7 +3180,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -3237,7 +3237,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -3294,7 +3294,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3346,7 +3346,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/feedmeredroom/",
             "collectorKind": "showpassNextData"
           }
@@ -3396,7 +3396,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3447,7 +3447,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "capturedAt": "2026-07-19T01:31:04Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -8078,7 +8078,7 @@
       "id": "salmo_ca",
       "name": "Salmo",
       "country": "CA",
-      "refreshText": "Sat 23:57",
+      "refreshText": "Sun 01:27",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": null,
       "sourceEvents": [
@@ -8087,24 +8087,16 @@
           "sourceId": "shambhala_official",
           "sourceKind": "festivalWebsite",
           "title": "Shambhala Music Festival 2026",
-          "subtitle": "Official 2026 artist profiles",
+          "subtitle": "Official artist profiles and set times",
           "venue": "Salmo River Ranch",
           "city": "Salmo",
           "dateText": "Jul 24-27, 2026",
           "timeText": null,
           "distanceText": null,
           "coordinate": null,
-          "styles": [
-            "Techno",
-            "Progressive",
-            "Dubstep",
-            "Bass",
-            "Future Bass",
-            "House",
-            "Trance"
-          ],
-          "confidence": 0.98,
-          "lastRefreshedText": "Sat 23:57",
+          "styles": [],
+          "confidence": 0.99,
+          "lastRefreshedText": "Sun 01:27",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.shambhalamusicfestival.com/lineup",
@@ -8127,27 +8119,8 @@
             {
               "name": "Boris Brejcha",
               "setTime": null,
-              "styles": [
-                "Techno",
-                "Progressive"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "2C5BC33C-4859-540B-A4ED-5F726C02E649",
-                  "title": "House Music (feat. Arctic Lake) [Edit]",
-                  "label": "Boris Brejcha"
-                },
-                {
-                  "id": "6973487E-F19B-53C9-BA1A-E940E993091A",
-                  "title": "Purple Noise",
-                  "label": "Boris Brejcha"
-                },
-                {
-                  "id": "FFBD006E-C184-57C3-BCCD-309C229F5063",
-                  "title": "Gravity (feat. Laura Korinth) [Edit]",
-                  "label": "Boris Brejcha"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
@@ -8223,27 +8196,8 @@
             {
               "name": "Excision",
               "setTime": null,
-              "styles": [
-                "Dubstep",
-                "Bass"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "51C4B1AB-7589-5838-B132-D7F405D3AEF7",
-                  "title": "Feel Something",
-                  "label": "Excision / I Prevail"
-                },
-                {
-                  "id": "4DEBF97F-8878-5F91-B87D-FA59D32A1641",
-                  "title": "Zombie (feat. Valerie Broussard)",
-                  "label": "Excision"
-                },
-                {
-                  "id": "BAA41270-9019-5B43-B55A-A1F11B877B4C",
-                  "title": "Throwin' Elbows (feat. Space Laces)",
-                  "label": "Rottun Recordings"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
@@ -8340,26 +8294,8 @@
             {
               "name": "Whethan",
               "setTime": null,
-              "styles": [
-                "Future Bass"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "607E8A10-98FA-5780-A932-5BEBF948137A",
-                  "title": "When I'm Down",
-                  "label": "Whethan / Oliver Tree"
-                },
-                {
-                  "id": "0655B345-4D7D-51D6-B37A-C3B9049F37E8",
-                  "title": "MONEY ON THE DASH",
-                  "label": "Whethan / Elley Duhé"
-                },
-                {
-                  "id": "EBEA6334-3C7E-5B0C-94FE-6A19A39719E9",
-                  "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
-                  "label": "Whethan"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
@@ -8379,28 +8315,8 @@
             {
               "name": "ATRIP",
               "setTime": null,
-              "styles": [
-                "House",
-                "Bass",
-                "Trance"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "D367743D-53AB-565D-94B1-8F4D2B2135D6",
-                  "title": "Keep Up",
-                  "label": "ATRIP & DJ BORING"
-                },
-                {
-                  "id": "237ABE5D-6DEF-5599-B5E7-8F575423AFD5",
-                  "title": "Rainbow",
-                  "label": "ATRIP"
-                },
-                {
-                  "id": "BA506D50-1332-5D48-9CB1-CC3E26D5BC0C",
-                  "title": "GUMMI",
-                  "label": "ATRIP"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
@@ -9283,20 +9199,1713 @@
             "timeZoneIdentifier": "America/Vancouver",
             "coordinate": null,
             "lifecycleState": "soldOut",
-            "lineupPhaseLabel": "Official 2026 lineup",
+            "lineupPhaseLabel": "Official 2026 set times",
             "lineupCompleteness": "partial",
             "officialPosterURLText": "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed220c/69a1fa58282b795877409a21_Preview%20SMF%20Lineup%202026.webp",
             "officialPosterSourceURLText": "https://www.shambhalamusicfestival.com/lineup",
             "dayCount": 4,
             "stageCount": 6,
             "artistCount": 155,
-            "schedule": null,
+            "schedule": [
+              {
+                "id": "shambhala-2026-2026-07-23",
+                "date": "2026-07-23",
+                "stages": [
+                  {
+                    "id": "shambhala-2026-2026-07-23-01-amp",
+                    "name": "AMP",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-001",
+                        "artistName": "VCTRE",
+                        "startTimeText": "12:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-002",
+                        "artistName": "BOYNOTHOME",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-003",
+                        "artistName": "S2",
+                        "startTimeText": "14:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-004",
+                        "artistName": "Two Girls One Laptop",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-005",
+                        "artistName": "SkiiTour",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-006",
+                        "artistName": "Ahee",
+                        "startTimeText": "17:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-007",
+                        "artistName": "AMP Live",
+                        "startTimeText": "18:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-008",
+                        "artistName": "Comisar",
+                        "startTimeText": "19:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-009",
+                        "artistName": "DEFIED",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-010",
+                        "artistName": "Richard Finger",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-011",
+                        "artistName": "EAZYBAKED",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-012",
+                        "artistName": "WICKED LESTER",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-013",
+                        "artistName": "Craze",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-amp-014",
+                        "artistName": "Longwalkshortdock",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-23-02-living-room",
+                    "name": "Living Room",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-001",
+                        "artistName": "JAQ & SASAKI",
+                        "startTimeText": "12:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-002",
+                        "artistName": "HOOLA",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-003",
+                        "artistName": "HA HA",
+                        "startTimeText": "14:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-004",
+                        "artistName": "BITCHIN'",
+                        "startTimeText": "15:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-005",
+                        "artistName": "FOXY MORON",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-006",
+                        "artistName": "FLIPOUT & JUNK",
+                        "startTimeText": "18:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-007",
+                        "artistName": "SonReal",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-008",
+                        "artistName": "Shawna (KMLN)",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-009",
+                        "artistName": "Galen",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-living-room-010",
+                        "artistName": "Phil Hartnoll (Orbital)",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-23-03-pagoda",
+                    "name": "Pagoda",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-001",
+                        "artistName": "RBR TAKEOVER: CHRIS CORKAL",
+                        "startTimeText": "12:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-002",
+                        "artistName": "EDWARD LANE",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-003",
+                        "artistName": "KÖL",
+                        "startTimeText": "14:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-004",
+                        "artistName": "CERDIN",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-005",
+                        "artistName": "LAW",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-006",
+                        "artistName": "AVERAGE CITIZENS",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-007",
+                        "artistName": "PRAYER HANDZ",
+                        "startTimeText": "18:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-008",
+                        "artistName": "CASE OF THE MONDAYS",
+                        "startTimeText": "19:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-009",
+                        "artistName": "BEN FOX",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-010",
+                        "artistName": "N2N",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-011",
+                        "artistName": "SOUP",
+                        "startTimeText": "22:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-012",
+                        "artistName": "Jon Casey",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-23-pagoda-013",
+                        "artistName": "Crankdat",
+                        "startTimeText": "01:15",
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "shambhala-2026-2026-07-24",
+                "date": "2026-07-24",
+                "stages": [
+                  {
+                    "id": "shambhala-2026-2026-07-24-01-amp",
+                    "name": "AMP",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-001",
+                        "artistName": "ASÁU",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-002",
+                        "artistName": "AIR CASTLES",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-003",
+                        "artistName": "MANTRA SOUNDS",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-004",
+                        "artistName": "Veil",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-005",
+                        "artistName": "Flava D",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-006",
+                        "artistName": "Nikita, the Wicked",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-007",
+                        "artistName": "PEEKABOO",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-008",
+                        "artistName": "RUSKO",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-009",
+                        "artistName": "Truth w/ Pav4n",
+                        "startTimeText": "01:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-amp-010",
+                        "artistName": "SIMULA W/ JAKES (140 SET)",
+                        "startTimeText": "02:45",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-24-02-fractal-forest",
+                    "name": "Fractal Forest",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-001",
+                        "artistName": "FREDDY J",
+                        "startTimeText": "16:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-002",
+                        "artistName": "SIVZ",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-003",
+                        "artistName": "BURCHILL",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-004",
+                        "artistName": "Kiinjo",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-005",
+                        "artistName": "Vincent Antone",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-006",
+                        "artistName": "Stickybuds",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-007",
+                        "artistName": "Z-Trip",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-008",
+                        "artistName": "Chali 2na & Cut Chemist",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-009",
+                        "artistName": "The Funk Hunters",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-010",
+                        "artistName": "Smalltown DJs",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-011",
+                        "artistName": "CONTROL ROOM",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-012",
+                        "artistName": "Joanna Magik",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-fractal-forest-013",
+                        "artistName": "JOSEPH MARTIN",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-24-03-the-grove",
+                    "name": "The Grove",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-001",
+                        "artistName": "Lazy Syrup Orchestra",
+                        "startTimeText": "13:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-002",
+                        "artistName": "Handsome Tiger",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-003",
+                        "artistName": "OKIRO",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-004",
+                        "artistName": "Mfinity",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-005",
+                        "artistName": "BIISHOP",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-006",
+                        "artistName": "COLTCUTS",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-007",
+                        "artistName": "PONDA",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-008",
+                        "artistName": "Magugu",
+                        "startTimeText": "20:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-009",
+                        "artistName": "Sir Spyro",
+                        "startTimeText": "21:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-010",
+                        "artistName": "SACRED G’S",
+                        "startTimeText": "23:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-011",
+                        "artistName": "Main Phase",
+                        "startTimeText": "23:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-012",
+                        "artistName": "Interplanetary Criminal",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-013",
+                        "artistName": "Madam X",
+                        "startTimeText": "02:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-014",
+                        "artistName": "Shiny Things",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-grove-015",
+                        "artistName": "SUNDOG",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-24-04-living-room",
+                    "name": "Living Room",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-001",
+                        "artistName": "QDUP",
+                        "startTimeText": "12:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-002",
+                        "artistName": "All Good Funk Alliance",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-003",
+                        "artistName": "FORT KNOX 5",
+                        "startTimeText": "14:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-004",
+                        "artistName": "NATURALIST",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-005",
+                        "artistName": "MEOWMIX",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-006",
+                        "artistName": "Moontricks",
+                        "startTimeText": "17:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-007",
+                        "artistName": "Kr3ture",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-008",
+                        "artistName": "EVERYMAN",
+                        "startTimeText": "20:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-009",
+                        "artistName": "Super DJ Dmitry (Deee-Lite)",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-010",
+                        "artistName": "Soul Clap",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-011",
+                        "artistName": "DANCE FOR DAN (DJ DAN TRIBUTE)",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-012",
+                        "artistName": "Doc Martin",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-living-room-013",
+                        "artistName": "Damian Lazarus",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-24-05-pagoda",
+                    "name": "Pagoda",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-001",
+                        "artistName": "LOGAN HART",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-002",
+                        "artistName": "ANGIE C",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-003",
+                        "artistName": "LAAV",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-004",
+                        "artistName": "JOLUCA",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-005",
+                        "artistName": "Tchilt",
+                        "startTimeText": "19:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-006",
+                        "artistName": "TCHILT B2B MNTRA",
+                        "startTimeText": "20:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-007",
+                        "artistName": "MNTRA",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-008",
+                        "artistName": "Justin Martin",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-009",
+                        "artistName": "Louis The Child",
+                        "startTimeText": "23:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-010",
+                        "artistName": "Sidepiece",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-011",
+                        "artistName": "DR. FRESCH",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-012",
+                        "artistName": "No Thanks",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-pagoda-013",
+                        "artistName": "STUND",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-24-06-the-village",
+                    "name": "The Village",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-001",
+                        "artistName": "VILLAGE RINSEOUT HOSTED BY JOHN ROLODEX",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-002",
+                        "artistName": "Armanni Reign",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-003",
+                        "artistName": "Stylust",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-004",
+                        "artistName": "SUBVERT",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-005",
+                        "artistName": "TVBOO",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-006",
+                        "artistName": "Excision",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-007",
+                        "artistName": "Grafix",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-008",
+                        "artistName": "Subsonic",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-24-the-village-009",
+                        "artistName": "BUDDY & THE BUFFALO",
+                        "startTimeText": "04:15",
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "shambhala-2026-2026-07-25",
+                "date": "2026-07-25",
+                "stages": [
+                  {
+                    "id": "shambhala-2026-2026-07-25-01-amp",
+                    "name": "AMP",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-001",
+                        "artistName": "ATEBAKI",
+                        "startTimeText": "16:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-002",
+                        "artistName": "SEEDED VISION",
+                        "startTimeText": "17:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-003",
+                        "artistName": "TORBJØRN",
+                        "startTimeText": "18:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-004",
+                        "artistName": "Kyber",
+                        "startTimeText": "19:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-005",
+                        "artistName": "Lumasi",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-006",
+                        "artistName": "Know Good",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-007",
+                        "artistName": "Inzo",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-008",
+                        "artistName": "Liquid Stranger",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-009",
+                        "artistName": "Whethan",
+                        "startTimeText": "01:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-amp-010",
+                        "artistName": "Jkyl & Hyde",
+                        "startTimeText": "02:45",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-25-02-fractal-forest",
+                    "name": "Fractal Forest",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-001",
+                        "artistName": "JGIRL & MANOUSOS",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-002",
+                        "artistName": "DEEPSTRUT",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-003",
+                        "artistName": "FATTYCAKES",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-004",
+                        "artistName": "CHARLY HUSTLE",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-005",
+                        "artistName": "The Gaff",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-006",
+                        "artistName": "Starjunk 95",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-007",
+                        "artistName": "CHROMEO DJ SET",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-008",
+                        "artistName": "A-Trak",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-009",
+                        "artistName": "Solardo",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-010",
+                        "artistName": "Neon Steve",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-011",
+                        "artistName": "A.Skillz",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-012",
+                        "artistName": "Fort Knox 5 & QDUP",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-013",
+                        "artistName": "Slynk",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-fractal-forest-014",
+                        "artistName": "Neighbour",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-25-03-the-grove",
+                    "name": "The Grove",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-001",
+                        "artistName": "EL TORO",
+                        "startTimeText": "14:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-002",
+                        "artistName": "Too Many Zooz",
+                        "startTimeText": "15:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-003",
+                        "artistName": "MARK WOODYARD",
+                        "startTimeText": "16:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-004",
+                        "artistName": "ALL:LO COLLECTIVE: ALEX UNGER",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-005",
+                        "artistName": "pheel",
+                        "startTimeText": "18:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-006",
+                        "artistName": "parkbreezy",
+                        "startTimeText": "19:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-007",
+                        "artistName": "TF Marz",
+                        "startTimeText": "20:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-008",
+                        "artistName": "PRSN",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-009",
+                        "artistName": "Earthgang",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-010",
+                        "artistName": "Conducta B2B DJ Swisha",
+                        "startTimeText": "22:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-011",
+                        "artistName": "Ivy Lab",
+                        "startTimeText": "00:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-012",
+                        "artistName": "V.I.V.E.K",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-013",
+                        "artistName": "CHMURA B2B SATURNA",
+                        "startTimeText": "03:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-grove-014",
+                        "artistName": "ATYYA",
+                        "startTimeText": "04:45",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-25-04-living-room",
+                    "name": "Living Room",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-001",
+                        "artistName": "ROSSO",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-002",
+                        "artistName": "DUBCONSCIOUS",
+                        "startTimeText": "14:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-003",
+                        "artistName": "GL0bal",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-004",
+                        "artistName": "Rob Paine",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-005",
+                        "artistName": "Soohan",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-006",
+                        "artistName": "Stavroz",
+                        "startTimeText": "19:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-007",
+                        "artistName": "Adham Shaikh",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-008",
+                        "artistName": "Mungo’s Hi Fi",
+                        "startTimeText": "22:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-009",
+                        "artistName": "Uncle Waffles",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-010",
+                        "artistName": "Amémé",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-living-room-011",
+                        "artistName": "THOMAS WORKSHOP",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-25-05-pagoda",
+                    "name": "Pagoda",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-001",
+                        "artistName": "DJ JUST-B",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-002",
+                        "artistName": "TKO",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-003",
+                        "artistName": "DOUBLE TROUBLE",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-004",
+                        "artistName": "ARMONIA",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-005",
+                        "artistName": "Stresshead",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-006",
+                        "artistName": "ATRIP",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-007",
+                        "artistName": "Lavern",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-008",
+                        "artistName": "Boris Brejcha",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-009",
+                        "artistName": "Eli Brown",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-010",
+                        "artistName": "The Dare DJ SET",
+                        "startTimeText": "01:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-011",
+                        "artistName": "Two Shell",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-pagoda-012",
+                        "artistName": "Brunello",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-25-06-the-village",
+                    "name": "The Village",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-001",
+                        "artistName": "SKRADLEY",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-002",
+                        "artistName": "KINDLL",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-003",
+                        "artistName": "Ill. Gates",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-004",
+                        "artistName": "JUSTIN HAWKES",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-005",
+                        "artistName": "Level Up",
+                        "startTimeText": "22:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-006",
+                        "artistName": "Seven Lions",
+                        "startTimeText": "23:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-007",
+                        "artistName": "Dimension",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-008",
+                        "artistName": "Sigma",
+                        "startTimeText": "01:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-009",
+                        "artistName": "Phibes",
+                        "startTimeText": "02:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-25-the-village-010",
+                        "artistName": "THE CHILLAGE HOSTED BY ILL.GATES",
+                        "startTimeText": "03:30",
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "shambhala-2026-2026-07-26",
+                "date": "2026-07-26",
+                "stages": [
+                  {
+                    "id": "shambhala-2026-2026-07-26-01-amp",
+                    "name": "AMP",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-001",
+                        "artistName": "AFTERNOON SALOON W/ MARIN PATENAUDE",
+                        "startTimeText": "16:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-002",
+                        "artistName": "ORENDA",
+                        "startTimeText": "18:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-003",
+                        "artistName": "Snuffy",
+                        "startTimeText": "19:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-004",
+                        "artistName": "Shosh",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-005",
+                        "artistName": "Villager",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-006",
+                        "artistName": "Taiki Nulight",
+                        "startTimeText": "22:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-007",
+                        "artistName": "Hamdi",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-008",
+                        "artistName": "Badger",
+                        "startTimeText": "01:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-amp-009",
+                        "artistName": "BL3SS",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-26-02-fractal-forest",
+                    "name": "Fractal Forest",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-001",
+                        "artistName": "FRACTAL FUNK JAM HOSTED BY SMALLTOWN DJS",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-002",
+                        "artistName": "Z-Trip",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-003",
+                        "artistName": "Brothers Macklovitch",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-004",
+                        "artistName": "PINEO & LOEB FT. DRAGONETTE",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-005",
+                        "artistName": "SkiiTour",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-006",
+                        "artistName": "The Sponges",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-007",
+                        "artistName": "Justin Jay",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-008",
+                        "artistName": "Matroda",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-009",
+                        "artistName": "Cloonee",
+                        "startTimeText": "00:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-010",
+                        "artistName": "Westend",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-011",
+                        "artistName": "DJ Susan",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-012",
+                        "artistName": "Rumpus",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-013",
+                        "artistName": "Thomas Anthony",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-014",
+                        "artistName": "WES PLEASE",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-015",
+                        "artistName": "JUSTIN HALE",
+                        "startTimeText": "06:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-fractal-forest-016",
+                        "artistName": "RICH-E-RICH",
+                        "startTimeText": "08:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-26-03-the-grove",
+                    "name": "The Grove",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-001",
+                        "artistName": "SHUKA",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-002",
+                        "artistName": "GABBY HAZE",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-003",
+                        "artistName": "VIRAVIRA",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-004",
+                        "artistName": "KAYA KO",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-005",
+                        "artistName": "Eva Lazarus",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-006",
+                        "artistName": "CIRCUS ACTS INSOMNIACS",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-007",
+                        "artistName": "Drama DJ SET",
+                        "startTimeText": "22:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-008",
+                        "artistName": "TYCHO DJ SET",
+                        "startTimeText": "23:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-009",
+                        "artistName": "Jacques Greene",
+                        "startTimeText": "01:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-010",
+                        "artistName": "Cameo Blush",
+                        "startTimeText": "02:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-011",
+                        "artistName": "Player Dave",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-grove-012",
+                        "artistName": "Frameworks",
+                        "startTimeText": "05:30",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-26-04-living-room",
+                    "name": "Living Room",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-001",
+                        "artistName": "SIJAY JAMES",
+                        "startTimeText": "13:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-002",
+                        "artistName": "K-TEL",
+                        "startTimeText": "14:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-003",
+                        "artistName": "BREAKFLUID",
+                        "startTimeText": "15:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-004",
+                        "artistName": "Natascha Polké",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-005",
+                        "artistName": "CIVILLIAN",
+                        "startTimeText": "17:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-006",
+                        "artistName": "Tone Ranger",
+                        "startTimeText": "18:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-007",
+                        "artistName": "INTERMISSION DJ",
+                        "startTimeText": "20:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-008",
+                        "artistName": "MAT THE ALIEN & MAGUGU",
+                        "startTimeText": "20:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-009",
+                        "artistName": "Koji Aiken",
+                        "startTimeText": "21:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-010",
+                        "artistName": "Machinedrum",
+                        "startTimeText": "22:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-011",
+                        "artistName": "Sam Binga",
+                        "startTimeText": "23:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-012",
+                        "artistName": "Josh Wink",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-013",
+                        "artistName": "ALEX OXLEY",
+                        "startTimeText": "02:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-014",
+                        "artistName": "ROXANNE ROLL",
+                        "startTimeText": "03:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-015",
+                        "artistName": "MICHAEL RED",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-living-room-016",
+                        "artistName": "LION S",
+                        "startTimeText": "07:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-26-05-pagoda",
+                    "name": "Pagoda",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-001",
+                        "artistName": "BE HAZZY",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-002",
+                        "artistName": "AVYON",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-003",
+                        "artistName": "CHIMP IT",
+                        "startTimeText": "18:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-004",
+                        "artistName": "Ashez",
+                        "startTimeText": "19:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-005",
+                        "artistName": "Shima",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-006",
+                        "artistName": "LYNY",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-007",
+                        "artistName": "Zingara",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-008",
+                        "artistName": "CloZee",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-009",
+                        "artistName": "Kai Wachi",
+                        "startTimeText": "00:15",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-010",
+                        "artistName": "Black Tiger Sex Machine",
+                        "startTimeText": "01:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-011",
+                        "artistName": "Nitepunk",
+                        "startTimeText": "02:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-012",
+                        "artistName": "Sippy",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-pagoda-013",
+                        "artistName": "DOWNLO",
+                        "startTimeText": "05:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "shambhala-2026-2026-07-26-06-the-village",
+                    "name": "The Village",
+                    "performances": [
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-001",
+                        "artistName": "BE HAZZY",
+                        "startTimeText": "16:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-002",
+                        "artistName": "DNB GIRLS TAKEOVER HOSTED BY CRYSTAL FRESH",
+                        "startTimeText": "17:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-003",
+                        "artistName": "DLB",
+                        "startTimeText": "20:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-004",
+                        "artistName": "TRIPLE XL",
+                        "startTimeText": "21:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-005",
+                        "artistName": "[IVY]",
+                        "startTimeText": "22:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-006",
+                        "artistName": "P Money & Whiney",
+                        "startTimeText": "23:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-007",
+                        "artistName": "Ganja White Night",
+                        "startTimeText": "00:30",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-008",
+                        "artistName": "Crankdat",
+                        "startTimeText": "01:45",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-009",
+                        "artistName": "Viperactive",
+                        "startTimeText": "03:00",
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "shambhala-2026-2026-07-26-the-village-010",
+                        "artistName": "THA FUNK JUNKIE W/ PAV4N",
+                        "startTimeText": "04:00",
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
             "minimumComparableGA": null,
             "lineupDelta": null
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T23:57:35Z"
+            "observedAt": "2026-07-19T01:27:30Z"
           }
         }
       ]

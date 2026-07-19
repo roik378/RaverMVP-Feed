@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T00:36:51Z",
-  "ingestRunId": "D1F3B9B3-E82C-4FC0-9FBC-F56AE21758DA",
-  "ingestRunAt": "2026-07-19T00:36:51Z",
+  "ranAt": "2026-07-19T01:27:30Z",
+  "ingestRunId": "DADD7151-79FA-487A-8C03-8F715C79BDF8",
+  "ingestRunAt": "2026-07-19T01:27:30Z",
   "mode": "full",
   "sources": [
     {
@@ -289,7 +289,7 @@
       "usable": 0,
       "consumerReady": 0,
       "fallback": {
-        "status": "no_baseline",
+        "status": "no_eligible_events",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       }
@@ -303,7 +303,7 @@
       "usable": 0,
       "consumerReady": 0,
       "fallback": {
-        "status": "no_baseline",
+        "status": "no_eligible_events",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       }
@@ -317,7 +317,7 @@
       "usable": 0,
       "consumerReady": 0,
       "fallback": {
-        "status": "no_baseline",
+        "status": "no_eligible_events",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       }
@@ -331,7 +331,7 @@
       "usable": 0,
       "consumerReady": 0,
       "fallback": {
-        "status": "no_baseline",
+        "status": "no_eligible_events",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       }
@@ -345,7 +345,7 @@
       "usable": 0,
       "consumerReady": 0,
       "fallback": {
-        "status": "no_baseline",
+        "status": "no_eligible_events",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       }
@@ -408,7 +408,10 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "shambhala_official"
+      "strategy": "shambhala_official",
+      "evidenceScheduleURL": "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/6a31e644bdcfc17b69bd2faf_Shambhala%202026%20Set%20Times.pdf",
+      "evidenceScheduleSHA256": "ec584137c006c66f9e6cf61c4a03fe1b030f873e7539ca1cde9545ca2979bc56",
+      "evidenceReviewedManifestSHA256": "932ddea1a3bedf961cfa36d5103fe5f13ff20b30fb12dcf02530c920265c48a0"
     },
     {
       "sourceId": "edc_orlando_official",
@@ -1493,7 +1496,9 @@
     "materialFailureCount": 0,
     "retainedEventCount": 0,
     "baseline": {
-      "status": "not_requested"
+      "status": "valid",
+      "ingestRunId": "D1F3B9B3-E82C-4FC0-9FBC-F56AE21758DA",
+      "ingestRunAt": "2026-07-19T00:36:51Z"
     }
   },
   "executionCoverage": {
