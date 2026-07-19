@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T21:38:35Z",
-  "ingestRunId": "32AA69E6-7DE4-430C-9372-BD8D7751D62E",
-  "ingestRunAt": "2026-07-19T21:38:35Z",
+  "ranAt": "2026-07-19T21:55:34Z",
+  "ingestRunId": "70E4E99D-CF50-4E1E-8B94-35ECFB3520ED",
+  "ingestRunAt": "2026-07-19T21:55:34Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T21:38:23Z",
+      "ticketOfferObservedAt": "2026-07-19T21:55:24Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -283,7 +283,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 05:38:55",
+        "observedAtText": "2026-07-20 05:55:57",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -784,9 +784,9 @@
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf",
+      "evidenceImageSHA256": "204c60fbb60c6cf4792d1fe987a95d04ce476b96f7674670adc281240b6dddf1",
       "evidenceImageETag": "\"6a036a12-277bb\"",
-      "evidenceImageContentType": "image/webp",
+      "evidenceImageContentType": "image/png",
       "evidenceImageLastModified": "Tue, 12 May 2026 17:57:38 GMT",
       "evidenceImageIdentity": "officialETag"
     },
@@ -1781,8 +1781,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "956E2BD4-8562-42CA-995A-C3D62BD38E13",
-      "ingestRunAt": "2026-07-19T21:20:03Z"
+      "ingestRunId": "32AA69E6-7DE4-430C-9372-BD8D7751D62E",
+      "ingestRunAt": "2026-07-19T21:38:35Z"
     }
   },
   "executionCoverage": {
