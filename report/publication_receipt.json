@@ -34,7 +34,7 @@
   "eventCount": 107,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "04eeb73f2b4a20ab2f7cc43eccf21a698ed4e794bd8b9a502a5cc25765381807",
+  "feedSHA256": "4ef61c1ee891f4e4aec0f7ad9dd4869212e576fc5abc64c6a818bbafa5f95a64",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -47,11 +47,11 @@
   "ingestRunAt": "2026-07-19T01:47:48Z",
   "ingestRunId": "F6150E63-D6F9-46BB-B85C-BDE3C28DB4A4",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-19T10:20:16+08:00",
+  "publishedAt": "2026-07-19T10:45:23+08:00",
   "reportPath": "report/ingest_report.json",
   "reportSHA256": "db260fc0aacb1548e2fcb95ddfb357ee149a5265147e971247bbd07d3d1bb6ed",
   "schemaVersion": 1,
-  "sourceCommitSHA": "25527711eafccff3b92fef0feebb81e9866c1b48",
+  "sourceCommitSHA": "135698188ff5dda1a44b14279cbadad34ce48a5b",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -63,5 +63,5 @@
   "ticketPriceReceiptSHA256": "3f75fe82fed71acfaca215575157eaa40700fdf77f496511a61513c74da6d7da",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "39f13893b2f96a9f74835cb614322f8db5b736f08ba96f11c0a982e0273de75f"
+  "ticketReceiptSHA256": "23e7c5c2c541f945150b733052912fe59b81c2297212f2e339e3e4751cb78c35"
 }

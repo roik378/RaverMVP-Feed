@@ -8249,8 +8249,26 @@
             {
               "name": "Ganja White Night",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AB93583D-B621-5913-B107-3E52AF75DDFD",
+                  "title": "Wobble Master",
+                  "label": "Ganja White Night"
+                },
+                {
+                  "id": "598E6C49-814C-5418-A620-F417CAEC2812",
+                  "title": "Dark Heart Surgery",
+                  "label": "Ganja White Night"
+                },
+                {
+                  "id": "5FAD47D6-6A72-50FF-A228-77562FBB2BC8",
+                  "title": "Mr. Wobble",
+                  "label": "Ganja White Night"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8298,8 +8316,26 @@
             {
               "name": "Seven Lions",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
+                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
+                  "title": "Worlds Apart (feat. Kerli)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
+                  "title": "Breaking Me",
+                  "label": "Seven Lions"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -15141,8 +15177,26 @@
             {
               "name": "Seven Lions",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
+                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
+                  "title": "Worlds Apart (feat. Kerli)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
+                  "title": "Breaking Me",
+                  "label": "Seven Lions"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -27987,8 +28041,26 @@
             {
               "name": "GANJA WHITE NIGHT",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AB93583D-B621-5913-B107-3E52AF75DDFD",
+                  "title": "Wobble Master",
+                  "label": "Ganja White Night"
+                },
+                {
+                  "id": "598E6C49-814C-5418-A620-F417CAEC2812",
+                  "title": "Dark Heart Surgery",
+                  "label": "Ganja White Night"
+                },
+                {
+                  "id": "5FAD47D6-6A72-50FF-A228-77562FBB2BC8",
+                  "title": "Mr. Wobble",
+                  "label": "Ganja White Night"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -28277,8 +28349,26 @@
             {
               "name": "SEVEN LIONS",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
+                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
+                  "title": "Worlds Apart (feat. Kerli)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
+                  "title": "Breaking Me",
+                  "label": "Seven Lions"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -32428,7 +32518,8 @@
           "styles": [
             "Techno",
             "Progressive",
-            "House"
+            "House",
+            "Dubstep"
           ],
           "confidence": 0.99,
           "lastRefreshedText": "Sun 00:36",
@@ -32722,8 +32813,26 @@
             {
               "name": "Seven Lions",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
+                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
+                  "title": "Worlds Apart (feat. Kerli)",
+                  "label": "Seven Lions"
+                },
+                {
+                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
+                  "title": "Breaking Me",
+                  "label": "Seven Lions"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
