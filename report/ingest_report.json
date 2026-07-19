@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T15:54:01Z",
-  "ingestRunId": "DF4A0DEF-64D1-40AB-AE7A-78883A26A73A",
-  "ingestRunAt": "2026-07-19T15:54:01Z",
+  "ranAt": "2026-07-19T16:23:28Z",
+  "ingestRunId": "2A11C100-9424-44A9-BB48-2F2566D38673",
+  "ingestRunAt": "2026-07-19T16:23:28Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T15:53:49Z",
+      "ticketOfferObservedAt": "2026-07-19T16:23:17Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [
         {
@@ -569,7 +569,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-19 23:54:21",
+        "observedAtText": "2026-07-20 00:23:49",
         "totalSearchRecords": 17,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -605,7 +605,8 @@
           }
         ]
       },
-      "reviewedEventStyleCount": 2
+      "reviewedEventStyleCount": 2,
+      "reviewedEventLineupCount": 1
     },
     {
       "sourceId": "oil_wechat",
@@ -834,18 +835,19 @@
       "sourceId": "lost_lands_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
-      "consumerReady": 1,
+      "status": "error: no_parsed_events",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 1,
+        "retainedEventCount": 1,
+        "fallbackAgeHours": 0
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "b17ecff696251af2f9214d8312896becf8b7b4fac4f5e5e1cf4d97d4f514486e"
+      "evidenceImageSHA256": "204c60fbb60c6cf4792d1fe987a95d04ce476b96f7674670adc281240b6dddf1"
     },
     {
       "sourceId": "hard_summer_official",
@@ -1190,14 +1192,14 @@
     {
       "cityId": "thornville_us",
       "cityName": "Thornville",
-      "captured": 1,
+      "captured": 0,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1817,7 +1819,7 @@
     }
   ],
   "totals": {
-    "captured": 205,
+    "captured": 204,
     "usable": 137
   },
   "consumerQuality": {
@@ -1833,7 +1835,7 @@
   },
   "referenceDates": {
     "Vancouver": "2026-07-19",
-    "Shenzhen": "2026-07-19",
+    "Shenzhen": "2026-07-20",
     "Miami": "2026-07-19",
     "Las Vegas": "2026-07-19",
     "Daresbury": "2026-07-19",
@@ -1858,7 +1860,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 110
+    "reviewedArtists": 112
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1866,15 +1868,15 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 0,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 1,
+    "materialFailureCount": 1,
+    "retainedEventCount": 1,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "42166342-BC0E-4494-B267-E228A75A548A",
-      "ingestRunAt": "2026-07-19T15:39:50Z"
+      "ingestRunId": "DF4A0DEF-64D1-40AB-AE7A-78883A26A73A",
+      "ingestRunAt": "2026-07-19T15:54:01Z"
     }
   },
   "executionCoverage": {
@@ -1907,8 +1909,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,

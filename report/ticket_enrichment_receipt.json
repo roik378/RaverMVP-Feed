@@ -1027,8 +1027,8 @@
   "eventCountAfter": 101,
   "eventCountBefore": 101,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "db035e116acf73ae0b507ee6eba2ecf57ed7995d81f2012fec9e7477f5769214",
-  "feedSHA256Before": "db035e116acf73ae0b507ee6eba2ecf57ed7995d81f2012fec9e7477f5769214",
+  "feedSHA256After": "4493cbd03086ab70bd15255c1279bc1bb9fd2123e1087c7f61a81ee524fc6f21",
+  "feedSHA256Before": "4493cbd03086ab70bd15255c1279bc1bb9fd2123e1087c7f61a81ee524fc6f21",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1072,7 +1072,7 @@
     "Orlando": "2026-07-19",
     "Phuket": "2026-07-19",
     "Salmo": "2026-07-19",
-    "Shenzhen": "2026-07-19",
+    "Shenzhen": "2026-07-20",
     "Split": "2026-07-19",
     "Thornville": "2026-07-19",
     "Tokyo": "2026-07-20",
