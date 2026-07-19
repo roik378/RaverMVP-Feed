@@ -444,22 +444,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 60,
-          "actionableRatio": 0.9231,
+          "actionable": 61,
+          "actionableRatio": 0.9242,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9231,
-          "total": 65
+          "direct": 61,
+          "ratio": 0.9242,
+          "total": 66
         },
         "raw": {
-          "actionable": 60,
-          "actionableRatio": 0.9231,
+          "actionable": 61,
+          "actionableRatio": 0.9242,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9231,
-          "total": 65
+          "direct": 61,
+          "ratio": 0.9242,
+          "total": 66
         }
       }
     },
@@ -906,22 +906,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 60,
-          "actionableRatio": 0.9231,
+          "actionable": 61,
+          "actionableRatio": 0.9242,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9231,
-          "total": 65
+          "direct": 61,
+          "ratio": 0.9242,
+          "total": 66
         },
         "raw": {
-          "actionable": 60,
-          "actionableRatio": 0.9231,
+          "actionable": 61,
+          "actionableRatio": 0.9242,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 60,
-          "ratio": 0.9231,
-          "total": 65
+          "direct": 61,
+          "ratio": 0.9242,
+          "total": 66
         }
       }
     }
@@ -1024,11 +1024,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 101,
-  "eventCountBefore": 101,
+  "eventCountAfter": 102,
+  "eventCountBefore": 102,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "b4c060c872189d6220e2061e94bdf9334f9e070e568f0034034b77e5cb455d8f",
-  "feedSHA256Before": "b4c060c872189d6220e2061e94bdf9334f9e070e568f0034034b77e5cb455d8f",
+  "feedSHA256After": "66266b23904409f93f78a648156fb56213fa9167b516ad99b2abc9b29102b3f5",
+  "feedSHA256Before": "66266b23904409f93f78a648156fb56213fa9167b516ad99b2abc9b29102b3f5",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [

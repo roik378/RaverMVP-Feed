@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T19:47:56Z",
-  "ingestRunId": "171705C7-E81D-4AA0-8C1B-0A8ED1AC3B92",
-  "ingestRunAt": "2026-07-19T19:47:56Z",
+  "ranAt": "2026-07-19T20:12:39Z",
+  "ingestRunId": "CDE93629-2EFD-4E7A-B058-0A6227A3E093",
+  "ingestRunAt": "2026-07-19T20:12:39Z",
   "mode": "full",
   "sources": [
     {
@@ -11,7 +11,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 13,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T19:47:43Z",
+      "ticketOfferObservedAt": "2026-07-19T20:12:26Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [
         {
@@ -317,7 +317,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 03:48:17",
+        "observedAtText": "2026-07-20 04:12:59",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -858,14 +858,15 @@
       "sourceId": "arc_music_festival_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
-      "consumerReady": 1,
+      "status": "error: no_parsed_events",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 1,
+        "retainedEventCount": 1,
+        "fallbackAgeHours": 0
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -983,12 +984,12 @@
       "cityName": "Vancouver",
       "captured": 162,
       "usable": 101,
-      "consumerReady": 65,
-      "consumerRejected": 36,
-      "consumerReadyRate": 0.644,
+      "consumerReady": 66,
+      "consumerRejected": 35,
+      "consumerReadyRate": 0.653,
       "rejectionReasons": {
-        "past_event": 20,
         "missing_raver_evidence": 10,
+        "past_event": 19,
         "placeholder_title": 4,
         "reviewed_non_raver_title": 1,
         "reviewed_event_fact_correction_drift": 1
@@ -1212,14 +1213,14 @@
     {
       "cityId": "chicago_us",
       "cityName": "Chicago",
-      "captured": 1,
+      "captured": 0,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1794,15 +1795,15 @@
     }
   ],
   "totals": {
-    "captured": 205,
+    "captured": 204,
     "usable": 137
   },
   "consumerQuality": {
-    "ready": 101,
-    "rejected": 36,
+    "ready": 102,
+    "rejected": 35,
     "rejectionReasons": {
-      "past_event": 20,
       "missing_raver_evidence": 10,
+      "past_event": 19,
       "placeholder_title": 4,
       "reviewed_non_raver_title": 1,
       "reviewed_event_fact_correction_drift": 1
@@ -1843,15 +1844,15 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 0,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 1,
+    "materialFailureCount": 1,
+    "retainedEventCount": 1,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "DF4A0DEF-64D1-40AB-AE7A-78883A26A73A",
-      "ingestRunAt": "2026-07-19T15:54:01Z"
+      "ingestRunId": "171705C7-E81D-4AA0-8C1B-0A8ED1AC3B92",
+      "ingestRunAt": "2026-07-19T19:47:56Z"
     }
   },
   "executionCoverage": {
@@ -1884,8 +1885,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
