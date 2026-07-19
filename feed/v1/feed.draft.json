@@ -2389,7 +2389,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2451,7 +2451,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2499,7 +2499,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2561,7 +2561,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://checkout.admitone.com/6a497986bf7d4c91bb55137b",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2623,7 +2623,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a1abf7d4c91bb551381",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2685,7 +2685,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a884df4217fda772d26",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3039,7 +3039,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3130,7 +3130,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3180,7 +3180,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -3237,7 +3237,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -3294,7 +3294,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3346,7 +3346,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/feedmeredroom/",
             "collectorKind": "showpassNextData"
           }
@@ -3396,7 +3396,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3447,7 +3447,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T02:13:13Z",
+            "capturedAt": "2026-07-19T03:30:00Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -4908,8 +4908,8 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "A6DF5FB5-8792-57DF-91EA-7B3BDF3F6227",
-                  "title": "Bigger Than Techno",
+                  "id": "818C3CF8-1241-53A6-A03A-9991EA99FC23",
+                  "title": "Stiller Traum",
                   "label": "Lilly Palmer"
                 },
                 {
@@ -4918,8 +4918,8 @@
                   "label": "Lilly Palmer"
                 },
                 {
-                  "id": "D8827B61-E2EC-5623-9394-1E4B8CB3684B",
-                  "title": "Party Don’t Stop (feat. Ad-Apt)",
+                  "id": "7B1DEA77-CB09-538D-BD3E-D67761C192E0",
+                  "title": "Bigger Than Techno",
                   "label": "Lilly Palmer"
                 }
               ],
@@ -5886,8 +5886,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "F9F9DFBF-71CE-53D3-A22A-CA1EC38FDD2E",
-                  "title": "Mind Still (feat. blythe)",
+                  "id": "3A0F39B0-5D9F-5471-A28C-587A478BC261",
+                  "title": "Let Me Be In Your Arms",
+                  "label": "Sonny Fodera"
+                },
+                {
+                  "id": "109C3482-A8A4-5C3F-9F30-76EB42AC0E50",
+                  "title": "My Loving",
+                  "label": "Sonny Fodera"
+                },
+                {
+                  "id": "CAC10C73-43E0-5DB4-9EFC-CD0AAA964B27",
+                  "title": "Think About Us",
                   "label": "Sonny Fodera"
                 }
               ],
@@ -8254,18 +8264,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "AB93583D-B621-5913-B107-3E52AF75DDFD",
-                  "title": "Wobble Master",
+                  "id": "94F4C372-C21A-5D7D-A195-87051156CC38",
+                  "title": "Jungle Juice",
                   "label": "Ganja White Night"
                 },
                 {
-                  "id": "598E6C49-814C-5418-A620-F417CAEC2812",
-                  "title": "Dark Heart Surgery",
+                  "id": "AE4A3D58-2757-57D0-9C33-7071F3D1511E",
+                  "title": "Badman",
                   "label": "Ganja White Night"
                 },
                 {
-                  "id": "5FAD47D6-6A72-50FF-A228-77562FBB2BC8",
-                  "title": "Mr. Wobble",
+                  "id": "90AE4D34-E40A-5EF1-8F94-49011DC73C15",
+                  "title": "Mask Off",
                   "label": "Ganja White Night"
                 }
               ],
@@ -8321,18 +8331,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
-                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "id": "511346BC-44A3-53A3-8F4D-CCF0580FD131",
+                  "title": "Not Even Love",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
-                  "title": "Worlds Apart (feat. Kerli)",
+                  "id": "5FD7588F-BF08-57CE-B5CF-2A15E703ED51",
+                  "title": "Hurricane",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
-                  "title": "Breaking Me",
+                  "id": "AD09FEE6-634D-5B68-A5EE-CACA2F7FFABF",
+                  "title": "Strangers",
                   "label": "Seven Lions"
                 }
               ],
@@ -12738,18 +12748,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "9A3C0E93-D1A6-5F5D-9E10-33157C457228",
+                  "id": "CB6F6D02-7FC2-520E-8B19-07CCF0B333BB",
+                  "title": "whatever you do",
+                  "label": "Amelie Lens"
+                },
+                {
+                  "id": "AD3982D3-1735-5C29-BB01-84A34C561B5F",
                   "title": "Falling For You",
                   "label": "Amelie Lens"
                 },
                 {
-                  "id": "26FBD2F1-677E-57FF-8401-C342308828E0",
+                  "id": "E91564B5-1EBF-5CF5-A9E6-A1A25144226E",
                   "title": "Young Forever",
-                  "label": "Amelie Lens"
-                },
-                {
-                  "id": "7049FC6E-C7A6-5D3E-A30D-B6596B8D60A2",
-                  "title": "Serenity",
                   "label": "Amelie Lens"
                 }
               ],
@@ -15182,18 +15192,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
-                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "id": "511346BC-44A3-53A3-8F4D-CCF0580FD131",
+                  "title": "Not Even Love",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
-                  "title": "Worlds Apart (feat. Kerli)",
+                  "id": "5FD7588F-BF08-57CE-B5CF-2A15E703ED51",
+                  "title": "Hurricane",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
-                  "title": "Breaking Me",
+                  "id": "AD09FEE6-634D-5B68-A5EE-CACA2F7FFABF",
+                  "title": "Strangers",
                   "label": "Seven Lions"
                 }
               ],
@@ -21153,8 +21163,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "F9F9DFBF-71CE-53D3-A22A-CA1EC38FDD2E",
-                  "title": "Mind Still (feat. blythe)",
+                  "id": "3A0F39B0-5D9F-5471-A28C-587A478BC261",
+                  "title": "Let Me Be In Your Arms",
+                  "label": "Sonny Fodera"
+                },
+                {
+                  "id": "109C3482-A8A4-5C3F-9F30-76EB42AC0E50",
+                  "title": "My Loving",
+                  "label": "Sonny Fodera"
+                },
+                {
+                  "id": "CAC10C73-43E0-5DB4-9EFC-CD0AAA964B27",
+                  "title": "Think About Us",
                   "label": "Sonny Fodera"
                 }
               ],
@@ -28046,18 +28066,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "AB93583D-B621-5913-B107-3E52AF75DDFD",
-                  "title": "Wobble Master",
+                  "id": "94F4C372-C21A-5D7D-A195-87051156CC38",
+                  "title": "Jungle Juice",
                   "label": "Ganja White Night"
                 },
                 {
-                  "id": "598E6C49-814C-5418-A620-F417CAEC2812",
-                  "title": "Dark Heart Surgery",
+                  "id": "AE4A3D58-2757-57D0-9C33-7071F3D1511E",
+                  "title": "Badman",
                   "label": "Ganja White Night"
                 },
                 {
-                  "id": "5FAD47D6-6A72-50FF-A228-77562FBB2BC8",
-                  "title": "Mr. Wobble",
+                  "id": "90AE4D34-E40A-5EF1-8F94-49011DC73C15",
+                  "title": "Mask Off",
                   "label": "Ganja White Night"
                 }
               ],
@@ -28354,18 +28374,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
-                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "id": "511346BC-44A3-53A3-8F4D-CCF0580FD131",
+                  "title": "Not Even Love",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
-                  "title": "Worlds Apart (feat. Kerli)",
+                  "id": "5FD7588F-BF08-57CE-B5CF-2A15E703ED51",
+                  "title": "Hurricane",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
-                  "title": "Breaking Me",
+                  "id": "AD09FEE6-634D-5B68-A5EE-CACA2F7FFABF",
+                  "title": "Strangers",
                   "label": "Seven Lions"
                 }
               ],
@@ -29482,18 +29502,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "9A3C0E93-D1A6-5F5D-9E10-33157C457228",
+                  "id": "CB6F6D02-7FC2-520E-8B19-07CCF0B333BB",
+                  "title": "whatever you do",
+                  "label": "Amelie Lens"
+                },
+                {
+                  "id": "AD3982D3-1735-5C29-BB01-84A34C561B5F",
                   "title": "Falling For You",
                   "label": "Amelie Lens"
                 },
                 {
-                  "id": "26FBD2F1-677E-57FF-8401-C342308828E0",
+                  "id": "E91564B5-1EBF-5CF5-A9E6-A1A25144226E",
                   "title": "Young Forever",
-                  "label": "Amelie Lens"
-                },
-                {
-                  "id": "7049FC6E-C7A6-5D3E-A30D-B6596B8D60A2",
-                  "title": "Serenity",
                   "label": "Amelie Lens"
                 }
               ],
@@ -32434,8 +32454,8 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "A6DF5FB5-8792-57DF-91EA-7B3BDF3F6227",
-                  "title": "Bigger Than Techno",
+                  "id": "818C3CF8-1241-53A6-A03A-9991EA99FC23",
+                  "title": "Stiller Traum",
                   "label": "Lilly Palmer"
                 },
                 {
@@ -32444,8 +32464,8 @@
                   "label": "Lilly Palmer"
                 },
                 {
-                  "id": "D8827B61-E2EC-5623-9394-1E4B8CB3684B",
-                  "title": "Party Don’t Stop (feat. Ad-Apt)",
+                  "id": "7B1DEA77-CB09-538D-BD3E-D67761C192E0",
+                  "title": "Bigger Than Techno",
                   "label": "Lilly Palmer"
                 }
               ],
@@ -32818,18 +32838,18 @@
               ],
               "representativeTracks": [
                 {
-                  "id": "F9F58B9D-61D4-5933-BE18-F2B9903F3E5D",
-                  "title": "Don’t Leave (feat. Ellie Goulding)",
+                  "id": "511346BC-44A3-53A3-8F4D-CCF0580FD131",
+                  "title": "Not Even Love",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "6621313C-D89F-58C6-85FF-D1F386713F4D",
-                  "title": "Worlds Apart (feat. Kerli)",
+                  "id": "5FD7588F-BF08-57CE-B5CF-2A15E703ED51",
+                  "title": "Hurricane",
                   "label": "Seven Lions"
                 },
                 {
-                  "id": "8649F208-C2AF-5795-876B-785444DD9C0A",
-                  "title": "Breaking Me",
+                  "id": "AD09FEE6-634D-5B68-A5EE-CACA2F7FFABF",
+                  "title": "Strangers",
                   "label": "Seven Lions"
                 }
               ],
