@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T20:37:07Z",
-  "ingestRunId": "E3920BEE-FEEC-441F-9CDA-EA20B862321F",
-  "ingestRunAt": "2026-07-19T20:37:07Z",
+  "ranAt": "2026-07-19T20:59:32Z",
+  "ingestRunId": "24650364-C9C6-4F31-BF84-D03A42C58677",
+  "ingestRunAt": "2026-07-19T20:59:32Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T20:36:56Z",
+      "ticketOfferObservedAt": "2026-07-19T20:59:21Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -282,7 +282,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 04:37:27",
+        "observedAtText": "2026-07-20 04:59:52",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -317,8 +317,8 @@
           }
         ]
       },
-      "reviewedEventStyleCount": 1,
-      "reviewedEventLineupCount": 1,
+      "reviewedEventStyleCount": 2,
+      "reviewedEventLineupCount": 2,
       "inventoryReviewCandidates": [
         {
           "reviewKey": "yuyuan|2072592095781281794",
@@ -1780,8 +1780,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "21EF8355-6A61-4C81-88C5-0EBEF6C2D4EA",
-      "ingestRunAt": "2026-07-19T20:21:00Z"
+      "ingestRunId": "E3920BEE-FEEC-441F-9CDA-EA20B862321F",
+      "ingestRunAt": "2026-07-19T20:37:07Z"
     }
   },
   "executionCoverage": {
