@@ -1027,8 +1027,8 @@
   "eventCountAfter": 101,
   "eventCountBefore": 101,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "abc580ed90d98d47c875b1d5c088c3b4ffcbb4664189011ca5186871c734a7b7",
-  "feedSHA256Before": "abc580ed90d98d47c875b1d5c088c3b4ffcbb4664189011ca5186871c734a7b7",
+  "feedSHA256After": "b4c060c872189d6220e2061e94bdf9334f9e070e568f0034034b77e5cb455d8f",
+  "feedSHA256Before": "b4c060c872189d6220e2061e94bdf9334f9e070e568f0034034b77e5cb455d8f",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1068,7 +1068,7 @@
     "Mexico City": "2026-07-19",
     "Miami": "2026-07-19",
     "Montreal": "2026-07-19",
-    "Mumbai": "2026-07-19",
+    "Mumbai": "2026-07-20",
     "Orlando": "2026-07-19",
     "Phuket": "2026-07-20",
     "Salmo": "2026-07-19",

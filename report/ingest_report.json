@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T17:54:30Z",
-  "ingestRunId": "E3A6DA4B-74BD-47E1-BDE0-FB839354AFA5",
-  "ingestRunAt": "2026-07-19T17:54:30Z",
+  "ranAt": "2026-07-19T19:47:56Z",
+  "ingestRunId": "171705C7-E81D-4AA0-8C1B-0A8ED1AC3B92",
+  "ingestRunAt": "2026-07-19T19:47:56Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T17:54:17Z",
+      "ticketOfferObservedAt": "2026-07-19T19:47:43Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [
         {
@@ -314,6 +314,46 @@
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
       "reviewedEventInventoryCount": 2,
+      "inventoryState": {
+        "schemaVersion": 1,
+        "status": "current",
+        "observedAtText": "2026-07-20 03:48:17",
+        "totalSearchRecords": 16,
+        "acceptedReviewedRecordCount": 10,
+        "venues": [
+          {
+            "shopID": "1803701116047175681",
+            "shopName": "OIL CLUB",
+            "venue": "OIL Club",
+            "status": "current",
+            "observedRecordCount": 6,
+            "currentEventCount": 6,
+            "activityIDs": [
+              "2072261295009390593",
+              "2072262191009193986",
+              "2072265909960138754",
+              "2072583967958327298",
+              "2072587211161952258",
+              "2072592095781281794"
+            ],
+            "activityFingerprintSHA256": "165740aebc44755df40f7bd07abe1ed0d6ab9b670cb6f62ebb8b3b36a700373c"
+          },
+          {
+            "shopID": "1889498806778068993",
+            "shopName": "AM:06 SHENZHEN",
+            "venue": "AM:06",
+            "status": "current",
+            "observedRecordCount": 1,
+            "currentEventCount": 1,
+            "activityIDs": [
+              "2078828970966167553"
+            ],
+            "activityFingerprintSHA256": "9edbb2ebb979c563d5e4307c689778a97a8d376a2cbec276e8ef211b3fcd4f1b"
+          }
+        ]
+      },
+      "reviewedEventStyleCount": 1,
+      "reviewedEventLineupCount": 1,
       "inventoryReviewCandidates": [
         {
           "reviewKey": "yuyuan|2072592095781281794",
@@ -392,11 +432,13 @@
           "lineupNames": [
             "Andrew Moore"
           ],
-          "styles": [],
+          "styles": [
+            "Techno"
+          ],
           "priceDisplayText": "¥50/起",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "needs_wechat_capture",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072583967958327298",
           "miniProgramSearchText": "【Mainroom】柏林星期四：Andrew Moore @OIL Club 深圳",
@@ -406,7 +448,6 @@
             "query": "activityId=2072583967958327298&isShare=true"
           },
           "requiredActions": [
-            "Capture explicit genre or event-theme evidence",
             "Capture current buyable GA tiers and availability"
           ]
         },
@@ -421,10 +462,12 @@
           "endDateText": "2026-07-26",
           "timeText": "23:00",
           "lineupNames": [
-            "RAM & RUBEN DE RONDE"
+            "RAM",
+            "Ruben de Ronde"
           ],
           "styles": [
-            "Trance"
+            "Trance",
+            "Progressive"
           ],
           "priceDisplayText": "¥188/起",
           "priceEvidenceStatus": "display_only",
@@ -535,47 +578,7 @@
             "Capture current buyable GA tiers and availability"
           ]
         }
-      ],
-      "inventoryState": {
-        "schemaVersion": 1,
-        "status": "current",
-        "observedAtText": "2026-07-20 01:54:50",
-        "totalSearchRecords": 17,
-        "acceptedReviewedRecordCount": 11,
-        "venues": [
-          {
-            "shopID": "1803701116047175681",
-            "shopName": "OIL CLUB",
-            "venue": "OIL Club",
-            "status": "current",
-            "observedRecordCount": 7,
-            "currentEventCount": 6,
-            "activityIDs": [
-              "2072261295009390593",
-              "2072262191009193986",
-              "2072265909960138754",
-              "2072583967958327298",
-              "2072587211161952258",
-              "2072592095781281794"
-            ],
-            "activityFingerprintSHA256": "165740aebc44755df40f7bd07abe1ed0d6ab9b670cb6f62ebb8b3b36a700373c"
-          },
-          {
-            "shopID": "1889498806778068993",
-            "shopName": "AM:06 SHENZHEN",
-            "venue": "AM:06",
-            "status": "current",
-            "observedRecordCount": 1,
-            "currentEventCount": 1,
-            "activityIDs": [
-              "2078828970966167553"
-            ],
-            "activityFingerprintSHA256": "9edbb2ebb979c563d5e4307c689778a97a8d376a2cbec276e8ef211b3fcd4f1b"
-          }
-        ]
-      },
-      "reviewedEventStyleCount": 1,
-      "reviewedEventLineupCount": 1
+      ]
     },
     {
       "sourceId": "oil_wechat",
@@ -804,19 +807,22 @@
       "sourceId": "lost_lands_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "error: no_parsed_events",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0,
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "fallback": {
-        "status": "retained",
-        "eligibleEventCount": 1,
-        "retainedEventCount": 1,
-        "fallbackAgeHours": 2
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf"
+      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf",
+      "evidenceImageETag": "\"6a036a12-277bb\"",
+      "evidenceImageContentType": "image/webp",
+      "evidenceImageLastModified": "Tue, 12 May 2026 17:57:38 GMT",
+      "evidenceImageIdentity": "officialETag"
     },
     {
       "sourceId": "hard_summer_official",
@@ -1161,14 +1167,14 @@
     {
       "cityId": "thornville_us",
       "cityName": "Thornville",
-      "captured": 0,
+      "captured": 1,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 1,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1788,7 +1794,7 @@
     }
   ],
   "totals": {
-    "captured": 204,
+    "captured": 205,
     "usable": 137
   },
   "consumerQuality": {
@@ -1819,7 +1825,7 @@
     "Los Angeles": "2026-07-19",
     "Long Beach": "2026-07-19",
     "Chicago": "2026-07-19",
-    "Mumbai": "2026-07-19",
+    "Mumbai": "2026-07-20",
     "Jakarta": "2026-07-20",
     "Phuket": "2026-07-20",
     "Alpe d'Huez": "2026-07-19",
@@ -1837,11 +1843,11 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "degraded",
+    "status": "healthy",
     "ttlHours": 120,
-    "failedSourceCount": 1,
-    "materialFailureCount": 1,
-    "retainedEventCount": 1,
+    "failedSourceCount": 0,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
       "ingestRunId": "DF4A0DEF-64D1-40AB-AE7A-78883A26A73A",
@@ -1878,8 +1884,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish with retained source disclosure.",
-    "sourceResilienceStatus": "degraded"
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
