@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T11:59:24Z",
-  "ingestRunId": "E8DCC356-A52F-4D80-AA71-CA4567A8B062",
-  "ingestRunAt": "2026-07-19T11:59:24Z",
+  "ranAt": "2026-07-19T13:34:39Z",
+  "ingestRunId": "24EBE30A-7DD4-49F1-BC31-0771F92E6D7A",
+  "ingestRunAt": "2026-07-19T13:34:39Z",
   "mode": "full",
   "sources": [
     {
@@ -198,8 +198,9 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T11:59:15Z",
+      "ticketOfferObservedAt": "2026-07-19T13:34:28Z",
       "ticketOfferCount": 2,
+      "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
       "evidenceImageSHA256": "b2d4577109d7388d5cebc5a0b2770d505e12fb67ac598d465fca8696739f5984",
@@ -238,9 +239,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 6,
-      "usable": 6,
-      "consumerReady": 6,
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -268,9 +269,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 7,
-      "usable": 7,
-      "consumerReady": 7,
+      "captured": 8,
+      "usable": 8,
+      "consumerReady": 8,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -375,6 +376,38 @@
           ]
         },
         {
+          "reviewKey": "yuyuan|2078828970966167553",
+          "reviewState": "ready_for_operator",
+          "activityID": "2078828970966167553",
+          "title": "RAM & RUBEN DE RONDE",
+          "venue": "AM:06",
+          "city": "Shenzhen",
+          "dateText": "2026-07-25",
+          "endDateText": "2026-07-26",
+          "timeText": "23:00",
+          "lineupNames": [
+            "RAM & RUBEN DE RONDE"
+          ],
+          "styles": [
+            "Trance"
+          ],
+          "priceDisplayText": "¥188/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "observed",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078828970966167553",
+          "miniProgramSearchText": "7/25 AM06 X RAM & RUBEN DE RONDE : TRANCE NIGHT 出神之旅",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2078828970966167553&isShare=true"
+          },
+          "requiredActions": [
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
           "reviewKey": "yuyuan|2072262191009193986",
           "reviewState": "ready_for_operator",
           "activityID": "2072262191009193986",
@@ -470,9 +503,9 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-19 19:59:46",
-        "totalSearchRecords": 15,
-        "acceptedReviewedRecordCount": 9,
+        "observedAtText": "2026-07-19 21:34:59",
+        "totalSearchRecords": 16,
+        "acceptedReviewedRecordCount": 10,
         "venues": [
           {
             "shopID": "1803701116047175681",
@@ -495,11 +528,13 @@
             "shopID": "1889498806778068993",
             "shopName": "AM:06 SHENZHEN",
             "venue": "AM:06",
-            "status": "current_empty",
-            "observedRecordCount": 0,
-            "currentEventCount": 0,
-            "activityIDs": [],
-            "activityFingerprintSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+            "status": "current",
+            "observedRecordCount": 1,
+            "currentEventCount": 1,
+            "activityIDs": [
+              "2078828970966167553"
+            ],
+            "activityFingerprintSHA256": "9edbb2ebb979c563d5e4307c689778a97a8d376a2cbec276e8ef211b3fcd4f1b"
           }
         ]
       },
@@ -923,9 +958,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 18,
-      "usable": 12,
-      "consumerReady": 12,
+      "captured": 20,
+      "usable": 14,
+      "consumerReady": 14,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1678,12 +1713,46 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
+  "operatorInventoryReviewCandidates": [
+    {
+      "reviewKey": "yuyuan|2078828970966167553",
+      "reviewState": "ready_for_operator",
+      "activityID": "2078828970966167553",
+      "title": "RAM & RUBEN DE RONDE",
+      "venue": "AM:06",
+      "city": "Shenzhen",
+      "dateText": "2026-07-25",
+      "endDateText": "2026-07-26",
+      "timeText": "23:00",
+      "lineupNames": [
+        "RAM & RUBEN DE RONDE"
+      ],
+      "styles": [
+        "Trance"
+      ],
+      "priceDisplayText": "¥188/起",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "observed",
+      "styleEvidenceStatus": "observed",
+      "ticketTierEvidenceStatus": "needs_wechat_capture",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078828970966167553",
+      "miniProgramSearchText": "7/25 AM06 X RAM & RUBEN DE RONDE : TRANCE NIGHT 出神之旅",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2078828970966167553&isShare=true"
+      },
+      "requiredActions": [
+        "Capture current buyable GA tiers and availability"
+      ]
+    }
+  ],
   "totals": {
-    "captured": 203,
-    "usable": 136
+    "captured": 205,
+    "usable": 138
   },
   "consumerQuality": {
-    "ready": 100,
+    "ready": 102,
     "rejected": 36,
     "rejectionReasons": {
       "past_event": 20,
@@ -1735,8 +1804,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "9B8736FE-6464-4F80-A961-A151CDF2923F",
-      "ingestRunAt": "2026-07-19T10:41:56Z"
+      "ingestRunId": "E8DCC356-A52F-4D80-AA71-CA4567A8B062",
+      "ingestRunAt": "2026-07-19T11:59:24Z"
     }
   },
   "executionCoverage": {
