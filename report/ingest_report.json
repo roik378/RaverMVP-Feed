@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T17:03:17Z",
-  "ingestRunId": "6098B6B7-E454-47D7-A632-8BC7750E62A9",
-  "ingestRunAt": "2026-07-19T17:03:17Z",
+  "ranAt": "2026-07-19T17:25:17Z",
+  "ingestRunId": "DCDE3419-ABD3-44AF-95D7-C385D982B3B5",
+  "ingestRunAt": "2026-07-19T17:25:17Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T17:03:05Z",
+      "ticketOfferObservedAt": "2026-07-19T17:25:04Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [
         {
@@ -539,7 +539,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 01:03:38",
+        "observedAtText": "2026-07-20 01:25:37",
         "totalSearchRecords": 17,
         "acceptedReviewedRecordCount": 10,
         "venues": [
