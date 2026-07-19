@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T10:09:54Z",
-  "ingestRunId": "37A53EC0-D925-4B65-B701-37F4C237EB01",
-  "ingestRunAt": "2026-07-19T10:09:54Z",
+  "ranAt": "2026-07-19T10:41:56Z",
+  "ingestRunId": "9B8736FE-6464-4F80-A961-A151CDF2923F",
+  "ingestRunAt": "2026-07-19T10:41:56Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T10:09:45Z",
+      "ticketOfferObservedAt": "2026-07-19T10:41:46Z",
       "ticketOfferCount": 2,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -281,7 +281,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-19 18:10:16",
+        "observedAtText": "2026-07-19 18:42:17",
         "totalSearchRecords": 15,
         "acceptedReviewedRecordCount": 9,
         "venues": [
@@ -1531,7 +1531,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 107
+    "reviewedArtists": 108
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1546,8 +1546,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "64E81E78-17DB-4005-9C31-7B4A378034B3",
-      "ingestRunAt": "2026-07-18T19:55:20Z"
+      "ingestRunId": "37A53EC0-D925-4B65-B701-37F4C237EB01",
+      "ingestRunAt": "2026-07-19T10:09:54Z"
     }
   },
   "executionCoverage": {
