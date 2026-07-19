@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T22:21:20Z",
-  "ingestRunId": "BCA959E4-37E9-448B-80A2-FF0F8DEC34A7",
-  "ingestRunAt": "2026-07-19T22:21:20Z",
+  "ranAt": "2026-07-19T22:43:27Z",
+  "ingestRunId": "2CBCCE98-700F-4F7E-A085-E8DC1D4C7494",
+  "ingestRunAt": "2026-07-19T22:43:27Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T22:21:07Z",
+      "ticketOfferObservedAt": "2026-07-19T22:43:14Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -283,7 +283,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 06:21:43",
+        "observedAtText": "2026-07-20 06:43:51",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -1768,7 +1768,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 116
+    "reviewedArtists": 118
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1783,8 +1783,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "70E4E99D-CF50-4E1E-8B94-35ECFB3520ED",
-      "ingestRunAt": "2026-07-19T21:55:34Z"
+      "ingestRunId": "BCA959E4-37E9-448B-80A2-FF0F8DEC34A7",
+      "ingestRunAt": "2026-07-19T22:21:20Z"
     }
   },
   "executionCoverage": {
