@@ -364,22 +364,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 10,
+          "assistedRatio": 0.8333,
           "direct": 5,
-          "ratio": 0.3846,
-          "total": 13
+          "ratio": 0.4167,
+          "total": 12
         },
         "raw": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 10,
+          "assistedRatio": 0.8333,
           "direct": 5,
-          "ratio": 0.3846,
-          "total": 13
+          "ratio": 0.4167,
+          "total": 12
         }
       },
       "Split": {
@@ -444,22 +444,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9155,
+          "actionable": 60,
+          "actionableRatio": 0.9231,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9155,
-          "total": 71
+          "direct": 60,
+          "ratio": 0.9231,
+          "total": 65
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9155,
+          "actionable": 60,
+          "actionableRatio": 0.9231,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9155,
-          "total": 71
+          "direct": 60,
+          "ratio": 0.9231,
+          "total": 65
         }
       }
     },
@@ -826,22 +826,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 10,
+          "assistedRatio": 0.8333,
           "direct": 5,
-          "ratio": 0.3846,
-          "total": 13
+          "ratio": 0.4167,
+          "total": 12
         },
         "raw": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 10,
+          "assistedRatio": 0.8333,
           "direct": 5,
-          "ratio": 0.3846,
-          "total": 13
+          "ratio": 0.4167,
+          "total": 12
         }
       },
       "Split": {
@@ -906,22 +906,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9155,
+          "actionable": 60,
+          "actionableRatio": 0.9231,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9155,
-          "total": 71
+          "direct": 60,
+          "ratio": 0.9231,
+          "total": 65
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9155,
+          "actionable": 60,
+          "actionableRatio": 0.9231,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9155,
-          "total": 71
+          "direct": 60,
+          "ratio": 0.9231,
+          "total": 65
         }
       }
     }
@@ -998,21 +998,16 @@
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     },
     {
-      "action": "unchanged",
+      "action": "stale_skipped",
       "canonicalVenue": "Village Studios",
       "city": "Vancouver",
       "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
       "dateText": "Jul 18",
       "evidenceURLText": "https://www.villagestudios.life/events/anthonyattalla",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "E3FD508E-13E6-545F-9061-B3048AA11311"
-      ],
-      "matchedEventTitles": [
-        "NITESHIFT pres. ANTHONY ATTALLA"
-      ],
-      "newTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
-      "oldTicketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~",
+      "matchCount": 0,
+      "matchedEventIDs": [],
+      "matchedEventTitles": [],
+      "reason": "reviewed event is no longer present after its consumer date",
       "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
     },
     {
@@ -1034,11 +1029,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 107,
-  "eventCountBefore": 107,
+  "eventCountAfter": 100,
+  "eventCountBefore": 100,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "295005e2f4e755d1c57ade3edb80dd005d452eeb48843c5b5c77d6f914d269fb",
-  "feedSHA256Before": "295005e2f4e755d1c57ade3edb80dd005d452eeb48843c5b5c77d6f914d269fb",
+  "feedSHA256After": "7d5f476c922751005149b33f6c67e21e16d50ac9de45afa4c7a90dbcdc3b4f2b",
+  "feedSHA256Before": "7d5f476c922751005149b33f6c67e21e16d50ac9de45afa4c7a90dbcdc3b4f2b",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1067,30 +1062,30 @@
     "Alpe d'Huez": "2026-07-19",
     "Arnhem": "2026-07-19",
     "Boom": "2026-07-19",
-    "Chicago": "2026-07-18",
+    "Chicago": "2026-07-19",
     "Cluj-Napoca": "2026-07-19",
     "Daresbury": "2026-07-19",
     "Hilvarenbeek": "2026-07-19",
     "Jakarta": "2026-07-19",
-    "Las Vegas": "2026-07-18",
-    "Long Beach": "2026-07-18",
-    "Los Angeles": "2026-07-18",
-    "Mexico City": "2026-07-18",
-    "Miami": "2026-07-18",
-    "Montreal": "2026-07-18",
+    "Las Vegas": "2026-07-19",
+    "Long Beach": "2026-07-19",
+    "Los Angeles": "2026-07-19",
+    "Mexico City": "2026-07-19",
+    "Miami": "2026-07-19",
+    "Montreal": "2026-07-19",
     "Mumbai": "2026-07-19",
-    "Orlando": "2026-07-18",
+    "Orlando": "2026-07-19",
     "Phuket": "2026-07-19",
-    "Salmo": "2026-07-18",
+    "Salmo": "2026-07-19",
     "Shenzhen": "2026-07-19",
     "Split": "2026-07-19",
-    "Thornville": "2026-07-18",
+    "Thornville": "2026-07-19",
     "Tokyo": "2026-07-19",
-    "Vancouver": "2026-07-18"
+    "Vancouver": "2026-07-19"
   },
   "schemaVersion": 1,
-  "staleSkippedCount": 4,
+  "staleSkippedCount": 5,
   "status": "applied",
-  "unchangedCount": 3,
+  "unchangedCount": 2,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }

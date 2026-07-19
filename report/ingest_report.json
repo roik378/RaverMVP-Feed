@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T01:47:48Z",
-  "ingestRunId": "F6150E63-D6F9-46BB-B85C-BDE3C28DB4A4",
-  "ingestRunAt": "2026-07-19T01:47:48Z",
+  "ranAt": "2026-07-19T10:09:54Z",
+  "ingestRunId": "37A53EC0-D925-4B65-B701-37F4C237EB01",
+  "ingestRunAt": "2026-07-19T10:09:54Z",
   "mode": "full",
   "sources": [
     {
@@ -11,7 +11,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 13,
+      "consumerReady": 12,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -40,9 +40,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 21,
-      "usable": 21,
-      "consumerReady": 21,
+      "captured": 20,
+      "usable": 20,
+      "consumerReady": 20,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -57,7 +57,7 @@
       "status": "ok",
       "captured": 80,
       "usable": 80,
-      "consumerReady": 32,
+      "consumerReady": 30,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -65,7 +65,7 @@
       },
       "strategy": "squarespace_enriched_snippets",
       "exactReviewedArtistTitleBillingCount": 1,
-      "reviewedEventFactCorrectionCount": 1,
+      "reviewedEventFactCorrectionDriftCount": 1,
       "reviewedEventLineupCount": 1
     },
     {
@@ -75,7 +75,7 @@
       "status": "ok",
       "captured": 7,
       "usable": 7,
-      "consumerReady": 6,
+      "consumerReady": 5,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -118,9 +118,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 7,
-      "usable": 7,
-      "consumerReady": 7,
+      "captured": 6,
+      "usable": 6,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -198,8 +198,8 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-18T13:46:42Z",
-      "ticketOfferCount": 3,
+      "ticketOfferObservedAt": "2026-07-19T10:09:45Z",
+      "ticketOfferCount": 2,
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
       "evidenceImageSHA256": "b2d4577109d7388d5cebc5a0b2770d505e12fb67ac598d465fca8696739f5984",
@@ -268,16 +268,52 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 9,
-      "usable": 9,
-      "consumerReady": 9,
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
-      "reviewedEventInventoryCount": 2,
+      "reviewedEventInventoryCount": 1,
+      "inventoryState": {
+        "schemaVersion": 1,
+        "status": "current",
+        "observedAtText": "2026-07-19 18:10:16",
+        "totalSearchRecords": 15,
+        "acceptedReviewedRecordCount": 9,
+        "venues": [
+          {
+            "shopID": "1803701116047175681",
+            "shopName": "OIL CLUB",
+            "venue": "OIL Club",
+            "status": "current",
+            "observedRecordCount": 7,
+            "currentEventCount": 6,
+            "activityIDs": [
+              "2072260451555827713",
+              "2072261295009390593",
+              "2072262191009193986",
+              "2072583967958327298",
+              "2072587211161952258",
+              "2072592095781281794"
+            ],
+            "activityFingerprintSHA256": "dace790f0605362c4f828320d98837aa5c2b8f524781f670c7587de291352bb5"
+          },
+          {
+            "shopID": "1889498806778068993",
+            "shopName": "AM:06 SHENZHEN",
+            "venue": "AM:06",
+            "status": "current_empty",
+            "observedRecordCount": 0,
+            "currentEventCount": 0,
+            "activityIDs": [],
+            "activityFingerprintSHA256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+          }
+        ]
+      },
       "reviewedEventStyleCount": 2
     },
     {
@@ -677,16 +713,17 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 164,
-      "usable": 103,
-      "consumerReady": 71,
-      "consumerRejected": 32,
-      "consumerReadyRate": 0.689,
+      "captured": 162,
+      "usable": 101,
+      "consumerReady": 65,
+      "consumerRejected": 36,
+      "consumerReadyRate": 0.644,
       "rejectionReasons": {
+        "past_event": 20,
         "missing_raver_evidence": 10,
-        "reviewed_non_raver_title": 2,
-        "placeholder_title": 5,
-        "past_event": 15
+        "placeholder_title": 4,
+        "reviewed_non_raver_title": 1,
+        "reviewed_event_fact_correction_drift": 1
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -697,9 +734,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 19,
-      "usable": 13,
-      "consumerReady": 13,
+      "captured": 17,
+      "usable": 12,
+      "consumerReady": 12,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1271,23 +1308,6 @@
     {
       "sourceId": "village_studios_vancouver",
       "sourceKind": "clubWebsite",
-      "eventId": "7D802707-82CD-5FB3-BE5B-694CF8DAE3F3",
-      "title": "ANTHONY ATTALLA",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "july 18",
-      "timeText": null,
-      "sourceURLText": "https://www.villagestudios.life/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
       "eventId": "FE2DF439-4103-59A7-9ECD-B0B15BBE9ACC",
       "title": "Propagate Pres. Underscores (DJ SET)",
       "venue": "Village Studios",
@@ -1352,6 +1372,34 @@
       "ticketPriceText": null,
       "reason": "missing_raver_evidence",
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "FC313592-C413-553A-A274-02D0A1D60DDA",
+      "title": "TAKUYA NAKAMURA",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "September 6",
+      "timeText": "10:00",
+      "sourceURLText": "https://www.villagestudios.life/events/takuyanakamura",
+      "lineupNames": [
+        "Takuya Nakamura"
+      ],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "reviewed_event_fact_correction_drift",
+      "actionText": "Review the changed event facts before publication",
+      "sourceFactConflict": {
+        "field": "dateText",
+        "structuredValue": "2026-09-06",
+        "presentedValue": "2026-09-05"
+      },
+      "reviewedEventFactCorrectionDrift": {
+        "expectedObservedEventID": "FC313592-C413-553A-A274-02D0A1D60DDA",
+        "expectedCorrectedEventID": "7FE84945-6D91-506E-AD8B-9F2FCC3C6BB7"
+      }
     },
     {
       "sourceId": "village_studios_vancouver",
@@ -1442,47 +1490,48 @@
     }
   ],
   "totals": {
-    "captured": 206,
-    "usable": 139
+    "captured": 202,
+    "usable": 136
   },
   "consumerQuality": {
-    "ready": 107,
-    "rejected": 32,
+    "ready": 100,
+    "rejected": 36,
     "rejectionReasons": {
+      "past_event": 20,
       "missing_raver_evidence": 10,
-      "reviewed_non_raver_title": 2,
-      "placeholder_title": 5,
-      "past_event": 15
+      "placeholder_title": 4,
+      "reviewed_non_raver_title": 1,
+      "reviewed_event_fact_correction_drift": 1
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-18",
+    "Vancouver": "2026-07-19",
     "Shenzhen": "2026-07-19",
-    "Miami": "2026-07-18",
-    "Las Vegas": "2026-07-18",
+    "Miami": "2026-07-19",
+    "Las Vegas": "2026-07-19",
     "Daresbury": "2026-07-19",
-    "Salmo": "2026-07-18",
-    "Orlando": "2026-07-18",
-    "Montreal": "2026-07-18",
+    "Salmo": "2026-07-19",
+    "Orlando": "2026-07-19",
+    "Montreal": "2026-07-19",
     "Boom": "2026-07-19",
     "Hilvarenbeek": "2026-07-19",
     "Arnhem": "2026-07-19",
     "Cluj-Napoca": "2026-07-19",
-    "Thornville": "2026-07-18",
-    "Los Angeles": "2026-07-18",
-    "Long Beach": "2026-07-18",
-    "Chicago": "2026-07-18",
+    "Thornville": "2026-07-19",
+    "Los Angeles": "2026-07-19",
+    "Long Beach": "2026-07-19",
+    "Chicago": "2026-07-19",
     "Mumbai": "2026-07-19",
     "Jakarta": "2026-07-19",
     "Phuket": "2026-07-19",
     "Alpe d'Huez": "2026-07-19",
-    "Mexico City": "2026-07-18",
+    "Mexico City": "2026-07-19",
     "Split": "2026-07-19",
     "Tokyo": "2026-07-19"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 104
+    "reviewedArtists": 107
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1497,8 +1546,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "DADD7151-79FA-487A-8C03-8F715C79BDF8",
-      "ingestRunAt": "2026-07-19T01:27:30Z"
+      "ingestRunId": "64E81E78-17DB-4005-9C31-7B4A378034B3",
+      "ingestRunAt": "2026-07-18T19:55:20Z"
     }
   },
   "executionCoverage": {
