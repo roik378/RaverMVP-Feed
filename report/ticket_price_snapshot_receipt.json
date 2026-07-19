@@ -396,7 +396,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -420,7 +420,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -436,15 +436,15 @@
       "ticketURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f"
     },
     {
-      "action": "stale_reused",
+      "action": "applied",
       "city": "Vancouver",
-      "collectorStatus": "provider_failed",
+      "collectorStatus": "applied",
       "eventID": "68CBE3A6-A791-539F-98BF-894FC0561D38",
-      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
+      "reason": null,
       "snapshot": {
         "amountMinor": 2500,
-        "availability": "unknown",
-        "capturedAt": "2026-07-19T00:04:09Z",
+        "availability": "available",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -454,9 +454,9 @@
         "sourceURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757",
         "tierKey": "primary-ga|admitone-category-bm3gxm",
         "tierName": "Early Bird",
-        "verificationState": "staleFallback"
+        "verificationState": "fresh"
       },
-      "stale": true,
+      "stale": false,
       "ticketURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757"
     },
     {
@@ -468,7 +468,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -492,7 +492,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -516,7 +516,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -603,7 +603,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -636,7 +636,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -660,7 +660,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -684,7 +684,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -708,7 +708,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -732,7 +732,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -756,7 +756,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -780,7 +780,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:31:04Z",
+        "capturedAt": "2026-07-19T01:52:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -1030,18 +1030,18 @@
       "ticketURLText": "https://ilesoniq.com/en/tickets"
     }
   ],
-  "feedSHA256After": "7cfcfde9527c5ca812a5b5e9adc06fc3adfee9ecb9857312c3a845c9776b53c7",
-  "feedSHA256Before": "16f7a0858f17247760dbdfec8e64d3cf00b58ad2d492872c7033fb5ed1809c4e",
-  "historySHA256After": "0ed22547aced1375032cd956f5cafdc7a3fa64b7982111c64f9f74899f85c662",
-  "priceProjectionSHA256": "3a62af281ceadb2c1581ee038a7329c3730b3f9292805c3d0909082459931ecb",
+  "feedSHA256After": "c9487c4a924b50324d3dc33b1c8d5e2a565f4a5f27a2e0e06814dfef08e7b23a",
+  "feedSHA256Before": "eee0d498d9613fae58ead9ccb5dd3e20dceeb20074ac700a90e4a8a80344d885",
+  "historySHA256After": "5a9aa7e65f55ebff63f6b41ee82bbf207b8a73a2bee95d70cfb5e1d9ef566d4a",
+  "priceProjectionSHA256": "53e5a914c65dd58a7110af8ecd09ccc141198d46b6b2033abf277f0eed6574c1",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
     "appliedCount": 14,
     "candidateCount": 91,
-    "freshCount": 13,
+    "freshCount": 14,
     "noSnapshotCount": 56,
-    "providerFailureCount": 22,
-    "staleCount": 1
+    "providerFailureCount": 21,
+    "staleCount": 0
   }
 }

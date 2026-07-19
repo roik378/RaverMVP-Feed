@@ -1,8 +1,8 @@
 {
   "feedVersion": 1,
-  "ingestRunId": "DADD7151-79FA-487A-8C03-8F715C79BDF8",
-  "ingestRunAt": "2026-07-19T01:27:30Z",
-  "generatedAtText": "Sun 01:27",
+  "ingestRunId": "F6150E63-D6F9-46BB-B85C-BDE3C28DB4A4",
+  "ingestRunAt": "2026-07-19T01:47:48Z",
+  "generatedAtText": "Sun 01:47",
   "cities": [
     {
       "id": "vancouver_ca",
@@ -2389,7 +2389,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2451,7 +2451,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2497,9 +2497,9 @@
             "currency": "CAD",
             "feeBasis": "feesExcluded",
             "displayText": "From C$25 + fees",
-            "availability": "unknown",
-            "verificationState": "staleFallback",
-            "capturedAt": "2026-07-19T00:04:09Z",
+            "availability": "available",
+            "verificationState": "fresh",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2561,7 +2561,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497986bf7d4c91bb55137b",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2623,7 +2623,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a1abf7d4c91bb551381",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2685,7 +2685,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a884df4217fda772d26",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3039,7 +3039,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3130,7 +3130,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3180,7 +3180,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -3237,7 +3237,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -3294,7 +3294,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3346,7 +3346,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/feedmeredroom/",
             "collectorKind": "showpassNextData"
           }
@@ -3396,7 +3396,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3447,7 +3447,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:31:04Z",
+            "capturedAt": "2026-07-19T01:52:13Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -29212,7 +29212,7 @@
       "id": "los_angeles_us",
       "name": "Los Angeles",
       "country": "US",
-      "refreshText": "Sat 23:57",
+      "refreshText": "Sun 01:47",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": null,
       "sourceEvents": [
@@ -29228,13 +29228,9 @@
           "timeText": null,
           "distanceText": null,
           "coordinate": null,
-          "styles": [
-            "Techno",
-            "Dubstep",
-            "Progressive"
-          ],
+          "styles": [],
           "confidence": 0.99,
-          "lastRefreshedText": "Sat 23:57",
+          "lastRefreshedText": "Sun 01:47",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.hardsummer.com/lineup/",
@@ -29348,26 +29344,8 @@
             {
               "name": "Charlotte de Witte",
               "setTime": null,
-              "styles": [
-                "Techno"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "D9637487-77DE-5CDF-B7E8-4CD926A1507A",
-                  "title": "The Heads That Know (feat. Comma Dee)",
-                  "label": "Charlotte de Witte"
-                },
-                {
-                  "id": "766822CF-3C8D-5377-A2CA-A8C59B9320F9",
-                  "title": "Amor (feat. CERES)",
-                  "label": "Charlotte de Witte"
-                },
-                {
-                  "id": "E48E6A85-7CE7-5AC8-9A53-8F76BE48036E",
-                  "title": "A Prayer for the Dancefloor (feat. Conduit)",
-                  "label": "Charlotte de Witte"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
@@ -29688,76 +29666,22 @@
             {
               "name": "underscores",
               "setTime": null,
-              "styles": [
-                "Dubstep"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "D81CF992-7455-55DE-B9DB-B23C0C23D173",
-                  "title": "Locals (Girls like us)",
-                  "label": "Mom+Pop"
-                },
-                {
-                  "id": "D66B4A1D-1A66-54F1-AC17-E46D1756A0AE",
-                  "title": "Music",
-                  "label": "Mom+Pop"
-                },
-                {
-                  "id": "C7E2CECA-ADD0-5C20-9BE5-B774045B79C6",
-                  "title": "Tell Me (U Want It)",
-                  "label": "Mom+Pop"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
               "name": "Vintage Culture",
               "setTime": null,
-              "styles": [
-                "Progressive"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "1F9BCD45-26E2-5885-8017-EAC65EF2F8AB",
-                  "title": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
-                  "label": "Vintage Culture & Zerky"
-                },
-                {
-                  "id": "1F9D5285-A5B4-55C9-B6CE-557A83D5915D",
-                  "title": "Freaky 1",
-                  "label": "Vintage Culture"
-                },
-                {
-                  "id": "CEAE2A93-5F77-5598-8B47-B63EA42FC050",
-                  "title": "You Give Me a Feeling",
-                  "label": "Vintage Culture"
-                }
-              ],
-              "peakDJMagRank": 9
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
             },
             {
               "name": "VTSS",
               "setTime": null,
-              "styles": [
-                "Techno"
-              ],
-              "representativeTracks": [
-                {
-                  "id": "59B76640-9693-568F-937F-0E051A9B94A7",
-                  "title": "Can't Catch Me",
-                  "label": "VTSS"
-                },
-                {
-                  "id": "3DCFE9AE-467E-527F-B9E6-1C58B7DC6870",
-                  "title": "Make You Scream",
-                  "label": "VTSS"
-                },
-                {
-                  "id": "CB7EF829-FB3C-5805-B18B-A712277E8A3B",
-                  "title": "Trust me",
-                  "label": "VTSS"
-                }
-              ],
+              "styles": [],
+              "representativeTracks": [],
               "peakDJMagRank": null
             },
             {
@@ -29786,20 +29710,441 @@
             "timeZoneIdentifier": "America/Los_Angeles",
             "coordinate": null,
             "lifecycleState": "ticketsLive",
-            "lineupPhaseLabel": "2026 Official Lineup",
+            "lineupPhaseLabel": "Official lineup by day",
             "lineupCompleteness": "announced",
             "officialPosterURLText": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/38/2026/05/11151227/hsmf_2026_mk_lu_full_phase2_1080x1350_r07.png",
             "officialPosterSourceURLText": "https://www.hardsummer.com/lineup/",
             "dayCount": 2,
             "stageCount": 0,
             "artistCount": 66,
-            "schedule": null,
+            "schedule": [
+              {
+                "id": "hard-summer-2026-08-01",
+                "date": "2026-08-01",
+                "stages": [
+                  {
+                    "id": "hard-summer-2026-08-01-day-lineup",
+                    "name": "Official day lineup",
+                    "performances": [
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-64dbc57d9e7d82ff",
+                        "artistName": "Anetha",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-bcaeb18766022069",
+                        "artistName": "BOLO",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-c8ab404f0089c979",
+                        "artistName": "Brunello",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-7ec0fe9272b236ba",
+                        "artistName": "Brutalismus 3000",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-8986b94155c65022",
+                        "artistName": "Bushbaby",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-f64031fb82e08e54",
+                        "artistName": "Charlotte de Witte",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-5af7039be204e44d",
+                        "artistName": "Chris Lorenzo",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-6d4a69db04953cd9",
+                        "artistName": "Confidence Man",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-4e71c2a07bcea718",
+                        "artistName": "Cquestt",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-f94b0ad8b581cd77",
+                        "artistName": "DJ Seinfeld B2B Luuk van Dijk",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-5f7ff4a1807fb670",
+                        "artistName": "DJ Warning",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-e1849b6f5a8fdd98",
+                        "artistName": "DREYA V",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-6b8f2af61e34e7bd",
+                        "artistName": "Hannah Laing",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-9cf4c95c3b4092ba",
+                        "artistName": "Interplanetary Criminal B2B Main Phase",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-9243a3b93f73a334",
+                        "artistName": "Jon Casey",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-ee70f354450e96a4",
+                        "artistName": "¥ØU$UK€ ¥UK1MAT$U",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-60f2c765d46a9d96",
+                        "artistName": "Kali Uchis",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-9bcf0e208e5ea061",
+                        "artistName": "Locklead",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-acec366b3e633f7a",
+                        "artistName": "Lovefoxy",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-d0cbbcdb19913cc1",
+                        "artistName": "Luke Alessi",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-6294605766530157",
+                        "artistName": "Maceo Plex",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-5c784a25d0662b58",
+                        "artistName": "Mary Droppinz",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-62c21d6af578d69f",
+                        "artistName": "Mau P",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-27d3f2e23ac131af",
+                        "artistName": "Nick León",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-21297e6e966afbd0",
+                        "artistName": "Omar+",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-0459e1d6ddbd0595",
+                        "artistName": "Pegassi",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-3a93ef7e835b3d08",
+                        "artistName": "Quinn Blake",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-bfb1279155cfcdf2",
+                        "artistName": "RØZ",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-94497f93095295ba",
+                        "artistName": "salute",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-c71201eea977ca00",
+                        "artistName": "Shaking",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-baae78869fb323f5",
+                        "artistName": "Six Sex",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-af785bddd6d98b62",
+                        "artistName": "Tokischa",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-e49c15669ddcbbc3",
+                        "artistName": "X CLUB. B2B ATRIP",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-01-day-lineup-69707e211aeca1e5",
+                        "artistName": "Zack Fox",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "hard-summer-2026-08-02",
+                "date": "2026-08-02",
+                "stages": [
+                  {
+                    "id": "hard-summer-2026-08-02-day-lineup",
+                    "name": "Official day lineup",
+                    "performances": [
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-6970df597722fcad",
+                        "artistName": "10cust",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-9ebb2690eb3fa9c1",
+                        "artistName": "1tbsp",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-e419fbd60cfd0b4c",
+                        "artistName": "2hollis",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-75f38f2241d8b8de",
+                        "artistName": "Adiel B2B Quest",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-76a3168ee0a80ab7",
+                        "artistName": "After Midnight",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-8b3ac6978b659eed",
+                        "artistName": "Alarico B2B Yanamaste",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-d2b576181b2c95dd",
+                        "artistName": "Amelie Lens",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-8114cda6c5f4a697",
+                        "artistName": "Andy C: AliVe",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-94a7bb7cd10fe6ef",
+                        "artistName": "B3K B2B Boys Noize",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-edbfb9b0f2e650c0",
+                        "artistName": "Canary Yellow",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-2ab489c96f577281",
+                        "artistName": "Cole Terrazas",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-c452d7e37810c722",
+                        "artistName": "DJ Fuckoff",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-8d4a90d64a6be852",
+                        "artistName": "DJ Snake (Hip Hop Set)",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-f7cc356906b2dbc0",
+                        "artistName": "Etari",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-5bb080efe2cd3d9f",
+                        "artistName": "FIFI",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-56e5a15777c80c4a",
+                        "artistName": "Frost Children",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-064943c4c8f66f0f",
+                        "artistName": "Hyperbeam",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-544d91ae3565970e",
+                        "artistName": "Knock2 B2B Zedd",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-81c4547207bcb287",
+                        "artistName": "MCR-T",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-15156f484ac8255e",
+                        "artistName": "Miguelle & Tons",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-38c43a8eb4b5433b",
+                        "artistName": "Miluhska",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-f6d41d5d3e02415b",
+                        "artistName": "Oppidan",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-e8db05090e4c1035",
+                        "artistName": "Ranger Trucco",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-945ad132ce836324",
+                        "artistName": "RL Grime",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-9a20baaae39c4a39",
+                        "artistName": "Sammy Virji",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-64eddb7862bdb089",
+                        "artistName": "Shygirl presents Club Shy",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-35c1b776922ec5e2",
+                        "artistName": "Snow Strippers",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-0e207adbc2981dcb",
+                        "artistName": "Strawbry",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-362f872e5bd9d979",
+                        "artistName": "Tiga",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-631b17ac26a963fd",
+                        "artistName": "underscores",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-d727e1454bf466b6",
+                        "artistName": "Vintage Culture",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      },
+                      {
+                        "id": "hard-summer-2026-08-02-day-lineup-e6a6fa4883a34556",
+                        "artistName": "VTSS",
+                        "startTimeText": null,
+                        "endTimeText": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
             "minimumComparableGA": null,
             "lineupDelta": null
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-18T23:57:35Z"
+            "observedAt": "2026-07-19T01:47:48Z"
           }
         }
       ]

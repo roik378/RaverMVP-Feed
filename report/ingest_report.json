@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T01:27:30Z",
-  "ingestRunId": "DADD7151-79FA-487A-8C03-8F715C79BDF8",
-  "ingestRunAt": "2026-07-19T01:27:30Z",
+  "ranAt": "2026-07-19T01:47:48Z",
+  "ingestRunId": "F6150E63-D6F9-46BB-B85C-BDE3C28DB4A4",
+  "ingestRunAt": "2026-07-19T01:47:48Z",
   "mode": "full",
   "sources": [
     {
@@ -1497,8 +1497,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "D1F3B9B3-E82C-4FC0-9FBC-F56AE21758DA",
-      "ingestRunAt": "2026-07-19T00:36:51Z"
+      "ingestRunId": "DADD7151-79FA-487A-8C03-8F715C79BDF8",
+      "ingestRunAt": "2026-07-19T01:27:30Z"
     }
   },
   "executionCoverage": {
