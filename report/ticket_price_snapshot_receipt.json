@@ -369,7 +369,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -393,7 +393,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -417,7 +417,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -441,7 +441,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -465,7 +465,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -552,7 +552,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -585,7 +585,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -609,7 +609,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -633,7 +633,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -657,7 +657,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -681,7 +681,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -705,7 +705,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T17:26:29Z",
+        "capturedAt": "2026-07-19T17:55:42Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -964,10 +964,10 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "7c53b7baa68c10d8d8aee21244b51c95a444885ef1320e96a9d36bce81c44e4c",
-  "feedSHA256Before": "0f311d00d89a35c662bc0f717a7c254644004dd3007e4f728b5e532e0b38dc31",
-  "historySHA256After": "ca22049f590d12a6b4f02ad4a48d70dcd46aff94db0e6ef9d1e257150c79aed7",
-  "priceProjectionSHA256": "67e8d3183acfefee0a6c92bb06b08d683fb2214780582ae99b66623b0c36cb36",
+  "feedSHA256After": "ad517f2a556a00ad82dfca24f446f94a8d0855ef9ae473b6aa745a8c5cb310a0",
+  "feedSHA256Before": "a6cd70ffcc8594378b05ce878e6219491b2c517ff15c1dad6a4a8ba9a80c9c78",
+  "historySHA256After": "09db958a32cf68e29fe516f2e263356a7bd5c3dcc80d5a032ce9491e914fea35",
+  "priceProjectionSHA256": "3f6b185280238ffc13f7d41a9c2c5e602817d00241d0cc635ea1ac49a4509b85",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {

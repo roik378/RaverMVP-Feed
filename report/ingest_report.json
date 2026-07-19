@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T17:25:17Z",
-  "ingestRunId": "DCDE3419-ABD3-44AF-95D7-C385D982B3B5",
-  "ingestRunAt": "2026-07-19T17:25:17Z",
+  "ranAt": "2026-07-19T17:54:30Z",
+  "ingestRunId": "E3A6DA4B-74BD-47E1-BDE0-FB839354AFA5",
+  "ingestRunAt": "2026-07-19T17:54:30Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T17:25:04Z",
+      "ticketOfferObservedAt": "2026-07-19T17:54:17Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [
         {
@@ -304,16 +304,16 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 8,
-      "usable": 8,
-      "consumerReady": 8,
+      "captured": 9,
+      "usable": 9,
+      "consumerReady": 9,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
-      "reviewedEventInventoryCount": 1,
+      "reviewedEventInventoryCount": 2,
       "inventoryReviewCandidates": [
         {
           "reviewKey": "yuyuan|2072592095781281794",
@@ -539,9 +539,9 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 01:25:37",
+        "observedAtText": "2026-07-20 01:54:50",
         "totalSearchRecords": 17,
-        "acceptedReviewedRecordCount": 10,
+        "acceptedReviewedRecordCount": 11,
         "venues": [
           {
             "shopID": "1803701116047175681",
@@ -812,7 +812,7 @@
         "status": "retained",
         "eligibleEventCount": 1,
         "retainedEventCount": 1,
-        "fallbackAgeHours": 1
+        "fallbackAgeHours": 2
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
@@ -996,9 +996,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 19,
-      "usable": 12,
-      "consumerReady": 12,
+      "captured": 20,
+      "usable": 13,
+      "consumerReady": 13,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1788,11 +1788,11 @@
     }
   ],
   "totals": {
-    "captured": 203,
-    "usable": 136
+    "captured": 204,
+    "usable": 137
   },
   "consumerQuality": {
-    "ready": 100,
+    "ready": 101,
     "rejected": 36,
     "rejectionReasons": {
       "past_event": 20,
@@ -1829,7 +1829,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 115
+    "reviewedArtists": 116
   },
   "reviewedArtistBilling": {
     "status": "loaded",
