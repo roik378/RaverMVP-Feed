@@ -364,22 +364,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 11,
+          "assistedRatio": 0.9167,
           "direct": 6,
-          "ratio": 0.4615,
-          "total": 13
+          "ratio": 0.5,
+          "total": 12
         },
         "raw": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 11,
+          "assistedRatio": 0.9167,
           "direct": 6,
-          "ratio": 0.4615,
-          "total": 13
+          "ratio": 0.5,
+          "total": 12
         }
       },
       "Split": {
@@ -826,22 +826,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 11,
+          "assistedRatio": 0.9167,
           "direct": 6,
-          "ratio": 0.4615,
-          "total": 13
+          "ratio": 0.5,
+          "total": 12
         },
         "raw": {
-          "actionable": 13,
+          "actionable": 12,
           "actionableRatio": 1.0,
-          "assisted": 12,
-          "assistedRatio": 0.9231,
+          "assisted": 11,
+          "assistedRatio": 0.9167,
           "direct": 6,
-          "ratio": 0.4615,
-          "total": 13
+          "ratio": 0.5,
+          "total": 12
         }
       },
       "Split": {
@@ -1024,11 +1024,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 101,
-  "eventCountBefore": 101,
+  "eventCountAfter": 100,
+  "eventCountBefore": 100,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "4493cbd03086ab70bd15255c1279bc1bb9fd2123e1087c7f61a81ee524fc6f21",
-  "feedSHA256Before": "4493cbd03086ab70bd15255c1279bc1bb9fd2123e1087c7f61a81ee524fc6f21",
+  "feedSHA256After": "52d2a09ba82c4cb408881e666c3b155cfc8eb74de437639c8c46c3abc06b65e5",
+  "feedSHA256Before": "52d2a09ba82c4cb408881e666c3b155cfc8eb74de437639c8c46c3abc06b65e5",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1061,7 +1061,7 @@
     "Cluj-Napoca": "2026-07-19",
     "Daresbury": "2026-07-19",
     "Hilvarenbeek": "2026-07-19",
-    "Jakarta": "2026-07-19",
+    "Jakarta": "2026-07-20",
     "Las Vegas": "2026-07-19",
     "Long Beach": "2026-07-19",
     "Los Angeles": "2026-07-19",
@@ -1070,7 +1070,7 @@
     "Montreal": "2026-07-19",
     "Mumbai": "2026-07-19",
     "Orlando": "2026-07-19",
-    "Phuket": "2026-07-19",
+    "Phuket": "2026-07-20",
     "Salmo": "2026-07-19",
     "Shenzhen": "2026-07-20",
     "Split": "2026-07-19",
