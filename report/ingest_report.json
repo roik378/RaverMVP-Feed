@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T20:21:00Z",
-  "ingestRunId": "21EF8355-6A61-4C81-88C5-0EBEF6C2D4EA",
-  "ingestRunAt": "2026-07-19T20:21:00Z",
+  "ranAt": "2026-07-19T20:37:07Z",
+  "ingestRunId": "E3920BEE-FEEC-441F-9CDA-EA20B862321F",
+  "ingestRunAt": "2026-07-19T20:37:07Z",
   "mode": "full",
   "sources": [
     {
@@ -198,44 +198,9 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T20:20:48Z",
+      "ticketOfferObservedAt": "2026-07-19T20:36:56Z",
       "ticketOfferCount": 2,
-      "inventoryReviewCandidates": [
-        {
-          "activityID": "2078840481986031618",
-          "availability": "available",
-          "buyState": "立即购买",
-          "city": "Shenzhen",
-          "dateText": "2026-07-22",
-          "endDateText": "2026-07-23",
-          "lineupEvidenceStatus": "needs_review",
-          "lineupNames": [],
-          "miniProgramActivity": {
-            "appID": "wx4c8604c032bd3ef0",
-            "path": "pages/play/activity-detail",
-            "query": "activityId=2078840481986031618&isShare=true"
-          },
-          "miniProgramSearchText": "7.22 周三 PLAY X畅玩通票",
-          "priceDisplayText": "¥58/起",
-          "priceEvidenceStatus": "display_only",
-          "requiredActions": [
-            "Review the current PLAY X lineup poster",
-            "Capture readable lineup evidence",
-            "Capture explicit genre or event-theme evidence",
-            "Capture current buyable GA tiers and availability"
-          ],
-          "reviewKey": "yuyuan-playx|2078840481986031618",
-          "reviewReason": "unreviewedTargetTitle",
-          "reviewState": "ready_for_operator",
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078840481986031618",
-          "styleEvidenceStatus": "needs_review",
-          "styles": [],
-          "ticketTierEvidenceStatus": "needs_wechat_capture",
-          "timeText": "22:00",
-          "title": "7.22 周三 PLAY X畅玩通票",
-          "venue": "PLAY X"
-        }
-      ],
+      "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
       "evidenceImageSHA256": "b2d4577109d7388d5cebc5a0b2770d505e12fb67ac598d465fca8696739f5984",
@@ -317,7 +282,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 04:21:20",
+        "observedAtText": "2026-07-20 04:37:27",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -1757,42 +1722,7 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [
-    {
-      "activityID": "2078840481986031618",
-      "availability": "available",
-      "buyState": "立即购买",
-      "city": "Shenzhen",
-      "dateText": "2026-07-22",
-      "endDateText": "2026-07-23",
-      "lineupEvidenceStatus": "needs_review",
-      "lineupNames": [],
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2078840481986031618&isShare=true"
-      },
-      "miniProgramSearchText": "7.22 周三 PLAY X畅玩通票",
-      "priceDisplayText": "¥58/起",
-      "priceEvidenceStatus": "display_only",
-      "requiredActions": [
-        "Review the current PLAY X lineup poster",
-        "Capture readable lineup evidence",
-        "Capture explicit genre or event-theme evidence",
-        "Capture current buyable GA tiers and availability"
-      ],
-      "reviewKey": "yuyuan-playx|2078840481986031618",
-      "reviewReason": "unreviewedTargetTitle",
-      "reviewState": "ready_for_operator",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078840481986031618",
-      "styleEvidenceStatus": "needs_review",
-      "styles": [],
-      "ticketTierEvidenceStatus": "needs_wechat_capture",
-      "timeText": "22:00",
-      "title": "7.22 周三 PLAY X畅玩通票",
-      "venue": "PLAY X"
-    }
-  ],
+  "operatorInventoryReviewCandidates": [],
   "totals": {
     "captured": 205,
     "usable": 137
@@ -1850,8 +1780,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "171705C7-E81D-4AA0-8C1B-0A8ED1AC3B92",
-      "ingestRunAt": "2026-07-19T19:47:56Z"
+      "ingestRunId": "21EF8355-6A61-4C81-88C5-0EBEF6C2D4EA",
+      "ingestRunAt": "2026-07-19T20:21:00Z"
     }
   },
   "executionCoverage": {
