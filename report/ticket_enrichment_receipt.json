@@ -50,7 +50,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 2
+          "total": 1
         },
         "raw": {
           "actionable": 0,
@@ -59,7 +59,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 2
+          "total": 1
         }
       },
       "Chicago": {
@@ -512,7 +512,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 2
+          "total": 1
         },
         "raw": {
           "actionable": 0,
@@ -521,7 +521,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 2
+          "total": 1
         }
       },
       "Chicago": {
@@ -1024,11 +1024,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 101,
-  "eventCountBefore": 101,
+  "eventCountAfter": 100,
+  "eventCountBefore": 100,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "e17a5226028873f2129060952c727223310a8d23a68dc0addefcc76549bac67d",
-  "feedSHA256Before": "e17a5226028873f2129060952c727223310a8d23a68dc0addefcc76549bac67d",
+  "feedSHA256After": "531ac4de5f26aa43140c427fcc538e6330d58fac708e74ec566dc8155afc8119",
+  "feedSHA256Before": "531ac4de5f26aa43140c427fcc538e6330d58fac708e74ec566dc8155afc8119",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1054,13 +1054,13 @@
   },
   "referenceDate": "2026-07-19",
   "referenceDatesByCity": {
-    "Alpe d'Huez": "2026-07-19",
-    "Arnhem": "2026-07-19",
-    "Boom": "2026-07-19",
+    "Alpe d'Huez": "2026-07-20",
+    "Arnhem": "2026-07-20",
+    "Boom": "2026-07-20",
     "Chicago": "2026-07-19",
     "Cluj-Napoca": "2026-07-20",
     "Daresbury": "2026-07-19",
-    "Hilvarenbeek": "2026-07-19",
+    "Hilvarenbeek": "2026-07-20",
     "Jakarta": "2026-07-20",
     "Las Vegas": "2026-07-19",
     "Long Beach": "2026-07-19",
@@ -1073,7 +1073,7 @@
     "Phuket": "2026-07-20",
     "Salmo": "2026-07-19",
     "Shenzhen": "2026-07-20",
-    "Split": "2026-07-19",
+    "Split": "2026-07-20",
     "Thornville": "2026-07-19",
     "Tokyo": "2026-07-20",
     "Vancouver": "2026-07-19"
