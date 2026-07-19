@@ -364,22 +364,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 11,
-          "assistedRatio": 0.7857,
-          "direct": 7,
-          "ratio": 0.5,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 6,
+          "ratio": 0.4615,
+          "total": 13
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 11,
-          "assistedRatio": 0.7857,
-          "direct": 7,
-          "ratio": 0.5,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 6,
+          "ratio": 0.4615,
+          "total": 13
         }
       },
       "Split": {
@@ -826,22 +826,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 11,
-          "assistedRatio": 0.7857,
-          "direct": 7,
-          "ratio": 0.5,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 6,
+          "ratio": 0.4615,
+          "total": 13
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
-          "assisted": 11,
-          "assistedRatio": 0.7857,
-          "direct": 7,
-          "ratio": 0.5,
-          "total": 14
+          "assisted": 12,
+          "assistedRatio": 0.9231,
+          "direct": 6,
+          "ratio": 0.4615,
+          "total": 13
         }
       },
       "Split": {
@@ -937,7 +937,7 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is no longer present after its consumer date",
+      "reason": "reviewed event is absent from the current feed on or after its consumer date",
       "ticketURLText": "https://ra.co/events/2464468"
     },
     {
@@ -950,7 +950,7 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is no longer present after its consumer date",
+      "reason": "reviewed event is absent from the current feed on or after its consumer date",
       "ticketURLText": "https://www.showstart.com/event/302794"
     },
     {
@@ -963,25 +963,20 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is no longer present after its consumer date",
+      "reason": "reviewed event is absent from the current feed on or after its consumer date",
       "ticketURLText": "https://www.showstart.com/event/302796"
     },
     {
-      "action": "unchanged",
+      "action": "stale_skipped",
       "canonicalVenue": "OIL Club",
       "city": "Shenzhen",
       "currentTitle": "Alion",
       "dateText": "Jul 19",
       "evidenceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
-      "matchCount": 1,
-      "matchedEventIDs": [
-        "A13BA6D2-3412-5CEA-85D1-6301FD0AB971"
-      ],
-      "matchedEventTitles": [
-        "Alion"
-      ],
-      "newTicketURLText": "https://ra.co/events/2447530",
-      "oldTicketURLText": "https://ra.co/events/2447530",
+      "matchCount": 0,
+      "matchedEventIDs": [],
+      "matchedEventTitles": [],
+      "reason": "reviewed event is absent from the current feed on or after its consumer date",
       "ticketURLText": "https://ra.co/events/2447530"
     },
     {
@@ -994,7 +989,7 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is no longer present after its consumer date",
+      "reason": "reviewed event is absent from the current feed on or after its consumer date",
       "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     },
     {
@@ -1007,7 +1002,7 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is no longer present after its consumer date",
+      "reason": "reviewed event is absent from the current feed on or after its consumer date",
       "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
     },
     {
@@ -1029,11 +1024,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 102,
-  "eventCountBefore": 102,
+  "eventCountAfter": 101,
+  "eventCountBefore": 101,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "c96c3e7539e0987aa7c819ba101e470f5bf11697914392fe663db6f4dbe6e073",
-  "feedSHA256Before": "c96c3e7539e0987aa7c819ba101e470f5bf11697914392fe663db6f4dbe6e073",
+  "feedSHA256After": "db035e116acf73ae0b507ee6eba2ecf57ed7995d81f2012fec9e7477f5769214",
+  "feedSHA256Before": "db035e116acf73ae0b507ee6eba2ecf57ed7995d81f2012fec9e7477f5769214",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1080,12 +1075,12 @@
     "Shenzhen": "2026-07-19",
     "Split": "2026-07-19",
     "Thornville": "2026-07-19",
-    "Tokyo": "2026-07-19",
+    "Tokyo": "2026-07-20",
     "Vancouver": "2026-07-19"
   },
   "schemaVersion": 1,
-  "staleSkippedCount": 5,
+  "staleSkippedCount": 6,
   "status": "applied",
-  "unchangedCount": 2,
+  "unchangedCount": 1,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }

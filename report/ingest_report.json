@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-19T13:34:39Z",
-  "ingestRunId": "24EBE30A-7DD4-49F1-BC31-0771F92E6D7A",
-  "ingestRunAt": "2026-07-19T13:34:39Z",
+  "ranAt": "2026-07-19T15:54:01Z",
+  "ingestRunId": "DF4A0DEF-64D1-40AB-AE7A-78883A26A73A",
+  "ingestRunAt": "2026-07-19T15:54:01Z",
   "mode": "full",
   "sources": [
     {
@@ -198,9 +198,44 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-19T13:34:28Z",
+      "ticketOfferObservedAt": "2026-07-19T15:53:49Z",
       "ticketOfferCount": 2,
-      "inventoryReviewCandidates": [],
+      "inventoryReviewCandidates": [
+        {
+          "activityID": "2078840481986031618",
+          "availability": "available",
+          "buyState": "立即购买",
+          "city": "Shenzhen",
+          "dateText": "2026-07-22",
+          "endDateText": "2026-07-23",
+          "lineupEvidenceStatus": "needs_review",
+          "lineupNames": [],
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2078840481986031618&isShare=true"
+          },
+          "miniProgramSearchText": "7.22 周三 PLAY X畅玩通票",
+          "priceDisplayText": "¥58/起",
+          "priceEvidenceStatus": "display_only",
+          "requiredActions": [
+            "Review the current PLAY X lineup poster",
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ],
+          "reviewKey": "yuyuan-playx|2078840481986031618",
+          "reviewReason": "unreviewedTargetTitle",
+          "reviewState": "ready_for_operator",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078840481986031618",
+          "styleEvidenceStatus": "needs_review",
+          "styles": [],
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "timeText": "22:00",
+          "title": "7.22 周三 PLAY X畅玩通票",
+          "venue": "PLAY X"
+        }
+      ],
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
       "evidenceImageSHA256": "b2d4577109d7388d5cebc5a0b2770d505e12fb67ac598d465fca8696739f5984",
@@ -239,9 +274,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 7,
-      "usable": 7,
-      "consumerReady": 7,
+      "captured": 6,
+      "usable": 6,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -269,9 +304,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 8,
-      "usable": 8,
-      "consumerReady": 8,
+      "captured": 9,
+      "usable": 9,
+      "consumerReady": 9,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -408,6 +443,37 @@
           ]
         },
         {
+          "reviewKey": "yuyuan|2072265909960138754",
+          "reviewState": "ready_for_operator",
+          "activityID": "2072265909960138754",
+          "title": "SCSI-9",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-07-25",
+          "endDateText": "2026-07-26",
+          "timeText": "22:00",
+          "lineupNames": [
+            "SCSI-9"
+          ],
+          "styles": [],
+          "priceDisplayText": "¥80/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072265909960138754",
+          "miniProgramSearchText": "【双厅】OIL七月最重磅: 电子乐浪漫美学传奇 SCSI-9 Live 现场",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2072265909960138754&isShare=true"
+          },
+          "requiredActions": [
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
           "reviewKey": "yuyuan|2072262191009193986",
           "reviewState": "ready_for_operator",
           "activityID": "2072262191009193986",
@@ -503,8 +569,8 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-19 21:34:59",
-        "totalSearchRecords": 16,
+        "observedAtText": "2026-07-19 23:54:21",
+        "totalSearchRecords": 17,
         "acceptedReviewedRecordCount": 10,
         "venues": [
           {
@@ -513,16 +579,17 @@
             "venue": "OIL Club",
             "status": "current",
             "observedRecordCount": 7,
-            "currentEventCount": 6,
+            "currentEventCount": 7,
             "activityIDs": [
               "2072260451555827713",
               "2072261295009390593",
               "2072262191009193986",
+              "2072265909960138754",
               "2072583967958327298",
               "2072587211161952258",
               "2072592095781281794"
             ],
-            "activityFingerprintSHA256": "dace790f0605362c4f828320d98837aa5c2b8f524781f670c7587de291352bb5"
+            "activityFingerprintSHA256": "bbfecb414c7625d9e0cadfd04951bfc17dd528de1fb92ff91bb1a5a1a9547fc3"
           },
           {
             "shopID": "1889498806778068993",
@@ -959,8 +1026,8 @@
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
       "captured": 20,
-      "usable": 14,
-      "consumerReady": 14,
+      "usable": 13,
+      "consumerReady": 13,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1715,44 +1782,46 @@
   ],
   "operatorInventoryReviewCandidates": [
     {
-      "reviewKey": "yuyuan|2078828970966167553",
-      "reviewState": "ready_for_operator",
-      "activityID": "2078828970966167553",
-      "title": "RAM & RUBEN DE RONDE",
-      "venue": "AM:06",
+      "activityID": "2078840481986031618",
+      "availability": "available",
+      "buyState": "立即购买",
       "city": "Shenzhen",
-      "dateText": "2026-07-25",
-      "endDateText": "2026-07-26",
-      "timeText": "23:00",
-      "lineupNames": [
-        "RAM & RUBEN DE RONDE"
-      ],
-      "styles": [
-        "Trance"
-      ],
-      "priceDisplayText": "¥188/起",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "observed",
-      "styleEvidenceStatus": "observed",
-      "ticketTierEvidenceStatus": "needs_wechat_capture",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078828970966167553",
-      "miniProgramSearchText": "7/25 AM06 X RAM & RUBEN DE RONDE : TRANCE NIGHT 出神之旅",
+      "dateText": "2026-07-22",
+      "endDateText": "2026-07-23",
+      "lineupEvidenceStatus": "needs_review",
+      "lineupNames": [],
       "miniProgramActivity": {
         "appID": "wx4c8604c032bd3ef0",
         "path": "pages/play/activity-detail",
-        "query": "activityId=2078828970966167553&isShare=true"
+        "query": "activityId=2078840481986031618&isShare=true"
       },
+      "miniProgramSearchText": "7.22 周三 PLAY X畅玩通票",
+      "priceDisplayText": "¥58/起",
+      "priceEvidenceStatus": "display_only",
       "requiredActions": [
+        "Review the current PLAY X lineup poster",
+        "Capture readable lineup evidence",
+        "Capture explicit genre or event-theme evidence",
         "Capture current buyable GA tiers and availability"
-      ]
+      ],
+      "reviewKey": "yuyuan-playx|2078840481986031618",
+      "reviewReason": "unreviewedTargetTitle",
+      "reviewState": "ready_for_operator",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078840481986031618",
+      "styleEvidenceStatus": "needs_review",
+      "styles": [],
+      "ticketTierEvidenceStatus": "needs_wechat_capture",
+      "timeText": "22:00",
+      "title": "7.22 周三 PLAY X畅玩通票",
+      "venue": "PLAY X"
     }
   ],
   "totals": {
     "captured": 205,
-    "usable": 138
+    "usable": 137
   },
   "consumerQuality": {
-    "ready": 102,
+    "ready": 101,
     "rejected": 36,
     "rejectionReasons": {
       "past_event": 20,
@@ -1785,7 +1854,7 @@
     "Alpe d'Huez": "2026-07-19",
     "Mexico City": "2026-07-19",
     "Split": "2026-07-19",
-    "Tokyo": "2026-07-19"
+    "Tokyo": "2026-07-20"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
@@ -1804,8 +1873,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "E8DCC356-A52F-4D80-AA71-CA4567A8B062",
-      "ingestRunAt": "2026-07-19T11:59:24Z"
+      "ingestRunId": "42166342-BC0E-4494-B267-E228A75A548A",
+      "ingestRunAt": "2026-07-19T15:39:50Z"
     }
   },
   "executionCoverage": {
