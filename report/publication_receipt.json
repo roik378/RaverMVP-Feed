@@ -16,6 +16,7 @@
     "Los Angeles": 1,
     "Mexico City": 1,
     "Miami": 1,
+    "Montreal": 1,
     "Mumbai": 1,
     "Orlando": 1,
     "Phuket": 1,
@@ -30,10 +31,10 @@
   "directTicketCoverageLimitedCities": [
     "Shenzhen"
   ],
-  "eventCount": 106,
+  "eventCount": 107,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "7b337fbfec0b6f1178d347547eaf18a4963b1d5ed7b24c9d4ae9831df83f0163",
+  "feedSHA256": "00d7f4a157d50940f86000a5928a92e5b52696cde996eafccd07d79ccf40441d",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -43,14 +44,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-18T23:57:35Z",
-  "ingestRunId": "7EAA5914-4401-4F6B-8116-6A6BE8949767",
+  "ingestRunAt": "2026-07-19T00:36:51Z",
+  "ingestRunId": "D1F3B9B3-E82C-4FC0-9FBC-F56AE21758DA",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-19T08:10:38+08:00",
+  "publishedAt": "2026-07-19T09:00:09+08:00",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "a29431f8d5e9e67d29b54e2f3b0187371fc28db0c411daba1c7f0286fa291f68",
+  "reportSHA256": "24e8dbf54c82c965d8e0f41e81b9661035366777967954fa5c96644b8fd2f579",
   "schemaVersion": 1,
-  "sourceCommitSHA": "6b383beedc48a074b5c561b006a6ad3780d76f33",
+  "sourceCommitSHA": "21dad2599aa31080f152362c700a064e4e168011",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -62,5 +63,5 @@
   "ticketPriceReceiptSHA256": "6e2f5a84c6712802d7e8e8cb3c669dd8e8f32a871368029d2391dbb17c15fb6a",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "faa2d76e8cc7f4487933c6d51bc8ef20332594023fb19546c85931a143aee1c8"
+  "ticketReceiptSHA256": "8bf3dbaf2bd5c133d96e52bb53765fa831350e402f832c446c832d7f1f59d11e"
 }

@@ -262,6 +262,26 @@
           "total": 1
         }
       },
+      "Montreal": {
+        "consumerEligible": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        },
+        "raw": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
       "Mumbai": {
         "consumerEligible": {
           "actionable": 1,
@@ -704,6 +724,26 @@
           "total": 1
         }
       },
+      "Montreal": {
+        "consumerEligible": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        },
+        "raw": {
+          "actionable": 1,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 1,
+          "ratio": 1.0,
+          "total": 1
+        }
+      },
       "Mumbai": {
         "consumerEligible": {
           "actionable": 1,
@@ -994,11 +1034,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 106,
-  "eventCountBefore": 106,
+  "eventCountAfter": 107,
+  "eventCountBefore": 107,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "7b337fbfec0b6f1178d347547eaf18a4963b1d5ed7b24c9d4ae9831df83f0163",
-  "feedSHA256Before": "7b337fbfec0b6f1178d347547eaf18a4963b1d5ed7b24c9d4ae9831df83f0163",
+  "feedSHA256After": "00d7f4a157d50940f86000a5928a92e5b52696cde996eafccd07d79ccf40441d",
+  "feedSHA256Before": "00d7f4a157d50940f86000a5928a92e5b52696cde996eafccd07d79ccf40441d",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1037,6 +1077,7 @@
     "Los Angeles": "2026-07-18",
     "Mexico City": "2026-07-18",
     "Miami": "2026-07-18",
+    "Montreal": "2026-07-18",
     "Mumbai": "2026-07-19",
     "Orlando": "2026-07-18",
     "Phuket": "2026-07-19",

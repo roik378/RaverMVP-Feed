@@ -1,7 +1,7 @@
 {
   "feedVersion": 1,
-  "ingestRunId": "7EAA5914-4401-4F6B-8116-6A6BE8949767",
-  "ingestRunAt": "2026-07-18T23:57:35Z",
+  "ingestRunId": "D1F3B9B3-E82C-4FC0-9FBC-F56AE21758DA",
+  "ingestRunAt": "2026-07-19T00:36:51Z",
   "generatedAtText": "Sat 23:57",
   "cities": [
     {
@@ -30251,6 +30251,711 @@
           "sourceFreshness": {
             "state": "live",
             "observedAt": "2026-07-18T23:57:35Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "montreal_ca",
+      "name": "Montreal",
+      "country": "CA",
+      "refreshText": "Sun 00:36",
+      "timeZoneIdentifier": "America/Toronto",
+      "userCoordinate": null,
+      "sourceEvents": [
+        {
+          "id": "D472109C-2623-5E2D-B451-B83AF44D9FD2",
+          "sourceId": "ilesoniq_official",
+          "sourceKind": "festivalWebsite",
+          "title": "îLESONIQ 2026",
+          "subtitle": "Official lineup and set times",
+          "venue": "Parc Jean-Drapeau",
+          "city": "Montreal",
+          "dateText": "Aug 8-9, 2026",
+          "timeText": null,
+          "distanceText": null,
+          "coordinate": null,
+          "styles": [],
+          "confidence": 0.99,
+          "lastRefreshedText": "Sun 00:36",
+          "isMajorFestival": true,
+          "friendsGoing": null,
+          "sourceURLText": "https://ilesoniq.com/en/program/artists",
+          "ticketURLText": "https://ilesoniq.com/en/tickets",
+          "lineup": [
+            {
+              "name": "Above & Beyond",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "ATLIENS",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "AYYBO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Badgalquirit",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Boris Brejcha",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Boys Noize b2b Tiga",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Cassian b2b Yotto",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Chris Lake & Friends",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Chris Lorenzo",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Clüb De Combat",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Crankdat",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Dabin",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Deadmau5",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Dom Dolla",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Future Exit b2b NEOTEK",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Gryffin",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Hayla",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Hedex",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Holy Priest",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Izzy Vadim",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Jkyl & Hyde",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kattana",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Ki/Ki",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Kleed",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "KREAM",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Layz b2b Kompany",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Level Up b2b Infekt",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "LYNY",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Marco Strous",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Matt Sassari",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "MVNGO",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Novah",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "OGUZ",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Riordan",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Roddy Lima",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Seven Lions",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sidepiece",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sin Less",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Stoog3s to Death",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Sub Focus",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "TDJ présente DJ Geneviève",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tom DŪNO b2b Yurie",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Tomas Grey",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Wooli",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "Zorza",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            },
+            {
+              "name": "¥ØU$UK€ ¥UK1MAT$U",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null
+            }
+          ],
+          "festivalMetadata": {
+            "seriesID": "ilesoniq",
+            "editionID": "ilesoniq-2026",
+            "editionYear": 2026,
+            "startDate": "2026-08-08",
+            "endDate": "2026-08-09",
+            "city": "Montreal",
+            "countryCode": "CA",
+            "timeZoneIdentifier": "America/Toronto",
+            "coordinate": null,
+            "lifecycleState": "fullLineup",
+            "lineupPhaseLabel": "Official 2026 timetable",
+            "lineupCompleteness": "complete",
+            "officialPosterURLText": "https://images.ctfassets.net/dv1qnlptav0x/58VVV7GEP230APCA7ELR9g/634897d0148a9a226f8cb91e410c3d45/IS26-Web-Visuels-Lineup_RS-1080x1350-EN.jpg",
+            "officialPosterSourceURLText": "https://ilesoniq.com/en",
+            "dayCount": 2,
+            "stageCount": 3,
+            "artistCount": 46,
+            "schedule": [
+              {
+                "id": "ilesoniq-2026-2026-08-08",
+                "date": "2026-08-08",
+                "stages": [
+                  {
+                    "id": "ilesoniq-2026-2026-08-08-scene_oasis_bell",
+                    "name": "Bell OASIS Stage",
+                    "performances": [
+                      {
+                        "id": "ilesoniq-2026-e007440",
+                        "artistName": "MVNGO",
+                        "startTimeText": "14:00",
+                        "endTimeText": "15:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007377",
+                        "artistName": "Tomas Grey",
+                        "startTimeText": "15:00",
+                        "endTimeText": "16:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007405",
+                        "artistName": "Matt Sassari",
+                        "startTimeText": "16:00",
+                        "endTimeText": "17:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007372",
+                        "artistName": "Sidepiece",
+                        "startTimeText": "17:00",
+                        "endTimeText": "18:05"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007375",
+                        "artistName": "Sub Focus",
+                        "startTimeText": "18:05",
+                        "endTimeText": "19:05"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e008621",
+                        "artistName": "Crankdat",
+                        "startTimeText": "19:05",
+                        "endTimeText": "20:05"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007354",
+                        "artistName": "Deadmau5",
+                        "startTimeText": "20:10",
+                        "endTimeText": "21:10"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007348",
+                        "artistName": "Chris Lake & Friends",
+                        "startTimeText": "21:15",
+                        "endTimeText": "22:55"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ilesoniq-2026-2026-08-08-scene_mirage",
+                    "name": "MIRAGE Stage",
+                    "performances": [
+                      {
+                        "id": "ilesoniq-2026-e007441",
+                        "artistName": "Sin Less",
+                        "startTimeText": "14:00",
+                        "endTimeText": "14:45"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e008619",
+                        "artistName": "Clüb De Combat",
+                        "startTimeText": "14:45",
+                        "endTimeText": "15:40"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007425",
+                        "artistName": "Marco Strous",
+                        "startTimeText": "15:40",
+                        "endTimeText": "16:35"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007388",
+                        "artistName": "Riordan",
+                        "startTimeText": "16:35",
+                        "endTimeText": "17:40"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007366",
+                        "artistName": "KREAM",
+                        "startTimeText": "17:40",
+                        "endTimeText": "18:55"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007788",
+                        "artistName": "Cassian b2b Yotto",
+                        "startTimeText": "18:55",
+                        "endTimeText": "20:10"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007872",
+                        "artistName": "Boys Noize b2b Tiga",
+                        "startTimeText": "20:10",
+                        "endTimeText": "21:25"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007349",
+                        "artistName": "Boris Brejcha",
+                        "startTimeText": "21:25",
+                        "endTimeText": "22:55"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ilesoniq-2026-2026-08-08-scene_neon_coca_cola",
+                    "name": "Coca-Cola NEON stage",
+                    "performances": [
+                      {
+                        "id": "ilesoniq-2026-e007439",
+                        "artistName": "Kleed",
+                        "startTimeText": "14:00",
+                        "endTimeText": "15:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007363",
+                        "artistName": "Izzy Vadim",
+                        "startTimeText": "15:00",
+                        "endTimeText": "16:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007364",
+                        "artistName": "Jkyl & Hyde",
+                        "startTimeText": "16:00",
+                        "endTimeText": "17:05"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007369",
+                        "artistName": "LYNY",
+                        "startTimeText": "17:05",
+                        "endTimeText": "18:15"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007376",
+                        "artistName": "TDJ présente DJ Geneviève",
+                        "startTimeText": "18:15",
+                        "endTimeText": "19:15"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007435",
+                        "artistName": "OGUZ",
+                        "startTimeText": "19:15",
+                        "endTimeText": "20:30"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007367",
+                        "artistName": "Layz b2b Kompany",
+                        "startTimeText": "20:30",
+                        "endTimeText": "21:45"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007344",
+                        "artistName": "ATLIENS",
+                        "startTimeText": "21:45",
+                        "endTimeText": "22:55"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ilesoniq-2026-2026-08-09",
+                "date": "2026-08-09",
+                "stages": [
+                  {
+                    "id": "ilesoniq-2026-2026-08-09-scene_oasis_bell",
+                    "name": "Bell OASIS Stage",
+                    "performances": [
+                      {
+                        "id": "ilesoniq-2026-e007442",
+                        "artistName": "Tom DŪNO b2b Yurie",
+                        "startTimeText": "14:00",
+                        "endTimeText": "15:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007359",
+                        "artistName": "Hayla",
+                        "startTimeText": "15:15",
+                        "endTimeText": "16:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007346",
+                        "artistName": "AYYBO",
+                        "startTimeText": "16:10",
+                        "endTimeText": "17:10"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007351",
+                        "artistName": "Chris Lorenzo",
+                        "startTimeText": "17:10",
+                        "endTimeText": "18:30"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007386",
+                        "artistName": "Gryffin",
+                        "startTimeText": "18:30",
+                        "endTimeText": "19:30"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007345",
+                        "artistName": "Above & Beyond",
+                        "startTimeText": "19:35",
+                        "endTimeText": "20:50"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007356",
+                        "artistName": "Dom Dolla",
+                        "startTimeText": "21:00",
+                        "endTimeText": "22:30"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ilesoniq-2026-2026-08-09-scene_mirage",
+                    "name": "MIRAGE Stage",
+                    "performances": [
+                      {
+                        "id": "ilesoniq-2026-e007438",
+                        "artistName": "Kattana",
+                        "startTimeText": "14:00",
+                        "endTimeText": "15:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007385",
+                        "artistName": "Future Exit b2b NEOTEK",
+                        "startTimeText": "15:00",
+                        "endTimeText": "16:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007374",
+                        "artistName": "Stoog3s to Death",
+                        "startTimeText": "16:00",
+                        "endTimeText": "17:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007362",
+                        "artistName": "Hedex",
+                        "startTimeText": "17:00",
+                        "endTimeText": "18:00"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007368",
+                        "artistName": "Level Up b2b Infekt",
+                        "startTimeText": "18:00",
+                        "endTimeText": "19:10"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007352",
+                        "artistName": "Dabin",
+                        "startTimeText": "19:15",
+                        "endTimeText": "20:15"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007378",
+                        "artistName": "Wooli",
+                        "startTimeText": "20:20",
+                        "endTimeText": "21:20"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007373",
+                        "artistName": "Seven Lions",
+                        "startTimeText": "21:25",
+                        "endTimeText": "22:25"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ilesoniq-2026-2026-08-09-scene_neon_coca_cola",
+                    "name": "Coca-Cola NEON stage",
+                    "performances": [
+                      {
+                        "id": "ilesoniq-2026-e007437",
+                        "artistName": "Badgalquirit",
+                        "startTimeText": "14:00",
+                        "endTimeText": "15:30"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007426",
+                        "artistName": "Zorza",
+                        "startTimeText": "15:30",
+                        "endTimeText": "16:35"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007436",
+                        "artistName": "Roddy Lima",
+                        "startTimeText": "16:35",
+                        "endTimeText": "17:50"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007370",
+                        "artistName": "Novah",
+                        "startTimeText": "17:50",
+                        "endTimeText": "18:55"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007365",
+                        "artistName": "Ki/Ki",
+                        "startTimeText": "18:55",
+                        "endTimeText": "20:10"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007379",
+                        "artistName": "¥ØU$UK€ ¥UK1MAT$U",
+                        "startTimeText": "20:10",
+                        "endTimeText": "21:25"
+                      },
+                      {
+                        "id": "ilesoniq-2026-e007387",
+                        "artistName": "Holy Priest",
+                        "startTimeText": "21:25",
+                        "endTimeText": "22:25"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "minimumComparableGA": null,
+            "lineupDelta": null
+          },
+          "sourceFreshness": {
+            "state": "live",
+            "observedAt": "2026-07-19T00:36:51Z"
           }
         }
       ]
