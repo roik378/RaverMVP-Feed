@@ -2389,7 +2389,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a49782a89c360284c2b618f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2451,7 +2451,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2499,7 +2499,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a4978f13e10f44b58982757",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2561,7 +2561,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497986bf7d4c91bb55137b",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2623,7 +2623,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a1abf7d4c91bb551381",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2685,7 +2685,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://checkout.admitone.com/6a497a884df4217fda772d26",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3039,7 +3039,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -3130,7 +3130,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/wonkywillavancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3180,7 +3180,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -3237,7 +3237,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -3294,7 +3294,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3346,7 +3346,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/feedmeredroom/",
             "collectorKind": "showpassNextData"
           }
@@ -3396,7 +3396,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3447,7 +3447,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-19T01:52:13Z",
+            "capturedAt": "2026-07-19T02:13:13Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -8094,7 +8094,15 @@
           "timeText": null,
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
+          "styles": [
+            "Techno",
+            "Progressive",
+            "Dubstep",
+            "Bass",
+            "Future Bass",
+            "House",
+            "Trance"
+          ],
           "confidence": 0.99,
           "lastRefreshedText": "Sun 01:27",
           "isMajorFestival": true,
@@ -8119,8 +8127,27 @@
             {
               "name": "Boris Brejcha",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2C5BC33C-4859-540B-A4ED-5F726C02E649",
+                  "title": "House Music (feat. Arctic Lake) [Edit]",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "6973487E-F19B-53C9-BA1A-E940E993091A",
+                  "title": "Purple Noise",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "FFBD006E-C184-57C3-BCCD-309C229F5063",
+                  "title": "Gravity (feat. Laura Korinth) [Edit]",
+                  "label": "Boris Brejcha"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8196,8 +8223,27 @@
             {
               "name": "Excision",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep",
+                "Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "51C4B1AB-7589-5838-B132-D7F405D3AEF7",
+                  "title": "Feel Something",
+                  "label": "Excision / I Prevail"
+                },
+                {
+                  "id": "4DEBF97F-8878-5F91-B87D-FA59D32A1641",
+                  "title": "Zombie (feat. Valerie Broussard)",
+                  "label": "Excision"
+                },
+                {
+                  "id": "BAA41270-9019-5B43-B55A-A1F11B877B4C",
+                  "title": "Throwin' Elbows (feat. Space Laces)",
+                  "label": "Rottun Recordings"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8294,8 +8340,26 @@
             {
               "name": "Whethan",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Future Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "607E8A10-98FA-5780-A932-5BEBF948137A",
+                  "title": "When I'm Down",
+                  "label": "Whethan / Oliver Tree"
+                },
+                {
+                  "id": "0655B345-4D7D-51D6-B37A-C3B9049F37E8",
+                  "title": "MONEY ON THE DASH",
+                  "label": "Whethan / Elley Duhé"
+                },
+                {
+                  "id": "EBEA6334-3C7E-5B0C-94FE-6A19A39719E9",
+                  "title": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
+                  "label": "Whethan"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -8315,8 +8379,28 @@
             {
               "name": "ATRIP",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House",
+                "Bass",
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D367743D-53AB-565D-94B1-8F4D2B2135D6",
+                  "title": "Keep Up",
+                  "label": "ATRIP & DJ BORING"
+                },
+                {
+                  "id": "237ABE5D-6DEF-5599-B5E7-8F575423AFD5",
+                  "title": "Rainbow",
+                  "label": "ATRIP"
+                },
+                {
+                  "id": "BA506D50-1332-5D48-9CB1-CC3E26D5BC0C",
+                  "title": "GUMMI",
+                  "label": "ATRIP"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -12613,8 +12697,26 @@
             {
               "name": "Amelie Lens",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "9A3C0E93-D1A6-5F5D-9E10-33157C457228",
+                  "title": "Falling For You",
+                  "label": "Amelie Lens"
+                },
+                {
+                  "id": "26FBD2F1-677E-57FF-8401-C342308828E0",
+                  "title": "Young Forever",
+                  "label": "Amelie Lens"
+                },
+                {
+                  "id": "7049FC6E-C7A6-5D3E-A30D-B6596B8D60A2",
+                  "title": "Serenity",
+                  "label": "Amelie Lens"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -29228,7 +29330,11 @@
           "timeText": null,
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
+          "styles": [
+            "Techno",
+            "Dubstep",
+            "Progressive"
+          ],
           "confidence": 0.99,
           "lastRefreshedText": "Sun 01:47",
           "isMajorFestival": true,
@@ -29281,8 +29387,26 @@
             {
               "name": "Amelie Lens",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "9A3C0E93-D1A6-5F5D-9E10-33157C457228",
+                  "title": "Falling For You",
+                  "label": "Amelie Lens"
+                },
+                {
+                  "id": "26FBD2F1-677E-57FF-8401-C342308828E0",
+                  "title": "Young Forever",
+                  "label": "Amelie Lens"
+                },
+                {
+                  "id": "7049FC6E-C7A6-5D3E-A30D-B6596B8D60A2",
+                  "title": "Serenity",
+                  "label": "Amelie Lens"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -29344,8 +29468,26 @@
             {
               "name": "Charlotte de Witte",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D9637487-77DE-5CDF-B7E8-4CD926A1507A",
+                  "title": "The Heads That Know (feat. Comma Dee)",
+                  "label": "Charlotte de Witte"
+                },
+                {
+                  "id": "766822CF-3C8D-5377-A2CA-A8C59B9320F9",
+                  "title": "Amor (feat. CERES)",
+                  "label": "Charlotte de Witte"
+                },
+                {
+                  "id": "E48E6A85-7CE7-5AC8-9A53-8F76BE48036E",
+                  "title": "A Prayer for the Dancefloor (feat. Conduit)",
+                  "label": "Charlotte de Witte"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -29666,22 +29808,76 @@
             {
               "name": "underscores",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D81CF992-7455-55DE-B9DB-B23C0C23D173",
+                  "title": "Locals (Girls like us)",
+                  "label": "Mom+Pop"
+                },
+                {
+                  "id": "D66B4A1D-1A66-54F1-AC17-E46D1756A0AE",
+                  "title": "Music",
+                  "label": "Mom+Pop"
+                },
+                {
+                  "id": "C7E2CECA-ADD0-5C20-9BE5-B774045B79C6",
+                  "title": "Tell Me (U Want It)",
+                  "label": "Mom+Pop"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
               "name": "Vintage Culture",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
+              "styles": [
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "1F9BCD45-26E2-5885-8017-EAC65EF2F8AB",
+                  "title": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
+                  "label": "Vintage Culture & Zerky"
+                },
+                {
+                  "id": "1F9D5285-A5B4-55C9-B6CE-557A83D5915D",
+                  "title": "Freaky 1",
+                  "label": "Vintage Culture"
+                },
+                {
+                  "id": "CEAE2A93-5F77-5598-8B47-B63EA42FC050",
+                  "title": "You Give Me a Feeling",
+                  "label": "Vintage Culture"
+                }
+              ],
+              "peakDJMagRank": 9
             },
             {
               "name": "VTSS",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "59B76640-9693-568F-937F-0E051A9B94A7",
+                  "title": "Can't Catch Me",
+                  "label": "VTSS"
+                },
+                {
+                  "id": "3DCFE9AE-467E-527F-B9E6-1C58B7DC6870",
+                  "title": "Make You Scream",
+                  "label": "VTSS"
+                },
+                {
+                  "id": "CB7EF829-FB3C-5805-B18B-A712277E8A3B",
+                  "title": "Trust me",
+                  "label": "VTSS"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -32229,7 +32425,11 @@
           "timeText": null,
           "distanceText": null,
           "coordinate": null,
-          "styles": [],
+          "styles": [
+            "Techno",
+            "Progressive",
+            "House"
+          ],
           "confidence": 0.99,
           "lastRefreshedText": "Sun 00:36",
           "isMajorFestival": true,
@@ -32268,8 +32468,27 @@
             {
               "name": "Boris Brejcha",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno",
+                "Progressive"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "2C5BC33C-4859-540B-A4ED-5F726C02E649",
+                  "title": "House Music (feat. Arctic Lake) [Edit]",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "6973487E-F19B-53C9-BA1A-E940E993091A",
+                  "title": "Purple Noise",
+                  "label": "Boris Brejcha"
+                },
+                {
+                  "id": "FFBD006E-C184-57C3-BCCD-309C229F5063",
+                  "title": "Gravity (feat. Laura Korinth) [Edit]",
+                  "label": "Boris Brejcha"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -32331,8 +32550,26 @@
             {
               "name": "Dom Dolla",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B33DE595-17AA-56B1-A27F-BE5D63370583",
+                  "title": "girl$",
+                  "label": "Dom Dolla"
+                },
+                {
+                  "id": "CEF62E96-6E95-5E66-8D3E-4EDFBFC51B62",
+                  "title": "San Frandisco",
+                  "label": "Dom Dolla"
+                },
+                {
+                  "id": "CF8A3865-3F78-5E4B-8280-900477533CC4",
+                  "title": "Saving Up",
+                  "label": "Dom Dolla"
+                }
+              ],
               "peakDJMagRank": null
             },
             {

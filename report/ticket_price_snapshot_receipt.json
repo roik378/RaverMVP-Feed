@@ -396,7 +396,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -420,7 +420,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -444,7 +444,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -468,7 +468,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -492,7 +492,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -516,7 +516,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -603,7 +603,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -636,7 +636,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -660,7 +660,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -684,7 +684,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -708,7 +708,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -732,7 +732,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -756,7 +756,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -780,7 +780,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-19T01:52:13Z",
+        "capturedAt": "2026-07-19T02:13:13Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -1030,10 +1030,10 @@
       "ticketURLText": "https://ilesoniq.com/en/tickets"
     }
   ],
-  "feedSHA256After": "c9487c4a924b50324d3dc33b1c8d5e2a565f4a5f27a2e0e06814dfef08e7b23a",
-  "feedSHA256Before": "eee0d498d9613fae58ead9ccb5dd3e20dceeb20074ac700a90e4a8a80344d885",
-  "historySHA256After": "5a9aa7e65f55ebff63f6b41ee82bbf207b8a73a2bee95d70cfb5e1d9ef566d4a",
-  "priceProjectionSHA256": "53e5a914c65dd58a7110af8ecd09ccc141198d46b6b2033abf277f0eed6574c1",
+  "feedSHA256After": "04eeb73f2b4a20ab2f7cc43eccf21a698ed4e794bd8b9a502a5cc25765381807",
+  "feedSHA256Before": "fe9afdb61798f8f183a0a9b8943769d1048a8bd776d0fc4c6cc58b62badd307a",
+  "historySHA256After": "c5e665b8d1eeecd84d64404f08fe2ca6edde7e10e4463259e20cabd3b2a60195",
+  "priceProjectionSHA256": "7bca44ce85280db61cd8504145a90262753f39ab0a46f7b83188a2527009b718",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
