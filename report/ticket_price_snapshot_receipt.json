@@ -396,7 +396,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -420,7 +420,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -444,7 +444,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -468,7 +468,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -492,7 +492,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -516,7 +516,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -603,7 +603,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -636,7 +636,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -660,7 +660,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -684,7 +684,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -708,7 +708,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -727,12 +727,36 @@
       "action": "applied",
       "city": "Vancouver",
       "collectorStatus": "applied",
+      "eventID": "7FB3C32D-1999-5408-9E82-9AE118AAFC43",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 2500,
+        "availability": "available",
+        "capturedAt": "2026-07-19T00:04:09Z",
+        "collectorKind": "showpassNextData",
+        "currency": "CAD",
+        "displayText": "From C$25 + fees",
+        "feeBasis": "feesExcluded",
+        "provider": "showpass",
+        "providerEventID": "feedmeredroom",
+        "sourceURLText": "https://www.showpass.com/feedmeredroom/",
+        "tierKey": "primary-ga|showpass-ticket-4470611",
+        "tierName": "GA - Early Bird",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketURLText": "https://www.showpass.com/feedmeredroom/"
+    },
+    {
+      "action": "applied",
+      "city": "Vancouver",
+      "collectorStatus": "applied",
       "eventID": "B2B3486A-7620-5460-BAF2-1B55D3B55F8A",
       "reason": null,
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -756,7 +780,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-18T21:45:23Z",
+        "capturedAt": "2026-07-19T00:04:09Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -997,16 +1021,16 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "77a7e370f663e0787b3f461dec0fedd64e8572b85305356df0a1b7e608b3af1f",
-  "feedSHA256Before": "3c02a6fbb4c4d190461e793a98158052026c3c066688c689613228197eefc420",
-  "historySHA256After": "667b97fc3bfd2c17f314b5ff752a1e660b2f0a1e4f1f981ca42ce1514faaa5fe",
-  "priceProjectionSHA256": "6292e57f41b2d32f43960346dd88e54c15a54016fc0aac3c0c2292f70295bdf1",
+  "feedSHA256After": "7b337fbfec0b6f1178d347547eaf18a4963b1d5ed7b24c9d4ae9831df83f0163",
+  "feedSHA256Before": "07a777003ae2c5661f49aed679e2d03f7e3e5f2e19e77ec3dbd5b2c8926864bc",
+  "historySHA256After": "f4e76922cc7073573d72d438193e26978a658b4c678e628d809860287aade0a7",
+  "priceProjectionSHA256": "1fa66c9da1926d9f141e4ea2f32bf34ae266ffd006b46fd1ec5d0c3ac03b1c70",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
-    "appliedCount": 13,
-    "candidateCount": 89,
-    "freshCount": 13,
+    "appliedCount": 14,
+    "candidateCount": 90,
+    "freshCount": 14,
     "noSnapshotCount": 55,
     "providerFailureCount": 21,
     "staleCount": 0

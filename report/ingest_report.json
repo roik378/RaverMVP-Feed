@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-18T21:42:43Z",
-  "ingestRunId": "64BC5C09-A5DD-4FD3-A93D-5087C6FB4DBB",
-  "ingestRunAt": "2026-07-18T21:42:43Z",
+  "ranAt": "2026-07-18T23:57:35Z",
+  "ingestRunId": "7EAA5914-4401-4F6B-8116-6A6BE8949767",
+  "ingestRunAt": "2026-07-18T23:57:35Z",
   "mode": "full",
   "sources": [
     {
@@ -118,9 +118,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 6,
-      "usable": 6,
-      "consumerReady": 6,
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -659,11 +659,11 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 163,
-      "usable": 102,
-      "consumerReady": 70,
+      "captured": 164,
+      "usable": 103,
+      "consumerReady": 71,
       "consumerRejected": 32,
-      "consumerReadyRate": 0.686,
+      "consumerReadyRate": 0.689,
       "rejectionReasons": {
         "missing_raver_evidence": 10,
         "reviewed_non_raver_title": 2,
@@ -1409,11 +1409,11 @@
     }
   ],
   "totals": {
-    "captured": 204,
-    "usable": 137
+    "captured": 205,
+    "usable": 138
   },
   "consumerQuality": {
-    "ready": 105,
+    "ready": 106,
     "rejected": 32,
     "rejectionReasons": {
       "missing_raver_evidence": 10,
@@ -1427,12 +1427,12 @@
     "Shenzhen": "2026-07-19",
     "Miami": "2026-07-18",
     "Las Vegas": "2026-07-18",
-    "Daresbury": "2026-07-18",
+    "Daresbury": "2026-07-19",
     "Salmo": "2026-07-18",
     "Orlando": "2026-07-18",
-    "Boom": "2026-07-18",
-    "Hilvarenbeek": "2026-07-18",
-    "Arnhem": "2026-07-18",
+    "Boom": "2026-07-19",
+    "Hilvarenbeek": "2026-07-19",
+    "Arnhem": "2026-07-19",
     "Cluj-Napoca": "2026-07-19",
     "Thornville": "2026-07-18",
     "Los Angeles": "2026-07-18",
@@ -1441,9 +1441,9 @@
     "Mumbai": "2026-07-19",
     "Jakarta": "2026-07-19",
     "Phuket": "2026-07-19",
-    "Alpe d'Huez": "2026-07-18",
+    "Alpe d'Huez": "2026-07-19",
     "Mexico City": "2026-07-18",
-    "Split": "2026-07-18",
+    "Split": "2026-07-19",
     "Tokyo": "2026-07-19"
   },
   "reviewedArtistSeed": {

@@ -424,22 +424,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 64,
-          "actionableRatio": 0.9143,
+          "actionable": 65,
+          "actionableRatio": 0.9155,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 64,
-          "ratio": 0.9143,
-          "total": 70
+          "direct": 65,
+          "ratio": 0.9155,
+          "total": 71
         },
         "raw": {
-          "actionable": 64,
-          "actionableRatio": 0.9143,
+          "actionable": 65,
+          "actionableRatio": 0.9155,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 64,
-          "ratio": 0.9143,
-          "total": 70
+          "direct": 65,
+          "ratio": 0.9155,
+          "total": 71
         }
       }
     },
@@ -866,22 +866,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 64,
-          "actionableRatio": 0.9143,
+          "actionable": 65,
+          "actionableRatio": 0.9155,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 64,
-          "ratio": 0.9143,
-          "total": 70
+          "direct": 65,
+          "ratio": 0.9155,
+          "total": 71
         },
         "raw": {
-          "actionable": 64,
-          "actionableRatio": 0.9143,
+          "actionable": 65,
+          "actionableRatio": 0.9155,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 64,
-          "ratio": 0.9143,
-          "total": 70
+          "direct": 65,
+          "ratio": 0.9155,
+          "total": 71
         }
       }
     }
@@ -994,11 +994,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 105,
-  "eventCountBefore": 105,
+  "eventCountAfter": 106,
+  "eventCountBefore": 106,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "77a7e370f663e0787b3f461dec0fedd64e8572b85305356df0a1b7e608b3af1f",
-  "feedSHA256Before": "77a7e370f663e0787b3f461dec0fedd64e8572b85305356df0a1b7e608b3af1f",
+  "feedSHA256After": "7b337fbfec0b6f1178d347547eaf18a4963b1d5ed7b24c9d4ae9831df83f0163",
+  "feedSHA256Before": "7b337fbfec0b6f1178d347547eaf18a4963b1d5ed7b24c9d4ae9831df83f0163",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1024,13 +1024,13 @@
   },
   "referenceDate": "2026-07-19",
   "referenceDatesByCity": {
-    "Alpe d'Huez": "2026-07-18",
-    "Arnhem": "2026-07-18",
-    "Boom": "2026-07-18",
+    "Alpe d'Huez": "2026-07-19",
+    "Arnhem": "2026-07-19",
+    "Boom": "2026-07-19",
     "Chicago": "2026-07-18",
     "Cluj-Napoca": "2026-07-19",
-    "Daresbury": "2026-07-18",
-    "Hilvarenbeek": "2026-07-18",
+    "Daresbury": "2026-07-19",
+    "Hilvarenbeek": "2026-07-19",
     "Jakarta": "2026-07-19",
     "Las Vegas": "2026-07-18",
     "Long Beach": "2026-07-18",
@@ -1042,7 +1042,7 @@
     "Phuket": "2026-07-19",
     "Salmo": "2026-07-18",
     "Shenzhen": "2026-07-19",
-    "Split": "2026-07-18",
+    "Split": "2026-07-19",
     "Thornville": "2026-07-18",
     "Tokyo": "2026-07-19",
     "Vancouver": "2026-07-18"
