@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-20T02:07:01Z",
-  "ingestRunId": "197E14EA-5BE5-44F8-A4E9-C083B26CC360",
-  "ingestRunAt": "2026-07-20T02:07:01Z",
+  "ranAt": "2026-07-20T02:19:03Z",
+  "ingestRunId": "41F68A47-38AA-4F96-9F55-4B977C43CC57",
+  "ingestRunAt": "2026-07-20T02:19:03Z",
   "mode": "full",
   "sources": [
     {
@@ -198,7 +198,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-20T02:06:49Z",
+      "ticketOfferObservedAt": "2026-07-20T02:18:51Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -283,7 +283,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 10:07:21",
+        "observedAtText": "2026-07-20 10:19:22",
         "totalSearchRecords": 16,
         "acceptedReviewedRecordCount": 10,
         "venues": [
@@ -739,7 +739,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 86701,
+          "sha256": "ffa055969e4269dfc4807d4c5e59d213eb5d6292e026866971195f0c052192a5",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -758,7 +763,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 139576,
+          "sha256": "fce7910227a6d6ad4b5d0662d3bf33e958c1d453e7332bfc182397990149a544",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -832,19 +842,23 @@
       "sourceId": "arc_music_festival_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "error: no_parsed_events",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0,
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "fallback": {
-        "status": "retained",
-        "eligibleEventCount": 1,
-        "retainedEventCount": 1,
-        "fallbackAgeHours": 3
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
       },
       "reviewedFactVerification": {
-        "attemptCount": 2,
-        "status": "failed"
+        "attemptCount": 1,
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 84249,
+          "sha256": "6fa12a3d9dbd4a4fdd71597f851ad7c25f99f11ea6697b07c033cea26810bcf0",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -863,7 +877,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 287668,
+          "sha256": "3409c24e7908219ac7f6c2d79b14a0717076e80024cdbda62edc762639f60491",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -882,7 +901,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 121440,
+          "sha256": "351ae868c15420126c88880a52ec31b9e672ab31d7c73342ae791d079a238000",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -916,7 +940,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 133601,
+          "sha256": "c6e784acad10c11af5ae121bad4b5be297c599986ecca964808eb299195ce08c",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -935,7 +964,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 93783,
+          "sha256": "68cb9b2210ded7845668c371ba9e11dbf3455115abfe22b9757acbfd2848b997",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -954,7 +988,12 @@
       },
       "reviewedFactVerification": {
         "attemptCount": 1,
-        "status": "not_needed"
+        "status": "not_needed",
+        "initialResponse": {
+          "contentLength": 54435,
+          "sha256": "9073e61e02defaa4fd314d23c3eba1f887152e7338d4b76cbe479d8c6c5a691e",
+          "missingMarkers": []
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -1213,14 +1252,14 @@
     {
       "cityId": "chicago_us",
       "cityName": "Chicago",
-      "captured": 0,
+      "captured": 1,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 1,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1760,7 +1799,7 @@
   ],
   "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 204,
+    "captured": 205,
     "usable": 137
   },
   "consumerQuality": {
@@ -1809,11 +1848,11 @@
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "degraded",
+    "status": "healthy",
     "ttlHours": 120,
-    "failedSourceCount": 1,
-    "materialFailureCount": 1,
-    "retainedEventCount": 1,
+    "failedSourceCount": 0,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
       "ingestRunId": "2CBCCE98-700F-4F7E-A085-E8DC1D4C7494",
@@ -1850,8 +1889,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish with retained source disclosure.",
-    "sourceResilienceStatus": "degraded"
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
