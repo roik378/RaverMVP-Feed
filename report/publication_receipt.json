@@ -25,17 +25,17 @@
     "Split": 1,
     "Thornville": 1,
     "Tokyo": 1,
-    "Vancouver": 66
+    "Vancouver": 65
   },
   "directTicketCoverageLimited": true,
   "directTicketCoverageLimitedCities": [
     "Las Vegas",
     "Shenzhen"
   ],
-  "eventCount": 104,
+  "eventCount": 103,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "6deeb516d9bc755cae1729b6d10f6f0fbdfa504d3c933b950a33709df27d346a",
+  "feedSHA256": "7d8fb9183c3b41e4092378c85206a3f03b2b3bc9d53be29381e1018ef32e801a",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -45,14 +45,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-21T21:00:29Z",
-  "ingestRunId": "DA3318D1-9F54-43A3-AC27-4732915AA0E1",
+  "ingestRunAt": "2026-07-21T21:30:15Z",
+  "ingestRunId": "E573DAFB-9631-4696-9DAB-C52300001893",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-21T21:02:32Z",
+  "publishedAt": "2026-07-21T21:33:09Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "5d82c4f341aa3525ceb791fc870bad934179dc11f54d2f3f63d6c9a6aaa15d12",
+  "reportSHA256": "7644c09acb0a79807b51f0e07a13f746fb6aa464b2122fbca90b3ccf6f4114e2",
   "schemaVersion": 1,
-  "sourceCommitSHA": "1ac616a61a9acfbf94a9e39062e3134e83974593",
+  "sourceCommitSHA": "6e0212268d3944d6435b1a3884be976c8c564dc0",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -61,10 +61,10 @@
     "Las Vegas"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "5a54284635140e6b1e9bd8277a17d50ad8bb8c5a4bd283ed60ab3874aeded41e",
+  "ticketPriceProjectionSHA256": "86426ade09f27471766ec499f4aa0f096b1bea0fccd87b15014f1c7feafddc2d",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "f5972cfa2d84a9c4fb0cfbb54605d28983f117a0f4b983bd2a7068e7cc7b2409",
+  "ticketPriceReceiptSHA256": "488f806244e81e7ba4b678a2b8746aa52ab88b836a64853f2505ed812562fd60",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "5c15a37ab5df1a571396c4bbd0c6f1a65e7934b60b8d46fa9d339b2a245ba76a"
+  "ticketReceiptSHA256": "4797fda278bbc49c70ef6760a9e8a5a23c296254fc052597aab46986ecefbd36"
 }

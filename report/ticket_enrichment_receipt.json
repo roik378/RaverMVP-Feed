@@ -444,22 +444,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 66,
+          "actionable": 65,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
+          "direct": 65,
           "ratio": 1.0,
-          "total": 66
+          "total": 65
         },
         "raw": {
-          "actionable": 66,
+          "actionable": 65,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
+          "direct": 65,
           "ratio": 1.0,
-          "total": 66
+          "total": 65
         }
       }
     },
@@ -906,22 +906,22 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 66,
+          "actionable": 65,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
+          "direct": 65,
           "ratio": 1.0,
-          "total": 66
+          "total": 65
         },
         "raw": {
-          "actionable": 66,
+          "actionable": 65,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
+          "direct": 65,
           "ratio": 1.0,
-          "total": 66
+          "total": 65
         }
       }
     }
@@ -1024,11 +1024,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 104,
-  "eventCountBefore": 104,
+  "eventCountAfter": 103,
+  "eventCountBefore": 103,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "6deeb516d9bc755cae1729b6d10f6f0fbdfa504d3c933b950a33709df27d346a",
-  "feedSHA256Before": "6deeb516d9bc755cae1729b6d10f6f0fbdfa504d3c933b950a33709df27d346a",
+  "feedSHA256After": "7d8fb9183c3b41e4092378c85206a3f03b2b3bc9d53be29381e1018ef32e801a",
+  "feedSHA256Before": "7d8fb9183c3b41e4092378c85206a3f03b2b3bc9d53be29381e1018ef32e801a",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
