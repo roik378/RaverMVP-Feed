@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T19:28:24Z",
-  "ingestRunId": "48495712-ABD4-4F9A-8D27-C886AC092822",
-  "ingestRunAt": "2026-07-21T19:28:24Z",
+  "ranAt": "2026-07-21T19:39:36Z",
+  "ingestRunId": "7902E0CE-FC0E-47A6-8E70-13B5E9B60616",
+  "ingestRunAt": "2026-07-21T19:39:36Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T19:27:58Z",
+      "ticketOfferObservedAt": "2026-07-21T19:39:10Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -292,7 +292,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 03:28:43",
+        "observedAtText": "2026-07-22 03:39:55",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -730,7 +730,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "b75ebdde4af0a7d36710a2775b096486d8c3397346ceb8f1fb7ad3ff0e7568de"
+      "evidenceStyleSHA256": "d4646c413dc5fdf9534f1398f1532f9d61dc893c95e64b5ed2fbd81a7c60b611"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -747,7 +747,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "fe9cc51f80393c8089ae5ccbc1efca2c26b5abfe31f7a52e6d1a34775fd3ce8e"
+      "evidenceStyleSHA256": "6d802561cce8ff0ce7d3309971ee886d7c471571f6c77a6a87b78e6a34a91ccc"
     },
     {
       "sourceId": "creamfields_official",
@@ -1079,13 +1079,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "85ac4cbdd5281fae663ccec10be5ef7d8eda2cef49739cf63673051e9e5925b6",
+          "sha256": "d0fb645b21a8370d3f138ad7087537ab2686d71a6e25804e2adffa4f8438bdfe",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "33b1d599e9f0ce7d36b484c585caf7fe3cd8f569db738fcebad6903fd8aaa237",
+      "evidenceStyleSHA256": "90862bb7c59ca0fda4da38d377fdac60f98415fd25fcffb655a4b04b9c6bfa16",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1106,13 +1106,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "bf49c157a261085bcccd2f12b454700a7c1894c4e2075918b4a85d3be9b13d6a",
+          "sha256": "b052c89195f1ded5013054d1407ead5121a795d69d85e976def96dc0846dd9d3",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "f004a3b5c09b453c8e568c9650003e7539fcc64ecaf78f3fa67aef43ae29450f",
+      "evidenceStyleSHA256": "897c3a40c59cd637cd419d478f4aeec3b54f3d987adce4702bdb388ea2c81bda",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2002,7 +2002,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-21T19:28:07Z",
+    "observedAt": "2026-07-21T19:39:19Z",
     "activityCount": 15,
     "scheduleCount": 17
   },
@@ -2015,8 +2015,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "3C7B7431-B50F-4787-B96E-F6F753F14F72",
-      "ingestRunAt": "2026-07-21T18:08:56Z"
+      "ingestRunId": "48495712-ABD4-4F9A-8D27-C886AC092822",
+      "ingestRunAt": "2026-07-21T19:28:24Z"
     }
   },
   "executionCoverage": {

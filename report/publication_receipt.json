@@ -35,7 +35,7 @@
   "eventCount": 104,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "bc66597da66bf9b8a729f1a0ef9abe82e1a53025ca7818f8ca7f6325425d06cc",
+  "feedSHA256": "4cfc6972db189c54419fc4448894945d6f5a0cdf4ed2a6068e737d77309d320a",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -45,14 +45,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-21T19:28:24Z",
-  "ingestRunId": "48495712-ABD4-4F9A-8D27-C886AC092822",
+  "ingestRunAt": "2026-07-21T19:39:36Z",
+  "ingestRunId": "7902E0CE-FC0E-47A6-8E70-13B5E9B60616",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-21T19:30:43Z",
+  "publishedAt": "2026-07-21T19:41:41Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "18f5c42ec6a01741acfe9a0a1b17cdebb5ffe600f408757d39e768b788f62a00",
+  "reportSHA256": "9376bd353717586b81e9a2bdec15d2bad1f8efea9a8b552d8ead124671dbac99",
   "schemaVersion": 1,
-  "sourceCommitSHA": "0727666e315b79c6bac860c984e295f71dd4cf3b",
+  "sourceCommitSHA": "58f80a149ac4e3e6997d302c48f2446dea244181",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -61,10 +61,10 @@
     "Las Vegas"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "85ffcfa37c7700e625d333d86e61744f0f721b459c22be2ef712bde222e48a94",
+  "ticketPriceProjectionSHA256": "a1f0d5568ccd80bd96d5a68eb9975b347bdafbad779fadac699d9a86dbf685e3",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "4ee0a73d2e31e508bf551fa4a4a065ff1bc6fd079c71d1eca26aead1990d255f",
+  "ticketPriceReceiptSHA256": "ca8cb819f33c1fb4b9f54279d144268d57785bd5b85e528f3b73cec834fc1efe",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "f63bd3b3dbabe944fdda4cf3f6c191ba12961e7d9e338cdbf10e9c4fe2670ac2"
+  "ticketReceiptSHA256": "d67a8275dacaa1a230f7c4592195906cc2c414a6477daadfedbbaf19237cba23"
 }
