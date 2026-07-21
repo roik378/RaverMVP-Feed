@@ -1027,8 +1027,8 @@
   "eventCountAfter": 103,
   "eventCountBefore": 103,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "d68830ed3b9d300e9badb9397b1cebc9a4debef6aebe8d160e43c0a5e16eae27",
-  "feedSHA256Before": "d68830ed3b9d300e9badb9397b1cebc9a4debef6aebe8d160e43c0a5e16eae27",
+  "feedSHA256After": "b05a1bc7d3c1fd8322b6950ece635c9410d5ced6aa5ea362d5b9790453ddf034",
+  "feedSHA256Before": "b05a1bc7d3c1fd8322b6950ece635c9410d5ced6aa5ea362d5b9790453ddf034",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1067,13 +1067,13 @@
   },
   "referenceDate": "2026-07-21",
   "referenceDatesByCity": {
-    "Alpe d'Huez": "2026-07-21",
-    "Arnhem": "2026-07-21",
-    "Boom": "2026-07-21",
+    "Alpe d'Huez": "2026-07-22",
+    "Arnhem": "2026-07-22",
+    "Boom": "2026-07-22",
     "Chicago": "2026-07-21",
     "Cluj-Napoca": "2026-07-22",
     "Daresbury": "2026-07-21",
-    "Hilvarenbeek": "2026-07-21",
+    "Hilvarenbeek": "2026-07-22",
     "Jakarta": "2026-07-22",
     "Las Vegas": "2026-07-21",
     "Long Beach": "2026-07-21",
@@ -1086,7 +1086,7 @@
     "Phuket": "2026-07-22",
     "Salmo": "2026-07-21",
     "Shenzhen": "2026-07-22",
-    "Split": "2026-07-21",
+    "Split": "2026-07-22",
     "Thornville": "2026-07-21",
     "Tokyo": "2026-07-22",
     "Vancouver": "2026-07-21"
