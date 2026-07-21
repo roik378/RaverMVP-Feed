@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T20:03:13Z",
-  "ingestRunId": "35F8B6D6-E12B-46FF-85B3-F643BC698B69",
-  "ingestRunAt": "2026-07-21T20:03:13Z",
+  "ranAt": "2026-07-21T20:37:56Z",
+  "ingestRunId": "7FE2CC45-EDC7-4542-B604-2F541C57C7AE",
+  "ingestRunAt": "2026-07-21T20:37:56Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T20:02:42Z",
+      "ticketOfferObservedAt": "2026-07-21T20:37:23Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -292,7 +292,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 04:03:36",
+        "observedAtText": "2026-07-22 04:38:17",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -331,7 +331,7 @@
         ]
       },
       "livePublicTicketTierCount": 13,
-      "reviewedEventStyleCount": 3,
+      "reviewedEventStyleCount": 4,
       "reviewedEventLineupCount": 3,
       "inventoryReviewCandidates": [
         {
@@ -347,11 +347,13 @@
           "lineupNames": [
             "Slim Soledad"
           ],
-          "styles": [],
+          "styles": [
+            "Techno"
+          ],
           "priceDisplayText": "¥100",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "public_api_observed",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079477624374734849",
           "miniProgramSearchText": "【Mainroom】殺気疼疼: Slim Soledad @OIL Club 深圳",
@@ -360,9 +362,7 @@
             "path": "pages/play/activity-detail",
             "query": "activityId=2079477624374734849&isShare=true"
           },
-          "requiredActions": [
-            "Capture explicit genre or event-theme evidence"
-          ]
+          "requiredActions": []
         },
         {
           "reviewKey": "yuyuan|2079386222454288386",
@@ -377,11 +377,14 @@
           "lineupNames": [
             "#peaktime Pt.1"
           ],
-          "styles": [],
+          "styles": [
+            "Cloud Rap",
+            "Hyperpop"
+          ],
           "priceDisplayText": "¥108",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "public_api_observed",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079386222454288386",
           "miniProgramSearchText": "【Mainroom】n_n pres. #peaktime Pt.1 @OIL Club 深圳",
@@ -390,9 +393,7 @@
             "path": "pages/play/activity-detail",
             "query": "activityId=2079386222454288386&isShare=true"
           },
-          "requiredActions": [
-            "Capture explicit genre or event-theme evidence"
-          ]
+          "requiredActions": []
         },
         {
           "reviewKey": "yuyuan|2072592095781281794",
@@ -730,7 +731,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "f872349ed8de988f73e8e41f51411b84e93f463933cbb8499b4013a69ee4e901"
+      "evidenceStyleSHA256": "9f302e625823f6e05e8d96a99f6da864d0447a727af6d7ed6dd100bfbf154b6b"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -747,7 +748,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "9e464e479926f52bbcc819530b8a3f7bf7410a62216828dc879207549b9da25d"
+      "evidenceStyleSHA256": "fdbe645f84bfa4b31aabb2311e05bd4733858cb462ddc8c53f3f4547e5c9e046"
     },
     {
       "sourceId": "creamfields_official",
@@ -870,8 +871,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212736,
-          "sha256": "740627d0f9743b88aa2f8965e9424f36ba5273740d456f3b8fa748194b008caa",
+          "contentLength": 212809,
+          "sha256": "bc1134d8896010d014798403a003533f08f9bc341eee78c78035ef73b0a1426d",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1079,13 +1080,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "40625c5b101f9b7a5bfc690718699c0225ef5b90fd3eecd244cddf10c4516ed9",
+          "sha256": "0531fcd6d12a147f480b135bc5ec06a5dbf2a30e732f7cfd3cf47c0afdeb1c62",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "1b55a7363c3c104328596d4f7a962438da42c0c833136b5bf01c598b614cf2fb",
+      "evidenceStyleSHA256": "de3f1ee2be98350ec4dc364ef0343f22b12c6ae644ae049c41b6d5d4d9095ed8",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1106,13 +1107,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "676915800e09ba2b5a3cf53c0628b9a53c049fcd3f08e4473fdec0fdb9639129",
+          "sha256": "d14d8ecd911df6779e43445a6988e0990ec1eff230e0c2abe1a7b5765fa9cd6e",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "d928b1538b7ebf126af470bd89d122b41361177a659171c286b05d4d33c05ff5",
+      "evidenceStyleSHA256": "c1299f0684a2b09aea3111a57c8b070c5993a56753ed2a5258f66486d17c3ab4",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2002,7 +2003,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-21T20:02:53Z",
+    "observedAt": "2026-07-21T20:37:34Z",
     "activityCount": 15,
     "scheduleCount": 17
   },
@@ -2015,8 +2016,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "7902E0CE-FC0E-47A6-8E70-13B5E9B60616",
-      "ingestRunAt": "2026-07-21T19:39:36Z"
+      "ingestRunId": "35F8B6D6-E12B-46FF-85B3-F643BC698B69",
+      "ingestRunAt": "2026-07-21T20:03:13Z"
     }
   },
   "executionCoverage": {
