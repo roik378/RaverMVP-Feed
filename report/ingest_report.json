@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T11:38:50Z",
-  "ingestRunId": "A36C08A9-F142-4F22-809C-7A04475009E5",
-  "ingestRunAt": "2026-07-21T11:38:50Z",
+  "ranAt": "2026-07-21T16:41:38Z",
+  "ingestRunId": "9306BC7B-CE6C-45D1-A8A5-C5793F9B8448",
+  "ingestRunAt": "2026-07-21T16:41:38Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T11:38:38Z",
+      "ticketOfferObservedAt": "2026-07-21T16:41:27Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -291,7 +291,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-21 19:39:12",
+        "observedAtText": "2026-07-22 00:42:01",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -739,7 +739,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "bd7b7c5365be5a77c54bd54d2c1660dc3e4658c5baedea25d1a5c84e7991e19a"
+      "evidenceStyleSHA256": "1169fe4f0969d85fb013f6609f2c4706e2d0f8b1481de1f029dc99ce87842c45"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -756,7 +756,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "582b550af0fa7165f6043439097ef603555ddb806ae6d88f08c75411c3a351c6"
+      "evidenceStyleSHA256": "40444e2e6521a575f8461d12c2eda567413d3e51dec56648e5a52a5c39f42b7d"
     },
     {
       "sourceId": "creamfields_official",
@@ -854,8 +854,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 86701,
-          "sha256": "ffa055969e4269dfc4807d4c5e59d213eb5d6292e026866971195f0c052192a5",
+          "contentLength": 91298,
+          "sha256": "59dbb614be268ebea57308ee74dc8b9ff64013e04caa69f7165b6ffffedd9743",
           "missingMarkers": []
         }
       },
@@ -878,13 +878,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 210455,
-          "sha256": "9d5a2c7a6e87efca29bf5138402e3f313c6136b273fa885427c86af8c7346365",
+          "contentLength": 212736,
+          "sha256": "15ff5c202d9083dc3207a19d08a64857e4a479d948cc60a0b6bd10ed2bc514e2",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "fb9700426788edc96151702edeaaee27aaeba03c374043250ab20bc7fdfe38d6",
+      "evidenceStyleSHA256": "1df2bc7c72aef7a082db9aff6595c30026be82cae9908af22e0641f627f8fc1f",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -971,7 +971,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 88805,
-          "sha256": "dd50a9f28c1d712dca543d9ba77e708d9adf4036519aad0cab1f2c0887720986",
+          "sha256": "cf34a05e02c1e8ddeb1fd2ec09969565af3aa7a34fdfdbf3347ed7ea5013ded4",
           "missingMarkers": []
         }
       },
@@ -1018,8 +1018,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 121440,
-          "sha256": "351ae868c15420126c88880a52ec31b9e672ab31d7c73342ae791d079a238000",
+          "contentLength": 121448,
+          "sha256": "85dc7950c130476ffd703e9a55f00aa4acc985f158a3ff9b9f4267e7b8a70236",
           "missingMarkers": []
         }
       },
@@ -1082,12 +1082,12 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "1369781a149636f306aadabdc853489bd3146350375b95dc37e2878810c5b953",
+          "sha256": "75cf7140db79f5051edcc2afd7ce804d8158020ad65078993c857d838ce8d074",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "d418df74d1fd5a5ae6b6a5f6f317828663aa4491a04fb427b4194801337af9ae",
+      "evidenceStyleSHA256": "e42051336a5d4e9bcf0c6ed4d1c2a05d8be8c925323c7b5021e3d4b93e2bdc66",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1107,13 +1107,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 115103,
-          "sha256": "2ae2e79fb62971f9977f94ba6269323eadd8337d9621b05117474f2a33750865",
+          "contentLength": 115119,
+          "sha256": "b06fb6e22ced23dafc1065368325a00195b967f815503caa3537b318acd28890",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "46deba1de2f02694feedbaebed02b3dae41bd3e4efdc294172e8cc6453843ff1",
+      "evidenceStyleSHA256": "f5d7e2f9380b53300c088d44d7deb63304c1b2d0f7c1bce59b4a6786d208fe68",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1933,101 +1933,7 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [
-    {
-      "reviewKey": "yuyuan|2079509958809530369",
-      "reviewState": "ready_for_operator",
-      "activityID": "2079509958809530369",
-      "title": "MAHKS",
-      "venue": "AM:06",
-      "city": "Shenzhen",
-      "dateText": "2026-07-24",
-      "endDateText": "2026-07-25",
-      "timeText": "23:00",
-      "lineupNames": [
-        "MAHKS"
-      ],
-      "styles": [],
-      "priceDisplayText": "¥28.8/起",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "observed",
-      "styleEvidenceStatus": "needs_review",
-      "ticketTierEvidenceStatus": "needs_wechat_capture",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079509958809530369",
-      "miniProgramSearchText": "7/24 AM06 X MAHKS : SUMMER ANTHEMS 夏日律动",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2079509958809530369&isShare=true"
-      },
-      "requiredActions": [
-        "Capture explicit genre or event-theme evidence",
-        "Capture current buyable GA tiers and availability"
-      ]
-    },
-    {
-      "reviewKey": "yuyuan|2079386222454288386",
-      "reviewState": "ready_for_operator",
-      "activityID": "2079386222454288386",
-      "title": "#peaktime Pt.1",
-      "venue": "OIL Club",
-      "city": "Shenzhen",
-      "dateText": "2026-08-06",
-      "endDateText": "2026-08-07",
-      "timeText": "22:00",
-      "lineupNames": [
-        "#peaktime Pt.1"
-      ],
-      "styles": [],
-      "priceDisplayText": "¥108/起",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "observed",
-      "styleEvidenceStatus": "needs_review",
-      "ticketTierEvidenceStatus": "needs_wechat_capture",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079386222454288386",
-      "miniProgramSearchText": "【Mainroom】n_n pres. #peaktime Pt.1 @OIL Club 深圳",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2079386222454288386&isShare=true"
-      },
-      "requiredActions": [
-        "Capture explicit genre or event-theme evidence",
-        "Capture current buyable GA tiers and availability"
-      ]
-    },
-    {
-      "reviewKey": "yuyuan|2079477624374734849",
-      "reviewState": "ready_for_operator",
-      "activityID": "2079477624374734849",
-      "title": "Slim Soledad",
-      "venue": "OIL Club",
-      "city": "Shenzhen",
-      "dateText": "2026-08-07",
-      "endDateText": "2026-08-08",
-      "timeText": "22:00",
-      "lineupNames": [
-        "Slim Soledad"
-      ],
-      "styles": [],
-      "priceDisplayText": "¥80/起",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "observed",
-      "styleEvidenceStatus": "needs_review",
-      "ticketTierEvidenceStatus": "needs_wechat_capture",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079477624374734849",
-      "miniProgramSearchText": "【Mainroom】殺気疼疼: Slim Soledad @OIL Club 深圳",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2079477624374734849&isShare=true"
-      },
-      "requiredActions": [
-        "Capture explicit genre or event-theme evidence",
-        "Capture current buyable GA tiers and availability"
-      ]
-    }
-  ],
+  "operatorInventoryReviewCandidates": [],
   "totals": {
     "captured": 208,
     "usable": 141
@@ -2045,7 +1951,7 @@
   },
   "referenceDates": {
     "Vancouver": "2026-07-21",
-    "Shenzhen": "2026-07-21",
+    "Shenzhen": "2026-07-22",
     "Miami": "2026-07-21",
     "Las Vegas": "2026-07-21",
     "Daresbury": "2026-07-21",
@@ -2066,7 +1972,7 @@
     "Alpe d'Huez": "2026-07-21",
     "Mexico City": "2026-07-21",
     "Split": "2026-07-21",
-    "Tokyo": "2026-07-21"
+    "Tokyo": "2026-07-22"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
@@ -2085,8 +1991,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "41F68A47-38AA-4F96-9F55-4B977C43CC57",
-      "ingestRunAt": "2026-07-20T02:19:03Z"
+      "ingestRunId": "A36C08A9-F142-4F22-809C-7A04475009E5",
+      "ingestRunAt": "2026-07-21T11:38:50Z"
     }
   },
   "executionCoverage": {
