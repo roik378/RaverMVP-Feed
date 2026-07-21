@@ -1027,8 +1027,8 @@
   "eventCountAfter": 104,
   "eventCountBefore": 104,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "a3ac665d343f4fff25cd2448a213e3c0f23f67f0949a4431245d2f859c569f92",
-  "feedSHA256Before": "a3ac665d343f4fff25cd2448a213e3c0f23f67f0949a4431245d2f859c569f92",
+  "feedSHA256After": "6deeb516d9bc755cae1729b6d10f6f0fbdfa504d3c933b950a33709df27d346a",
+  "feedSHA256Before": "6deeb516d9bc755cae1729b6d10f6f0fbdfa504d3c933b950a33709df27d346a",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1071,7 +1071,7 @@
     "Arnhem": "2026-07-21",
     "Boom": "2026-07-21",
     "Chicago": "2026-07-21",
-    "Cluj-Napoca": "2026-07-21",
+    "Cluj-Napoca": "2026-07-22",
     "Daresbury": "2026-07-21",
     "Hilvarenbeek": "2026-07-21",
     "Jakarta": "2026-07-22",
