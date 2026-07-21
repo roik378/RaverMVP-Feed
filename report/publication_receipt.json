@@ -35,7 +35,7 @@
   "eventCount": 105,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "8fbdb316db73aa03ba41198c56963838c8c4584526cb1d9d2cd9c8b919629cff",
+  "feedSHA256": "5c5350688fe2feb8dd794654200445323be889d9cc94d6d6bd8bd10d9b82ab3c",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -45,14 +45,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-21T18:08:56Z",
-  "ingestRunId": "3C7B7431-B50F-4787-B96E-F6F753F14F72",
+  "ingestRunAt": "2026-07-21T19:10:34Z",
+  "ingestRunId": "8F582A7E-1024-45E3-8C27-30C5E96F26E8",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-21T18:11:29Z",
+  "publishedAt": "2026-07-21T19:12:46Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "0da9a49d7f4afeb392f3ce21fd14d15c3d1584af8248ac9267b9d12cc8d83dd9",
+  "reportSHA256": "8145e39a22a7d113d358a44e750d94adb21ea2524b0332e9b3d7eef524e75a2f",
   "schemaVersion": 1,
-  "sourceCommitSHA": "31d73994aeb69bd766191a45accc2922f6c42f39",
+  "sourceCommitSHA": "e5326d06b203bff3abf7454eabcd153b59f4fb2a",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -61,10 +61,10 @@
     "Las Vegas"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "058e32a9d2e16da3801f15d09a92dfd00b2ac5f2fab8c1728c18c7c129f14231",
+  "ticketPriceProjectionSHA256": "37545c51ab3ffab0b7e9054ec7020b7c50e2962ac60fad71d582624734fbe6df",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "9bedff9c32cfd298e7b3d471a15c54522a02190177af03251863d33699ea0452",
+  "ticketPriceReceiptSHA256": "b8c24406011a10f566f525c2c554a93226e5c93e7084f89e6904702047025739",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "00d0f59b0275c69342c5c2085c782e65d0bc10240a05cda82a2f9ccf42debcda"
+  "ticketReceiptSHA256": "90e0ee77da16850d123f5ec04af11dbb22ad17ecf401bbe2294f6acc9b265ee5"
 }

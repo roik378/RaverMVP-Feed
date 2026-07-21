@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T18:08:56Z",
-  "ingestRunId": "3C7B7431-B50F-4787-B96E-F6F753F14F72",
-  "ingestRunAt": "2026-07-21T18:08:56Z",
+  "ranAt": "2026-07-21T19:10:34Z",
+  "ingestRunId": "8F582A7E-1024-45E3-8C27-30C5E96F26E8",
+  "ingestRunAt": "2026-07-21T19:10:34Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T18:08:24Z",
+      "ticketOfferObservedAt": "2026-07-21T19:10:09Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -292,7 +292,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 02:09:18",
+        "observedAtText": "2026-07-22 03:10:54",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -730,7 +730,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "0b510aad0b6bf82d1c5070648472fa47248eecc42172c29f6082730d3666e9db"
+      "evidenceStyleSHA256": "7c356356a1db60601ced5ae2fe7f6523dabe927f7f5c1708f4988694442558e3"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -747,7 +747,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "c00942d79881fcda013f6ea866a6340d9969d09687ea98e5cae5725cda114aee"
+      "evidenceStyleSHA256": "6e2ad1655b2fdd95afbb8eea155edfd25e35d2dacea09ea170fd18fe84462c1a"
     },
     {
       "sourceId": "creamfields_official",
@@ -869,13 +869,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212821,
-          "sha256": "a8cf95d5be7f8c5b67f03a9f55fba08a0eb90046305b94d8f33683f095d78b36",
+          "contentLength": 212811,
+          "sha256": "c4a5cde0eeac5c07cae70ef0b34b1bad446cae26ae86f5d0c5859a8b7b4d6e30",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "0420b7016ac779cfbcc3fe4152a8fd6b2b3a360a3b0c1a91e7ae5f9fac2c5336",
+      "evidenceStyleSHA256": "d952b90c6ab51b9df92a5031172e38e540d299f4ecc777901cf1406b58c00098",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -948,23 +948,43 @@
       "sourceId": "arc_music_festival_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
-      "consumerReady": 1,
+      "status": "error: no_parsed_events",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 1,
+        "retainedEventCount": 1,
+        "fallbackAgeHours": 1
       },
       "reviewedFactVerification": {
-        "attemptCount": 1,
-        "status": "not_needed",
+        "attemptCount": 2,
+        "status": "failed",
         "initialResponse": {
-          "contentLength": 88805,
-          "sha256": "cf34a05e02c1e8ddeb1fd2ec09969565af3aa7a34fdfdbf3347ed7ea5013ded4",
-          "missingMarkers": []
-        }
+          "contentLength": 11940,
+          "sha256": "3f23cd791c0e10b4bb6927f2b0a72f7588cac37b4ec562207719143f5c7df847",
+          "missingMarkers": [
+            "SEPT 4th - 7th 2026",
+            "Union Park",
+            "4 Days Of House, Techno, and Beyond",
+            "ON SALE NOW"
+          ]
+        },
+        "retryResponse": {
+          "contentLength": 11811,
+          "sha256": "d7c6b7bc28a5cf9a79f7f227ec2893c6ae0555ca8f95ef2d581ca7f4badef504",
+          "missingMarkers": [
+            "SEPT 4th - 7th 2026",
+            "Union Park",
+            "4 Days Of House, Techno, and Beyond",
+            "ON SALE NOW"
+          ]
+        },
+        "evidenceFiles": [
+          "arc_music_festival_official.initial-response.html",
+          "arc_music_festival_official.revalidation-response.html"
+        ]
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -985,8 +1005,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 287695,
-          "sha256": "3da1fd6d5c7a7043be322f990722f2d28ef897b20eeff2825e110aba9d39756b",
+          "contentLength": 287693,
+          "sha256": "931f24347546fe23f902446c4141073ae0b0adfa82f0694d71af7a3bcb7d0652",
           "missingMarkers": []
         }
       },
@@ -1073,12 +1093,12 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "5e5ff881fe57ff3c4e60f4a88918f7220708df9628e44b6405d3b5b786b52c30",
+          "sha256": "daf0cbd7275cb94044ef3749c3efac8c09c34907f19e8f05596b863197c3490b",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "17e546533e096cee61bdce92d4b8c85b9a5c61999814012ca99a36c8749b5d50",
+      "evidenceStyleSHA256": "729eb16b953e44b0c6807637e890155f4614f574a2478c695fff74f1b822be3d",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1099,12 +1119,12 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "58fa827a2da9e781694396f87a83393bce40b562c50fad1e3adf8e78e9627c3c",
+          "sha256": "83d1607036db6f0b3a2a35811ca66d20a147f50d01f0d1dc8e5ff5296f4c70a9",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "c8874fd89b39604beff2a1a01b21969da2f684b9a1ead46f9baef4b1550fdfb3",
+      "evidenceStyleSHA256": "5090c3ece62e3b9f01fe93d9408fbd74025bbd7cec39278c044d32161759af31",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1362,14 +1382,14 @@
     {
       "cityId": "chicago_us",
       "cityName": "Chicago",
-      "captured": 1,
+      "captured": 0,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1926,7 +1946,7 @@
   ],
   "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 208,
+    "captured": 207,
     "usable": 141
   },
   "consumerQuality": {
@@ -1957,7 +1977,7 @@
     "Los Angeles": "2026-07-21",
     "Long Beach": "2026-07-21",
     "Chicago": "2026-07-21",
-    "Mumbai": "2026-07-21",
+    "Mumbai": "2026-07-22",
     "Jakarta": "2026-07-22",
     "Phuket": "2026-07-22",
     "Alpe d'Huez": "2026-07-21",
@@ -1975,21 +1995,21 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-21T18:08:35Z",
+    "observedAt": "2026-07-21T19:10:18Z",
     "activityCount": 15,
     "scheduleCount": 17
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 0,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 1,
+    "materialFailureCount": 1,
+    "retainedEventCount": 1,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "334AE7AF-A9D3-42DD-8180-156097213D74",
-      "ingestRunAt": "2026-07-21T17:45:48Z"
+      "ingestRunId": "3C7B7431-B50F-4787-B96E-F6F753F14F72",
+      "ingestRunAt": "2026-07-21T18:08:56Z"
     }
   },
   "executionCoverage": {
@@ -2022,8 +2042,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
