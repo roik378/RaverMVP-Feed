@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T17:34:55Z",
-  "ingestRunId": "EC117143-AB8F-40A6-BA71-4D0EE9D6A333",
-  "ingestRunAt": "2026-07-21T17:34:55Z",
+  "ranAt": "2026-07-21T17:45:48Z",
+  "ingestRunId": "334AE7AF-A9D3-42DD-8180-156097213D74",
+  "ingestRunAt": "2026-07-21T17:45:48Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T17:34:30Z",
+      "ticketOfferObservedAt": "2026-07-21T17:45:18Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -292,7 +292,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 01:35:15",
+        "observedAtText": "2026-07-22 01:46:08",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -730,7 +730,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "1b113bb592cf1c5d83534b282befd2be0fb413353ae8fcc12da90b34be6b7f73"
+      "evidenceStyleSHA256": "0c98e6dea756a3077b9611938911a57e0d2f2cf7b7f390ed1517d437d6c91f87"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -747,7 +747,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "c71962c00e9dcde342b625fc845a570f59beffebef3616087cafbc50fd77fe86"
+      "evidenceStyleSHA256": "cb7639af7113faed55f5fff25b931270bdba14d0cb887a2b3a43f08da9785f62"
     },
     {
       "sourceId": "creamfields_official",
@@ -985,8 +985,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 249093,
-          "sha256": "4fc83c98d2c21c2b81eb63a128a5406fc314806a1ec7b54a840f0acb65ec0d4c",
+          "contentLength": 287668,
+          "sha256": "3409c24e7908219ac7f6c2d79b14a0717076e80024cdbda62edc762639f60491",
           "missingMarkers": []
         }
       },
@@ -1072,13 +1072,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 188914,
-          "sha256": "314cf9b2a0c6c67a4876908e0aedbebcbe14460e2f7a642862aff50c3e5d79a4",
+          "contentLength": 196743,
+          "sha256": "a8a4f5e0422083a78239d18135fc24cb29df269ea1ccd4f06f003dc467f628af",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "066d4279beb248d3642c910aa2491e090dcda297e9afffe9fc14b622225b4f38",
+      "evidenceStyleSHA256": "15dee487b68ea021c4e767e52db4c2d3184faf420ad4b02e156c9e054f8e3b16",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1099,12 +1099,12 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "a1ad23a72c11b870ab203f8f176b186f6ea53108fbb0104a1bd97d39f84c2a19",
+          "sha256": "03ce338f5ccb5a348013b84379104719471d2212adecb06cb2a3a98a6fff27e1",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "fbd05dc2cc402466e336486a45678784df8b0149932c0bf83714a95049dda7f5",
+      "evidenceStyleSHA256": "32fa9872845366f799781f6fe19a7cccd8ef7337bd886b9fcf7596dd07e4fec6",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1975,7 +1975,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-21T17:34:39Z",
+    "observedAt": "2026-07-21T17:45:29Z",
     "activityCount": 12,
     "scheduleCount": 14
   },
@@ -1988,8 +1988,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "2A92D77A-16E4-4100-8658-54399978915B",
-      "ingestRunAt": "2026-07-21T17:03:55Z"
+      "ingestRunId": "EC117143-AB8F-40A6-BA71-4D0EE9D6A333",
+      "ingestRunAt": "2026-07-21T17:34:55Z"
     }
   },
   "executionCoverage": {
