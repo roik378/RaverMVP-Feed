@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T19:39:36Z",
-  "ingestRunId": "7902E0CE-FC0E-47A6-8E70-13B5E9B60616",
-  "ingestRunAt": "2026-07-21T19:39:36Z",
+  "ranAt": "2026-07-21T20:03:13Z",
+  "ingestRunId": "35F8B6D6-E12B-46FF-85B3-F643BC698B69",
+  "ingestRunAt": "2026-07-21T20:03:13Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T19:39:10Z",
+      "ticketOfferObservedAt": "2026-07-21T20:02:42Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -292,7 +292,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 03:39:55",
+        "observedAtText": "2026-07-22 04:03:36",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -730,7 +730,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "d4646c413dc5fdf9534f1398f1532f9d61dc893c95e64b5ed2fbd81a7c60b611"
+      "evidenceStyleSHA256": "f872349ed8de988f73e8e41f51411b84e93f463933cbb8499b4013a69ee4e901"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -747,7 +747,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "6d802561cce8ff0ce7d3309971ee886d7c471571f6c77a6a87b78e6a34a91ccc"
+      "evidenceStyleSHA256": "9e464e479926f52bbcc819530b8a3f7bf7410a62216828dc879207549b9da25d"
     },
     {
       "sourceId": "creamfields_official",
@@ -870,14 +870,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212731,
-          "sha256": "17cb0673bb549bbe1e15782935280a4e8d20265c13481ec72adc3aab9fbbcbb7",
+          "contentLength": 212736,
+          "sha256": "740627d0f9743b88aa2f8965e9424f36ba5273740d456f3b8fa748194b008caa",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "d952b90c6ab51b9df92a5031172e38e540d299f4ecc777901cf1406b58c00098",
+      "evidenceStyleSHA256": "c111c477a03cf3865e1a3d1f9b693bd4b78a3510c274c4cbf07cba8bedd9e31f",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -988,8 +988,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 287693,
-          "sha256": "931f24347546fe23f902446c4141073ae0b0adfa82f0694d71af7a3bcb7d0652",
+          "contentLength": 287695,
+          "sha256": "3da1fd6d5c7a7043be322f990722f2d28ef897b20eeff2825e110aba9d39756b",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1079,13 +1079,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "d0fb645b21a8370d3f138ad7087537ab2686d71a6e25804e2adffa4f8438bdfe",
+          "sha256": "40625c5b101f9b7a5bfc690718699c0225ef5b90fd3eecd244cddf10c4516ed9",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "90862bb7c59ca0fda4da38d377fdac60f98415fd25fcffb655a4b04b9c6bfa16",
+      "evidenceStyleSHA256": "1b55a7363c3c104328596d4f7a962438da42c0c833136b5bf01c598b614cf2fb",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1106,13 +1106,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "b052c89195f1ded5013054d1407ead5121a795d69d85e976def96dc0846dd9d3",
+          "sha256": "676915800e09ba2b5a3cf53c0628b9a53c049fcd3f08e4473fdec0fdb9639129",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "897c3a40c59cd637cd419d478f4aeec3b54f3d987adce4702bdb388ea2c81bda",
+      "evidenceStyleSHA256": "d928b1538b7ebf126af470bd89d122b41361177a659171c286b05d4d33c05ff5",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2002,7 +2002,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-21T19:39:19Z",
+    "observedAt": "2026-07-21T20:02:53Z",
     "activityCount": 15,
     "scheduleCount": 17
   },
@@ -2015,8 +2015,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "48495712-ABD4-4F9A-8D27-C886AC092822",
-      "ingestRunAt": "2026-07-21T19:28:24Z"
+      "ingestRunId": "7902E0CE-FC0E-47A6-8E70-13B5E9B60616",
+      "ingestRunAt": "2026-07-21T19:39:36Z"
     }
   },
   "executionCoverage": {
