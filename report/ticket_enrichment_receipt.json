@@ -1027,8 +1027,8 @@
   "eventCountAfter": 105,
   "eventCountBefore": 105,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "2c4aacf61076a2b68efefbb9f2f9ef9776ae2a820ea21a7b2d6d18f567f6e206",
-  "feedSHA256Before": "2c4aacf61076a2b68efefbb9f2f9ef9776ae2a820ea21a7b2d6d18f567f6e206",
+  "feedSHA256After": "75f76101407dc663ee39572246546ead4ea101c24864d7aa5bd5f2286bb494b3",
+  "feedSHA256Before": "75f76101407dc663ee39572246546ead4ea101c24864d7aa5bd5f2286bb494b3",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1074,7 +1074,7 @@
     "Cluj-Napoca": "2026-07-21",
     "Daresbury": "2026-07-21",
     "Hilvarenbeek": "2026-07-21",
-    "Jakarta": "2026-07-21",
+    "Jakarta": "2026-07-22",
     "Las Vegas": "2026-07-21",
     "Long Beach": "2026-07-21",
     "Los Angeles": "2026-07-21",
@@ -1083,7 +1083,7 @@
     "Montreal": "2026-07-21",
     "Mumbai": "2026-07-21",
     "Orlando": "2026-07-21",
-    "Phuket": "2026-07-21",
+    "Phuket": "2026-07-22",
     "Salmo": "2026-07-21",
     "Shenzhen": "2026-07-22",
     "Split": "2026-07-21",

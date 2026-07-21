@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T16:41:38Z",
-  "ingestRunId": "9306BC7B-CE6C-45D1-A8A5-C5793F9B8448",
-  "ingestRunAt": "2026-07-21T16:41:38Z",
+  "ranAt": "2026-07-21T17:03:55Z",
+  "ingestRunId": "2A92D77A-16E4-4100-8658-54399978915B",
+  "ingestRunAt": "2026-07-21T17:03:55Z",
   "mode": "full",
   "sources": [
     {
@@ -206,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T16:41:27Z",
+      "ticketOfferObservedAt": "2026-07-21T17:03:44Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -291,7 +291,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 00:42:01",
+        "observedAtText": "2026-07-22 01:04:16",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -566,13 +566,20 @@
           "endDateText": "2026-07-25",
           "timeText": "23:00",
           "lineupNames": [
-            "MAHKS"
+            "MAHKS",
+            "MAXX B2B MAPA",
+            "电音厨师",
+            "DEPT"
           ],
-          "styles": [],
+          "styles": [
+            "Electronic",
+            "House",
+            "Progressive"
+          ],
           "priceDisplayText": "¥28.8/起",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "needs_wechat_capture",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079509958809530369",
           "miniProgramSearchText": "7/24 AM06 X MAHKS : SUMMER ANTHEMS 夏日律动",
@@ -582,7 +589,6 @@
             "query": "activityId=2079509958809530369&isShare=true"
           },
           "requiredActions": [
-            "Capture explicit genre or event-theme evidence",
             "Capture current buyable GA tiers and availability"
           ]
         },
@@ -739,7 +745,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "1169fe4f0969d85fb013f6609f2c4706e2d0f8b1481de1f029dc99ce87842c45"
+      "evidenceStyleSHA256": "bfc093060ed0946a63f07510e5e1022dd329b97da3c0e8abf045bd5a0b25bcae"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -756,7 +762,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "40444e2e6521a575f8461d12c2eda567413d3e51dec56648e5a52a5c39f42b7d"
+      "evidenceStyleSHA256": "1d0590087144aa10f4255a5cac2b050686bbd0fbf99248391351bf9fc3c60564"
     },
     {
       "sourceId": "creamfields_official",
@@ -878,13 +884,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212736,
-          "sha256": "15ff5c202d9083dc3207a19d08a64857e4a479d948cc60a0b6bd10ed2bc514e2",
+          "contentLength": 212738,
+          "sha256": "fd0e8dd785128d49ad4f526f03594a6842f0b1ca086f086394abcf9f5b460f6f",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "1df2bc7c72aef7a082db9aff6595c30026be82cae9908af22e0641f627f8fc1f",
+      "evidenceStyleSHA256": "6c132602f94c790fef8c898b5dfa20e1f2088b337c66dd6a5cc705711184d833",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1081,13 +1087,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 196743,
-          "sha256": "75cf7140db79f5051edcc2afd7ce804d8158020ad65078993c857d838ce8d074",
+          "contentLength": 188914,
+          "sha256": "b7a2e3055354b1fdb6383bae5720d9524d7bd71ce81b2493cc6447e9f8fdefa7",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "e42051336a5d4e9bcf0c6ed4d1c2a05d8be8c925323c7b5021e3d4b93e2bdc66",
+      "evidenceStyleSHA256": "31040a7165a5814cd8e825cd0fd1e40f923ec1dc65b22b7ed60f0560c2eb7eb1",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1108,12 +1114,12 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "b06fb6e22ced23dafc1065368325a00195b967f815503caa3537b318acd28890",
+          "sha256": "29a0d98afe9e5ab4f9be2c49a19378258863e49e0271d99d7ee890496d13bbb1",
           "missingMarkers": []
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "f5d7e2f9380b53300c088d44d7deb63304c1b2d0f7c1bce59b4a6786d208fe68",
+      "evidenceStyleSHA256": "1c47c07c31c0631ea47c6a2b73216be3a008d56cecb6171a459b010f0496c43b",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1967,8 +1973,8 @@
     "Long Beach": "2026-07-21",
     "Chicago": "2026-07-21",
     "Mumbai": "2026-07-21",
-    "Jakarta": "2026-07-21",
-    "Phuket": "2026-07-21",
+    "Jakarta": "2026-07-22",
+    "Phuket": "2026-07-22",
     "Alpe d'Huez": "2026-07-21",
     "Mexico City": "2026-07-21",
     "Split": "2026-07-21",
@@ -1991,8 +1997,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "A36C08A9-F142-4F22-809C-7A04475009E5",
-      "ingestRunAt": "2026-07-21T11:38:50Z"
+      "ingestRunId": "9306BC7B-CE6C-45D1-A8A5-C5793F9B8448",
+      "ingestRunAt": "2026-07-21T16:41:38Z"
     }
   },
   "executionCoverage": {
