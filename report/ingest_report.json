@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-20T02:19:03Z",
-  "ingestRunId": "41F68A47-38AA-4F96-9F55-4B977C43CC57",
-  "ingestRunAt": "2026-07-20T02:19:03Z",
+  "ranAt": "2026-07-21T11:38:50Z",
+  "ingestRunId": "A36C08A9-F142-4F22-809C-7A04475009E5",
+  "ingestRunAt": "2026-07-21T11:38:50Z",
   "mode": "full",
   "sources": [
     {
@@ -11,13 +11,16 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 13,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
       "strategy": "squarespace_enriched_snippets",
+      "reviewedEventTicketActionCount": 3,
+      "reviewedEventStyleCount": 3,
+      "reviewedEventLineupCount": 1,
       "exactReviewedArtistTitleBillingCount": 1
     },
     {
@@ -27,13 +30,16 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 6,
+      "consumerReady": 7,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "squarespace_enriched_snippets"
+      "strategy": "squarespace_enriched_snippets",
+      "reviewedEventTicketActionCount": 3,
+      "reviewedEventLineupCount": 3,
+      "reviewedEventStyleCount": 3
     },
     {
       "sourceId": "harbour_vancouver",
@@ -57,7 +63,7 @@
       "status": "ok",
       "captured": 80,
       "usable": 80,
-      "consumerReady": 30,
+      "consumerReady": 32,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -66,7 +72,9 @@
       "strategy": "squarespace_enriched_snippets",
       "exactReviewedArtistTitleBillingCount": 1,
       "reviewedEventFactCorrectionDriftCount": 1,
-      "reviewedEventLineupCount": 1
+      "reviewedEventLineupCount": 1,
+      "reviewedEventTicketActionCount": 3,
+      "reviewedEventStyleCount": 1
     },
     {
       "sourceId": "gorgomish_vancouver",
@@ -75,7 +83,7 @@
       "status": "ok",
       "captured": 7,
       "usable": 7,
-      "consumerReady": 5,
+      "consumerReady": 4,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -198,7 +206,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-20T02:18:51Z",
+      "ticketOfferObservedAt": "2026-07-21T11:38:38Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -240,9 +248,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 6,
-      "usable": 6,
-      "consumerReady": 6,
+      "captured": 5,
+      "usable": 5,
+      "consumerReady": 5,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -270,57 +278,122 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 9,
-      "usable": 9,
-      "consumerReady": 9,
+      "captured": 13,
+      "usable": 13,
+      "consumerReady": 13,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
       "strategy": "yuyuan_shenzhen_public_inventory",
-      "reviewedEventInventoryCount": 2,
+      "reviewedEventInventoryCount": 3,
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-20 10:19:22",
-        "totalSearchRecords": 16,
-        "acceptedReviewedRecordCount": 10,
+        "observedAtText": "2026-07-21 19:39:12",
+        "totalSearchRecords": 20,
+        "acceptedReviewedRecordCount": 13,
         "venues": [
           {
             "shopID": "1803701116047175681",
             "shopName": "OIL CLUB",
             "venue": "OIL Club",
             "status": "current",
-            "observedRecordCount": 6,
-            "currentEventCount": 6,
+            "observedRecordCount": 8,
+            "currentEventCount": 8,
             "activityIDs": [
               "2072261295009390593",
               "2072262191009193986",
               "2072265909960138754",
               "2072583967958327298",
               "2072587211161952258",
-              "2072592095781281794"
+              "2072592095781281794",
+              "2079386222454288386",
+              "2079477624374734849"
             ],
-            "activityFingerprintSHA256": "165740aebc44755df40f7bd07abe1ed0d6ab9b670cb6f62ebb8b3b36a700373c"
+            "activityFingerprintSHA256": "5056b82bbffa181083a53c7349dc7a84ed167da3bd3c839b8e40e9f2aa23dfbf"
           },
           {
             "shopID": "1889498806778068993",
             "shopName": "AM:06 SHENZHEN",
             "venue": "AM:06",
             "status": "current",
-            "observedRecordCount": 1,
-            "currentEventCount": 1,
+            "observedRecordCount": 2,
+            "currentEventCount": 2,
             "activityIDs": [
-              "2078828970966167553"
+              "2078828970966167553",
+              "2079509958809530369"
             ],
-            "activityFingerprintSHA256": "9edbb2ebb979c563d5e4307c689778a97a8d376a2cbec276e8ef211b3fcd4f1b"
+            "activityFingerprintSHA256": "788bc5a7c1deddc190b85086557d13686727c830958983788e89d9cf58f13c5d"
           }
         ]
       },
-      "reviewedEventStyleCount": 2,
-      "reviewedEventLineupCount": 2,
+      "reviewedEventStyleCount": 3,
+      "reviewedEventLineupCount": 3,
       "inventoryReviewCandidates": [
+        {
+          "reviewKey": "yuyuan|2079477624374734849",
+          "reviewState": "ready_for_operator",
+          "activityID": "2079477624374734849",
+          "title": "Slim Soledad",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-07",
+          "endDateText": "2026-08-08",
+          "timeText": "22:00",
+          "lineupNames": [
+            "Slim Soledad"
+          ],
+          "styles": [],
+          "priceDisplayText": "¥80/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079477624374734849",
+          "miniProgramSearchText": "【Mainroom】殺気疼疼: Slim Soledad @OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2079477624374734849&isShare=true"
+          },
+          "requiredActions": [
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2079386222454288386",
+          "reviewState": "ready_for_operator",
+          "activityID": "2079386222454288386",
+          "title": "#peaktime Pt.1",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-06",
+          "endDateText": "2026-08-07",
+          "timeText": "22:00",
+          "lineupNames": [
+            "#peaktime Pt.1"
+          ],
+          "styles": [],
+          "priceDisplayText": "¥108/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079386222454288386",
+          "miniProgramSearchText": "【Mainroom】n_n pres. #peaktime Pt.1 @OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2079386222454288386&isShare=true"
+          },
+          "requiredActions": [
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
         {
           "reviewKey": "yuyuan|2072592095781281794",
           "reviewState": "ready_for_operator",
@@ -483,6 +556,37 @@
           ]
         },
         {
+          "reviewKey": "yuyuan|2079509958809530369",
+          "reviewState": "ready_for_operator",
+          "activityID": "2079509958809530369",
+          "title": "MAHKS",
+          "venue": "AM:06",
+          "city": "Shenzhen",
+          "dateText": "2026-07-24",
+          "endDateText": "2026-07-25",
+          "timeText": "23:00",
+          "lineupNames": [
+            "MAHKS"
+          ],
+          "styles": [],
+          "priceDisplayText": "¥28.8/起",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "needs_wechat_capture",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079509958809530369",
+          "miniProgramSearchText": "7/24 AM06 X MAHKS : SUMMER ANTHEMS 夏日律动",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2079509958809530369&isShare=true"
+          },
+          "requiredActions": [
+            "Capture explicit genre or event-theme evidence",
+            "Capture current buyable GA tiers and availability"
+          ]
+        },
+        {
           "reviewKey": "yuyuan|2072262191009193986",
           "reviewState": "ready_for_operator",
           "activityID": "2072262191009193986",
@@ -524,12 +628,18 @@
           "dateText": "2026-07-23",
           "endDateText": "2026-07-24",
           "timeText": "22:00",
-          "lineupNames": [],
-          "styles": [],
+          "lineupNames": [
+            "HIBIKI",
+            "Sickboooy",
+            "555"
+          ],
+          "styles": [
+            "Electronic"
+          ],
           "priceDisplayText": "¥30/起",
           "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "needs_review",
-          "styleEvidenceStatus": "needs_review",
+          "lineupEvidenceStatus": "observed",
+          "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "needs_wechat_capture",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
           "miniProgramSearchText": "【Mainroom】新面孔 xīn miàn kǒng Vol.47 @OIL Club 深圳",
@@ -539,8 +649,6 @@
             "query": "activityId=2072261295009390593&isShare=true"
           },
           "requiredActions": [
-            "Capture readable lineup evidence",
-            "Capture explicit genre or event-theme evidence",
             "Capture current buyable GA tiers and availability"
           ]
         }
@@ -629,7 +737,9 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "ultra_miami_official"
+      "strategy": "ultra_miami_official",
+      "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
+      "evidenceStyleSHA256": "bd7b7c5365be5a77c54bd54d2c1660dc3e4658c5baedea25d1a5c84e7991e19a"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -644,7 +754,9 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "edc_las_vegas_official"
+      "strategy": "edc_las_vegas_official",
+      "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
+      "evidenceStyleSHA256": "582b550af0fa7165f6043439097ef603555ddb806ae6d88f08c75411c3a351c6"
     },
     {
       "sourceId": "creamfields_official",
@@ -722,7 +834,8 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "tomorrowland_belgium_official"
+      "strategy": "tomorrowland_belgium_official",
+      "evidenceTicketStatusURL": "https://belgium.tomorrowland.com/en/sales-info/sales-dates/"
     },
     {
       "sourceId": "awakenings_festival_official",
@@ -765,11 +878,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 139576,
-          "sha256": "fce7910227a6d6ad4b5d0662d3bf33e958c1d453e7332bfc182397990149a544",
+          "contentLength": 210455,
+          "sha256": "9d5a2c7a6e87efca29bf5138402e3f313c6136b273fa885427c86af8c7346365",
           "missingMarkers": []
         }
       },
+      "evidenceStyleURL": "https://transmissionfestival.com/about/",
+      "evidenceStyleSHA256": "fb9700426788edc96151702edeaaee27aaeba03c374043250ab20bc7fdfe38d6",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -802,11 +917,11 @@
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf",
+      "evidenceImageSHA256": "b17ecff696251af2f9214d8312896becf8b7b4fac4f5e5e1cf4d97d4f514486e",
       "evidenceImageETag": "\"6a036a12-277bb\"",
       "evidenceImageContentType": "image/webp",
       "evidenceImageLastModified": "Tue, 12 May 2026 17:57:38 GMT",
-      "evidenceImageIdentity": "officialETag"
+      "evidenceImageIdentity": "reviewedSHA256"
     },
     {
       "sourceId": "hard_summer_official",
@@ -855,8 +970,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 84249,
-          "sha256": "6fa12a3d9dbd4a4fdd71597f851ad7c25f99f11ea6697b07c033cea26810bcf0",
+          "contentLength": 88805,
+          "sha256": "dd50a9f28c1d712dca543d9ba77e708d9adf4036519aad0cab1f2c0887720986",
           "missingMarkers": []
         }
       },
@@ -879,8 +994,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 287668,
-          "sha256": "3409c24e7908219ac7f6c2d79b14a0717076e80024cdbda62edc762639f60491",
+          "contentLength": 249093,
+          "sha256": "4fc83c98d2c21c2b81eb63a128a5406fc314806a1ec7b54a840f0acb65ec0d4c",
           "missingMarkers": []
         }
       },
@@ -966,11 +1081,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 93783,
-          "sha256": "68cb9b2210ded7845668c371ba9e11dbf3455115abfe22b9757acbfd2848b997",
+          "contentLength": 196743,
+          "sha256": "1369781a149636f306aadabdc853489bd3146350375b95dc37e2878810c5b953",
           "missingMarkers": []
         }
       },
+      "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
+      "evidenceStyleSHA256": "d418df74d1fd5a5ae6b6a5f6f317828663aa4491a04fb427b4194801337af9ae",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -990,11 +1107,13 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 54435,
-          "sha256": "9073e61e02defaa4fd314d23c3eba1f887152e7338d4b76cbe479d8c6c5a691e",
+          "contentLength": 115103,
+          "sha256": "2ae2e79fb62971f9977f94ba6269323eadd8337d9621b05117474f2a33750865",
           "missingMarkers": []
         }
       },
+      "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
+      "evidenceStyleSHA256": "46deba1de2f02694feedbaebed02b3dae41bd3e4efdc294172e8cc6453843ff1",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1020,16 +1139,16 @@
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
       "captured": 162,
-      "usable": 101,
-      "consumerReady": 65,
-      "consumerRejected": 36,
-      "consumerReadyRate": 0.644,
+      "usable": 102,
+      "consumerReady": 67,
+      "consumerRejected": 35,
+      "consumerReadyRate": 0.657,
       "rejectionReasons": {
-        "past_event": 20,
         "missing_raver_evidence": 10,
-        "placeholder_title": 4,
+        "placeholder_title": 6,
         "reviewed_non_raver_title": 1,
-        "reviewed_event_fact_correction_drift": 1
+        "reviewed_event_fact_correction_drift": 1,
+        "past_event": 17
       },
       "enabledSourceCount": 8,
       "errorSourceCount": 0,
@@ -1040,9 +1159,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 20,
-      "usable": 13,
-      "consumerReady": 13,
+      "captured": 23,
+      "usable": 16,
+      "consumerReady": 16,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1614,6 +1733,23 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     },
     {
+      "sourceId": "fortune_sound_club",
+      "sourceKind": "clubWebsite",
+      "eventId": "DC69C7BC-A848-5481-86EC-5B94580C68DC",
+      "title": "babes on babes pride",
+      "venue": "Fortune Sound Club",
+      "city": "Vancouver",
+      "dateText": "august 2",
+      "timeText": null,
+      "sourceURLText": "https://www.fortunesoundclub.com/events",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
       "sourceId": "village_studios_vancouver",
       "sourceKind": "clubWebsite",
       "eventId": "FE2DF439-4103-59A7-9ECD-B0B15BBE9ACC",
@@ -1797,50 +1933,144 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [],
+  "operatorInventoryReviewCandidates": [
+    {
+      "reviewKey": "yuyuan|2079509958809530369",
+      "reviewState": "ready_for_operator",
+      "activityID": "2079509958809530369",
+      "title": "MAHKS",
+      "venue": "AM:06",
+      "city": "Shenzhen",
+      "dateText": "2026-07-24",
+      "endDateText": "2026-07-25",
+      "timeText": "23:00",
+      "lineupNames": [
+        "MAHKS"
+      ],
+      "styles": [],
+      "priceDisplayText": "¥28.8/起",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "observed",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "needs_wechat_capture",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079509958809530369",
+      "miniProgramSearchText": "7/24 AM06 X MAHKS : SUMMER ANTHEMS 夏日律动",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2079509958809530369&isShare=true"
+      },
+      "requiredActions": [
+        "Capture explicit genre or event-theme evidence",
+        "Capture current buyable GA tiers and availability"
+      ]
+    },
+    {
+      "reviewKey": "yuyuan|2079386222454288386",
+      "reviewState": "ready_for_operator",
+      "activityID": "2079386222454288386",
+      "title": "#peaktime Pt.1",
+      "venue": "OIL Club",
+      "city": "Shenzhen",
+      "dateText": "2026-08-06",
+      "endDateText": "2026-08-07",
+      "timeText": "22:00",
+      "lineupNames": [
+        "#peaktime Pt.1"
+      ],
+      "styles": [],
+      "priceDisplayText": "¥108/起",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "observed",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "needs_wechat_capture",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079386222454288386",
+      "miniProgramSearchText": "【Mainroom】n_n pres. #peaktime Pt.1 @OIL Club 深圳",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2079386222454288386&isShare=true"
+      },
+      "requiredActions": [
+        "Capture explicit genre or event-theme evidence",
+        "Capture current buyable GA tiers and availability"
+      ]
+    },
+    {
+      "reviewKey": "yuyuan|2079477624374734849",
+      "reviewState": "ready_for_operator",
+      "activityID": "2079477624374734849",
+      "title": "Slim Soledad",
+      "venue": "OIL Club",
+      "city": "Shenzhen",
+      "dateText": "2026-08-07",
+      "endDateText": "2026-08-08",
+      "timeText": "22:00",
+      "lineupNames": [
+        "Slim Soledad"
+      ],
+      "styles": [],
+      "priceDisplayText": "¥80/起",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "observed",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "needs_wechat_capture",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079477624374734849",
+      "miniProgramSearchText": "【Mainroom】殺気疼疼: Slim Soledad @OIL Club 深圳",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2079477624374734849&isShare=true"
+      },
+      "requiredActions": [
+        "Capture explicit genre or event-theme evidence",
+        "Capture current buyable GA tiers and availability"
+      ]
+    }
+  ],
   "totals": {
-    "captured": 205,
-    "usable": 137
+    "captured": 208,
+    "usable": 141
   },
   "consumerQuality": {
-    "ready": 100,
-    "rejected": 37,
+    "ready": 105,
+    "rejected": 36,
     "rejectionReasons": {
-      "past_event": 21,
       "missing_raver_evidence": 10,
-      "placeholder_title": 4,
+      "placeholder_title": 6,
       "reviewed_non_raver_title": 1,
-      "reviewed_event_fact_correction_drift": 1
+      "reviewed_event_fact_correction_drift": 1,
+      "past_event": 18
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-19",
-    "Shenzhen": "2026-07-20",
-    "Miami": "2026-07-19",
-    "Las Vegas": "2026-07-19",
-    "Daresbury": "2026-07-20",
-    "Salmo": "2026-07-19",
-    "Orlando": "2026-07-19",
-    "Montreal": "2026-07-19",
-    "Boom": "2026-07-20",
-    "Hilvarenbeek": "2026-07-20",
-    "Arnhem": "2026-07-20",
-    "Cluj-Napoca": "2026-07-20",
-    "Thornville": "2026-07-19",
-    "Los Angeles": "2026-07-19",
-    "Long Beach": "2026-07-19",
-    "Chicago": "2026-07-19",
-    "Mumbai": "2026-07-20",
-    "Jakarta": "2026-07-20",
-    "Phuket": "2026-07-20",
-    "Alpe d'Huez": "2026-07-20",
-    "Mexico City": "2026-07-19",
-    "Split": "2026-07-20",
-    "Tokyo": "2026-07-20"
+    "Vancouver": "2026-07-21",
+    "Shenzhen": "2026-07-21",
+    "Miami": "2026-07-21",
+    "Las Vegas": "2026-07-21",
+    "Daresbury": "2026-07-21",
+    "Salmo": "2026-07-21",
+    "Orlando": "2026-07-21",
+    "Montreal": "2026-07-21",
+    "Boom": "2026-07-21",
+    "Hilvarenbeek": "2026-07-21",
+    "Arnhem": "2026-07-21",
+    "Cluj-Napoca": "2026-07-21",
+    "Thornville": "2026-07-21",
+    "Los Angeles": "2026-07-21",
+    "Long Beach": "2026-07-21",
+    "Chicago": "2026-07-21",
+    "Mumbai": "2026-07-21",
+    "Jakarta": "2026-07-21",
+    "Phuket": "2026-07-21",
+    "Alpe d'Huez": "2026-07-21",
+    "Mexico City": "2026-07-21",
+    "Split": "2026-07-21",
+    "Tokyo": "2026-07-21"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 118
+    "reviewedArtists": 121
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -1855,8 +2085,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "2CBCCE98-700F-4F7E-A085-E8DC1D4C7494",
-      "ingestRunAt": "2026-07-19T22:43:27Z"
+      "ingestRunId": "41F68A47-38AA-4F96-9F55-4B977C43CC57",
+      "ingestRunAt": "2026-07-20T02:19:03Z"
     }
   },
   "executionCoverage": {

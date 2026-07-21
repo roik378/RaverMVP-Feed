@@ -4,6 +4,24 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "DD3B1532-2676-594C-92FA-3CC1E1004342",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://likeit-loveit.com/ca/events/bed-by-10pm-celebrities-nightclub-29/"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "BDD13626-2025-5CE4-8FDA-6FC236598DF1",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://www.ticketweb.ca/event/club-controller-celebrities-nightclub-tickets/14242094"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "103C135F-362A-5F49-8952-71978A8B963F",
       "reason": null,
       "stale": false,
@@ -40,6 +58,15 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "5F1E56BC-2688-57AB-9F35-AD886BCAEFAE",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://www.ticketweb.ca/event/emmit-fenn-celebrities-nightclub-tickets/14939483"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "06899189-1947-5EA0-B2F4-050428B20FF7",
       "reason": null,
       "stale": false,
@@ -58,10 +85,19 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "7280AB10-A20A-5101-8E4E-9024D2963148",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.celebritiesnightclub.com/trk/Xmknc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "F38AAB64-B97F-57AE-9776-4DCD0DB9936E",
       "reason": null,
       "stale": false,
-      "ticketURLText": "https://on.fortunesoundclub.com/trk/D9Voc"
+      "ticketURLText": "https://www.ticketweb.ca/event/tech-g1rls-fortune-sound-club-tickets/14205274"
     },
     {
       "action": "no_snapshot",
@@ -71,6 +107,15 @@
       "reason": null,
       "stale": false,
       "ticketURLText": "https://on.fortunesoundclub.com/trk/pCEnc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "71D6A251-9FF1-5797-8B22-33EC93114594",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.fortunesoundclub.com/trk/lyIpc"
     },
     {
       "action": "provider_failed",
@@ -346,6 +391,15 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
+      "eventID": "5E5522D1-FF78-504C-BEC4-CDFDE62E9937",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://on.villagestudios.life/trk/1ASoc"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
       "eventID": "1A294952-18E9-558A-80DA-7C3E90EC8EAD",
       "reason": null,
       "stale": false,
@@ -361,28 +415,22 @@
       "ticketURLText": "https://on.villagestudios.life/trk/2tknc"
     },
     {
-      "action": "applied",
+      "action": "no_snapshot",
       "city": "Vancouver",
-      "collectorStatus": "applied",
-      "eventID": "DF2FBA30-834B-57A1-8856-CE35E7567677",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "D8F65832-F50F-545D-8B10-4C3B1F9A1F82",
       "reason": null,
-      "snapshot": {
-        "amountMinor": 2500,
-        "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
-        "collectorKind": "admitoneGraphQL",
-        "currency": "CAD",
-        "displayText": "From C$25 + fees",
-        "feeBasis": "feesExcluded",
-        "provider": "admitone",
-        "providerEventID": "6a497882bf7d4c91bb55136f",
-        "sourceURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f",
-        "tierKey": "primary-ga|admitone-category-t58z02",
-        "tierName": "Early Bird",
-        "verificationState": "fresh"
-      },
       "stale": false,
-      "ticketURLText": "https://checkout.admitone.com/6a497882bf7d4c91bb55136f"
+      "ticketURLText": "https://www.ticketweb.ca/event/stacked-pres-camoufly-village-studios-tickets/14206644"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Vancouver",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "40F3144D-CEF6-53D3-8AC3-A7CA851D6714",
+      "reason": null,
+      "stale": false,
+      "ticketURLText": "https://www.ticketweb.ca/event/jazzy-village-studios-tickets/14952533"
     },
     {
       "action": "applied",
@@ -393,7 +441,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -417,7 +465,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -441,7 +489,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -465,7 +513,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -552,7 +600,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -585,7 +633,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -609,7 +657,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -633,7 +681,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -657,7 +705,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -681,7 +729,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -705,7 +753,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-20T02:20:13Z",
+        "capturedAt": "2026-07-21T11:40:20Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -767,39 +815,12 @@
     },
     {
       "action": "no_snapshot",
-      "city": "Shenzhen",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "E2476839-0680-5311-8D72-8D3611EE3E8A",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://ra.co/events/2464484"
-    },
-    {
-      "action": "no_snapshot",
       "city": "Miami",
       "collectorStatus": "unsupported_provider",
       "eventID": "4C5C218F-DF8F-5A5B-A5B5-CEB65296242B",
       "reason": null,
       "stale": false,
       "ticketURLText": "https://ultramusicfestival.com/ticket-information/"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Las Vegas",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "E9E03220-3F0A-5AE0-949C-F0E5A9F6FAF8",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://edclasvegas.frontgatetickets.com/"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Las Vegas",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "E099E9E3-29C7-510F-A904-A49AFBFC1483",
-      "reason": null,
-      "stale": false,
-      "ticketURLText": "https://edclasvegas.frontgatetickets.com/"
     },
     {
       "action": "no_snapshot",
@@ -820,11 +841,26 @@
       "ticketURLText": "https://shambhalamusicfestival.com/tickets-camping"
     },
     {
-      "action": "no_snapshot",
+      "action": "applied",
       "city": "Orlando",
-      "collectorStatus": "unsupported_provider",
+      "collectorStatus": "applied",
       "eventID": "F14C8376-7AD0-5D1F-B7D5-B7DA3A1FBEEF",
       "reason": null,
+      "snapshot": {
+        "amountMinor": 30399,
+        "availability": "available",
+        "capturedAt": "2026-07-21T11:40:20Z",
+        "collectorKind": "frontGateHTML",
+        "currency": "USD",
+        "displayText": "From US$303.99",
+        "feeBasis": "feesIncluded",
+        "provider": "frontgate",
+        "providerEventID": "edcorlando",
+        "sourceURLText": "https://edcorlando.frontgatetickets.com/",
+        "tierKey": "primary-ga|frontgate-h0v0c1mtb64ihow4-958322",
+        "tierName": "3-Day GA (Wise Owl)",
+        "verificationState": "fresh"
+      },
       "stale": false,
       "ticketURLText": "https://edcorlando.frontgatetickets.com/"
     },
@@ -874,29 +910,59 @@
       "ticketURLText": "https://www.lostlandsfestival.com/tickets/"
     },
     {
-      "action": "no_snapshot",
+      "action": "applied",
       "city": "Los Angeles",
-      "collectorStatus": "unsupported_provider",
+      "collectorStatus": "applied",
       "eventID": "A5A70FBD-C773-5AA8-B875-B0D4D38AA3A8",
       "reason": null,
+      "snapshot": {
+        "amountMinor": 31230,
+        "availability": "available",
+        "capturedAt": "2026-07-21T11:40:20Z",
+        "collectorKind": "frontGateHTML",
+        "currency": "USD",
+        "displayText": "From US$312.3",
+        "feeBasis": "feesIncluded",
+        "provider": "frontgate",
+        "providerEventID": "hardsummer",
+        "sourceURLText": "https://hardsummer.frontgatetickets.com/",
+        "tierKey": "primary-ga|frontgate-j2qsvhhw8bfj2bvv-939816",
+        "tierName": "2-Day GA (Tier 7)",
+        "verificationState": "fresh"
+      },
       "stale": false,
       "ticketURLText": "https://hardsummer.frontgatetickets.com/"
     },
     {
-      "action": "no_snapshot",
+      "action": "applied",
       "city": "Long Beach",
-      "collectorStatus": "unsupported_provider",
+      "collectorStatus": "applied",
       "eventID": "84565532-770B-52AF-BD61-260C96C552A6",
       "reason": null,
+      "snapshot": {
+        "amountMinor": 18999,
+        "availability": "available",
+        "capturedAt": "2026-07-21T11:40:20Z",
+        "collectorKind": "frontGateHTML",
+        "currency": "USD",
+        "displayText": "From US$189.99",
+        "feeBasis": "feesIncluded",
+        "provider": "frontgate",
+        "providerEventID": "dreamstate",
+        "sourceURLText": "https://dreamstate.frontgatetickets.com/",
+        "tierKey": "primary-ga|frontgate-1e391w65341yvlfq-929907",
+        "tierName": "2-Day GA",
+        "verificationState": "fresh"
+      },
       "stale": false,
       "ticketURLText": "https://dreamstate.frontgatetickets.com/"
     },
     {
       "action": "no_snapshot",
       "city": "Chicago",
-      "collectorStatus": "unsupported_provider",
+      "collectorStatus": "ambiguous_or_missing",
       "eventID": "E9D532C1-A10E-52FD-99BE-82A634161A7A",
-      "reason": null,
+      "reason": "no unambiguous available full-event GA tier",
       "stale": false,
       "ticketURLText": "https://arcmusicfestival.frontgatetickets.com/"
     },
@@ -910,11 +976,26 @@
       "ticketURLText": "https://in.bookmyshow.com/events/sunburn-festival-2026/ET00498558"
     },
     {
-      "action": "no_snapshot",
+      "action": "applied",
       "city": "Jakarta",
-      "collectorStatus": "unsupported_provider",
+      "collectorStatus": "applied",
       "eventID": "502B9137-FDF7-5B8F-A04D-142CA7E52ED9",
       "reason": null,
+      "snapshot": {
+        "amountMinor": 1700000,
+        "availability": "available",
+        "capturedAt": "2026-07-21T11:40:20Z",
+        "collectorKind": "dwpOfficialHTML",
+        "currency": "IDR",
+        "displayText": "From IDR 1,700,000",
+        "feeBasis": "unknown",
+        "provider": "dwp",
+        "providerEventID": "dwp-jakarta-2026",
+        "sourceURLText": "https://dwpfest.com/",
+        "tierKey": "primary-ga|dwp-3-day-ga-early-entry",
+        "tierName": "3-Day GA Early Entry",
+        "verificationState": "fresh"
+      },
       "stale": false,
       "ticketURLText": "https://dwpfest.com/"
     },
@@ -949,7 +1030,7 @@
       "action": "no_snapshot",
       "city": "Split",
       "collectorStatus": "unsupported_provider",
-      "eventID": "37CB901D-4E71-5E0E-853A-007495005ACB",
+      "eventID": "AF4ACC99-A22F-5FF6-BBD8-DB887DF51B74",
       "reason": null,
       "stale": false,
       "ticketURLText": "https://ultraeurope.com/tickets/"
@@ -964,17 +1045,17 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "9dab7c5edfbd6a2fc54c84f5d24bc8896815fda14fae56a96f089b2c10f4a50d",
-  "feedSHA256Before": "25afc6841493ef98453a8e288e66055d52ac5ef2354fa3aa984e6641af59b8ab",
-  "historySHA256After": "0feec6123fbe7765051587f21eb43d8154ad1cfb239907d16e589448e4273a65",
-  "priceProjectionSHA256": "2c937c2e1c0ff4aca863bff298a871a378b5908baf21f49dd9243b6952df7df2",
+  "feedSHA256After": "20d195078ae38258da6e51074590e226dbaab2f1b5dfdee3a781d567de9cc9a1",
+  "feedSHA256Before": "ae09a3c225e55eab9cefcb743d6d672df76fd70883015ee560c55fbe297ecfde",
+  "historySHA256After": "4b3f7a2c423bb751e7dee7bfb84a6e94fdf83902066386501b977bb2424660bd",
+  "priceProjectionSHA256": "7863a52197f700aec90d3dd62f3d6946ca49c65ae02d5b01c958215f98c107c0",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
-    "appliedCount": 12,
-    "candidateCount": 87,
-    "freshCount": 12,
-    "noSnapshotCount": 55,
+    "appliedCount": 15,
+    "candidateCount": 91,
+    "freshCount": 15,
+    "noSnapshotCount": 56,
     "providerFailureCount": 20,
     "staleCount": 0
   }
