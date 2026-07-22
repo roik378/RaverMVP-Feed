@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-21T22:06:53Z",
-  "ingestRunId": "4CF3703D-2495-4D7E-B93D-CB901E7048B0",
-  "ingestRunAt": "2026-07-21T22:06:53Z",
+  "ranAt": "2026-07-22T18:01:53Z",
+  "ingestRunId": "61EBA92B-D23E-4DB0-9C35-C7D64F59C762",
+  "ingestRunAt": "2026-07-22T18:01:53Z",
   "mode": "full",
   "sources": [
     {
@@ -98,9 +98,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 7,
-      "usable": 7,
-      "consumerReady": 7,
+      "captured": 8,
+      "usable": 8,
+      "consumerReady": 8,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -208,8 +208,8 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-21T22:06:20Z",
-      "ticketOfferCount": 2,
+      "ticketOfferObservedAt": "2026-07-22T18:01:20Z",
+      "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
       "evidenceImageURL": "https://media.nowshenzhen.com/events/3698a68e-5e85-4ff6-b297-f1ebfb2ce487/8060ce6749e3df2e-full.webp",
@@ -294,8 +294,8 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-22 06:07:14",
-        "totalSearchRecords": 20,
+        "observedAtText": "2026-07-23 02:02:16",
+        "totalSearchRecords": 22,
         "acceptedReviewedRecordCount": 13,
         "venues": [
           {
@@ -528,7 +528,7 @@
           "city": "Shenzhen",
           "dateText": "2026-07-25",
           "endDateText": "2026-07-26",
-          "timeText": "22:00",
+          "timeText": "20:00",
           "lineupNames": [
             "SCSI-9"
           ],
@@ -593,14 +593,14 @@
           "city": "Shenzhen",
           "dateText": "2026-07-24",
           "endDateText": "2026-07-25",
-          "timeText": "22:00",
+          "timeText": "20:00",
           "lineupNames": [
             "Answer Code Request"
           ],
           "styles": [
             "Techno"
           ],
-          "priceDisplayText": "¥100",
+          "priceDisplayText": "¥120",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
           "styleEvidenceStatus": "observed",
@@ -733,7 +733,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "b6a9c1213d266d2ff04b8bbf718a88de4645ebe3244cd8b352d32cddecd9fa78"
+      "evidenceStyleSHA256": "c60e98e127dd641a6c402e83f710a1a342167476cc463160a72f4309f37b0709"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -750,7 +750,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "f63e95460c16f32e815d28278c0aafbf2bb1ef1545b14de883513a0443bfd26e"
+      "evidenceStyleSHA256": "3dda6777a096b75f4027b52af2c4d6317e4a3d76f7475aeb74a1653502cc668b"
     },
     {
       "sourceId": "creamfields_official",
@@ -873,14 +873,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212821,
-          "sha256": "235524e6aee712b3d7d3dcc77e8a75735f2500ddece9c4bac9780db7f3e356bf",
+          "contentLength": 212639,
+          "sha256": "ccd5b71ab8a9fb579e539d72315cc568c7d4aaea37fb4a40734433cb2a4a30a1",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "7c1667c9207bbee83e755d7b72d402ca5ed584d2c33237d1ff2ec6691f187c28",
+      "evidenceStyleSHA256": "5526cb75b28809b8c03362014ebd37b378d815fbec2645b219505b608800cc7c",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -913,11 +913,11 @@
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf",
+      "evidenceImageSHA256": "b17ecff696251af2f9214d8312896becf8b7b4fac4f5e5e1cf4d97d4f514486e",
       "evidenceImageETag": "\"6a036a12-277bb\"",
       "evidenceImageContentType": "image/webp",
       "evidenceImageLastModified": "Tue, 12 May 2026 17:57:38 GMT",
-      "evidenceImageIdentity": "officialETag"
+      "evidenceImageIdentity": "reviewedSHA256"
     },
     {
       "sourceId": "hard_summer_official",
@@ -967,7 +967,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 88805,
-          "sha256": "cf34a05e02c1e8ddeb1fd2ec09969565af3aa7a34fdfdbf3347ed7ea5013ded4",
+          "sha256": "ff4c3a091214680ba916aa6e6f146937553c6688e0da5bb218feb53121b5b096",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -991,8 +991,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 287695,
-          "sha256": "3da1fd6d5c7a7043be322f990722f2d28ef897b20eeff2825e110aba9d39756b",
+          "contentLength": 287693,
+          "sha256": "931f24347546fe23f902446c4141073ae0b0adfa82f0694d71af7a3bcb7d0652",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1016,8 +1016,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 121448,
-          "sha256": "85dc7950c130476ffd703e9a55f00aa4acc985f158a3ff9b9f4267e7b8a70236",
+          "contentLength": 133395,
+          "sha256": "73465116e498138300e70b3b3e46945202e7bd2d3ff4c58ea968c3b2a366d867",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1082,13 +1082,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "8e75d7920598a92e47c83e1b3ed08dc4a4507f5b05ebc47c6f4170773dc4f0b2",
+          "sha256": "326dc8648822b2d9dc651825f978760d585761a4785ea7aef5e8d53ad755d202",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "e10ae523f532364a26757a89f1e18fdb35ccd5f6bacae025073846050cd13db2",
+      "evidenceStyleSHA256": "7667fe9bf2d83136f79aee60241bb34782eabdac9303ac7380524258727b7852",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1108,14 +1108,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 115119,
-          "sha256": "bce947988c85424a637132793997b7845bb79591030a9d79d5b3d5e88954e962",
+          "contentLength": 117037,
+          "sha256": "a2fb08a186426f469440b40a318578c44a593db5f21f190ad8a9025c939038a9",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "a6eae874dabebbb4c06fad3650a647aac559dbf08c0dd4e4a767bc7aa025e422",
+      "evidenceStyleSHA256": "d419c556ec5020234df27cf2bfff856c8ae36b4e3ae5e4602894f3bed25b6766",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1140,11 +1140,11 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 162,
-      "usable": 102,
-      "consumerReady": 65,
+      "captured": 163,
+      "usable": 103,
+      "consumerReady": 66,
       "consumerRejected": 37,
-      "consumerReadyRate": 0.637,
+      "consumerReadyRate": 0.641,
       "rejectionReasons": {
         "missing_raver_evidence": 12,
         "placeholder_title": 6,
@@ -1973,11 +1973,11 @@
   ],
   "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 208,
-    "usable": 141
+    "captured": 209,
+    "usable": 142
   },
   "consumerQuality": {
-    "ready": 103,
+    "ready": 104,
     "rejected": 38,
     "rejectionReasons": {
       "missing_raver_evidence": 12,
@@ -1988,29 +1988,29 @@
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-21",
-    "Shenzhen": "2026-07-22",
-    "Miami": "2026-07-21",
-    "Las Vegas": "2026-07-21",
-    "Daresbury": "2026-07-21",
-    "Salmo": "2026-07-21",
-    "Orlando": "2026-07-21",
-    "Montreal": "2026-07-21",
+    "Vancouver": "2026-07-22",
+    "Shenzhen": "2026-07-23",
+    "Miami": "2026-07-22",
+    "Las Vegas": "2026-07-22",
+    "Daresbury": "2026-07-22",
+    "Salmo": "2026-07-22",
+    "Orlando": "2026-07-22",
+    "Montreal": "2026-07-22",
     "Boom": "2026-07-22",
     "Hilvarenbeek": "2026-07-22",
     "Arnhem": "2026-07-22",
     "Cluj-Napoca": "2026-07-22",
-    "Thornville": "2026-07-21",
-    "Los Angeles": "2026-07-21",
-    "Long Beach": "2026-07-21",
-    "Chicago": "2026-07-21",
+    "Thornville": "2026-07-22",
+    "Los Angeles": "2026-07-22",
+    "Long Beach": "2026-07-22",
+    "Chicago": "2026-07-22",
     "Mumbai": "2026-07-22",
-    "Jakarta": "2026-07-22",
-    "Phuket": "2026-07-22",
+    "Jakarta": "2026-07-23",
+    "Phuket": "2026-07-23",
     "Alpe d'Huez": "2026-07-22",
-    "Mexico City": "2026-07-21",
+    "Mexico City": "2026-07-22",
     "Split": "2026-07-22",
-    "Tokyo": "2026-07-22"
+    "Tokyo": "2026-07-23"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
@@ -2022,9 +2022,9 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-21T22:06:32Z",
-    "activityCount": 15,
-    "scheduleCount": 17
+    "observedAt": "2026-07-22T18:01:33Z",
+    "activityCount": 16,
+    "scheduleCount": 19
   },
   "sourceResilience": {
     "schemaVersion": 1,
@@ -2035,8 +2035,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "12BBD0C2-5332-496B-A3F0-C9E4C4455DA5",
-      "ingestRunAt": "2026-07-21T21:41:20Z"
+      "ingestRunId": "4CF3703D-2495-4D7E-B93D-CB901E7048B0",
+      "ingestRunAt": "2026-07-21T22:06:53Z"
     }
   },
   "executionCoverage": {
