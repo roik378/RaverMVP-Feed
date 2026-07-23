@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-23T06:46:38Z",
-  "ingestRunId": "113A5F51-D6E4-49BC-A5A0-FBDD4734F67F",
-  "ingestRunAt": "2026-07-23T06:46:38Z",
+  "ranAt": "2026-07-23T07:45:52Z",
+  "ingestRunId": "5E16C95B-B9DA-4834-B492-2D7440712A53",
+  "ingestRunAt": "2026-07-23T07:45:52Z",
   "mode": "full",
   "sources": [
     {
@@ -208,7 +208,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-23T06:46:05Z",
+      "ticketOfferObservedAt": "2026-07-23T07:45:18Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -294,7 +294,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-23 14:47:00",
+        "observedAtText": "2026-07-23 15:46:15",
         "totalSearchRecords": 21,
         "acceptedReviewedRecordCount": 13,
         "venues": [
@@ -733,7 +733,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "911ae18360fbcc1d78eb6ea29e040dc3fbfd10000002397a6c9f7f477c29e96a"
+      "evidenceStyleSHA256": "fcd215d104e85a7f5a77b3cd830dd2c85855232250d301591537e2a9da50797c"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -750,7 +750,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "0282c3273715212252e8cfc5243e6b532a3838cdeea9a0203cb151a49a6f3860"
+      "evidenceStyleSHA256": "037b61825f117e27aece4f5db7fb40ee172a2507937334f649a01f5b19c3c768"
     },
     {
       "sourceId": "creamfields_official",
@@ -873,14 +873,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212817,
-          "sha256": "4009e6f67aec50d2b15fce77435b0e7906e581c5af80dc1d94646c826b4c4397",
+          "contentLength": 212812,
+          "sha256": "826d635137cc239f2df13effa47ae8ef340aa404b939f585a0b420fc02e2009f",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "8c8556d31e7368e6df0def1b8742eb3f350998b0ff4d5f407d83d4a12735cc21",
+      "evidenceStyleSHA256": "9edf70d8a6832169c238f80e97a578823f04471a5cef120112a5e472f85a69d6",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -923,15 +923,14 @@
       "sourceId": "hard_summer_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "error: no_parsed_events",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0,
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "fallback": {
-        "status": "retained",
-        "eligibleEventCount": 1,
-        "retainedEventCount": 1,
-        "fallbackAgeHours": 12
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
       },
       "strategy": "hard_summer_official"
     },
@@ -1083,13 +1082,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "0dcdb42932e19648e2221a53cca509b51b4030d2616317962ac56181b2021c5a",
+          "sha256": "8e9235d8497663247b9870cff8bf612323280cd9592c46deaac1bc8ccceb39a2",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "c06877ba92569670e0a9e065b93ff03f126922b060e8284660a2648fe0691ed7",
+      "evidenceStyleSHA256": "8a37e8b8e33708efdf291fba3dd9b9e894fb7b1fa290ee063adf1879e3f32d2f",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1110,13 +1109,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115119,
-          "sha256": "753a19ccad7f46f5effdc0daf3b9725bd0346392a792e46a1d2e1af3d2cfaba4",
+          "sha256": "2c4df4266e884a983029d5bca2a0c110ba3339a4b5cde75e45a75f71e18845f6",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "b7826f7a24c9673f54ed28f11b9666be531a01af3f1fd1b85c4e7b1c5dcc2991",
+      "evidenceStyleSHA256": "7755f63aa67f60078288691cf0190c60362fc291274e36bfd8c86e21ca1831b0",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1344,14 +1343,14 @@
     {
       "cityId": "los_angeles_us",
       "cityName": "Los Angeles",
-      "captured": 0,
+      "captured": 1,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 1,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1991,7 +1990,7 @@
   ],
   "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 209,
+    "captured": 210,
     "usable": 146
   },
   "consumerQuality": {
@@ -2006,12 +2005,12 @@
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-22",
+    "Vancouver": "2026-07-23",
     "Shenzhen": "2026-07-23",
     "Miami": "2026-07-23",
-    "Las Vegas": "2026-07-22",
+    "Las Vegas": "2026-07-23",
     "Daresbury": "2026-07-23",
-    "Salmo": "2026-07-22",
+    "Salmo": "2026-07-23",
     "Orlando": "2026-07-23",
     "Montreal": "2026-07-23",
     "Boom": "2026-07-23",
@@ -2019,8 +2018,8 @@
     "Arnhem": "2026-07-23",
     "Cluj-Napoca": "2026-07-23",
     "Thornville": "2026-07-23",
-    "Los Angeles": "2026-07-22",
-    "Long Beach": "2026-07-22",
+    "Los Angeles": "2026-07-23",
+    "Long Beach": "2026-07-23",
     "Chicago": "2026-07-23",
     "Mumbai": "2026-07-23",
     "Jakarta": "2026-07-23",
@@ -2040,17 +2039,17 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-23T06:46:18Z",
+    "observedAt": "2026-07-23T07:45:32Z",
     "activityCount": 16,
     "scheduleCount": 19
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "degraded",
+    "status": "healthy",
     "ttlHours": 120,
-    "failedSourceCount": 1,
-    "materialFailureCount": 1,
-    "retainedEventCount": 1,
+    "failedSourceCount": 0,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
       "ingestRunId": "61EBA92B-D23E-4DB0-9C35-C7D64F59C762",
@@ -2087,8 +2086,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish with retained source disclosure.",
-    "sourceResilienceStatus": "degraded"
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,

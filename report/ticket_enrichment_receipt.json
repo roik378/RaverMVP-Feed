@@ -368,8 +368,8 @@
           "actionableRatio": 1.0,
           "assisted": 16,
           "assistedRatio": 0.8421,
-          "direct": 6,
-          "ratio": 0.3158,
+          "direct": 5,
+          "ratio": 0.2632,
           "total": 19
         },
         "raw": {
@@ -377,8 +377,8 @@
           "actionableRatio": 1.0,
           "assisted": 16,
           "assistedRatio": 0.8421,
-          "direct": 6,
-          "ratio": 0.3158,
+          "direct": 5,
+          "ratio": 0.2632,
           "total": 19
         }
       },
@@ -830,8 +830,8 @@
           "actionableRatio": 1.0,
           "assisted": 16,
           "assistedRatio": 0.8421,
-          "direct": 6,
-          "ratio": 0.3158,
+          "direct": 5,
+          "ratio": 0.2632,
           "total": 19
         },
         "raw": {
@@ -839,8 +839,8 @@
           "actionableRatio": 1.0,
           "assisted": 16,
           "assistedRatio": 0.8421,
-          "direct": 6,
-          "ratio": 0.3158,
+          "direct": 5,
+          "ratio": 0.2632,
           "total": 19
         }
       },
@@ -1027,8 +1027,8 @@
   "eventCountAfter": 107,
   "eventCountBefore": 107,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "711afc2c5b94c2b29f17e87d811907b4b3bae9ea0a75fac0d64521830e1140f1",
-  "feedSHA256Before": "711afc2c5b94c2b29f17e87d811907b4b3bae9ea0a75fac0d64521830e1140f1",
+  "feedSHA256After": "41fd3ea21a50c1e2fbac454f83371039ddf2938834b3ff24b956657dd2df31c1",
+  "feedSHA256Before": "41fd3ea21a50c1e2fbac454f83371039ddf2938834b3ff24b956657dd2df31c1",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1075,21 +1075,21 @@
     "Daresbury": "2026-07-23",
     "Hilvarenbeek": "2026-07-23",
     "Jakarta": "2026-07-23",
-    "Las Vegas": "2026-07-22",
-    "Long Beach": "2026-07-22",
-    "Los Angeles": "2026-07-22",
+    "Las Vegas": "2026-07-23",
+    "Long Beach": "2026-07-23",
+    "Los Angeles": "2026-07-23",
     "Mexico City": "2026-07-23",
     "Miami": "2026-07-23",
     "Montreal": "2026-07-23",
     "Mumbai": "2026-07-23",
     "Orlando": "2026-07-23",
     "Phuket": "2026-07-23",
-    "Salmo": "2026-07-22",
+    "Salmo": "2026-07-23",
     "Shenzhen": "2026-07-23",
     "Split": "2026-07-23",
     "Thornville": "2026-07-23",
     "Tokyo": "2026-07-23",
-    "Vancouver": "2026-07-22"
+    "Vancouver": "2026-07-23"
   },
   "schemaVersion": 1,
   "staleSkippedCount": 6,
