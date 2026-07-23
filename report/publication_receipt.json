@@ -21,7 +21,7 @@
     "Orlando": 1,
     "Phuket": 1,
     "Salmo": 1,
-    "Shenzhen": 16,
+    "Shenzhen": 19,
     "Split": 1,
     "Thornville": 1,
     "Tokyo": 1,
@@ -32,10 +32,10 @@
     "Las Vegas",
     "Shenzhen"
   ],
-  "eventCount": 104,
+  "eventCount": 107,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "ed688bd4b10d56e6f26ff1498be65b044c41166384662e0ef33bcf612cdd6f09",
+  "feedSHA256": "711afc2c5b94c2b29f17e87d811907b4b3bae9ea0a75fac0d64521830e1140f1",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -45,14 +45,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-22T18:01:53Z",
-  "ingestRunId": "61EBA92B-D23E-4DB0-9C35-C7D64F59C762",
+  "ingestRunAt": "2026-07-23T06:46:38Z",
+  "ingestRunId": "113A5F51-D6E4-49BC-A5A0-FBDD4734F67F",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-22T18:04:14Z",
+  "publishedAt": "2026-07-23T06:49:14Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "5d5ff3b9a384885dab56575f36cd5606f3429543699e65c6ddcacd6a8446bca7",
+  "reportSHA256": "ab56bd0fbba51f859b9efd6a96295f2b7ca1f1b2242730012f7b11b2ff90032a",
   "schemaVersion": 1,
-  "sourceCommitSHA": "0536837e0e9bf3f01e7bcfc57d588c4d624ab67b",
+  "sourceCommitSHA": "5cb5895acab2ee5e22bba63c2c4167f98f70d3d2",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -61,10 +61,10 @@
     "Las Vegas"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "edfc5c9356972db3706880c7cfc8cc12024ac34ea365b2fa00e0f1205b390620",
+  "ticketPriceProjectionSHA256": "d018c17321486b8dc54fc65d5a16cd965e2f9d16c01da79b6ca791199b35f912",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "c13bacba3108edf5cec4b5e93ba0ee25e697d47c85ea742f32f71e442ecbf685",
+  "ticketPriceReceiptSHA256": "4e5fe98412402c6349b89d963a8a66a44896822e3d2384a76645e12da5ae6335",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "7a5b0898a186af71800661c5fe03e7e598328c0be6b5471a7d110432bb734ffc"
+  "ticketReceiptSHA256": "d9c7c0bbb6f5d448fc1f28a4c50978016aa5e9796187d5f09be4961920a2a725"
 }

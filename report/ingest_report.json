@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-22T18:01:53Z",
-  "ingestRunId": "61EBA92B-D23E-4DB0-9C35-C7D64F59C762",
-  "ingestRunAt": "2026-07-22T18:01:53Z",
+  "ranAt": "2026-07-23T06:46:38Z",
+  "ingestRunId": "113A5F51-D6E4-49BC-A5A0-FBDD4734F67F",
+  "ingestRunAt": "2026-07-23T06:46:38Z",
   "mode": "full",
   "sources": [
     {
@@ -30,7 +30,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 7,
+      "consumerReady": 6,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -128,9 +128,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 6,
-      "usable": 6,
-      "consumerReady": 6,
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -208,7 +208,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-22T18:01:20Z",
+      "ticketOfferObservedAt": "2026-07-23T06:46:05Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -294,8 +294,8 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-23 02:02:16",
-        "totalSearchRecords": 22,
+        "observedAtText": "2026-07-23 14:47:00",
+        "totalSearchRecords": 21,
         "acceptedReviewedRecordCount": 13,
         "venues": [
           {
@@ -733,7 +733,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "c60e98e127dd641a6c402e83f710a1a342167476cc463160a72f4309f37b0709"
+      "evidenceStyleSHA256": "911ae18360fbcc1d78eb6ea29e040dc3fbfd10000002397a6c9f7f477c29e96a"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -750,7 +750,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "3dda6777a096b75f4027b52af2c4d6317e4a3d76f7475aeb74a1653502cc668b"
+      "evidenceStyleSHA256": "0282c3273715212252e8cfc5243e6b532a3838cdeea9a0203cb151a49a6f3860"
     },
     {
       "sourceId": "creamfields_official",
@@ -873,14 +873,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212639,
-          "sha256": "ccd5b71ab8a9fb579e539d72315cc568c7d4aaea37fb4a40734433cb2a4a30a1",
+          "contentLength": 212817,
+          "sha256": "4009e6f67aec50d2b15fce77435b0e7906e581c5af80dc1d94646c826b4c4397",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "5526cb75b28809b8c03362014ebd37b378d815fbec2645b219505b608800cc7c",
+      "evidenceStyleSHA256": "8c8556d31e7368e6df0def1b8742eb3f350998b0ff4d5f407d83d4a12735cc21",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -923,14 +923,15 @@
       "sourceId": "hard_summer_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
-      "consumerReady": 1,
+      "status": "error: no_parsed_events",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 1,
+        "retainedEventCount": 1,
+        "fallbackAgeHours": 12
       },
       "strategy": "hard_summer_official"
     },
@@ -967,7 +968,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 88805,
-          "sha256": "ff4c3a091214680ba916aa6e6f146937553c6688e0da5bb218feb53121b5b096",
+          "sha256": "5e8c7b276ff91165a0f4bfdc88cdd77ddd331777b3ede2969f62ce164684f9e8",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1082,13 +1083,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "326dc8648822b2d9dc651825f978760d585761a4785ea7aef5e8d53ad755d202",
+          "sha256": "0dcdb42932e19648e2221a53cca509b51b4030d2616317962ac56181b2021c5a",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "7667fe9bf2d83136f79aee60241bb34782eabdac9303ac7380524258727b7852",
+      "evidenceStyleSHA256": "c06877ba92569670e0a9e065b93ff03f126922b060e8284660a2648fe0691ed7",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1108,14 +1109,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 117037,
-          "sha256": "a2fb08a186426f469440b40a318578c44a593db5f21f190ad8a9025c939038a9",
+          "contentLength": 115119,
+          "sha256": "753a19ccad7f46f5effdc0daf3b9725bd0346392a792e46a1d2e1af3d2cfaba4",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "d419c556ec5020234df27cf2bfff856c8ae36b4e3ae5e4602894f3bed25b6766",
+      "evidenceStyleSHA256": "b7826f7a24c9673f54ed28f11b9666be531a01af3f1fd1b85c4e7b1c5dcc2991",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1140,13 +1141,13 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 163,
-      "usable": 103,
+      "captured": 164,
+      "usable": 104,
       "consumerReady": 66,
-      "consumerRejected": 37,
-      "consumerReadyRate": 0.641,
+      "consumerRejected": 38,
+      "consumerReadyRate": 0.635,
       "rejectionReasons": {
-        "missing_raver_evidence": 12,
+        "missing_raver_evidence": 13,
         "placeholder_title": 6,
         "reviewed_non_raver_title": 1,
         "reviewed_event_fact_correction_drift": 1,
@@ -1162,8 +1163,8 @@
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
       "captured": 23,
-      "usable": 16,
-      "consumerReady": 16,
+      "usable": 19,
+      "consumerReady": 19,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1343,14 +1344,14 @@
     {
       "cityId": "los_angeles_us",
       "cityName": "Los Angeles",
-      "captured": 1,
+      "captured": 0,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1739,13 +1740,13 @@
     {
       "sourceId": "fortune_sound_club",
       "sourceKind": "clubWebsite",
-      "eventId": "33EC4B77-DA17-59B6-8CB2-E32B2D27292D",
-      "title": "BABES ON BABES PRIDE 2026",
+      "eventId": "F2CA9FA9-3E38-556F-895D-BEE6BC2E931C",
+      "title": "TAKE ME BACK TO 2016 AT WYA? SATURDAYS",
       "venue": "Fortune Sound Club",
       "city": "Vancouver",
-      "dateText": "Aug 2",
-      "timeText": "20:00",
-      "sourceURLText": "https://www.fortunesoundclub.com/events/babes-pride",
+      "dateText": "Aug 1",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.fortunesoundclub.com/events/2016-aug",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1756,13 +1757,30 @@
     {
       "sourceId": "fortune_sound_club",
       "sourceKind": "clubWebsite",
-      "eventId": "DC69C7BC-A848-5481-86EC-5B94580C68DC",
-      "title": "babes on babes pride",
+      "eventId": "A661ACFC-749C-5FA6-ADCC-1F1919D8B6E3",
+      "title": "take me back to 2016",
       "venue": "Fortune Sound Club",
       "city": "Vancouver",
-      "dateText": "august 2",
+      "dateText": "AUGUST 1",
       "timeText": null,
       "sourceURLText": "https://www.fortunesoundclub.com/events",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "fortune_sound_club",
+      "sourceKind": "clubWebsite",
+      "eventId": "33EC4B77-DA17-59B6-8CB2-E32B2D27292D",
+      "title": "BABES ON BABES PRIDE 2026",
+      "venue": "Fortune Sound Club",
+      "city": "Vancouver",
+      "dateText": "Aug 2",
+      "timeText": "20:00",
+      "sourceURLText": "https://www.fortunesoundclub.com/events/babes-pride",
       "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -1974,13 +1992,13 @@
   "operatorInventoryReviewCandidates": [],
   "totals": {
     "captured": 209,
-    "usable": 142
+    "usable": 146
   },
   "consumerQuality": {
-    "ready": 104,
-    "rejected": 38,
+    "ready": 107,
+    "rejected": 39,
     "rejectionReasons": {
-      "missing_raver_evidence": 12,
+      "missing_raver_evidence": 13,
       "placeholder_title": 6,
       "reviewed_non_raver_title": 1,
       "reviewed_event_fact_correction_drift": 1,
@@ -1990,31 +2008,31 @@
   "referenceDates": {
     "Vancouver": "2026-07-22",
     "Shenzhen": "2026-07-23",
-    "Miami": "2026-07-22",
+    "Miami": "2026-07-23",
     "Las Vegas": "2026-07-22",
-    "Daresbury": "2026-07-22",
+    "Daresbury": "2026-07-23",
     "Salmo": "2026-07-22",
-    "Orlando": "2026-07-22",
-    "Montreal": "2026-07-22",
-    "Boom": "2026-07-22",
-    "Hilvarenbeek": "2026-07-22",
-    "Arnhem": "2026-07-22",
-    "Cluj-Napoca": "2026-07-22",
-    "Thornville": "2026-07-22",
+    "Orlando": "2026-07-23",
+    "Montreal": "2026-07-23",
+    "Boom": "2026-07-23",
+    "Hilvarenbeek": "2026-07-23",
+    "Arnhem": "2026-07-23",
+    "Cluj-Napoca": "2026-07-23",
+    "Thornville": "2026-07-23",
     "Los Angeles": "2026-07-22",
     "Long Beach": "2026-07-22",
-    "Chicago": "2026-07-22",
-    "Mumbai": "2026-07-22",
+    "Chicago": "2026-07-23",
+    "Mumbai": "2026-07-23",
     "Jakarta": "2026-07-23",
     "Phuket": "2026-07-23",
-    "Alpe d'Huez": "2026-07-22",
-    "Mexico City": "2026-07-22",
-    "Split": "2026-07-22",
+    "Alpe d'Huez": "2026-07-23",
+    "Mexico City": "2026-07-23",
+    "Split": "2026-07-23",
     "Tokyo": "2026-07-23"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 121
+    "reviewedArtists": 122
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -2022,21 +2040,21 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-22T18:01:33Z",
+    "observedAt": "2026-07-23T06:46:18Z",
     "activityCount": 16,
     "scheduleCount": 19
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 0,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 1,
+    "materialFailureCount": 1,
+    "retainedEventCount": 1,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "4CF3703D-2495-4D7E-B93D-CB901E7048B0",
-      "ingestRunAt": "2026-07-21T22:06:53Z"
+      "ingestRunId": "61EBA92B-D23E-4DB0-9C35-C7D64F59C762",
+      "ingestRunAt": "2026-07-22T18:01:53Z"
     }
   },
   "executionCoverage": {
@@ -2069,8 +2087,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
