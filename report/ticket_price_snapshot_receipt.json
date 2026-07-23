@@ -459,7 +459,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -484,7 +484,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -509,7 +509,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -534,7 +534,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -639,7 +639,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -674,7 +674,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -709,7 +709,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -734,7 +734,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -759,7 +759,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -784,7 +784,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -809,7 +809,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -834,7 +834,7 @@
       "snapshot": {
         "amountMinor": 13800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥138",
@@ -859,7 +859,7 @@
       "snapshot": {
         "amountMinor": 13800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥138",
@@ -884,7 +884,7 @@
       "snapshot": {
         "amountMinor": 13800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥138",
@@ -909,7 +909,7 @@
       "snapshot": {
         "amountMinor": 12000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥120",
@@ -934,7 +934,7 @@
       "snapshot": {
         "amountMinor": 13000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥130",
@@ -989,7 +989,7 @@
       "snapshot": {
         "amountMinor": 19800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥198",
@@ -1009,12 +1009,37 @@
       "action": "applied",
       "city": "Shenzhen",
       "collectorStatus": "applied",
+      "eventID": "768F296C-9BF9-5BAF-BE25-6960BA20007B",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 9000,
+        "availability": "available",
+        "capturedAt": "2026-07-23T10:41:30Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥90",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2080236375297929218",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080236375297929218",
+        "tierKey": "schedule-2080236516817940481|ticket-2080236788810166273",
+        "tierName": "早鸟票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080236375297929218",
+      "ticketURLText": null
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
       "eventID": "AC4DDA68-79D9-5767-B096-2FBD94D2B7AA",
       "reason": null,
       "snapshot": {
         "amountMinor": 10000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥100",
@@ -1039,7 +1064,7 @@
       "snapshot": {
         "amountMinor": 10800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥108",
@@ -1064,7 +1089,7 @@
       "snapshot": {
         "amountMinor": 10000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥100",
@@ -1089,7 +1114,7 @@
       "snapshot": {
         "amountMinor": 10000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥100",
@@ -1114,7 +1139,7 @@
       "snapshot": {
         "amountMinor": 5000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥50",
@@ -1139,7 +1164,7 @@
       "snapshot": {
         "amountMinor": 23800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥238",
@@ -1164,7 +1189,7 @@
       "snapshot": {
         "amountMinor": 8800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥88",
@@ -1189,7 +1214,7 @@
       "snapshot": {
         "amountMinor": 4800,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥48",
@@ -1214,7 +1239,7 @@
       "snapshot": {
         "amountMinor": 2880,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥28.80",
@@ -1239,7 +1264,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:01:47Z",
+        "capturedAt": "2026-07-23T10:41:30Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥30",
@@ -1254,6 +1279,256 @@
       "stale": false,
       "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
       "ticketURLText": null
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "DC30E02F-C6DD-5FBF-874C-122807C74E9F",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/luke-alessi-coda-tickets/14964733?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/luke-alessi-coda-tickets/14964733?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "C853D1CB-3DB0-536B-BC5B-63B4B2CC159E",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/33-below-coda-tickets/14987143?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/33-below-coda-tickets/14987143?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "9434F134-BB1D-55C9-BC16-C785D2F3F967",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/rafael-coda-tickets/14914473?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/rafael-coda-tickets/14914473?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "5061A47B-9D2F-5B5B-97D4-CD1842758999",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/bastian-bux-coda-tickets/14203954?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/bastian-bux-coda-tickets/14203954?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "F83EAD33-4191-56C5-9837-EDB5105FC6F7",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/crusy-coda-tickets/14845463?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/crusy-coda-tickets/14845463?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "0156C032-AC16-5ABD-980F-D4BED6838F46",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/sbastien-lger-coda-tickets/14192444?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/sbastien-lger-coda-tickets/14192444?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "E2FF1C23-DC10-50B0-A2CD-9E25D36EBB4F",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/colyn-coda-tickets/14236534?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/colyn-coda-tickets/14236534?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "6D87A569-5562-5841-AC46-8EB5A8B6924C",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/joshwa-coda-tickets/14832543?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/joshwa-coda-tickets/14832543?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "3E1D8377-AA4C-5D8D-ADC9-4137B78CC39D",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/rebke-coda-tickets/14212034?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/rebke-coda-tickets/14212034?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "7373DD68-0441-5A0A-8EE8-5F6DE2DD7970",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/caspa-coda-tickets/14237184?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/caspa-coda-tickets/14237184?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "D3B6EF9A-920B-5BC4-A49A-0D864137359F",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/julian-fijma-coda-tickets/14951653?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/julian-fijma-coda-tickets/14951653?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "8A56F7AE-1E18-52E5-87FA-7690FC0492A6",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/linska-coda-tickets/14237214?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/linska-coda-tickets/14237214?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "9BE228A2-20A3-5BD3-AD91-28F9E72BD0D7",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/dean-turnley-coda-tickets/14892713?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/dean-turnley-coda-tickets/14892713?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "7229374B-5144-5F14-87AF-32C93FED1067",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/twin-diplomacy-coda-tickets/14193774?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/twin-diplomacy-coda-tickets/14193774?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "10A559C7-60AE-52D7-AA09-83D4E152E10E",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2457182",
+      "ticketURLText": "https://ra.co/events/2457182"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "C3DCDBA5-A5BF-5412-8EFB-085738B3EBF3",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2172750",
+      "ticketURLText": "https://ra.co/events/2172750"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "6EA53CE0-C71A-596C-AB4F-31CA85172C5D",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2479397",
+      "ticketURLText": "https://ra.co/events/2479397"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "55052BFC-C21B-5084-AFB5-1812FAC8F2A3",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2454581",
+      "ticketURLText": "https://ra.co/events/2454581"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "6959323A-B578-585A-96EA-EB89794BC82B",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2454809",
+      "ticketURLText": "https://ra.co/events/2454809"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "4F7A1A48-8EB6-56B6-A5AD-58BE010326B4",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2471520",
+      "ticketURLText": "https://ra.co/events/2471520"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "78BBF8E2-5141-5BF9-AA88-A2D75CAE325E",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2476956",
+      "ticketURLText": "https://ra.co/events/2476956"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "863A91A6-3356-5529-80BE-694D8DF6C2FD",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2476959",
+      "ticketURLText": "https://ra.co/events/2476959"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "23587959-5A45-54AC-996E-7AFE780CBF0A",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2476961",
+      "ticketURLText": "https://ra.co/events/2476961"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "9C10E707-C806-5FE4-962C-D16A9A7C806A",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://dollop.tix.to/Loukeman",
+      "ticketURLText": "https://dollop.tix.to/Loukeman"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "London",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "86C1E3FB-7ABD-5602-B2F3-20EF4CBA777B",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://ra.co/events/2476990",
+      "ticketURLText": "https://ra.co/events/2476990"
     },
     {
       "action": "no_snapshot",
@@ -1294,7 +1569,7 @@
       "snapshot": {
         "amountMinor": 30399,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$303.99",
@@ -1369,7 +1644,7 @@
       "snapshot": {
         "amountMinor": 31230,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$312.30",
@@ -1394,7 +1669,7 @@
       "snapshot": {
         "amountMinor": 18999,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$189.99",
@@ -1419,7 +1694,7 @@
       "snapshot": {
         "amountMinor": 59900,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$599",
@@ -1454,7 +1729,7 @@
       "snapshot": {
         "amountMinor": 1700000,
         "availability": "available",
-        "capturedAt": "2026-07-23T08:03:31Z",
+        "capturedAt": "2026-07-23T10:43:18Z",
         "collectorKind": "dwpOfficialHTML",
         "currency": "IDR",
         "displayText": "From IDR 1,700,000",
@@ -1521,17 +1796,17 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "9e86c881feeaa77c64e04a9812469d77461cc0583b44e13199ac7f038b78fd04",
-  "feedSHA256Before": "70fd3a6f2a1e413564cd5c4b94434c79b0e17a19ba241aed79de37b572a08983",
-  "historySHA256After": "66cb4112adefb4945e7f952cea332efcb8b6efa65a0402a4c10ce96157868dd4",
-  "priceProjectionSHA256": "8683beefdf4b491ed9a5f6e6f20eb221a95e83b42d828495e9ad1ecd487cbd51",
+  "feedSHA256After": "e9309f2363a40af1d6fc19c107b1d82ba01fdbcb83ad1a971314820c1b145710",
+  "feedSHA256Before": "a073a1f10bd41a116c86ceceffba10ab2d962f63d798ec5d7083522f1a6e5db6",
+  "historySHA256After": "10cbc914d3434d357f692dc6481144c829c5b9d6e48a6e2b688a2c51e56dd687",
+  "priceProjectionSHA256": "650e30dc5563a706d64ff4a1d2a3d4931be98b54929ced3a4c5df3e5c263f64b",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
-    "appliedCount": 32,
-    "candidateCount": 104,
-    "freshCount": 32,
-    "noSnapshotCount": 53,
+    "appliedCount": 33,
+    "candidateCount": 130,
+    "freshCount": 33,
+    "noSnapshotCount": 78,
     "providerFailureCount": 19,
     "staleCount": 0
   }

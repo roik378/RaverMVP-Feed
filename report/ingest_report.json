@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-23T08:02:13Z",
-  "ingestRunId": "D5C7CC1B-BF53-40C9-BA45-8F39C8471CB9",
-  "ingestRunAt": "2026-07-23T08:02:13Z",
+  "ranAt": "2026-07-23T10:41:49Z",
+  "ingestRunId": "2F0A8F0A-8F4B-41C0-8498-EE727CD5DB75",
+  "ingestRunAt": "2026-07-23T10:41:49Z",
   "mode": "full",
   "sources": [
     {
@@ -208,7 +208,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-23T08:01:33Z",
+      "ticketOfferObservedAt": "2026-07-23T10:41:20Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -281,9 +281,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 13,
-      "usable": 13,
-      "consumerReady": 13,
+      "captured": 14,
+      "usable": 14,
+      "consumerReady": 14,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -294,17 +294,17 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-23 16:02:33",
+        "observedAtText": "2026-07-23 18:42:09",
         "totalSearchRecords": 21,
-        "acceptedReviewedRecordCount": 13,
+        "acceptedReviewedRecordCount": 14,
         "venues": [
           {
             "shopID": "1803701116047175681",
             "shopName": "OIL CLUB",
             "venue": "OIL Club",
             "status": "current",
-            "observedRecordCount": 8,
-            "currentEventCount": 8,
+            "observedRecordCount": 9,
+            "currentEventCount": 9,
             "activityIDs": [
               "2072261295009390593",
               "2072262191009193986",
@@ -313,9 +313,10 @@
               "2072587211161952258",
               "2072592095781281794",
               "2079386222454288386",
-              "2079477624374734849"
+              "2079477624374734849",
+              "2080236375297929218"
             ],
-            "activityFingerprintSHA256": "5056b82bbffa181083a53c7349dc7a84ed167da3bd3c839b8e40e9f2aa23dfbf"
+            "activityFingerprintSHA256": "13c260979d58f305375536e0200b9e8538c7fd13cf70f83878f6b9b0944bb7e0"
           },
           {
             "shopID": "1889498806778068993",
@@ -332,10 +333,39 @@
           }
         ]
       },
-      "livePublicTicketTierCount": 13,
+      "livePublicTicketTierCount": 14,
       "reviewedEventStyleCount": 5,
       "reviewedEventLineupCount": 4,
       "inventoryReviewCandidates": [
+        {
+          "reviewKey": "yuyuan|2080236375297929218",
+          "reviewState": "ready_for_operator",
+          "activityID": "2080236375297929218",
+          "title": "Perc x Turbo",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-08",
+          "endDateText": "2026-08-09",
+          "timeText": "20:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥90",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "public_api_observed",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080236375297929218",
+          "miniProgramSearchText": "【Mainroom】Perc x Turbo @ OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2080236375297929218&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence"
+          ]
+        },
         {
           "reviewKey": "yuyuan|2079477624374734849",
           "reviewState": "ready_for_operator",
@@ -719,6 +749,36 @@
       }
     },
     {
+      "sourceId": "coda_toronto_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 14,
+      "usable": 14,
+      "consumerReady": 14,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "coda_toronto_official"
+    },
+    {
+      "sourceId": "fabric_london_official",
+      "kind": "html",
+      "executionLane": "githubHTML",
+      "status": "ok",
+      "captured": 11,
+      "usable": 11,
+      "consumerReady": 11,
+      "fallback": {
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "fabric_london_official"
+    },
+    {
       "sourceId": "ultra_miami_official",
       "kind": "html",
       "executionLane": "githubHTML",
@@ -733,7 +793,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "5d85d301103dcb6d88f4cf7d46f43032e3ba56796b4b6cd61972c90d62baac3d"
+      "evidenceStyleSHA256": "157c9d689bfef3d4e6862c3bdaae5ddf9d8f78f462bfef4aa342763c70a2b2c6"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -750,7 +810,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "22c22f120c88175d740ad33dc50ef562fe9ada050780ca93f654f54e50ac9679"
+      "evidenceStyleSHA256": "50cd1c5c9873e3bda2d6916b190146cbff2da826dd8dce5c350d696f8c66f893"
     },
     {
       "sourceId": "creamfields_official",
@@ -873,14 +933,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 212812,
-          "sha256": "826d635137cc239f2df13effa47ae8ef340aa404b939f585a0b420fc02e2009f",
+          "contentLength": 212689,
+          "sha256": "23686fa5abb7cac7ef7f5916ea95153c3271d93aa27dfbb357887ccd241fd4b3",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "9edf70d8a6832169c238f80e97a578823f04471a5cef120112a5e472f85a69d6",
+      "evidenceStyleSHA256": "cf3538ca7ef7f43dd99a39f437d8887f6a709157f31f47805673789803735689",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -913,9 +973,9 @@
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf",
+      "evidenceImageSHA256": "204c60fbb60c6cf4792d1fe987a95d04ce476b96f7674670adc281240b6dddf1",
       "evidenceImageETag": "\"6a036a12-277bb\"",
-      "evidenceImageContentType": "image/webp",
+      "evidenceImageContentType": "image/png",
       "evidenceImageLastModified": "Tue, 12 May 2026 17:57:38 GMT",
       "evidenceImageIdentity": "officialETag"
     },
@@ -991,8 +1051,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 287695,
-          "sha256": "3da1fd6d5c7a7043be322f990722f2d28ef897b20eeff2825e110aba9d39756b",
+          "contentLength": 287693,
+          "sha256": "931f24347546fe23f902446c4141073ae0b0adfa82f0694d71af7a3bcb7d0652",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1016,8 +1076,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 133395,
-          "sha256": "73465116e498138300e70b3b3e46945202e7bd2d3ff4c58ea968c3b2a366d867",
+          "contentLength": 133063,
+          "sha256": "bb83412d31b0e47ee3b4f7c18cdceef34b6afa8088668204d24e873b91d57602",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1082,13 +1142,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196743,
-          "sha256": "7a37807b7206df75e6b1c6c31469cd1f7db75cde60236d1cdaae82b81d77cc01",
+          "sha256": "93fdcb2704a0278c5c702c35bc43f891c2af33d7811e0c047df05267a48eb874",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "af002b9d13eff6c941d6c0c5b6fdb6a390d94d2b4e943b578e9b9c22eba7aff3",
+      "evidenceStyleSHA256": "002412e6c82d640063be1d0f15c8560b511046fb100e976569318f335a05888e",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1108,14 +1168,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 115119,
-          "sha256": "9df455ee2f20b88e647547e59e0b095d90ffb50d5f3d65dfcf4c31511bdc0196",
+          "contentLength": 115745,
+          "sha256": "8c83b59df1360e32d21922cd0ed6f311940f68b332287d6bc83479944390c70f",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "5e58541d99ae4e77977e89709e72b07e713c8bd8a59f1206ee5248f422a17c45",
+      "evidenceStyleSHA256": "fd2a76045bd876462c567d260915de48d5eae5df9c2caf711696006d8fcb5a61",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1161,13 +1221,43 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 23,
-      "usable": 19,
-      "consumerReady": 19,
+      "captured": 24,
+      "usable": 20,
+      "consumerReady": 20,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 9,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "toronto_ca",
+      "cityName": "Toronto",
+      "captured": 14,
+      "usable": 14,
+      "consumerReady": 14,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
+      "errorSourceCount": 0,
+      "missingOCRSourceCount": 0,
+      "status": "ok",
+      "actionText": "Review and publish consumer-ready events"
+    },
+    {
+      "cityId": "london_gb",
+      "cityName": "London",
+      "captured": 11,
+      "usable": 11,
+      "consumerReady": 11,
+      "consumerRejected": 0,
+      "consumerReadyRate": 1.0,
+      "rejectionReasons": {},
+      "enabledSourceCount": 1,
       "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
@@ -1988,13 +2078,43 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [],
+  "operatorInventoryReviewCandidates": [
+    {
+      "reviewKey": "yuyuan|2080236375297929218",
+      "reviewState": "ready_for_operator",
+      "activityID": "2080236375297929218",
+      "title": "Perc x Turbo",
+      "venue": "OIL Club",
+      "city": "Shenzhen",
+      "dateText": "2026-08-08",
+      "endDateText": "2026-08-09",
+      "timeText": "20:00",
+      "lineupNames": [],
+      "styles": [],
+      "priceDisplayText": "¥90",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "needs_review",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "public_api_observed",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080236375297929218",
+      "miniProgramSearchText": "【Mainroom】Perc x Turbo @ OIL Club 深圳",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2080236375297929218&isShare=true"
+      },
+      "requiredActions": [
+        "Capture readable lineup evidence",
+        "Capture explicit genre or event-theme evidence"
+      ]
+    }
+  ],
   "totals": {
-    "captured": 210,
-    "usable": 146
+    "captured": 236,
+    "usable": 172
   },
   "consumerQuality": {
-    "ready": 107,
+    "ready": 133,
     "rejected": 39,
     "rejectionReasons": {
       "missing_raver_evidence": 13,
@@ -2007,6 +2127,8 @@
   "referenceDates": {
     "Vancouver": "2026-07-23",
     "Shenzhen": "2026-07-23",
+    "Toronto": "2026-07-23",
+    "London": "2026-07-23",
     "Miami": "2026-07-23",
     "Las Vegas": "2026-07-23",
     "Daresbury": "2026-07-23",
@@ -2039,9 +2161,9 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-23T08:01:47Z",
-    "activityCount": 16,
-    "scheduleCount": 19
+    "observedAt": "2026-07-23T10:41:30Z",
+    "activityCount": 17,
+    "scheduleCount": 20
   },
   "sourceResilience": {
     "schemaVersion": 1,
@@ -2052,15 +2174,15 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "5E16C95B-B9DA-4834-B492-2D7440712A53",
-      "ingestRunAt": "2026-07-23T07:45:52Z"
+      "ingestRunId": "D5C7CC1B-BF53-40C9-BA45-8F39C8471CB9",
+      "ingestRunAt": "2026-07-23T08:02:13Z"
     }
   },
   "executionCoverage": {
     "schemaVersion": 1,
     "status": "partial",
     "executionLane": "githubHTML",
-    "activeSourceCount": 33,
+    "activeSourceCount": 35,
     "inactiveSourceCount": 5,
     "inactiveSourceIDs": [
       "am06_wechat",
@@ -2081,6 +2203,16 @@
       },
       {
         "cityName": "Shenzhen",
+        "minimumUsable": 2,
+        "minimumConsumerReady": 2
+      },
+      {
+        "cityName": "Toronto",
+        "minimumUsable": 2,
+        "minimumConsumerReady": 2
+      },
+      {
+        "cityName": "London",
         "minimumUsable": 2,
         "minimumConsumerReady": 2
       }

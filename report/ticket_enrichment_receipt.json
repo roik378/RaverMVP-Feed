@@ -182,6 +182,26 @@
           "total": 2
         }
       },
+      "London": {
+        "consumerEligible": {
+          "actionable": 11,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 11,
+          "ratio": 1.0,
+          "total": 11
+        },
+        "raw": {
+          "actionable": 11,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 11,
+          "ratio": 1.0,
+          "total": 11
+        }
+      },
       "Long Beach": {
         "consumerEligible": {
           "actionable": 1,
@@ -364,22 +384,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
+          "actionable": 20,
           "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "assisted": 17,
+          "assistedRatio": 0.85,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.25,
+          "total": 20
         },
         "raw": {
-          "actionable": 19,
+          "actionable": 20,
           "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "assisted": 17,
+          "assistedRatio": 0.85,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.25,
+          "total": 20
         }
       },
       "Split": {
@@ -440,6 +460,26 @@
           "direct": 1,
           "ratio": 1.0,
           "total": 1
+        }
+      },
+      "Toronto": {
+        "consumerEligible": {
+          "actionable": 14,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 14,
+          "ratio": 1.0,
+          "total": 14
+        },
+        "raw": {
+          "actionable": 14,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 14,
+          "ratio": 1.0,
+          "total": 14
         }
       },
       "Vancouver": {
@@ -644,6 +684,26 @@
           "total": 2
         }
       },
+      "London": {
+        "consumerEligible": {
+          "actionable": 11,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 11,
+          "ratio": 1.0,
+          "total": 11
+        },
+        "raw": {
+          "actionable": 11,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 11,
+          "ratio": 1.0,
+          "total": 11
+        }
+      },
       "Long Beach": {
         "consumerEligible": {
           "actionable": 1,
@@ -826,22 +886,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
+          "actionable": 20,
           "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "assisted": 17,
+          "assistedRatio": 0.85,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.25,
+          "total": 20
         },
         "raw": {
-          "actionable": 19,
+          "actionable": 20,
           "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "assisted": 17,
+          "assistedRatio": 0.85,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.25,
+          "total": 20
         }
       },
       "Split": {
@@ -902,6 +962,26 @@
           "direct": 1,
           "ratio": 1.0,
           "total": 1
+        }
+      },
+      "Toronto": {
+        "consumerEligible": {
+          "actionable": 14,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 14,
+          "ratio": 1.0,
+          "total": 14
+        },
+        "raw": {
+          "actionable": 14,
+          "actionableRatio": 1.0,
+          "assisted": 0,
+          "assistedRatio": 0.0,
+          "direct": 14,
+          "ratio": 1.0,
+          "total": 14
         }
       },
       "Vancouver": {
@@ -1024,11 +1104,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 107,
-  "eventCountBefore": 107,
+  "eventCountAfter": 133,
+  "eventCountBefore": 133,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "8ee222651766294a4b3a55f07abfd935c900f1e8017910dce4c654a876cfa7cc",
-  "feedSHA256Before": "8ee222651766294a4b3a55f07abfd935c900f1e8017910dce4c654a876cfa7cc",
+  "feedSHA256After": "9022e4999e74134857a31a21b6e6ed393c3166bd7973dcacf64d0bc238a9e8c1",
+  "feedSHA256Before": "9022e4999e74134857a31a21b6e6ed393c3166bd7973dcacf64d0bc238a9e8c1",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1076,6 +1156,7 @@
     "Hilvarenbeek": "2026-07-23",
     "Jakarta": "2026-07-23",
     "Las Vegas": "2026-07-23",
+    "London": "2026-07-23",
     "Long Beach": "2026-07-23",
     "Los Angeles": "2026-07-23",
     "Mexico City": "2026-07-23",
@@ -1089,6 +1170,7 @@
     "Split": "2026-07-23",
     "Thornville": "2026-07-23",
     "Tokyo": "2026-07-23",
+    "Toronto": "2026-07-23",
     "Vancouver": "2026-07-23"
   },
   "schemaVersion": 1,
