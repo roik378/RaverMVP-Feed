@@ -374,16 +374,6 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
-      "eventID": "E850A54B-35A7-5C03-8E3D-3F19CCA18AF2",
-      "reason": null,
-      "stale": false,
-      "ticketPriceEvidenceURLText": "https://on.villagestudios.life/trk/HI5nc",
-      "ticketURLText": "https://on.villagestudios.life/trk/HI5nc"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Vancouver",
-      "collectorStatus": "unsupported_provider",
       "eventID": "91FF3A33-4453-5C1E-9CF3-7AA39B2E577A",
       "reason": null,
       "stale": false,
@@ -459,7 +449,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -484,7 +474,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -509,7 +499,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -534,7 +524,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -639,7 +629,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -674,7 +664,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -709,7 +699,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -734,7 +724,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -759,7 +749,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -784,7 +774,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -809,7 +799,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -834,7 +824,7 @@
       "snapshot": {
         "amountMinor": 13800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥138",
@@ -859,7 +849,7 @@
       "snapshot": {
         "amountMinor": 13800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥138",
@@ -884,7 +874,7 @@
       "snapshot": {
         "amountMinor": 13800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥138",
@@ -909,7 +899,7 @@
       "snapshot": {
         "amountMinor": 12000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥120",
@@ -934,7 +924,7 @@
       "snapshot": {
         "amountMinor": 13000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥130",
@@ -989,7 +979,7 @@
       "snapshot": {
         "amountMinor": 19800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥198",
@@ -1014,7 +1004,7 @@
       "snapshot": {
         "amountMinor": 9000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥90",
@@ -1039,7 +1029,7 @@
       "snapshot": {
         "amountMinor": 10000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥100",
@@ -1064,7 +1054,7 @@
       "snapshot": {
         "amountMinor": 10800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥108",
@@ -1089,7 +1079,7 @@
       "snapshot": {
         "amountMinor": 10000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥100",
@@ -1114,7 +1104,7 @@
       "snapshot": {
         "amountMinor": 10000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥100",
@@ -1139,7 +1129,7 @@
       "snapshot": {
         "amountMinor": 5000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥50",
@@ -1164,7 +1154,7 @@
       "snapshot": {
         "amountMinor": 23800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥238",
@@ -1189,7 +1179,7 @@
       "snapshot": {
         "amountMinor": 8800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥88",
@@ -1214,7 +1204,7 @@
       "snapshot": {
         "amountMinor": 4800,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥48",
@@ -1239,7 +1229,7 @@
       "snapshot": {
         "amountMinor": 2880,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
+        "capturedAt": "2026-07-24T05:49:58Z",
         "collectorKind": "publicReadOnlyTierAPI",
         "currency": "CNY",
         "displayText": "From ¥28.80",
@@ -1253,31 +1243,6 @@
       },
       "stale": false,
       "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079509958809530369",
-      "ticketURLText": null
-    },
-    {
-      "action": "applied",
-      "city": "Shenzhen",
-      "collectorStatus": "applied",
-      "eventID": "ABB0FE43-98A7-55B0-9157-0DD75C3779E9",
-      "reason": null,
-      "snapshot": {
-        "amountMinor": 3000,
-        "availability": "available",
-        "capturedAt": "2026-07-23T10:41:30Z",
-        "collectorKind": "publicReadOnlyTierAPI",
-        "currency": "CNY",
-        "displayText": "From ¥30",
-        "feeBasis": "unknown",
-        "provider": "yuyuan",
-        "providerEventID": "2072261295009390593",
-        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
-        "tierKey": "schedule-2072261359266127873|ticket-2072261521552138242",
-        "tierName": "普通票",
-        "verificationState": "fresh"
-      },
-      "stale": false,
-      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072261295009390593",
       "ticketURLText": null
     },
     {
@@ -1569,7 +1534,7 @@
       "snapshot": {
         "amountMinor": 30399,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$303.99",
@@ -1644,7 +1609,7 @@
       "snapshot": {
         "amountMinor": 31230,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$312.30",
@@ -1669,7 +1634,7 @@
       "snapshot": {
         "amountMinor": 18999,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$189.99",
@@ -1694,7 +1659,7 @@
       "snapshot": {
         "amountMinor": 59900,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$599",
@@ -1729,7 +1694,7 @@
       "snapshot": {
         "amountMinor": 1700000,
         "availability": "available",
-        "capturedAt": "2026-07-23T10:43:18Z",
+        "capturedAt": "2026-07-24T05:51:50Z",
         "collectorKind": "dwpOfficialHTML",
         "currency": "IDR",
         "displayText": "From IDR 1,700,000",
@@ -1796,17 +1761,17 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "e9309f2363a40af1d6fc19c107b1d82ba01fdbcb83ad1a971314820c1b145710",
-  "feedSHA256Before": "a073a1f10bd41a116c86ceceffba10ab2d962f63d798ec5d7083522f1a6e5db6",
-  "historySHA256After": "10cbc914d3434d357f692dc6481144c829c5b9d6e48a6e2b688a2c51e56dd687",
-  "priceProjectionSHA256": "650e30dc5563a706d64ff4a1d2a3d4931be98b54929ced3a4c5df3e5c263f64b",
+  "feedSHA256After": "050c03e66f44c7e0815cf5a6a6b4033dd3b4c50894d10a7942edbee5f3bf9805",
+  "feedSHA256Before": "6452b9c6a1ba027981a99de4944757db52a414ec7a4b88799abc12782e7c041b",
+  "historySHA256After": "0b28be25e12ae65ab1adccc09c7fb958f61de38bfc992d6df327cc852c6647fc",
+  "priceProjectionSHA256": "817ececb32eeb3c4e9137bba54d1625ca3239b1de6ae3b0ed4ebbbf2deba35a1",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
-    "appliedCount": 33,
-    "candidateCount": 130,
-    "freshCount": 33,
-    "noSnapshotCount": 78,
+    "appliedCount": 32,
+    "candidateCount": 128,
+    "freshCount": 32,
+    "noSnapshotCount": 77,
     "providerFailureCount": 19,
     "staleCount": 0
   }

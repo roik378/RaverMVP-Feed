@@ -384,22 +384,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 20,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.85,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.25,
-          "total": 20
+          "ratio": 0.2632,
+          "total": 19
         },
         "raw": {
-          "actionable": 20,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.85,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.25,
-          "total": 20
+          "ratio": 0.2632,
+          "total": 19
         }
       },
       "Split": {
@@ -484,21 +484,21 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 66,
-          "actionableRatio": 1.0,
+          "actionable": 65,
+          "actionableRatio": 0.9848,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
-          "ratio": 1.0,
+          "direct": 65,
+          "ratio": 0.9848,
           "total": 66
         },
         "raw": {
-          "actionable": 66,
-          "actionableRatio": 1.0,
+          "actionable": 65,
+          "actionableRatio": 0.9848,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
-          "ratio": 1.0,
+          "direct": 65,
+          "ratio": 0.9848,
           "total": 66
         }
       }
@@ -886,22 +886,22 @@
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 20,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.85,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.25,
-          "total": 20
+          "ratio": 0.2632,
+          "total": 19
         },
         "raw": {
-          "actionable": 20,
+          "actionable": 19,
           "actionableRatio": 1.0,
-          "assisted": 17,
-          "assistedRatio": 0.85,
+          "assisted": 16,
+          "assistedRatio": 0.8421,
           "direct": 5,
-          "ratio": 0.25,
-          "total": 20
+          "ratio": 0.2632,
+          "total": 19
         }
       },
       "Split": {
@@ -986,21 +986,21 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 66,
-          "actionableRatio": 1.0,
+          "actionable": 65,
+          "actionableRatio": 0.9848,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
-          "ratio": 1.0,
+          "direct": 65,
+          "ratio": 0.9848,
           "total": 66
         },
         "raw": {
-          "actionable": 66,
-          "actionableRatio": 1.0,
+          "actionable": 65,
+          "actionableRatio": 0.9848,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 66,
-          "ratio": 1.0,
+          "direct": 65,
+          "ratio": 0.9848,
           "total": 66
         }
       }
@@ -1104,11 +1104,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 133,
-  "eventCountBefore": 133,
+  "eventCountAfter": 132,
+  "eventCountBefore": 132,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "9022e4999e74134857a31a21b6e6ed393c3166bd7973dcacf64d0bc238a9e8c1",
-  "feedSHA256Before": "9022e4999e74134857a31a21b6e6ed393c3166bd7973dcacf64d0bc238a9e8c1",
+  "feedSHA256After": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
+  "feedSHA256Before": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1145,32 +1145,32 @@
     "minimumTicketActionCoverage": 0.6,
     "status": "blocked"
   },
-  "referenceDate": "2026-07-23",
+  "referenceDate": "2026-07-24",
   "referenceDatesByCity": {
-    "Alpe d'Huez": "2026-07-23",
-    "Arnhem": "2026-07-23",
-    "Boom": "2026-07-23",
-    "Chicago": "2026-07-23",
-    "Cluj-Napoca": "2026-07-23",
-    "Daresbury": "2026-07-23",
-    "Hilvarenbeek": "2026-07-23",
-    "Jakarta": "2026-07-23",
+    "Alpe d'Huez": "2026-07-24",
+    "Arnhem": "2026-07-24",
+    "Boom": "2026-07-24",
+    "Chicago": "2026-07-24",
+    "Cluj-Napoca": "2026-07-24",
+    "Daresbury": "2026-07-24",
+    "Hilvarenbeek": "2026-07-24",
+    "Jakarta": "2026-07-24",
     "Las Vegas": "2026-07-23",
-    "London": "2026-07-23",
+    "London": "2026-07-24",
     "Long Beach": "2026-07-23",
     "Los Angeles": "2026-07-23",
     "Mexico City": "2026-07-23",
-    "Miami": "2026-07-23",
-    "Montreal": "2026-07-23",
-    "Mumbai": "2026-07-23",
-    "Orlando": "2026-07-23",
-    "Phuket": "2026-07-23",
+    "Miami": "2026-07-24",
+    "Montreal": "2026-07-24",
+    "Mumbai": "2026-07-24",
+    "Orlando": "2026-07-24",
+    "Phuket": "2026-07-24",
     "Salmo": "2026-07-23",
-    "Shenzhen": "2026-07-23",
-    "Split": "2026-07-23",
-    "Thornville": "2026-07-23",
-    "Tokyo": "2026-07-23",
-    "Toronto": "2026-07-23",
+    "Shenzhen": "2026-07-24",
+    "Split": "2026-07-24",
+    "Thornville": "2026-07-24",
+    "Tokyo": "2026-07-24",
+    "Toronto": "2026-07-24",
     "Vancouver": "2026-07-23"
   },
   "schemaVersion": 1,
