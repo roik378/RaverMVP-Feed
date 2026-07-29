@@ -43,7 +43,23 @@
               "styles": [
                 "Hard Dance"
               ],
-              "representativeTracks": [],
+              "representativeTracks": [
+                {
+                  "id": "8CC32FFC-5D52-590C-81C3-D86906B5F631",
+                  "title": "paleta x faint ((d[.‿.]b))",
+                  "label": "dj g2g"
+                },
+                {
+                  "id": "58EB0625-9749-5DF4-A714-31B2A27FF0FF",
+                  "title": "MY HUMPS JUST WANNA VROOM VROOM",
+                  "label": "dj g2g"
+                },
+                {
+                  "id": "18963DA5-721C-52E3-ACAD-15FC32498B63",
+                  "title": "BOTA NA CARA",
+                  "label": "dj g2g"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
@@ -1030,7 +1046,23 @@
               "styles": [
                 "House"
               ],
-              "representativeTracks": [],
+              "representativeTracks": [
+                {
+                  "id": "9C73999D-3765-5DA5-B722-AA648D781C5A",
+                  "title": "Magnetic",
+                  "label": "Murphy's Law (UK)"
+                },
+                {
+                  "id": "14543CA4-3F5E-5F9E-B884-7EF403A87E47",
+                  "title": "Back to You",
+                  "label": "Murphy's Law (UK)"
+                },
+                {
+                  "id": "AEE0C1F4-89CA-5EDD-B752-26B936AAAE31",
+                  "title": "Need To Know",
+                  "label": "Murphy's Law (UK)"
+                }
+              ],
               "peakDJMagRank": null
             }
           ],
