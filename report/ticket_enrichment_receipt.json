@@ -50,7 +50,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 1
+          "total": 0
         },
         "raw": {
           "actionable": 0,
@@ -59,7 +59,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 1
+          "total": 0
         }
       },
       "Chicago": {
@@ -184,22 +184,22 @@
       },
       "London": {
         "consumerEligible": {
-          "actionable": 11,
+          "actionable": 7,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 11,
+          "direct": 7,
           "ratio": 1.0,
-          "total": 11
+          "total": 7
         },
         "raw": {
-          "actionable": 11,
+          "actionable": 7,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 11,
+          "direct": 7,
           "ratio": 1.0,
-          "total": 11
+          "total": 7
         }
       },
       "Long Beach": {
@@ -364,42 +364,42 @@
       },
       "Salmo": {
         "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
+          "actionable": 0,
+          "actionableRatio": 0.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
+          "direct": 0,
+          "ratio": 0.0,
+          "total": 0
         },
         "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
+          "actionable": 0,
+          "actionableRatio": 0.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
+          "direct": 0,
+          "ratio": 0.0,
+          "total": 0
         }
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "actionable": 23,
+          "actionableRatio": 0.8519,
+          "assisted": 21,
+          "assistedRatio": 0.7778,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.1852,
+          "total": 27
         },
         "raw": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "actionable": 23,
+          "actionableRatio": 0.8519,
+          "assisted": 21,
+          "assistedRatio": 0.7778,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.1852,
+          "total": 27
         }
       },
       "Split": {
@@ -464,42 +464,42 @@
       },
       "Toronto": {
         "consumerEligible": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 14,
+          "direct": 13,
           "ratio": 1.0,
-          "total": 14
+          "total": 13
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 14,
+          "direct": 13,
           "ratio": 1.0,
-          "total": 14
+          "total": 13
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
+          "actionable": 59,
+          "actionableRatio": 0.9516,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "direct": 59,
+          "ratio": 0.9516,
+          "total": 62
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
+          "actionable": 59,
+          "actionableRatio": 0.9516,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "direct": 59,
+          "ratio": 0.9516,
+          "total": 62
         }
       }
     },
@@ -552,7 +552,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 1
+          "total": 0
         },
         "raw": {
           "actionable": 0,
@@ -561,7 +561,7 @@
           "assistedRatio": 0.0,
           "direct": 0,
           "ratio": 0.0,
-          "total": 1
+          "total": 0
         }
       },
       "Chicago": {
@@ -686,22 +686,22 @@
       },
       "London": {
         "consumerEligible": {
-          "actionable": 11,
+          "actionable": 7,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 11,
+          "direct": 7,
           "ratio": 1.0,
-          "total": 11
+          "total": 7
         },
         "raw": {
-          "actionable": 11,
+          "actionable": 7,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 11,
+          "direct": 7,
           "ratio": 1.0,
-          "total": 11
+          "total": 7
         }
       },
       "Long Beach": {
@@ -866,42 +866,42 @@
       },
       "Salmo": {
         "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
+          "actionable": 0,
+          "actionableRatio": 0.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
+          "direct": 0,
+          "ratio": 0.0,
+          "total": 0
         },
         "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
+          "actionable": 0,
+          "actionableRatio": 0.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
+          "direct": 0,
+          "ratio": 0.0,
+          "total": 0
         }
       },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "actionable": 23,
+          "actionableRatio": 0.8519,
+          "assisted": 21,
+          "assistedRatio": 0.7778,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.1852,
+          "total": 27
         },
         "raw": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
+          "actionable": 23,
+          "actionableRatio": 0.8519,
+          "assisted": 21,
+          "assistedRatio": 0.7778,
           "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
+          "ratio": 0.1852,
+          "total": 27
         }
       },
       "Split": {
@@ -966,42 +966,42 @@
       },
       "Toronto": {
         "consumerEligible": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 14,
+          "direct": 13,
           "ratio": 1.0,
-          "total": 14
+          "total": 13
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 13,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 14,
+          "direct": 13,
           "ratio": 1.0,
-          "total": 14
+          "total": 13
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
+          "actionable": 59,
+          "actionableRatio": 0.9516,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "direct": 59,
+          "ratio": 0.9516,
+          "total": 62
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
+          "actionable": 59,
+          "actionableRatio": 0.9516,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "direct": 59,
+          "ratio": 0.9516,
+          "total": 62
         }
       }
     }
@@ -1104,11 +1104,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 132,
-  "eventCountBefore": 132,
+  "eventCountAfter": 129,
+  "eventCountBefore": 129,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
-  "feedSHA256Before": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
+  "feedSHA256After": "82afec18887a6b9817278a44cd42544d8febe21c9fb5501037af2458ee639984",
+  "feedSHA256Before": "82afec18887a6b9817278a44cd42544d8febe21c9fb5501037af2458ee639984",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1145,33 +1145,33 @@
     "minimumTicketActionCoverage": 0.6,
     "status": "blocked"
   },
-  "referenceDate": "2026-07-24",
+  "referenceDate": "2026-07-29",
   "referenceDatesByCity": {
-    "Alpe d'Huez": "2026-07-24",
-    "Arnhem": "2026-07-24",
-    "Boom": "2026-07-24",
-    "Chicago": "2026-07-24",
-    "Cluj-Napoca": "2026-07-24",
-    "Daresbury": "2026-07-24",
-    "Hilvarenbeek": "2026-07-24",
-    "Jakarta": "2026-07-24",
-    "Las Vegas": "2026-07-23",
-    "London": "2026-07-24",
-    "Long Beach": "2026-07-23",
-    "Los Angeles": "2026-07-23",
-    "Mexico City": "2026-07-23",
-    "Miami": "2026-07-24",
-    "Montreal": "2026-07-24",
-    "Mumbai": "2026-07-24",
-    "Orlando": "2026-07-24",
-    "Phuket": "2026-07-24",
-    "Salmo": "2026-07-23",
-    "Shenzhen": "2026-07-24",
-    "Split": "2026-07-24",
-    "Thornville": "2026-07-24",
-    "Tokyo": "2026-07-24",
-    "Toronto": "2026-07-24",
-    "Vancouver": "2026-07-23"
+    "Alpe d'Huez": "2026-07-29",
+    "Arnhem": "2026-07-29",
+    "Boom": "2026-07-29",
+    "Chicago": "2026-07-29",
+    "Cluj-Napoca": "2026-07-29",
+    "Daresbury": "2026-07-29",
+    "Hilvarenbeek": "2026-07-29",
+    "Jakarta": "2026-07-29",
+    "Las Vegas": "2026-07-29",
+    "London": "2026-07-29",
+    "Long Beach": "2026-07-29",
+    "Los Angeles": "2026-07-29",
+    "Mexico City": "2026-07-29",
+    "Miami": "2026-07-29",
+    "Montreal": "2026-07-29",
+    "Mumbai": "2026-07-29",
+    "Orlando": "2026-07-29",
+    "Phuket": "2026-07-29",
+    "Salmo": "2026-07-29",
+    "Shenzhen": "2026-07-29",
+    "Split": "2026-07-29",
+    "Thornville": "2026-07-29",
+    "Tokyo": "2026-07-29",
+    "Toronto": "2026-07-29",
+    "Vancouver": "2026-07-29"
   },
   "schemaVersion": 1,
   "staleSkippedCount": 6,
