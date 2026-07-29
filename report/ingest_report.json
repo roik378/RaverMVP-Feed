@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-29T10:02:20Z",
-  "ingestRunId": "AB895240-D433-417D-A822-301694156FDF",
-  "ingestRunAt": "2026-07-29T10:02:20Z",
+  "ranAt": "2026-07-29T15:44:53Z",
+  "ingestRunId": "787C8799-6138-4657-8190-2BE5FE3668D2",
+  "ingestRunAt": "2026-07-29T15:44:53Z",
   "mode": "full",
   "sources": [
     {
@@ -221,7 +221,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-29T10:01:41Z",
+      "ticketOfferObservedAt": "2026-07-29T15:44:05Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -309,7 +309,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-29 18:02:45",
+        "observedAtText": "2026-07-29 23:45:18",
         "totalSearchRecords": 23,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -427,7 +427,7 @@
             "Florian Picasso & two dots"
           ],
           "styles": [],
-          "priceDisplayText": "¥90",
+          "priceDisplayText": "¥110",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
           "styleEvidenceStatus": "needs_review",
@@ -703,7 +703,7 @@
             "Techno",
             "Trance"
           ],
-          "priceDisplayText": "¥128",
+          "priceDisplayText": "¥168",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
           "styleEvidenceStatus": "observed",
@@ -894,7 +894,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "7fedb8eb71b60e19d52e49371a64ae5088b56ccc844d7423fd87de936d7ac6bd"
+      "evidenceStyleSHA256": "3111d59f658f9c329d225eee1e629fe1981cac0bda3b2698ba0790936d1ff110"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -911,7 +911,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "2cc8e5724ac5a0f962d85f53cfb15bbbfa65ce24a96314422d71e9059e7145a4"
+      "evidenceStyleSHA256": "f370538809b86f1c91f8975d35a76d6282e65aa618476a1fe4de8c4ec6c49853"
     },
     {
       "sourceId": "creamfields_official",
@@ -1032,14 +1032,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 211818,
-          "sha256": "8ea7553754d86bcf08e31256b3e9219dfa9b4594189446be5cfded0c4cc5f14f",
+          "contentLength": 213158,
+          "sha256": "d3bd2608a2cab937b6f501710079deb18d630c45ce03cc0a6832f0885b015fb3",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "294247440010b87121e51ef324d67a7a9e95965f814d679f593d0ed3be2598cf",
+      "evidenceStyleSHA256": "71096b3a08ba8571f426fba01b46b57480b7dee15b37187c5838ea86cfcf51eb",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1072,11 +1072,11 @@
       },
       "strategy": "lost_lands_official",
       "evidenceImageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2026/05/Lost_Lands_2026_Lineup.png",
-      "evidenceImageSHA256": "b17ecff696251af2f9214d8312896becf8b7b4fac4f5e5e1cf4d97d4f514486e",
+      "evidenceImageSHA256": "30ecd64ee7e2e245575fcd7d2e3f4bb15caa63b1865a86ecab217495adf6eccf",
       "evidenceImageETag": "\"6a036a12-277bb\"",
       "evidenceImageContentType": "image/webp",
       "evidenceImageLastModified": "Tue, 12 May 2026 17:57:38 GMT",
-      "evidenceImageIdentity": "reviewedSHA256"
+      "evidenceImageIdentity": "officialETag"
     },
     {
       "sourceId": "hard_summer_official",
@@ -1126,7 +1126,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 88805,
-          "sha256": "b1844ca489f9771993ee5f4af4fe5b6b5982f9f6df821eb995d60db78202757f",
+          "sha256": "4f60df43ec07477ca1429f4209d14e1be21b907a89e45a322d033f3451bc94e6",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1150,8 +1150,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 260141,
-          "sha256": "c2de67e23e62a23dc154fa019b60607a45beddebb6b6a2118861a0685374eace",
+          "contentLength": 259968,
+          "sha256": "e0b91036ac1d6ad029df311a93a047107bfff35d447563b50acefb6298952b31",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1175,8 +1175,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 132910,
-          "sha256": "8b871664ee0cb4ec2e1c2ed28a03ad46bb9b2409850f73341b57d6c1adc04f39",
+          "contentLength": 133242,
+          "sha256": "83d0c8a82ea785ef53b60816fa3459e46a80121f319b4a4424ef9f3892ff3a30",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1241,13 +1241,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "291ecaa18feb04f8bc6a8ca47c731e15bf83dd66205fa6c140053581a88306db",
+          "sha256": "5120bd3c9c0b824fda876fd148efcbe79abe1051a45b38a33e2c21efb74a9573",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "26e028eb998864172849bcf8d2c86f4bd7aae8d681703c599e056b949a205108",
+      "evidenceStyleSHA256": "48447c8c8775b1b135b0aedef75f37f37487f32c52990377215bf9b85a649b4c",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1267,14 +1267,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 116731,
-          "sha256": "e0574a095579a60b48edd5a32bcc6c338fbbba1b04b58893b25343e21b7bfee1",
+          "contentLength": 116105,
+          "sha256": "fc6b96c1a0d98374b56f72ee0201fe7757b80ce760970ae7383ffa2db4ea936b",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "0d4e18dc77502d73d0a31622834c20e1fc89d93c58432d25a5c05545e292ae75",
+      "evidenceStyleSHA256": "3d538a6a1c4cc7032057b2f021a64cc00678aae5b0ae41a87e9ab1e2e8a792ee",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2267,15 +2267,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
-      "title": "Westend",
+      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
+      "title": "Olly Watt",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
+      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
       "lineupNames": [
-        "Westend"
+        "Olly Watt"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2286,15 +2286,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
-      "title": "Olly Watt",
+      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
+      "title": "Westend",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
+      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
       "lineupNames": [
-        "Olly Watt"
+        "Westend"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2457,7 +2457,7 @@
     "Alpe d'Huez": "2026-07-29",
     "Mexico City": "2026-07-29",
     "Split": "2026-07-29",
-    "Tokyo": "2026-07-29"
+    "Tokyo": "2026-07-30"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
@@ -2469,7 +2469,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-29T10:01:55Z",
+    "observedAt": "2026-07-29T15:44:24Z",
     "activityCount": 19,
     "scheduleCount": 22
   },
@@ -2482,8 +2482,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "16830C95-75D2-456A-81A6-C585756B8AD5",
-      "ingestRunAt": "2026-07-29T08:21:38Z"
+      "ingestRunId": "AB895240-D433-417D-A822-301694156FDF",
+      "ingestRunAt": "2026-07-29T10:02:20Z"
     }
   },
   "executionCoverage": {

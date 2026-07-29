@@ -37,7 +37,7 @@
   "eventCount": 129,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "7a3941d15b12d3bbf93c80e61da5edfbd5d799d62dd77fa27ec03a7de06aaa35",
+  "feedSHA256": "fd6f7d6d949a337f5bd0b47c5e7f380d8087b83870d08185ef714b71a49bea97",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -47,14 +47,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-29T10:02:20Z",
-  "ingestRunId": "AB895240-D433-417D-A822-301694156FDF",
+  "ingestRunAt": "2026-07-29T15:44:53Z",
+  "ingestRunId": "787C8799-6138-4657-8190-2BE5FE3668D2",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-29T10:05:02Z",
+  "publishedAt": "2026-07-29T15:47:48Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "16ff00c70ad68bf78f79d11cb643c53e2f1f0887e802f162a27c6ea80d6fa2f6",
+  "reportSHA256": "84a4921dab4048de2b8d2b1275829f08d95a91586ecfe27df2e4ff89bae93123",
   "schemaVersion": 1,
-  "sourceCommitSHA": "0347f110822fb3b38ae6d24464edf7a879ed9646",
+  "sourceCommitSHA": "4e00828e58d66967312b1d44507dd72eff052fa4",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -63,10 +63,10 @@
     "Las Vegas"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "52742ec75702f71137f277c75a54cf708375fb94ec9dee7aff4c9db8f414ca79",
+  "ticketPriceProjectionSHA256": "e306472243e934407613bed9895ee72a110e381373c7509f782579ee86884813",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "8d4fdee7aec82ca9ba8b64bfd19773140fc998920445bd7438a5c7f1d5ab5076",
+  "ticketPriceReceiptSHA256": "0096e0f32804038bc61e5a25ff1def9248534451b5f59857636e7ff264a51269",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "e1fa7040f5277dc449dc8da0c23abd448b58a1dd9b4848958d5857b12c4e13b1"
+  "ticketReceiptSHA256": "e07fc126f488934801c03912ab8948cc26029323c562d7894a40605b23d4f52a"
 }
