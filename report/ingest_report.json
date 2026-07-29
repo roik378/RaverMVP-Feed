@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-07-29T04:58:20",
+  "ranAt": "2026-07-29T11:33:07",
   "mode": "full",
   "sources": [
     {
@@ -169,7 +169,7 @@
       "sourceId": "oil_wechat",
       "name": "OIL Club 微信公众号",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/petmoni/petmoni/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/ravermvp-live-feed-20260729/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "oil_wechat*.txt",
       "imageDropGlob": "oil_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,
@@ -184,14 +184,16 @@
       "sourceId": "playx_monthly_poster",
       "name": "PLAY X Shenzhen 月度阵容海报",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/petmoni/petmoni/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/ravermvp-live-feed-20260729/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "playx_monthly_poster*.txt",
       "imageDropGlob": "playx_monthly_poster*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
-      "foundFiles": 1,
+      "foundFiles": 2,
       "usableFiles": 9,
       "status": "approved_structured_review",
       "actionText": "Structured poster review approved; include candidates in publication review",
-      "files": [],
+      "files": [
+        "playx_monthly_poster_20260729_2c617668.ocr.txt"
+      ],
       "imageFiles": [
         "playx_monthly_poster_20260729_2c617668.jpg"
       ],
@@ -203,7 +205,7 @@
       "sourceId": "atmos_wechat",
       "name": "ATMOS/其他深圳夜店 微信",
       "cityName": "Shenzhen",
-      "inboxDir": "/home/runner/work/petmoni/petmoni/RaverMVP/Scripts/ingest/wechat_inbox",
+      "inboxDir": "/Users/yi/Developer/Petmoni_Workspace/ravermvp-live-feed-20260729/RaverMVP/Scripts/ingest/wechat_inbox",
       "dropGlob": "atmos_wechat*.txt",
       "imageDropGlob": "atmos_wechat*.{png,jpg,jpeg,webp,heic} + matching .ocr.txt",
       "foundFiles": 0,

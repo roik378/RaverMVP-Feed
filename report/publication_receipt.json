@@ -5,17 +5,17 @@
   },
   "eventCount": 42,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "018932c9fd2ba91b7be1bba1098b8c38ca7cee887a52b61700b891ab6f36ee97",
+  "feedSHA256": "e2dae46b3f9d67e208a0f2e39f89fdecb230884027601e436257a3b6d4f40cea",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-29T05:00:01Z",
+  "publishedAt": "2026-07-29T12:53:20+08:00",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "583aa63d5c5e7883a2220efe7b97b1200a4469787574ecd3f3f6d47edca24863",
+  "reportSHA256": "c7e1537a1fbea346b836716d4e31a20912fbb5b6389a20b7e4a838239b702136",
   "schemaVersion": 1,
-  "sourceCommitSHA": "c56b2bfccdbed6ac1b81f8a835556b897e5d4774",
+  "sourceCommitSHA": "9b0b2f1a50e197baba8055233be438a4637b921e",
   "sourceRepository": "roik378/petmoni",
   "status": "ready",
   "ticketEnrichmentStatus": "applied",
   "ticketQualityGateStatus": "partial",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "5766e1ccde18f39a8c7b5fb1cccb681f9725bc43ba025219b8515d83fe986795"
+  "ticketReceiptSHA256": "01e8ba311f21814a0359883dc1256270059107b932f7edc1b3e51da7451c4eea"
 }
