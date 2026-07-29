@@ -1,1007 +1,79 @@
 {
-  "appliedCount": 0,
+  "appliedCount": 1,
   "coverage": {
     "after": {
-      "Alpe d'Huez": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Arnhem": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Boom": {
-        "consumerEligible": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 1
-        }
-      },
-      "Chicago": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Cluj-Napoca": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Daresbury": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Hilvarenbeek": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Jakarta": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Las Vegas": {
-        "consumerEligible": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 2
-        },
-        "raw": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 2
-        }
-      },
-      "London": {
-        "consumerEligible": {
-          "actionable": 11,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 11,
-          "ratio": 1.0,
-          "total": 11
-        },
-        "raw": {
-          "actionable": 11,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 11,
-          "ratio": 1.0,
-          "total": 11
-        }
-      },
-      "Long Beach": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Los Angeles": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Mexico City": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Miami": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Montreal": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Mumbai": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Orlando": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Phuket": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Salmo": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
-        },
-        "raw": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
-        }
-      },
-      "Split": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Thornville": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Tokyo": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Toronto": {
-        "consumerEligible": {
           "actionable": 14,
           "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 14,
-          "ratio": 1.0,
+          "direct": 5,
+          "handoff": 9,
+          "ratio": 0.3571,
           "total": 14
         },
         "raw": {
-          "actionable": 14,
+          "actionable": 15,
           "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 14,
-          "ratio": 1.0,
-          "total": 14
+          "direct": 6,
+          "handoff": 9,
+          "ratio": 0.4,
+          "total": 15
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "actionable": 17,
+          "actionableRatio": 0.6296,
+          "direct": 17,
+          "handoff": 0,
+          "ratio": 0.6296,
+          "total": 27
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "actionable": 17,
+          "actionableRatio": 0.6296,
+          "direct": 17,
+          "handoff": 0,
+          "ratio": 0.6296,
+          "total": 27
         }
       }
     },
     "before": {
-      "Alpe d'Huez": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Arnhem": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Boom": {
-        "consumerEligible": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 1
-        }
-      },
-      "Chicago": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Cluj-Napoca": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Daresbury": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Hilvarenbeek": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Jakarta": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Las Vegas": {
-        "consumerEligible": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 2
-        },
-        "raw": {
-          "actionable": 0,
-          "actionableRatio": 0.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 0,
-          "ratio": 0.0,
-          "total": 2
-        }
-      },
-      "London": {
-        "consumerEligible": {
-          "actionable": 11,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 11,
-          "ratio": 1.0,
-          "total": 11
-        },
-        "raw": {
-          "actionable": 11,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 11,
-          "ratio": 1.0,
-          "total": 11
-        }
-      },
-      "Long Beach": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Los Angeles": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Mexico City": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Miami": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Montreal": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Mumbai": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Orlando": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Phuket": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Salmo": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
       "Shenzhen": {
         "consumerEligible": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
-        },
-        "raw": {
-          "actionable": 19,
-          "actionableRatio": 1.0,
-          "assisted": 16,
-          "assistedRatio": 0.8421,
-          "direct": 5,
-          "ratio": 0.2632,
-          "total": 19
-        }
-      },
-      "Split": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Thornville": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Tokyo": {
-        "consumerEligible": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        },
-        "raw": {
-          "actionable": 1,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 1,
-          "ratio": 1.0,
-          "total": 1
-        }
-      },
-      "Toronto": {
-        "consumerEligible": {
           "actionable": 14,
           "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 14,
-          "ratio": 1.0,
+          "direct": 5,
+          "handoff": 9,
+          "ratio": 0.3571,
           "total": 14
         },
         "raw": {
           "actionable": 14,
-          "actionableRatio": 1.0,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 14,
-          "ratio": 1.0,
-          "total": 14
+          "actionableRatio": 0.9333,
+          "direct": 5,
+          "handoff": 9,
+          "ratio": 0.3333,
+          "total": 15
         }
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "actionable": 17,
+          "actionableRatio": 0.6296,
+          "direct": 17,
+          "handoff": 0,
+          "ratio": 0.6296,
+          "total": 27
         },
         "raw": {
-          "actionable": 65,
-          "actionableRatio": 0.9848,
-          "assisted": 0,
-          "assistedRatio": 0.0,
-          "direct": 65,
-          "ratio": 0.9848,
-          "total": 66
+          "actionable": 17,
+          "actionableRatio": 0.6296,
+          "direct": 17,
+          "handoff": 0,
+          "ratio": 0.6296,
+          "total": 27
         }
       }
     }
@@ -1017,7 +89,7 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is absent from the current feed on or after its consumer date",
+      "reason": "reviewed event is no longer present after its consumer date",
       "ticketURLText": "https://ra.co/events/2464468"
     },
     {
@@ -1030,8 +102,8 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is absent from the current feed on or after its consumer date",
-      "ticketURLText": "https://www.showstart.com/event/302794"
+      "reason": "reviewed event is no longer present after its consumer date",
+      "ticketURLText": "https://ra.co/events/2459638"
     },
     {
       "action": "stale_skipped",
@@ -1043,139 +115,57 @@
       "matchCount": 0,
       "matchedEventIDs": [],
       "matchedEventTitles": [],
-      "reason": "reviewed event is absent from the current feed on or after its consumer date",
-      "ticketURLText": "https://www.showstart.com/event/302796"
+      "reason": "reviewed event is no longer present after its consumer date",
+      "ticketURLText": "https://ra.co/events/2459646"
     },
     {
-      "action": "stale_skipped",
-      "canonicalVenue": "OIL Club",
-      "city": "Shenzhen",
-      "currentTitle": "Alion",
-      "dateText": "Jul 19",
-      "evidenceURLText": "https://open.spotify.com/concert/6bjZYYn6r1kWZ0eC2BzZ2G",
-      "matchCount": 0,
-      "matchedEventIDs": [],
-      "matchedEventTitles": [],
-      "reason": "reviewed event is absent from the current feed on or after its consumer date",
-      "ticketURLText": "https://ra.co/events/2447530"
-    },
-    {
-      "action": "stale_skipped",
+      "action": "applied",
       "canonicalVenue": "Hall 17, Shenzhen World Exhibition & Convention Center",
       "city": "Shenzhen",
       "currentTitle": "2026 SHENZHEN STORM Electronic Music Festival",
       "dateText": "Jun 13-14, 2026",
       "evidenceURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
-      "matchCount": 0,
-      "matchedEventIDs": [],
-      "matchedEventTitles": [],
-      "reason": "reviewed event is absent from the current feed on or after its consumer date",
-      "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
-    },
-    {
-      "action": "stale_skipped",
-      "canonicalVenue": "Village Studios",
-      "city": "Vancouver",
-      "currentTitle": "NITESHIFT pres. ANTHONY ATTALLA",
-      "dateText": "Jul 18",
-      "evidenceURLText": "https://www.villagestudios.life/events/anthonyattalla",
-      "matchCount": 0,
-      "matchedEventIDs": [],
-      "matchedEventTitles": [],
-      "reason": "reviewed event is absent from the current feed on or after its consumer date",
-      "ticketURLText": "https://www.ticketweb.ca/event/anthony-attalla-village-studios-tickets/14984803?pl=blueprint~"
-    },
-    {
-      "action": "unchanged",
-      "canonicalVenue": "Village Studios",
-      "city": "Vancouver",
-      "currentTitle": "BIJOU (FREE BEFORE 11)",
-      "dateText": "Aug 14",
-      "evidenceURLText": "https://www.villagestudios.life/events/bijou",
       "matchCount": 1,
       "matchedEventIDs": [
-        "30ADDA9D-C2ED-5800-80E5-2C930FCCF83F"
+        "E1C20C5B-DD44-5E30-8CE5-9CD6BF7B5B8D"
       ],
       "matchedEventTitles": [
-        "BIJOU (FREE BEFORE 11)"
+        "2026 SHENZHEN STORM Electronic Music Festival"
       ],
-      "newTicketURLText": "https://on.villagestudios.life/trk/jCjpc",
-      "oldTicketURLText": "https://on.villagestudios.life/trk/jCjpc",
-      "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
+      "newTicketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival",
+      "oldTicketURLText": null,
+      "ticketURLText": "https://www.plvr.io/events/2026-shenzhen-storm-festival"
     }
   ],
-  "eventCountAfter": 132,
-  "eventCountBefore": 132,
+  "eventCountAfter": 42,
+  "eventCountBefore": 42,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
-  "feedSHA256Before": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
+  "feedSHA256After": "e2dae46b3f9d67e208a0f2e39f89fdecb230884027601e436257a3b6d4f40cea",
+  "feedSHA256Before": "02862e0811103636f961f34f76e48b6b3253bf7c6347f28a8d81abff33a3d99c",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
-    "assistedHandoffCities": [
-      "Shenzhen"
-    ],
-    "assistedTicketCoverageCities": [
-      "Shenzhen"
-    ],
-    "blockedCities": [
+    "blockedCities": [],
+    "coverageGaps": [
       {
-        "actionable": 0,
-        "actionableRatio": 0.0,
-        "assisted": 0,
-        "cityName": "Las Vegas",
-        "direct": 0,
-        "directRatio": 0.0,
-        "ratio": 0.0,
+        "cityName": "Shenzhen",
+        "direct": 5,
+        "ratio": 0.3571,
         "reason": "insufficient_direct_ticket_coverage",
-        "total": 2
+        "total": 14
       }
-    ],
-    "directCoverageLimitedCities": [
-      "Las Vegas",
-      "Shenzhen"
     ],
     "launchCities": [
       "Vancouver",
-      "Shenzhen",
-      "Miami",
-      "Las Vegas",
-      "Daresbury"
+      "Shenzhen"
     ],
     "minimumDirectTicketCoverage": 0.6,
-    "minimumTicketActionCoverage": 0.6,
-    "status": "blocked"
+    "publishable": true,
+    "status": "partial"
   },
-  "referenceDate": "2026-07-24",
-  "referenceDatesByCity": {
-    "Alpe d'Huez": "2026-07-24",
-    "Arnhem": "2026-07-24",
-    "Boom": "2026-07-24",
-    "Chicago": "2026-07-24",
-    "Cluj-Napoca": "2026-07-24",
-    "Daresbury": "2026-07-24",
-    "Hilvarenbeek": "2026-07-24",
-    "Jakarta": "2026-07-24",
-    "Las Vegas": "2026-07-23",
-    "London": "2026-07-24",
-    "Long Beach": "2026-07-23",
-    "Los Angeles": "2026-07-23",
-    "Mexico City": "2026-07-23",
-    "Miami": "2026-07-24",
-    "Montreal": "2026-07-24",
-    "Mumbai": "2026-07-24",
-    "Orlando": "2026-07-24",
-    "Phuket": "2026-07-24",
-    "Salmo": "2026-07-23",
-    "Shenzhen": "2026-07-24",
-    "Split": "2026-07-24",
-    "Thornville": "2026-07-24",
-    "Tokyo": "2026-07-24",
-    "Toronto": "2026-07-24",
-    "Vancouver": "2026-07-23"
-  },
+  "referenceDate": "2026-07-29",
   "schemaVersion": 1,
-  "staleSkippedCount": 6,
+  "staleSkippedCount": 3,
   "status": "applied",
-  "unchangedCount": 1,
+  "unchangedCount": 0,
   "venuePath": "Sources/RaverMVP/Resources/venue.seed.json"
 }

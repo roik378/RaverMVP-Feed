@@ -1,72 +1,21 @@
 {
-  "assistedTicketCoverageCities": [
-    "Shenzhen"
-  ],
   "cityEventCounts": {
-    "Alpe d'Huez": 1,
-    "Arnhem": 1,
-    "Boom": 1,
-    "Chicago": 1,
-    "Cluj-Napoca": 1,
-    "Daresbury": 1,
-    "Hilvarenbeek": 1,
-    "Jakarta": 1,
-    "Las Vegas": 2,
-    "London": 11,
-    "Long Beach": 1,
-    "Los Angeles": 1,
-    "Mexico City": 1,
-    "Miami": 1,
-    "Montreal": 1,
-    "Mumbai": 1,
-    "Orlando": 1,
-    "Phuket": 1,
-    "Salmo": 1,
-    "Shenzhen": 19,
-    "Split": 1,
-    "Thornville": 1,
-    "Tokyo": 1,
-    "Toronto": 14,
-    "Vancouver": 66
+    "Shenzhen": 15,
+    "Vancouver": 27
   },
-  "directTicketCoverageLimited": true,
-  "directTicketCoverageLimitedCities": [
-    "Las Vegas",
-    "Shenzhen"
-  ],
-  "eventCount": 132,
-  "executionLane": "githubHTML",
+  "eventCount": 42,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "2916c4699685f3c55859cd4b8a0e683f667dce1256e316f7040d6a7acaec7975",
-  "inactiveRetainedEventCount": 0,
-  "inactiveSourceCount": 5,
-  "inactiveSourceIDs": [
-    "am06_wechat",
-    "atmos_wechat",
-    "oil_wechat",
-    "sauce_wechat",
-    "yuyuan_miniprogram"
-  ],
-  "ingestRunAt": "2026-07-24T05:50:19Z",
-  "ingestRunId": "3651C64C-B801-4C1F-BA37-26A808CE2919",
+  "feedSHA256": "e2dae46b3f9d67e208a0f2e39f89fdecb230884027601e436257a3b6d4f40cea",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-24T05:54:10Z",
+  "publishedAt": "2026-07-29T12:44:51+08:00",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "fd4d9039c0fd348ab56052d091eab6dc8c814aa3260b465598baa8ab99f034fc",
+  "reportSHA256": "c7e1537a1fbea346b836716d4e31a20912fbb5b6389a20b7e4a838239b702136",
   "schemaVersion": 1,
-  "sourceCommitSHA": "544f830f17a514203ac86a80f8c988017000bb3f",
-  "sourceCoverageStatus": "partial",
-  "sourceRepository": "roik378/RaverMVP",
+  "sourceCommitSHA": "c9e3ca10973959d170149492eb4b0d1ec97e1235",
+  "sourceRepository": "roik378/petmoni",
   "status": "ready",
-  "ticketCoverageLimited": true,
-  "ticketCoverageLimitedCities": [
-    "Las Vegas"
-  ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "817ececb32eeb3c4e9137bba54d1625ca3239b1de6ae3b0ed4ebbbf2deba35a1",
-  "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "6220b87132a0cd6d85dc403b62254c36ce758f446d519c8f37fba47329ffff7f",
-  "ticketQualityGateStatus": "blocked",
+  "ticketQualityGateStatus": "partial",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "8e5e576ed656071a2ba6fbfe3c2512ce3ce08f4d4aa979261cfbd8cc49583d99"
+  "ticketReceiptSHA256": "01e8ba311f21814a0359883dc1256270059107b932f7edc1b3e51da7451c4eea"
 }
