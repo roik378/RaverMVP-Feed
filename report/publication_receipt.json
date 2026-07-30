@@ -31,7 +31,6 @@
   },
   "directTicketCoverageLimited": true,
   "directTicketCoverageLimitedCities": [
-    "Las Vegas",
     "Shenzhen"
   ],
   "eventCount": 129,
@@ -50,23 +49,24 @@
   "ingestRunAt": "2026-07-29T15:44:53Z",
   "ingestRunId": "787C8799-6138-4657-8190-2BE5FE3668D2",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-30T01:43:33+08:00",
+  "publishedAt": "2026-07-30T09:04:28+08:00",
   "reportPath": "report/ingest_report.json",
   "reportSHA256": "84a4921dab4048de2b8d2b1275829f08d95a91586ecfe27df2e4ff89bae93123",
   "schemaVersion": 1,
-  "sourceCommitSHA": "7dc447174fb06a0bbeded2cc923063c7465ffdd6",
+  "sourceCommitSHA": "76175931be1def62c6fbd2708d207c7a479e90eb",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
-  "ticketCoverageLimited": true,
-  "ticketCoverageLimitedCities": [
+  "terminalTicketStatusResolvedCities": [
     "Las Vegas"
   ],
+  "ticketCoverageLimited": false,
+  "ticketCoverageLimitedCities": [],
   "ticketEnrichmentStatus": "applied",
   "ticketPriceProjectionSHA256": "e306472243e934407613bed9895ee72a110e381373c7509f782579ee86884813",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
   "ticketPriceReceiptSHA256": "0096e0f32804038bc61e5a25ff1def9248534451b5f59857636e7ff264a51269",
-  "ticketQualityGateStatus": "blocked",
+  "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "86aef16cda3839e939cb907505e6f541dfe216dd0a47f5369ac035d5a423b524"
+  "ticketReceiptSHA256": "cedf4c29eafdb096c7fb987f38a61760bbb45e2ce7dbc55b6f2438869af57861"
 }
