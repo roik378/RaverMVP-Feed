@@ -1,7 +1,8 @@
 {
-  "ranAt": "2026-07-29T15:44:53Z",
-  "ingestRunId": "787C8799-6138-4657-8190-2BE5FE3668D2",
-  "ingestRunAt": "2026-07-29T15:44:53Z",
+  "ranAt": "2026-07-31T21:39:13Z",
+  "ingestRunId": "AD719EEF-0585-445C-81F6-7BC12E337171",
+  "ingestRunAt": "2026-07-31T21:39:13Z",
+  "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
     {
@@ -11,7 +12,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 12,
+      "consumerReady": 11,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -61,7 +62,7 @@
       "status": "ok",
       "captured": 80,
       "usable": 80,
-      "consumerReady": 29,
+      "consumerReady": 28,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -79,17 +80,15 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 15,
-      "usable": 15,
-      "consumerReady": 5,
+      "captured": 14,
+      "usable": 14,
+      "consumerReady": 4,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "spotify_location",
-      "reviewedEventLineupCount": 1,
-      "reviewedEventStyleCount": 1
+      "strategy": "spotify_location"
     },
     {
       "sourceId": "gorgomish_vancouver",
@@ -111,9 +110,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 9,
-      "usable": 9,
-      "consumerReady": 9,
+      "captured": 8,
+      "usable": 8,
+      "consumerReady": 8,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -221,7 +220,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-29T15:44:05Z",
+      "ticketOfferObservedAt": "2026-07-31T21:38:39Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -265,9 +264,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 5,
-      "usable": 5,
-      "consumerReady": 5,
+      "captured": 3,
+      "usable": 3,
+      "consumerReady": 3,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -309,8 +308,8 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-07-29 23:45:18",
-        "totalSearchRecords": 23,
+        "observedAtText": "2026-08-01 05:39:38",
+        "totalSearchRecords": 22,
         "acceptedReviewedRecordCount": 16,
         "venues": [
           {
@@ -318,11 +317,9 @@
             "shopName": "OIL CLUB",
             "venue": "OIL Club",
             "status": "current",
-            "observedRecordCount": 12,
-            "currentEventCount": 12,
+            "observedRecordCount": 13,
+            "currentEventCount": 13,
             "activityIDs": [
-              "2072583967958327298",
-              "2072587211161952258",
               "2072592095781281794",
               "2079386222454288386",
               "2079477624374734849",
@@ -332,22 +329,24 @@
               "2080928333775417345",
               "2081971219497398273",
               "2082105476391809025",
-              "2082369888679800834"
+              "2082369888679800834",
+              "2083113033137487873",
+              "2083121219332571137",
+              "2083151093141176321"
             ],
-            "activityFingerprintSHA256": "ddddf436db9ce94fb41711c79b12d1355c782f4017dbda281452d1071f9454f8"
+            "activityFingerprintSHA256": "810e0032102d3f8478a91675995bc79385dc3e95863cd7fe6215aaca5bccc985"
           },
           {
             "shopID": "1889498806778068993",
             "shopName": "AM:06 SHENZHEN",
             "venue": "AM:06",
             "status": "current",
-            "observedRecordCount": 2,
-            "currentEventCount": 2,
+            "observedRecordCount": 1,
+            "currentEventCount": 1,
             "activityIDs": [
-              "2081385420204716033",
               "2082040652311998466"
             ],
-            "activityFingerprintSHA256": "22dccd04767edbbe7fcbda695a43e95dc64f4b77fc57ce344b4428ff7e110a04"
+            "activityFingerprintSHA256": "6e0fd9df61173bc86fc9856b7825f00441f55ba264936309307238deb0bbcc4c"
           }
         ]
       },
@@ -384,6 +383,35 @@
           ]
         },
         {
+          "reviewKey": "yuyuan|2083151093141176321",
+          "reviewState": "ready_for_operator",
+          "activityID": "2083151093141176321",
+          "title": "Afropluz",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-15",
+          "endDateText": "2026-08-16",
+          "timeText": "20:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥58",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "public_api_observed",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
+          "miniProgramSearchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2083151093141176321&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence"
+          ]
+        },
+        {
           "reviewKey": "yuyuan|2081971219497398273",
           "reviewState": "ready_for_operator",
           "activityID": "2081971219497398273",
@@ -397,7 +425,7 @@
           "styles": [
             "Techno"
           ],
-          "priceDisplayText": "¥80",
+          "priceDisplayText": "¥100",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "needs_review",
           "styleEvidenceStatus": "observed",
@@ -444,6 +472,35 @@
           ]
         },
         {
+          "reviewKey": "yuyuan|2083121219332571137",
+          "reviewState": "ready_for_operator",
+          "activityID": "2083121219332571137",
+          "title": "The Mantis Project 八月档",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-13",
+          "endDateText": "2026-08-14",
+          "timeText": "20:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥40",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "public_api_observed",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083121219332571137",
+          "miniProgramSearchText": "【Mainroom】The Mantis Project 八月档 @OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2083121219332571137&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence"
+          ]
+        },
+        {
           "reviewKey": "yuyuan|2082105476391809025",
           "reviewState": "ready_for_operator",
           "activityID": "2082105476391809025",
@@ -473,6 +530,35 @@
           ]
         },
         {
+          "reviewKey": "yuyuan|2083113033137487873",
+          "reviewState": "ready_for_operator",
+          "activityID": "2083113033137487873",
+          "title": "Yaka JUNGLE + AFTERPARTY 深圳",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-08",
+          "endDateText": "2026-08-09",
+          "timeText": "20:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥98",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "public_api_observed",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
+          "miniProgramSearchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2083113033137487873&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence"
+          ]
+        },
+        {
           "reviewKey": "yuyuan|2080236375297929218",
           "reviewState": "ready_for_operator",
           "activityID": "2080236375297929218",
@@ -486,7 +572,7 @@
           "styles": [
             "Techno"
           ],
-          "priceDisplayText": "¥110",
+          "priceDisplayText": "¥130",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "needs_review",
           "styleEvidenceStatus": "observed",
@@ -626,13 +712,17 @@
           "reviewKey": "yuyuan|2082040652311998466",
           "reviewState": "ready_for_operator",
           "activityID": "2082040652311998466",
-          "title": "AM06 X VAC电音节 : AVAO 爆裂能量 ！EDM TECHNO NEVER DIE！",
+          "title": "AVAO",
           "venue": "AM:06",
           "city": "Shenzhen",
           "dateText": "2026-08-01",
           "endDateText": "2026-08-02",
           "timeText": "23:00",
-          "lineupNames": [],
+          "lineupNames": [
+            "XXX",
+            "H2HB",
+            "DEPT"
+          ],
           "styles": [
             "Electronic",
             "Techno",
@@ -640,19 +730,17 @@
           ],
           "priceDisplayText": "¥128",
           "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "needs_review",
+          "lineupEvidenceStatus": "observed",
           "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "public_api_observed",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082040652311998466",
-          "miniProgramSearchText": "8/01 AM06 X VAC电音节 : AVAO 爆裂能量 ！EDM TECHNO NEVER DIE！",
+          "miniProgramSearchText": "8/01 AM06 X AVAO 爆裂能量 ！EDM TECHNO NEVER DIE！",
           "miniProgramActivity": {
             "appID": "wx4c8604c032bd3ef0",
             "path": "pages/play/activity-detail",
             "query": "activityId=2082040652311998466&isShare=true"
           },
-          "requiredActions": [
-            "Capture readable lineup evidence"
-          ]
+          "requiredActions": []
         },
         {
           "reviewKey": "yuyuan|2072592095781281794",
@@ -683,99 +771,6 @@
             "query": "activityId=2072592095781281794&isShare=true"
           },
           "requiredActions": []
-        },
-        {
-          "reviewKey": "yuyuan|2081385420204716033",
-          "reviewState": "ready_for_operator",
-          "activityID": "2081385420204716033",
-          "title": "JUOS",
-          "venue": "AM:06",
-          "city": "Shenzhen",
-          "dateText": "2026-07-31",
-          "endDateText": "2026-08-01",
-          "timeText": "23:00",
-          "lineupNames": [
-            "JUOS"
-          ],
-          "styles": [
-            "House",
-            "Electronic",
-            "Techno",
-            "Trance"
-          ],
-          "priceDisplayText": "¥168",
-          "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "observed",
-          "ticketTierEvidenceStatus": "public_api_observed",
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2081385420204716033",
-          "miniProgramSearchText": "7/31 AM06 X JUOS : 北美TECH HOUSE新神 & LIZZY WANG助阵",
-          "miniProgramActivity": {
-            "appID": "wx4c8604c032bd3ef0",
-            "path": "pages/play/activity-detail",
-            "query": "activityId=2081385420204716033&isShare=true"
-          },
-          "requiredActions": []
-        },
-        {
-          "reviewKey": "yuyuan|2072587211161952258",
-          "reviewState": "ready_for_operator",
-          "activityID": "2072587211161952258",
-          "title": "Orlando Voorn",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-07-31",
-          "endDateText": "2026-08-01",
-          "timeText": "20:00",
-          "lineupNames": [
-            "Orlando Voorn"
-          ],
-          "styles": [
-            "Techno"
-          ],
-          "priceDisplayText": "¥120",
-          "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "observed",
-          "ticketTierEvidenceStatus": "public_api_observed",
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072587211161952258",
-          "miniProgramSearchText": "【双厅】OIL呈现：90s 荷兰Techno先驱Orlando Voorn",
-          "miniProgramActivity": {
-            "appID": "wx4c8604c032bd3ef0",
-            "path": "pages/play/activity-detail",
-            "query": "activityId=2072587211161952258&isShare=true"
-          },
-          "requiredActions": []
-        },
-        {
-          "reviewKey": "yuyuan|2072583967958327298",
-          "reviewState": "ready_for_operator",
-          "activityID": "2072583967958327298",
-          "title": "Andrew Moore",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-07-30",
-          "endDateText": "2026-07-31",
-          "timeText": "20:00",
-          "lineupNames": [
-            "Andrew Moore"
-          ],
-          "styles": [],
-          "priceDisplayText": "¥70",
-          "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "needs_review",
-          "ticketTierEvidenceStatus": "public_api_observed",
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072583967958327298",
-          "miniProgramSearchText": "【Mainroom】柏林星期四：Andrew Moore @OIL Club 深圳",
-          "miniProgramActivity": {
-            "appID": "wx4c8604c032bd3ef0",
-            "path": "pages/play/activity-detail",
-            "query": "activityId=2072583967958327298&isShare=true"
-          },
-          "requiredActions": [
-            "Capture explicit genre or event-theme evidence"
-          ]
         }
       ]
     },
@@ -854,9 +849,9 @@
       "kind": "html",
       "executionLane": "githubHTML",
       "status": "ok",
-      "captured": 13,
-      "usable": 13,
-      "consumerReady": 13,
+      "captured": 15,
+      "usable": 15,
+      "consumerReady": 15,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -894,7 +889,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "3111d59f658f9c329d225eee1e629fe1981cac0bda3b2698ba0790936d1ff110"
+      "evidenceStyleSHA256": "6ee9d394d4187f9a013955dfe9403612aeb8a9c7cb45428998635ca4cef6e855"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -911,7 +906,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "f370538809b86f1c91f8975d35a76d6282e65aa618476a1fe4de8c4ec6c49853"
+      "evidenceStyleSHA256": "e26772409dc3ba64d6824ca15d639a9ede64c8a4d3deeeea2d81e3be8ae82de8"
     },
     {
       "sourceId": "creamfields_official",
@@ -1032,14 +1027,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 213158,
-          "sha256": "d3bd2608a2cab937b6f501710079deb18d630c45ce03cc0a6832f0885b015fb3",
+          "contentLength": 213218,
+          "sha256": "617badaf59fc6fc4c107088f9c403d54118fe5d543cdd169fc91ad4113991dda",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "71096b3a08ba8571f426fba01b46b57480b7dee15b37187c5838ea86cfcf51eb",
+      "evidenceStyleSHA256": "4d5976450d74bd33737cc623b225a527d10fdb750c2104433763abc4f4fb2999",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1126,7 +1121,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 88805,
-          "sha256": "4f60df43ec07477ca1429f4209d14e1be21b907a89e45a322d033f3451bc94e6",
+          "sha256": "0989081e40557684ddc54c6050ee8774d5e898a946362d2341db0287817016f7",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1150,8 +1145,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 259968,
-          "sha256": "e0b91036ac1d6ad029df311a93a047107bfff35d447563b50acefb6298952b31",
+          "contentLength": 259951,
+          "sha256": "0b345122cb29a926897d31c7e684fa5d331cd851b01fc298919d043f2b0183cc",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1241,13 +1236,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "5120bd3c9c0b824fda876fd148efcbe79abe1051a45b38a33e2c21efb74a9573",
+          "sha256": "8a7e292f14a11f37e939eefd50cd29ea6ee3c58e2d7d32ecb6148334035be9bb",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "48447c8c8775b1b135b0aedef75f37f37487f32c52990377215bf9b85a649b4c",
+      "evidenceStyleSHA256": "a3eeb29fb9de6c80424ebed71299400250b3e573a80fea928c717e1dcb08fd43",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1267,14 +1262,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 116105,
-          "sha256": "fc6b96c1a0d98374b56f72ee0201fe7757b80ce760970ae7383ffa2db4ea936b",
+          "contentLength": 114813,
+          "sha256": "7cd33834950c2ee534af9951a7557e618c313abcc06d8cd9415c4f4b3973e9ed",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "3d538a6a1c4cc7032057b2f021a64cc00678aae5b0ae41a87e9ab1e2e8a792ee",
+      "evidenceStyleSHA256": "9ff0d7ac3906bb3e5207bc7d1e1659380c99de50fef30285d3205de7ef5be52f",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1299,16 +1294,16 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 171,
-      "usable": 97,
-      "consumerReady": 62,
-      "consumerRejected": 35,
-      "consumerReadyRate": 0.639,
+      "captured": 169,
+      "usable": 95,
+      "consumerReady": 58,
+      "consumerRejected": 37,
+      "consumerReadyRate": 0.611,
       "rejectionReasons": {
+        "past_event": 17,
         "missing_raver_evidence": 14,
         "placeholder_title": 5,
-        "reviewed_event_fact_correction_drift": 1,
-        "past_event": 15
+        "reviewed_event_fact_correction_drift": 1
       },
       "enabledSourceCount": 9,
       "errorSourceCount": 1,
@@ -1319,9 +1314,9 @@
     {
       "cityId": "shenzhen_cn",
       "cityName": "Shenzhen",
-      "captured": 30,
-      "usable": 27,
-      "consumerReady": 27,
+      "captured": 28,
+      "usable": 25,
+      "consumerReady": 25,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1334,9 +1329,9 @@
     {
       "cityId": "toronto_ca",
       "cityName": "Toronto",
-      "captured": 13,
-      "usable": 13,
-      "consumerReady": 13,
+      "captured": 15,
+      "usable": 15,
+      "consumerReady": 15,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
@@ -1755,59 +1750,6 @@
     {
       "sourceId": "celebrities_vancouver",
       "sourceKind": "clubWebsite",
-      "eventId": "900F2A0B-90FA-51FF-B378-0D46B873AFE8",
-      "title": "CUM TOGETHER pres. UNDERSCORES (SOLD OUT)",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "July 30",
-      "timeText": "7:00",
-      "sourceURLText": "https://www.celebritiesnightclub.com/events/underscores",
-      "lineupNames": [
-        "UNDERSCORES (SOLD OUT)"
-      ],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "D70242E5-AD5E-5116-9B29-E1AE2AABDFB0",
-      "title": "Underscores",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "July 30",
-      "timeText": null,
-      "sourceURLText": "https://www.celebritiesnightclub.com/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "D1B11EAE-133C-5909-AB2C-D594F7C6784D",
-      "title": "Come 2 Brazil - DJ G2G",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "July 30",
-      "timeText": null,
-      "sourceURLText": "https://www.celebritiesnightclub.com/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
       "eventId": "96AD134F-6FE2-5C27-A108-5EFDBFE6462C",
       "title": "Coco & Breezy",
       "venue": "Celebrities Nightclub",
@@ -2046,40 +1988,6 @@
     {
       "sourceId": "village_studios_vancouver",
       "sourceKind": "clubWebsite",
-      "eventId": "FE2DF439-4103-59A7-9ECD-B0B15BBE9ACC",
-      "title": "Propagate Pres. Underscores (DJ SET)",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "JULY 30",
-      "timeText": null,
-      "sourceURLText": "https://www.villagestudios.life/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "0C797A6B-7A58-54C9-835B-9F43D65287DB",
-      "title": "Underscores",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "July 30",
-      "timeText": null,
-      "sourceURLText": "https://www.villagestudios.life/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
       "eventId": "DAB972E2-CADC-5518-82DD-C1081A581E99",
       "title": "BIMBO 54",
       "venue": "Village Studios",
@@ -2164,6 +2072,23 @@
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "SEPTEMBER 11",
+      "timeText": null,
+      "sourceURLText": "https://www.villagestudios.life/events",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "village_studios_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "FDF5545D-6EAE-59F7-A736-AC83C8829D89",
+      "title": "KEVIN SHIU (OPEN TO CLOSE)",
+      "venue": "Village Studios",
+      "city": "Vancouver",
+      "dateText": "SEPTEMBER 12",
       "timeText": null,
       "sourceURLText": "https://www.villagestudios.life/events",
       "lineupNames": [],
@@ -2267,15 +2192,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
-      "title": "Olly Watt",
+      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
+      "title": "Westend",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
+      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
       "lineupNames": [
-        "Olly Watt"
+        "Westend"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2286,15 +2211,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
-      "title": "Westend",
+      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
+      "title": "Olly Watt",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
+      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
       "lineupNames": [
-        "Westend"
+        "Olly Watt"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2417,51 +2342,139 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [],
+  "operatorInventoryReviewCandidates": [
+    {
+      "reviewKey": "yuyuan|2083113033137487873",
+      "reviewState": "ready_for_operator",
+      "activityID": "2083113033137487873",
+      "title": "Yaka JUNGLE + AFTERPARTY 深圳",
+      "venue": "OIL Club",
+      "city": "Shenzhen",
+      "dateText": "2026-08-08",
+      "endDateText": "2026-08-09",
+      "timeText": "20:00",
+      "lineupNames": [],
+      "styles": [],
+      "priceDisplayText": "¥98",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "needs_review",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "public_api_observed",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
+      "miniProgramSearchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2083113033137487873&isShare=true"
+      },
+      "requiredActions": [
+        "Capture readable lineup evidence",
+        "Capture explicit genre or event-theme evidence"
+      ]
+    },
+    {
+      "reviewKey": "yuyuan|2083121219332571137",
+      "reviewState": "ready_for_operator",
+      "activityID": "2083121219332571137",
+      "title": "The Mantis Project 八月档",
+      "venue": "OIL Club",
+      "city": "Shenzhen",
+      "dateText": "2026-08-13",
+      "endDateText": "2026-08-14",
+      "timeText": "20:00",
+      "lineupNames": [],
+      "styles": [],
+      "priceDisplayText": "¥40",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "needs_review",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "public_api_observed",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083121219332571137",
+      "miniProgramSearchText": "【Mainroom】The Mantis Project 八月档 @OIL Club 深圳",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2083121219332571137&isShare=true"
+      },
+      "requiredActions": [
+        "Capture readable lineup evidence",
+        "Capture explicit genre or event-theme evidence"
+      ]
+    },
+    {
+      "reviewKey": "yuyuan|2083151093141176321",
+      "reviewState": "ready_for_operator",
+      "activityID": "2083151093141176321",
+      "title": "Afropluz",
+      "venue": "OIL Club",
+      "city": "Shenzhen",
+      "dateText": "2026-08-15",
+      "endDateText": "2026-08-16",
+      "timeText": "20:00",
+      "lineupNames": [],
+      "styles": [],
+      "priceDisplayText": "¥58",
+      "priceEvidenceStatus": "display_only",
+      "lineupEvidenceStatus": "needs_review",
+      "styleEvidenceStatus": "needs_review",
+      "ticketTierEvidenceStatus": "public_api_observed",
+      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
+      "miniProgramSearchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
+      "miniProgramActivity": {
+        "appID": "wx4c8604c032bd3ef0",
+        "path": "pages/play/activity-detail",
+        "query": "activityId=2083151093141176321&isShare=true"
+      },
+      "requiredActions": [
+        "Capture readable lineup evidence",
+        "Capture explicit genre or event-theme evidence"
+      ]
+    }
+  ],
   "totals": {
-    "captured": 242,
-    "usable": 165
+    "captured": 240,
+    "usable": 163
   },
   "consumerQuality": {
-    "ready": 129,
-    "rejected": 36,
+    "ready": 125,
+    "rejected": 38,
     "rejectionReasons": {
+      "past_event": 18,
       "missing_raver_evidence": 14,
       "placeholder_title": 5,
-      "reviewed_event_fact_correction_drift": 1,
-      "past_event": 16
+      "reviewed_event_fact_correction_drift": 1
     }
   },
   "referenceDates": {
-    "Vancouver": "2026-07-29",
-    "Shenzhen": "2026-07-29",
-    "Toronto": "2026-07-29",
-    "London": "2026-07-29",
-    "Miami": "2026-07-29",
-    "Las Vegas": "2026-07-29",
-    "Daresbury": "2026-07-29",
-    "Salmo": "2026-07-29",
-    "Orlando": "2026-07-29",
-    "Montreal": "2026-07-29",
-    "Boom": "2026-07-29",
-    "Hilvarenbeek": "2026-07-29",
-    "Arnhem": "2026-07-29",
-    "Cluj-Napoca": "2026-07-29",
-    "Thornville": "2026-07-29",
-    "Los Angeles": "2026-07-29",
-    "Long Beach": "2026-07-29",
-    "Chicago": "2026-07-29",
-    "Mumbai": "2026-07-29",
-    "Jakarta": "2026-07-29",
-    "Phuket": "2026-07-29",
-    "Alpe d'Huez": "2026-07-29",
-    "Mexico City": "2026-07-29",
-    "Split": "2026-07-29",
-    "Tokyo": "2026-07-30"
+    "Vancouver": "2026-07-31",
+    "Shenzhen": "2026-08-01",
+    "Toronto": "2026-07-31",
+    "London": "2026-07-31",
+    "Miami": "2026-07-31",
+    "Las Vegas": "2026-07-31",
+    "Daresbury": "2026-07-31",
+    "Salmo": "2026-07-31",
+    "Orlando": "2026-07-31",
+    "Montreal": "2026-07-31",
+    "Boom": "2026-07-31",
+    "Hilvarenbeek": "2026-07-31",
+    "Arnhem": "2026-07-31",
+    "Cluj-Napoca": "2026-08-01",
+    "Thornville": "2026-07-31",
+    "Los Angeles": "2026-07-31",
+    "Long Beach": "2026-07-31",
+    "Chicago": "2026-07-31",
+    "Mumbai": "2026-08-01",
+    "Jakarta": "2026-08-01",
+    "Phuket": "2026-08-01",
+    "Alpe d'Huez": "2026-07-31",
+    "Mexico City": "2026-07-31",
+    "Split": "2026-07-31",
+    "Tokyo": "2026-08-01"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 123
+    "reviewedArtists": 124
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -2469,9 +2482,9 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-29T15:44:24Z",
+    "observedAt": "2026-07-31T21:38:51Z",
     "activityCount": 19,
-    "scheduleCount": 22
+    "scheduleCount": 21
   },
   "sourceResilience": {
     "schemaVersion": 1,
@@ -2482,8 +2495,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "AB895240-D433-417D-A822-301694156FDF",
-      "ingestRunAt": "2026-07-29T10:02:20Z"
+      "ingestRunId": "787C8799-6138-4657-8190-2BE5FE3668D2",
+      "ingestRunAt": "2026-07-29T15:44:53Z"
     }
   },
   "executionCoverage": {
@@ -2536,5 +2549,9 @@
     "livePairCount": 0,
     "missingPairCount": 0,
     "missingPairs": []
+  },
+  "publicationBinding": {
+    "schemaVersion": 1,
+    "feedSHA256": "85a75d58c68824bb81533f24cf9823e672758dac3e8e8e32fe6dbec788d3069d"
   }
 }
