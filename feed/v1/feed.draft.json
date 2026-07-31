@@ -1,14 +1,14 @@
 {
   "feedVersion": 1,
-  "ingestRunId": "AD719EEF-0585-445C-81F6-7BC12E337171",
-  "ingestRunAt": "2026-07-31T21:39:13Z",
-  "generatedAtText": "Fri 21:39",
+  "ingestRunId": "81704E96-2604-4251-8B9E-9FBA454F84D3",
+  "ingestRunAt": "2026-07-31T22:28:09Z",
+  "generatedAtText": "Fri 22:28",
   "cities": [
     {
       "id": "vancouver_ca",
       "name": "Vancouver",
       "country": "CA",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": {
         "latitude": 49.2827,
@@ -31,7 +31,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/cumtogether-cocoandbreezy",
@@ -65,7 +65,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -84,7 +84,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/alexchapman-pd72s",
@@ -118,7 +118,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -138,7 +138,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/emmitfenn",
@@ -172,7 +172,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -192,7 +192,7 @@
             "Progressive"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/oliversmith2026",
@@ -208,7 +208,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -228,7 +228,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/conradtaylor",
@@ -263,7 +263,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -283,7 +283,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/cyril",
@@ -317,7 +317,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -337,7 +337,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.celebritiesnightclub.com/events/eli-fur-2026",
@@ -371,7 +371,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -390,7 +390,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/djseinfeld2026",
@@ -406,7 +406,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -425,7 +425,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/taylahelaine",
@@ -433,7 +433,7 @@
           "lineup": [],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -452,7 +452,7 @@
             "House"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192055",
@@ -486,7 +486,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -505,7 +505,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198329",
@@ -594,7 +594,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -614,7 +614,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/185416",
@@ -649,7 +649,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -668,7 +668,7 @@
             "Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/177104",
@@ -702,7 +702,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -721,7 +721,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/186501",
@@ -745,7 +745,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -765,7 +765,7 @@
             "Future Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196122",
@@ -800,7 +800,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -821,7 +821,7 @@
             "Hard Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198322",
@@ -856,7 +856,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -875,7 +875,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195425",
@@ -909,7 +909,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -928,7 +928,7 @@
             "Dubstep"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/188737",
@@ -962,7 +962,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -981,7 +981,7 @@
             "House"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/199503",
@@ -1015,7 +1015,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "Vinahouse"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/198827",
@@ -1091,7 +1091,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1111,7 +1111,7 @@
             "Trance"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191670",
@@ -1146,7 +1146,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1165,7 +1165,7 @@
             "Progressive"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/197295",
@@ -1249,7 +1249,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "Hard Dance"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/196120",
@@ -1304,7 +1304,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "Hardstyle"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/195028",
@@ -1357,7 +1357,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1376,7 +1376,7 @@
             "Hardstyle"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/192435",
@@ -1410,7 +1410,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1429,7 +1429,7 @@
             "Future Bass"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://tixr.com/e/191340",
@@ -1463,7 +1463,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1483,7 +1483,7 @@
             "House"
           ],
           "confidence": 0.6,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/roiperezpride",
@@ -1508,7 +1508,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1528,7 +1528,7 @@
             "Techno"
           ],
           "confidence": 0.55,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/onlyfire",
@@ -1563,7 +1563,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1582,7 +1582,7 @@
             "Electronic"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/otha",
@@ -1598,7 +1598,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1617,7 +1617,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/bijou",
@@ -1651,7 +1651,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1670,7 +1670,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/westend",
@@ -1686,7 +1686,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1705,7 +1705,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/discip",
@@ -1721,7 +1721,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1740,7 +1740,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/simondotyreup-rxgct",
@@ -1756,7 +1756,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1776,7 +1776,7 @@
             "Techno"
           ],
           "confidence": 0.82,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/4q1stuaojrFj2Hg4bX1HrY",
@@ -1811,7 +1811,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1833,7 +1833,7 @@
             "Techno"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/atripdjboring",
@@ -1896,7 +1896,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1915,7 +1915,7 @@
             "Acid"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/denhamaudiorohaan",
@@ -1940,7 +1940,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1959,7 +1959,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/deanturnley",
@@ -1976,7 +1976,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -1995,7 +1995,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/dublon2026",
@@ -2011,7 +2011,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2032,7 +2032,7 @@
             "Bass"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/camoufly2026",
@@ -2067,7 +2067,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2086,7 +2086,7 @@
             "House"
           ],
           "confidence": 0.65,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.villagestudios.life/events/jazzy",
@@ -2102,7 +2102,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2122,7 +2122,7 @@
             "House"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2157,7 +2157,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2176,7 +2176,7 @@
             "Techno"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2217,7 +2217,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2236,7 +2236,7 @@
             "House"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2277,7 +2277,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2296,7 +2296,7 @@
             "House"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2337,7 +2337,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2354,7 +2354,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2370,7 +2370,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2389,7 +2389,7 @@
             "Techno"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2423,7 +2423,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2440,7 +2440,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2456,7 +2456,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2475,7 +2475,7 @@
             "Bass"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.commodoreballroom.com/",
@@ -2509,7 +2509,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2526,7 +2526,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -2542,7 +2542,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "admitone",
@@ -2555,7 +2555,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2574,7 +2574,7 @@
           "coordinate": null,
           "styles": [],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.biltmorecabaret.com/event",
@@ -2597,7 +2597,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2616,7 +2616,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=onhellsubculture",
@@ -2632,7 +2632,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2645,7 +2645,7 @@
             "displayText": "From C$30 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -2666,7 +2666,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=showcasenights2026",
@@ -2682,7 +2682,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -2701,7 +2701,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=venjentvancouver2026",
@@ -2724,7 +2724,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2737,7 +2737,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
           }
@@ -2758,7 +2758,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=ivylabvancouver",
@@ -2781,7 +2781,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2794,7 +2794,7 @@
             "displayText": "From C$35 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2817,7 +2817,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=feedmeredroom",
@@ -2833,7 +2833,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2846,7 +2846,7 @@
             "displayText": "From C$30 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/feedmeredroom/",
             "collectorKind": "showpassNextData"
           }
@@ -2867,7 +2867,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=kmotionzvancouver",
@@ -2883,7 +2883,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2896,7 +2896,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/kmotionzvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2917,7 +2917,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=canablissvancouver",
@@ -2933,7 +2933,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2946,7 +2946,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2968,7 +2968,7 @@
             "Bass"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://digitalmotionbc.ca/event-detail/?slug=whalesvancouver",
@@ -2984,7 +2984,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "showpass",
@@ -2997,7 +2997,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3008,7 +3008,7 @@
       "id": "shenzhen_cn",
       "name": "Shenzhen",
       "country": "CN",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Asia/Shanghai",
       "userCoordinate": {
         "latitude": 22.5333,
@@ -3035,7 +3035,7 @@
             "Melodic House"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3054,7 +3054,7 @@
             "label": "最低可买 GA",
             "displayText": "¥138",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "PLAY X 7.31丨 8.01丨畅玩通票",
@@ -3078,7 +3078,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceText": "¥138",
           "ticketPriceSnapshot": {
@@ -3092,7 +3092,7 @@
             "displayText": "From ¥138",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2076971355547590657",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3116,7 +3116,7 @@
             "House"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3143,7 +3143,7 @@
             "label": "最低可买 GA",
             "displayText": "¥138",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "PLAY X 8.07丨 8.08丨畅玩通票",
@@ -3167,7 +3167,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceText": "¥138",
           "ticketPriceSnapshot": {
@@ -3181,7 +3181,7 @@
             "displayText": "From ¥138",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079872969067900930",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3205,7 +3205,7 @@
             "Hardstyle"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3240,7 +3240,7 @@
             "label": "最低可买 GA",
             "displayText": "¥138",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "PLAY X 8.07丨 8.08丨畅玩通票",
@@ -3264,7 +3264,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceText": "¥138",
           "ticketPriceSnapshot": {
@@ -3278,7 +3278,7 @@
             "displayText": "From ¥138",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079872969067900930",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3303,7 +3303,7 @@
             "Hard Techno"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3328,7 +3328,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -3350,7 +3350,7 @@
             "Trance"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3375,7 +3375,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -3398,7 +3398,7 @@
             "House"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3425,7 +3425,7 @@
             "label": "最低可买 GA",
             "displayText": "¥138",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "PLAY X 8.21丨 8.22丨畅玩通票",
@@ -3449,7 +3449,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceText": "¥138",
           "ticketPriceSnapshot": {
@@ -3463,7 +3463,7 @@
             "displayText": "From ¥138",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2081707784608067586",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3487,7 +3487,7 @@
             "Techno"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3514,7 +3514,7 @@
             "label": "最低可买 GA",
             "displayText": "¥138",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "PLAY X 8.21丨 8.22丨畅玩通票",
@@ -3538,7 +3538,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceText": "¥138",
           "ticketPriceSnapshot": {
@@ -3552,7 +3552,7 @@
             "displayText": "From ¥138",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2081707784608067586",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3576,7 +3576,7 @@
             "Bass"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3601,7 +3601,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -3623,7 +3623,7 @@
             "Bass"
           ],
           "confidence": 0.95,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://events.nowshenzhen.com/event/july-event-schedule-play-x",
@@ -3648,7 +3648,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -3671,7 +3671,7 @@
             "Latin Club"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://open.spotify.com/concert/7ftZS7WxRplYbjqqWvTZiF",
@@ -3705,13 +3705,13 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketDiscoveryOffer": {
             "label": "最低可买 GA",
             "displayText": "¥120",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【双厅】TURMOIL呈现: 拉丁邪魅美学领袖 Safety Trance @OIL Club 深圳",
@@ -3759,7 +3759,7 @@
             "displayText": "From ¥120",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2072592095781281794",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3784,7 +3784,7 @@
             "Latin Club"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079477624374734849",
@@ -3823,7 +3823,7 @@
             "label": "最低可买 GA",
             "displayText": "¥100",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】殺気疼疼: Slim Soledad @OIL Club 深圳",
@@ -3861,7 +3861,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -3874,7 +3874,7 @@
             "displayText": "From ¥100",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079477624374734849",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3898,7 +3898,7 @@
             "Hyper Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080904056292421634",
@@ -3910,7 +3910,7 @@
             "label": "最低可买 GA",
             "displayText": "¥68",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【ROOMTOO】REVORECO呈现：东亚在地俱乐部文化复兴先驱 Dirty K @ OIL Club 深圳",
@@ -3941,7 +3941,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -3954,7 +3954,7 @@
             "displayText": "From ¥68",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080904056292421634",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -3976,7 +3976,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080564702659391489",
@@ -3988,7 +3988,7 @@
             "label": "最低可买 GA",
             "displayText": "¥328",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】Goldilocks 呈现 DABEULL (DJ Set) @ OIL Club",
@@ -4019,7 +4019,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4032,86 +4032,8 @@
             "displayText": "From ¥328",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080564702659391489",
-            "collectorKind": "publicReadOnlyTierAPI"
-          }
-        },
-        {
-          "id": "A620EEE4-4CD7-5DBC-89AE-7F54639D7F79",
-          "sourceId": "yuyuan_shenzhen_public_inventory",
-          "sourceKind": "ticketingPage",
-          "title": "Afropluz",
-          "subtitle": "芋圆可售活动",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-08-15",
-          "timeText": "20:00",
-          "distanceText": null,
-          "coordinate": {
-            "latitude": 22.530283,
-            "longitude": 114.022385
-          },
-          "styles": [],
-          "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
-          "ticketURLText": null,
-          "lineup": [],
-          "endDateText": "2026-08-16",
-          "ticketPriceText": "¥58",
-          "ticketDiscoveryOffer": {
-            "label": "最低可买 GA",
-            "displayText": "¥58",
-            "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
-            "assistedHandoff": {
-              "kind": "weChatSearch",
-              "searchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
-              "miniProgramActivity": {
-                "appID": "wx4c8604c032bd3ef0",
-                "path": "pages/play/activity-detail",
-                "query": "activityId=2083151093141176321&isShare=true"
-              }
-            },
-            "priceQualifier": "lowestBuyableGeneralAdmission",
-            "comparisonPolicy": "sameTierOnly",
-            "tiers": [
-              {
-                "admissionType": "generalAdmission",
-                "amountMinor": 5800,
-                "availability": "available",
-                "currency": "CNY",
-                "name": "预售票"
-              },
-              {
-                "admissionType": "generalAdmission",
-                "amountMinor": 7800,
-                "availability": "available",
-                "currency": "CNY",
-                "name": "普通票"
-              }
-            ]
-          },
-          "sourceFreshness": {
-            "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
-          },
-          "ticketPriceSnapshot": {
-            "provider": "yuyuan",
-            "providerEventID": "2083151093141176321",
-            "tierKey": "schedule-2083151200490192898|ticket-2083151365548638209",
-            "tierName": "预售票",
-            "amountMinor": 5800,
-            "currency": "CNY",
-            "feeBasis": "unknown",
-            "displayText": "From ¥58",
-            "availability": "available",
-            "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
-            "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
             "collectorKind": "publicReadOnlyTierAPI"
           }
         },
@@ -4134,7 +4056,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2081971219497398273",
@@ -4146,7 +4068,7 @@
             "label": "最低可买 GA",
             "displayText": "¥100",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】OIL八月特邀 Opium Hum : Boiler Room 初创元老, CTM音乐节主创",
@@ -4184,7 +4106,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4197,8 +4119,86 @@
             "displayText": "From ¥100",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2081971219497398273",
+            "collectorKind": "publicReadOnlyTierAPI"
+          }
+        },
+        {
+          "id": "A620EEE4-4CD7-5DBC-89AE-7F54639D7F79",
+          "sourceId": "yuyuan_shenzhen_public_inventory",
+          "sourceKind": "ticketingPage",
+          "title": "Afropluz",
+          "subtitle": "芋圆可售活动",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-15",
+          "timeText": "20:00",
+          "distanceText": null,
+          "coordinate": {
+            "latitude": 22.530283,
+            "longitude": 114.022385
+          },
+          "styles": [],
+          "confidence": 0.94,
+          "lastRefreshedText": "Fri 22:28",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
+          "ticketURLText": null,
+          "lineup": [],
+          "endDateText": "2026-08-16",
+          "ticketPriceText": "¥58",
+          "ticketDiscoveryOffer": {
+            "label": "最低可买 GA",
+            "displayText": "¥58",
+            "sourceName": "芋圆YuYuan",
+            "capturedAtText": "2026-07-31T22:27:43Z",
+            "assistedHandoff": {
+              "kind": "weChatSearch",
+              "searchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
+              "miniProgramActivity": {
+                "appID": "wx4c8604c032bd3ef0",
+                "path": "pages/play/activity-detail",
+                "query": "activityId=2083151093141176321&isShare=true"
+              }
+            },
+            "priceQualifier": "lowestBuyableGeneralAdmission",
+            "comparisonPolicy": "sameTierOnly",
+            "tiers": [
+              {
+                "admissionType": "generalAdmission",
+                "amountMinor": 5800,
+                "availability": "available",
+                "currency": "CNY",
+                "name": "预售票"
+              },
+              {
+                "admissionType": "generalAdmission",
+                "amountMinor": 7800,
+                "availability": "available",
+                "currency": "CNY",
+                "name": "普通票"
+              }
+            ]
+          },
+          "sourceFreshness": {
+            "state": "live",
+            "observedAt": "2026-07-31T22:28:09Z"
+          },
+          "ticketPriceSnapshot": {
+            "provider": "yuyuan",
+            "providerEventID": "2083151093141176321",
+            "tierKey": "schedule-2083151200490192898|ticket-2083151365548638209",
+            "tierName": "预售票",
+            "amountMinor": 5800,
+            "currency": "CNY",
+            "feeBasis": "unknown",
+            "displayText": "From ¥58",
+            "availability": "available",
+            "verificationState": "fresh",
+            "capturedAt": "2026-07-31T22:27:43Z",
+            "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
             "collectorKind": "publicReadOnlyTierAPI"
           }
         },
@@ -4221,7 +4221,7 @@
             "House"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078055955722579970",
@@ -4233,7 +4233,7 @@
             "label": "最低可买 GA",
             "displayText": "¥88",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "8.15 | HOUSE IT x 深圳Boiling Room",
@@ -4257,7 +4257,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4270,7 +4270,7 @@
             "displayText": "From ¥88",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2078055955722579970",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -4295,7 +4295,7 @@
             "Deep House"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2075499960800075777",
@@ -4334,7 +4334,7 @@
             "label": "最低可买 GA",
             "displayText": "¥198",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "Kidnap巡演 深圳站",
@@ -4386,7 +4386,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4399,7 +4399,7 @@
             "displayText": "From ¥198",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2075499960800075777",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -4421,7 +4421,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082369888679800834",
@@ -4441,7 +4441,7 @@
             "label": "最低可买 GA",
             "displayText": "¥110",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】FourFouls pres. Florian Picasso & two dots @OIL Club 深圳",
@@ -4479,7 +4479,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4492,7 +4492,7 @@
             "displayText": "From ¥110",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082369888679800834",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -4514,7 +4514,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083121219332571137",
@@ -4526,7 +4526,7 @@
             "label": "最低可买 GA",
             "displayText": "¥40",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】The Mantis Project 八月档 @OIL Club 深圳",
@@ -4557,7 +4557,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4570,7 +4570,7 @@
             "displayText": "From ¥40",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083121219332571137",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -4592,7 +4592,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082105476391809025",
@@ -4604,7 +4604,7 @@
             "label": "最低可买 GA",
             "displayText": "¥40",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】荷東週末夜狂熱 @OIL Club 深圳",
@@ -4635,7 +4635,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4648,79 +4648,8 @@
             "displayText": "From ¥40",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082105476391809025",
-            "collectorKind": "publicReadOnlyTierAPI"
-          }
-        },
-        {
-          "id": "CD6E78B6-BF77-521C-9780-2C7B9ED85A79",
-          "sourceId": "yuyuan_shenzhen_public_inventory",
-          "sourceKind": "ticketingPage",
-          "title": "Yaka JUNGLE + AFTERPARTY 深圳",
-          "subtitle": "芋圆可售活动",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-08-08",
-          "timeText": "20:00",
-          "distanceText": null,
-          "coordinate": {
-            "latitude": 22.530283,
-            "longitude": 114.022385
-          },
-          "styles": [],
-          "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
-          "ticketURLText": null,
-          "lineup": [],
-          "endDateText": "2026-08-09",
-          "ticketPriceText": "¥98",
-          "ticketDiscoveryOffer": {
-            "label": "最低可买 GA",
-            "displayText": "¥98",
-            "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
-            "assistedHandoff": {
-              "kind": "weChatSearch",
-              "searchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
-              "miniProgramActivity": {
-                "appID": "wx4c8604c032bd3ef0",
-                "path": "pages/play/activity-detail",
-                "query": "activityId=2083113033137487873&isShare=true"
-              }
-            },
-            "priceQualifier": "lowestBuyableGeneralAdmission",
-            "comparisonPolicy": "sameTierOnly",
-            "tiers": [
-              {
-                "admissionType": "generalAdmission",
-                "amountMinor": 9800,
-                "availability": "available",
-                "currency": "CNY",
-                "name": "普通票"
-              }
-            ]
-          },
-          "sourceFreshness": {
-            "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
-          },
-          "ticketPriceSnapshot": {
-            "provider": "yuyuan",
-            "providerEventID": "2083113033137487873",
-            "tierKey": "schedule-2083113139182075906|ticket-2083113382959218689",
-            "tierName": "普通票",
-            "amountMinor": 9800,
-            "currency": "CNY",
-            "feeBasis": "unknown",
-            "displayText": "From ¥98",
-            "availability": "available",
-            "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
-            "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
             "collectorKind": "publicReadOnlyTierAPI"
           }
         },
@@ -4743,7 +4672,7 @@
             "Techno"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080236375297929218",
@@ -4755,7 +4684,7 @@
             "label": "最低可买 GA",
             "displayText": "¥130",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】Perc x Turbo @ OIL Club 深圳",
@@ -4793,7 +4722,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4806,8 +4735,79 @@
             "displayText": "From ¥130",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080236375297929218",
+            "collectorKind": "publicReadOnlyTierAPI"
+          }
+        },
+        {
+          "id": "CD6E78B6-BF77-521C-9780-2C7B9ED85A79",
+          "sourceId": "yuyuan_shenzhen_public_inventory",
+          "sourceKind": "ticketingPage",
+          "title": "Yaka JUNGLE + AFTERPARTY 深圳",
+          "subtitle": "芋圆可售活动",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-08",
+          "timeText": "20:00",
+          "distanceText": null,
+          "coordinate": {
+            "latitude": 22.530283,
+            "longitude": 114.022385
+          },
+          "styles": [],
+          "confidence": 0.94,
+          "lastRefreshedText": "Fri 22:28",
+          "isMajorFestival": false,
+          "friendsGoing": null,
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
+          "ticketURLText": null,
+          "lineup": [],
+          "endDateText": "2026-08-09",
+          "ticketPriceText": "¥98",
+          "ticketDiscoveryOffer": {
+            "label": "最低可买 GA",
+            "displayText": "¥98",
+            "sourceName": "芋圆YuYuan",
+            "capturedAtText": "2026-07-31T22:27:43Z",
+            "assistedHandoff": {
+              "kind": "weChatSearch",
+              "searchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
+              "miniProgramActivity": {
+                "appID": "wx4c8604c032bd3ef0",
+                "path": "pages/play/activity-detail",
+                "query": "activityId=2083113033137487873&isShare=true"
+              }
+            },
+            "priceQualifier": "lowestBuyableGeneralAdmission",
+            "comparisonPolicy": "sameTierOnly",
+            "tiers": [
+              {
+                "admissionType": "generalAdmission",
+                "amountMinor": 9800,
+                "availability": "available",
+                "currency": "CNY",
+                "name": "普通票"
+              }
+            ]
+          },
+          "sourceFreshness": {
+            "state": "live",
+            "observedAt": "2026-07-31T22:28:09Z"
+          },
+          "ticketPriceSnapshot": {
+            "provider": "yuyuan",
+            "providerEventID": "2083113033137487873",
+            "tierKey": "schedule-2083113139182075906|ticket-2083113382959218689",
+            "tierName": "普通票",
+            "amountMinor": 9800,
+            "currency": "CNY",
+            "feeBasis": "unknown",
+            "displayText": "From ¥98",
+            "availability": "available",
+            "verificationState": "fresh",
+            "capturedAt": "2026-07-31T22:27:43Z",
+            "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
             "collectorKind": "publicReadOnlyTierAPI"
           }
         },
@@ -4831,7 +4831,7 @@
             "Hyperpop"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079386222454288386",
@@ -4851,7 +4851,7 @@
             "label": "最低可买 GA",
             "displayText": "¥108",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】n_n pres. #peaktime Pt.1 @OIL Club 深圳",
@@ -4882,7 +4882,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4895,7 +4895,7 @@
             "displayText": "From ¥108",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2079386222454288386",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -4917,7 +4917,7 @@
           },
           "styles": [],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080928333775417345",
@@ -4929,7 +4929,7 @@
             "label": "最低可买 GA",
             "displayText": "¥60",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "【Mainroom】FB WORLD @OIL Club 深圳",
@@ -4960,7 +4960,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -4973,7 +4973,7 @@
             "displayText": "From ¥60",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2080928333775417345",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -4999,7 +4999,7 @@
             "Trance"
           ],
           "confidence": 0.94,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082040652311998466",
@@ -5033,7 +5033,7 @@
             "label": "最低可买 GA",
             "displayText": "¥128",
             "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-07-31T21:38:51Z",
+            "capturedAtText": "2026-07-31T22:27:43Z",
             "assistedHandoff": {
               "kind": "weChatSearch",
               "searchText": "8/01 AM06 X AVAO 爆裂能量 ！EDM TECHNO NEVER DIE！",
@@ -5078,7 +5078,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "yuyuan",
@@ -5091,7 +5091,7 @@
             "displayText": "From ¥128",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:38:51Z",
+            "capturedAt": "2026-07-31T22:27:43Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082040652311998466",
             "collectorKind": "publicReadOnlyTierAPI"
           }
@@ -5102,7 +5102,7 @@
       "id": "toronto_ca",
       "name": "Toronto",
       "country": "CA",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Toronto",
       "userCoordinate": {
         "latitude": 43.6532,
@@ -5125,7 +5125,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/rafael-coda-tickets/14914473?pl=CODA",
@@ -5141,7 +5141,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5160,7 +5160,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/bastian-bux-coda-tickets/14203954?pl=CODA",
@@ -5176,7 +5176,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5195,7 +5195,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/crusy-coda-tickets/14845463?pl=CODA",
@@ -5211,7 +5211,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5230,7 +5230,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/fri-the-official-electric-island-coda-tickets/15000033?pl=CODA",
@@ -5246,7 +5246,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5265,7 +5265,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/sat-the-official-electric-island-coda-tickets/15000043?pl=CODA",
@@ -5281,7 +5281,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5300,7 +5300,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/sbastien-lger-coda-tickets/14192444?pl=CODA",
@@ -5316,7 +5316,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5335,7 +5335,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/colyn-coda-tickets/14236534?pl=CODA",
@@ -5351,7 +5351,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5370,7 +5370,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/joshwa-coda-tickets/14832543?pl=CODA",
@@ -5386,7 +5386,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5405,7 +5405,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/rebke-coda-tickets/14212034?pl=CODA",
@@ -5421,7 +5421,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5440,7 +5440,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/mesto-coda-tickets/14997043?pl=CODA",
@@ -5456,7 +5456,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5475,7 +5475,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/caspa-coda-tickets/14237184?pl=CODA",
@@ -5491,7 +5491,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5510,7 +5510,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/julian-fijma-coda-tickets/14951653?pl=CODA",
@@ -5526,7 +5526,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5545,7 +5545,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/linska-coda-tickets/14237214?pl=CODA",
@@ -5561,7 +5561,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5580,7 +5580,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/dean-turnley-coda-tickets/14892713?pl=CODA",
@@ -5596,7 +5596,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5615,7 +5615,7 @@
             "Electronic"
           ],
           "confidence": 0.9,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.ticketweb.ca/event/twin-diplomacy-coda-tickets/14193774?pl=CODA",
@@ -5631,7 +5631,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -5640,7 +5640,7 @@
       "id": "london_gb",
       "name": "London",
       "country": "GB",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/London",
       "userCoordinate": {
         "latitude": 51.5072,
@@ -5663,7 +5663,7 @@
             "Electronic"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/adriatique-presents-x---afterparty",
@@ -5679,7 +5679,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5699,7 +5699,7 @@
             "Dubstep"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/fabric-presents-mount-kimbie-mix-launch-yu-su-tijana-t-leo-gosh-dj-python-galcher-lustwerk-mor-elian",
@@ -5775,7 +5775,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5794,7 +5794,7 @@
             "Electronic"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/fabriclive-27th-birthday",
@@ -5873,7 +5873,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -5889,10 +5889,11 @@
           "distanceText": null,
           "coordinate": null,
           "styles": [
-            "Electronic"
+            "Electronic",
+            "Techno"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/fabric-27th-birthday",
@@ -5908,8 +5909,26 @@
             {
               "name": "Ricardo Villalobos",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "3ABECBF7-D61C-5711-8AC6-44E38B842B4D",
+                  "title": "The Contempt",
+                  "label": "Ricardo Villalobos"
+                },
+                {
+                  "id": "1B724823-D6D7-5197-A19E-8F595779DBCB",
+                  "title": "Que bel epoque 2006",
+                  "label": "Ricardo Villalobos"
+                },
+                {
+                  "id": "9F28B75F-CF99-50A2-B107-6A53B0D9B6F8",
+                  "title": "Lugom-IX",
+                  "label": "Ricardo Villalobos"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -5985,7 +6004,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -6004,7 +6023,7 @@
             "Electronic"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/fabriclive-x-critical-sound",
@@ -6097,7 +6116,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -6116,7 +6135,7 @@
             "Electronic"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/loukeman",
@@ -6132,7 +6151,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -6152,7 +6171,7 @@
             "Techno"
           ],
           "confidence": 0.92,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": false,
           "friendsGoing": null,
           "sourceURLText": "https://www.fabriclondon.com/event/fabric-joseph-capriati-more-tba",
@@ -6186,7 +6205,7 @@
           ],
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -6195,7 +6214,7 @@
       "id": "miami_us",
       "name": "Miami",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": {
         "latitude": 25.7617,
@@ -6221,7 +6240,7 @@
             "Electronic"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultramusicfestival.com/general-information/",
@@ -6254,7 +6273,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -6263,7 +6282,7 @@
       "id": "las_vegas_us",
       "name": "Las Vegas",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": {
         "latitude": 36.1699,
@@ -6289,7 +6308,7 @@
             "Electronic"
           ],
           "confidence": 0.97,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -6326,7 +6345,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         },
         {
@@ -6348,7 +6367,7 @@
             "Electronic"
           ],
           "confidence": 0.97,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://lasvegas.edc.com/",
@@ -6385,7 +6404,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -6394,7 +6413,7 @@
       "id": "daresbury_uk",
       "name": "Daresbury",
       "country": "GB",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/London",
       "userCoordinate": null,
       "sourceEvents": [
@@ -6423,7 +6442,7 @@
             "Progressive"
           ],
           "confidence": 0.98,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://creamfields.com/lineup/",
@@ -10158,7 +10177,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -10167,7 +10186,7 @@
       "id": "salmo_ca",
       "name": "Salmo",
       "country": "CA",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Vancouver",
       "userCoordinate": null,
       "sourceEvents": []
@@ -10176,7 +10195,7 @@
       "id": "orlando_us",
       "name": "Orlando",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": null,
       "sourceEvents": [
@@ -10205,7 +10224,7 @@
             "House"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://orlando.edc.com/lineup/",
@@ -11797,7 +11816,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "frontgate",
@@ -11810,7 +11829,7 @@
             "displayText": "From US$303.99",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://edcorlando.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -11821,7 +11840,7 @@
       "id": "montreal_ca",
       "name": "Montreal",
       "country": "CA",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Toronto",
       "userCoordinate": null,
       "sourceEvents": [
@@ -11848,7 +11867,7 @@
             "Dubstep"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ilesoniq.com/en/program/artists",
@@ -12603,7 +12622,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -12612,7 +12631,7 @@
       "id": "boom_be",
       "name": "Boom",
       "country": "BE",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/Brussels",
       "userCoordinate": {
         "latitude": 51.0873789,
@@ -12624,7 +12643,7 @@
       "id": "hilvarenbeek_nl",
       "name": "Hilvarenbeek",
       "country": "NL",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/Amsterdam",
       "userCoordinate": null,
       "sourceEvents": [
@@ -12644,7 +12663,7 @@
             "Techno"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.awakenings.com/en/events/2027/07/awakenings-festival-2027/399344/",
@@ -12674,7 +12693,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -12683,7 +12702,7 @@
       "id": "arnhem_nl",
       "name": "Arnhem",
       "country": "NL",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/Amsterdam",
       "userCoordinate": null,
       "sourceEvents": [
@@ -12707,7 +12726,7 @@
             "Progressive"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://transmissionfestival.com/events/tmnl26/",
@@ -12740,7 +12759,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -12749,7 +12768,7 @@
       "id": "cluj_napoca_ro",
       "name": "Cluj-Napoca",
       "country": "RO",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/Bucharest",
       "userCoordinate": null,
       "sourceEvents": [
@@ -12778,7 +12797,7 @@
             "Bass"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.untold.com/artists",
@@ -16604,7 +16623,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -16613,7 +16632,7 @@
       "id": "thornville_us",
       "name": "Thornville",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/New_York",
       "userCoordinate": null,
       "sourceEvents": [
@@ -16638,7 +16657,7 @@
             "Future Bass"
           ],
           "confidence": 1.0,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.lostlandsfestival.com/info/",
@@ -18289,7 +18308,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -18298,7 +18317,7 @@
       "id": "los_angeles_us",
       "name": "Los Angeles",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": null,
       "sourceEvents": [
@@ -18323,7 +18342,7 @@
             "Progressive"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://www.hardsummer.com/lineup/",
@@ -19655,7 +19674,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "frontgate",
@@ -19668,7 +19687,7 @@
             "displayText": "From US$312.30",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://hardsummer.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -19679,7 +19698,7 @@
       "id": "long_beach_us",
       "name": "Long Beach",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Los_Angeles",
       "userCoordinate": null,
       "sourceEvents": [
@@ -19704,7 +19723,7 @@
             "Techno"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://socal.dreamstateusa.com/lineup/",
@@ -20265,7 +20284,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "frontgate",
@@ -20278,7 +20297,7 @@
             "displayText": "From US$189.99",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://dreamstate.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -20289,7 +20308,7 @@
       "id": "chicago_us",
       "name": "Chicago",
       "country": "US",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Chicago",
       "userCoordinate": null,
       "sourceEvents": [
@@ -20345,8 +20364,9 @@
             "lineupDelta": null
           },
           "sourceFreshness": {
-            "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "state": "retained",
+            "observedAt": "2026-07-31T21:39:13Z",
+            "fallbackAgeHours": 0
           },
           "ticketPriceSnapshot": {
             "provider": "frontgate",
@@ -20359,7 +20379,7 @@
             "displayText": "From US$599",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://arcmusicfestival.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -20370,7 +20390,7 @@
       "id": "mumbai_in",
       "name": "Mumbai",
       "country": "IN",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Asia/Calcutta",
       "userCoordinate": null,
       "sourceEvents": [
@@ -20393,7 +20413,7 @@
             "Electronic"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://sunburn.in/event/sunburn-festival-2026/",
@@ -20426,7 +20446,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -20435,7 +20455,7 @@
       "id": "jakarta_id",
       "name": "Jakarta",
       "country": "ID",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Asia/Jakarta",
       "userCoordinate": null,
       "sourceEvents": [
@@ -20455,7 +20475,7 @@
             "Electronic"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://dwpfest.com/",
@@ -20485,7 +20505,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           },
           "ticketPriceSnapshot": {
             "provider": "dwp",
@@ -20498,7 +20518,7 @@
             "displayText": "From IDR 1,700,000",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-07-31T21:41:00Z",
+            "capturedAt": "2026-07-31T22:29:43Z",
             "sourceURLText": "https://dwpfest.com/",
             "collectorKind": "dwpOfficialHTML"
           }
@@ -20509,7 +20529,7 @@
       "id": "phuket_th",
       "name": "Phuket",
       "country": "TH",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Asia/Bangkok",
       "userCoordinate": null,
       "sourceEvents": [
@@ -20539,7 +20559,7 @@
             "Dubstep"
           ],
           "confidence": 0.99,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://thailand.edc.com/en/lineup/",
@@ -21453,7 +21473,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -21462,7 +21482,7 @@
       "id": "alpe_d_huez_fr",
       "name": "Alpe d'Huez",
       "country": "FR",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/Paris",
       "userCoordinate": null,
       "sourceEvents": [
@@ -21485,7 +21505,7 @@
             "Electronic"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://winter.tomorrowland.com/en/welcome/",
@@ -21518,7 +21538,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -21527,7 +21547,7 @@
       "id": "mexico_city_mx",
       "name": "Mexico City",
       "country": "MX",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "America/Mexico_City",
       "userCoordinate": null,
       "sourceEvents": [
@@ -21550,7 +21570,7 @@
             "Electronic"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://mexico.edc.com/?noredirect=1",
@@ -21583,7 +21603,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -21592,7 +21612,7 @@
       "id": "split_hr",
       "name": "Split",
       "country": "HR",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Europe/Zagreb",
       "userCoordinate": null,
       "sourceEvents": [
@@ -21615,7 +21635,7 @@
             "Electronic"
           ],
           "confidence": 0.96,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultraeurope.com/",
@@ -21648,7 +21668,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]
@@ -21657,7 +21677,7 @@
       "id": "tokyo_jp",
       "name": "Tokyo",
       "country": "JP",
-      "refreshText": "Fri 21:39",
+      "refreshText": "Fri 22:28",
       "timeZoneIdentifier": "Asia/Tokyo",
       "userCoordinate": null,
       "sourceEvents": [
@@ -21684,7 +21704,7 @@
             "Hard Dance"
           ],
           "confidence": 1.0,
-          "lastRefreshedText": "Fri 21:39",
+          "lastRefreshedText": "Fri 22:28",
           "isMajorFestival": true,
           "friendsGoing": null,
           "sourceURLText": "https://ultrajapan.com/lineup/",
@@ -21923,7 +21943,7 @@
           },
           "sourceFreshness": {
             "state": "live",
-            "observedAt": "2026-07-31T21:39:13Z"
+            "observedAt": "2026-07-31T22:28:09Z"
           }
         }
       ]

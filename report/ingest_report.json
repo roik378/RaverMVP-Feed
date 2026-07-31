@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-31T21:39:13Z",
-  "ingestRunId": "AD719EEF-0585-445C-81F6-7BC12E337171",
-  "ingestRunAt": "2026-07-31T21:39:13Z",
+  "ranAt": "2026-07-31T22:28:09Z",
+  "ingestRunId": "81704E96-2604-4251-8B9E-9FBA454F84D3",
+  "ingestRunAt": "2026-07-31T22:28:09Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -220,7 +220,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-31T21:38:39Z",
+      "ticketOfferObservedAt": "2026-07-31T22:27:29Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -308,7 +308,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-01 05:39:38",
+        "observedAtText": "2026-08-01 06:28:33",
         "totalSearchRecords": 22,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -383,35 +383,6 @@
           ]
         },
         {
-          "reviewKey": "yuyuan|2083151093141176321",
-          "reviewState": "ready_for_operator",
-          "activityID": "2083151093141176321",
-          "title": "Afropluz",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-08-15",
-          "endDateText": "2026-08-16",
-          "timeText": "20:00",
-          "lineupNames": [],
-          "styles": [],
-          "priceDisplayText": "¥58",
-          "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "needs_review",
-          "styleEvidenceStatus": "needs_review",
-          "ticketTierEvidenceStatus": "public_api_observed",
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
-          "miniProgramSearchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
-          "miniProgramActivity": {
-            "appID": "wx4c8604c032bd3ef0",
-            "path": "pages/play/activity-detail",
-            "query": "activityId=2083151093141176321&isShare=true"
-          },
-          "requiredActions": [
-            "Capture readable lineup evidence",
-            "Capture explicit genre or event-theme evidence"
-          ]
-        },
-        {
           "reviewKey": "yuyuan|2081971219497398273",
           "reviewState": "ready_for_operator",
           "activityID": "2081971219497398273",
@@ -439,6 +410,35 @@
           },
           "requiredActions": [
             "Capture readable lineup evidence"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2083151093141176321",
+          "reviewState": "ready_for_operator",
+          "activityID": "2083151093141176321",
+          "title": "Afropluz",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-15",
+          "endDateText": "2026-08-16",
+          "timeText": "20:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥58",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "public_api_observed",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
+          "miniProgramSearchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2083151093141176321&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence"
           ]
         },
         {
@@ -530,35 +530,6 @@
           ]
         },
         {
-          "reviewKey": "yuyuan|2083113033137487873",
-          "reviewState": "ready_for_operator",
-          "activityID": "2083113033137487873",
-          "title": "Yaka JUNGLE + AFTERPARTY 深圳",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-08-08",
-          "endDateText": "2026-08-09",
-          "timeText": "20:00",
-          "lineupNames": [],
-          "styles": [],
-          "priceDisplayText": "¥98",
-          "priceEvidenceStatus": "display_only",
-          "lineupEvidenceStatus": "needs_review",
-          "styleEvidenceStatus": "needs_review",
-          "ticketTierEvidenceStatus": "public_api_observed",
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
-          "miniProgramSearchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
-          "miniProgramActivity": {
-            "appID": "wx4c8604c032bd3ef0",
-            "path": "pages/play/activity-detail",
-            "query": "activityId=2083113033137487873&isShare=true"
-          },
-          "requiredActions": [
-            "Capture readable lineup evidence",
-            "Capture explicit genre or event-theme evidence"
-          ]
-        },
-        {
           "reviewKey": "yuyuan|2080236375297929218",
           "reviewState": "ready_for_operator",
           "activityID": "2080236375297929218",
@@ -586,6 +557,35 @@
           },
           "requiredActions": [
             "Capture readable lineup evidence"
+          ]
+        },
+        {
+          "reviewKey": "yuyuan|2083113033137487873",
+          "reviewState": "ready_for_operator",
+          "activityID": "2083113033137487873",
+          "title": "Yaka JUNGLE + AFTERPARTY 深圳",
+          "venue": "OIL Club",
+          "city": "Shenzhen",
+          "dateText": "2026-08-08",
+          "endDateText": "2026-08-09",
+          "timeText": "20:00",
+          "lineupNames": [],
+          "styles": [],
+          "priceDisplayText": "¥98",
+          "priceEvidenceStatus": "display_only",
+          "lineupEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "needs_review",
+          "ticketTierEvidenceStatus": "public_api_observed",
+          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
+          "miniProgramSearchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
+          "miniProgramActivity": {
+            "appID": "wx4c8604c032bd3ef0",
+            "path": "pages/play/activity-detail",
+            "query": "activityId=2083113033137487873&isShare=true"
+          },
+          "requiredActions": [
+            "Capture readable lineup evidence",
+            "Capture explicit genre or event-theme evidence"
           ]
         },
         {
@@ -889,7 +889,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "6ee9d394d4187f9a013955dfe9403612aeb8a9c7cb45428998635ca4cef6e855"
+      "evidenceStyleSHA256": "91de97cea4647fb2b8335aa3a2b5f8406b4bf0a098577691947f32421b216e5e"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -906,7 +906,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "e26772409dc3ba64d6824ca15d639a9ede64c8a4d3deeeea2d81e3be8ae82de8"
+      "evidenceStyleSHA256": "15d411fbf61e9559f1d2b8266782401069040ff75a80e86980e3579e5b2fd813"
     },
     {
       "sourceId": "creamfields_official",
@@ -1107,24 +1107,53 @@
       "sourceId": "arc_music_festival_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 1,
-      "usable": 1,
-      "consumerReady": 1,
+      "status": "error: access_challenge",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
+        "status": "retained",
+        "eligibleEventCount": 1,
+        "retainedEventCount": 1,
+        "fallbackAgeHours": 0
       },
       "reviewedFactVerification": {
-        "attemptCount": 1,
-        "status": "not_needed",
+        "attemptCount": 2,
+        "status": "access_challenge",
         "initialResponse": {
-          "contentLength": 88805,
-          "sha256": "0989081e40557684ddc54c6050ee8774d5e898a946362d2341db0287817016f7",
-          "missingMarkers": [],
-          "accessChallenge": null
-        }
+          "contentLength": 11898,
+          "sha256": "ace11434713641528d18463ea5a41eba001befeb6737ad85d7536a6c8f46bcd7",
+          "missingMarkers": [
+            "SEPT 4th - 7th 2026",
+            "Union Park",
+            "4 Days Of House, Techno, and Beyond",
+            "ON SALE NOW"
+          ],
+          "accessChallenge": {
+            "detected": true,
+            "kind": "javascript_reload_interstitial",
+            "signature": "one_moment_spinner_reload"
+          }
+        },
+        "retryResponse": {
+          "contentLength": 11888,
+          "sha256": "02cf62b76320811234d53fd365f21cb687e805dd0868e75f8d2c7c455727ebf9",
+          "missingMarkers": [
+            "SEPT 4th - 7th 2026",
+            "Union Park",
+            "4 Days Of House, Techno, and Beyond",
+            "ON SALE NOW"
+          ],
+          "accessChallenge": {
+            "detected": true,
+            "kind": "javascript_reload_interstitial",
+            "signature": "one_moment_spinner_reload"
+          }
+        },
+        "evidenceFiles": [
+          "arc_music_festival_official.initial-response.html",
+          "arc_music_festival_official.revalidation-response.html"
+        ]
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -1145,8 +1174,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 259951,
-          "sha256": "0b345122cb29a926897d31c7e684fa5d331cd851b01fc298919d043f2b0183cc",
+          "contentLength": 259957,
+          "sha256": "5c58962664f59fda0cf36d74bc1e60896e3294c599772ac74c09657efa978a1d",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1236,13 +1265,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "8a7e292f14a11f37e939eefd50cd29ea6ee3c58e2d7d32ecb6148334035be9bb",
+          "sha256": "6be7e7f157b15d6d17478bcde521cc0943debd23861fcaf1033fe1af7aa984b1",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "a3eeb29fb9de6c80424ebed71299400250b3e573a80fea928c717e1dcb08fd43",
+      "evidenceStyleSHA256": "7a9610b51c41d00f87dae5617688fe34ce47ae43d19843f136c19a418571ae16",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1263,13 +1292,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 114813,
-          "sha256": "7cd33834950c2ee534af9951a7557e618c313abcc06d8cd9415c4f4b3973e9ed",
+          "sha256": "464219d840b13f567d438c29ce8ed342544c60ab3cb9903669c5f4d975c26e00",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "9ff0d7ac3906bb3e5207bc7d1e1659380c99de50fef30285d3205de7ef5be52f",
+      "evidenceStyleSHA256": "3209905952ceff01b52fc9038b4973b192371ec21b6889824bbc933f5d1310a8",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1556,14 +1585,14 @@
     {
       "cityId": "chicago_us",
       "cityName": "Chicago",
-      "captured": 1,
+      "captured": 0,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 0,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1750,40 +1779,6 @@
     {
       "sourceId": "celebrities_vancouver",
       "sourceKind": "clubWebsite",
-      "eventId": "96AD134F-6FE2-5C27-A108-5EFDBFE6462C",
-      "title": "Coco & Breezy",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "July 31",
-      "timeText": null,
-      "sourceURLText": "https://www.celebritiesnightclub.com/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "FBC445D1-DAA6-5E64-9FD9-175DAFC8A08D",
-      "title": "Alex Chapman",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "August 1",
-      "timeText": null,
-      "sourceURLText": "https://www.celebritiesnightclub.com/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
       "eventId": "AA570A4D-D5CD-542F-B48A-7D69C7DE823A",
       "title": "Celebrities Pride pres.  HISTORY SUNDAY",
       "venue": "Celebrities Nightclub",
@@ -1807,23 +1802,6 @@
       "city": "Vancouver",
       "dateText": "August 15",
       "timeText": "4:00",
-      "sourceURLText": "https://www.celebritiesnightclub.com/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "celebrities_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "B0A25895-A533-541B-A6BF-309E7818FC9C",
-      "title": "CYRIL",
-      "venue": "Celebrities Nightclub",
-      "city": "Vancouver",
-      "dateText": "August 29",
-      "timeText": null,
       "sourceURLText": "https://www.celebritiesnightclub.com/events",
       "lineupNames": [],
       "extractedStyles": [],
@@ -1891,23 +1869,6 @@
       "venue": "Fortune Sound Club",
       "city": "Vancouver",
       "dateText": "august 2",
-      "timeText": null,
-      "sourceURLText": "https://www.fortunesoundclub.com/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "fortune_sound_club",
-      "sourceKind": "clubWebsite",
-      "eventId": "12739F9B-8BA6-56E6-BFEE-31D08CE121DC",
-      "title": "TAYLAH ELAINE",
-      "venue": "Fortune Sound Club",
-      "city": "Vancouver",
-      "dateText": "August 3",
       "timeText": null,
       "sourceURLText": "https://www.fortunesoundclub.com/events",
       "lineupNames": [],
@@ -2067,23 +2028,6 @@
     {
       "sourceId": "village_studios_vancouver",
       "sourceKind": "clubWebsite",
-      "eventId": "1572A17F-DB50-5B3C-B234-316A46BE4AF9",
-      "title": "ATRIP & DJ BORING",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "SEPTEMBER 11",
-      "timeText": null,
-      "sourceURLText": "https://www.villagestudios.life/events",
-      "lineupNames": [],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
       "eventId": "FDF5545D-6EAE-59F7-A736-AC83C8829D89",
       "title": "KEVIN SHIU (OPEN TO CLOSE)",
       "venue": "Village Studios",
@@ -2111,23 +2055,6 @@
       "lineupNames": [
         "Julian Fijma"
       ],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "village_studios_vancouver",
-      "sourceKind": "clubWebsite",
-      "eventId": "35D70F67-5AEF-5A6F-A9BE-C637466A08A9",
-      "title": "CAMOUFLY",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "OCTOBER 3",
-      "timeText": null,
-      "sourceURLText": "https://www.villagestudios.life/events",
-      "lineupNames": [],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
       "ticketPriceText": null,
@@ -2342,97 +2269,9 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [
-    {
-      "reviewKey": "yuyuan|2083113033137487873",
-      "reviewState": "ready_for_operator",
-      "activityID": "2083113033137487873",
-      "title": "Yaka JUNGLE + AFTERPARTY 深圳",
-      "venue": "OIL Club",
-      "city": "Shenzhen",
-      "dateText": "2026-08-08",
-      "endDateText": "2026-08-09",
-      "timeText": "20:00",
-      "lineupNames": [],
-      "styles": [],
-      "priceDisplayText": "¥98",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "needs_review",
-      "styleEvidenceStatus": "needs_review",
-      "ticketTierEvidenceStatus": "public_api_observed",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
-      "miniProgramSearchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2083113033137487873&isShare=true"
-      },
-      "requiredActions": [
-        "Capture readable lineup evidence",
-        "Capture explicit genre or event-theme evidence"
-      ]
-    },
-    {
-      "reviewKey": "yuyuan|2083121219332571137",
-      "reviewState": "ready_for_operator",
-      "activityID": "2083121219332571137",
-      "title": "The Mantis Project 八月档",
-      "venue": "OIL Club",
-      "city": "Shenzhen",
-      "dateText": "2026-08-13",
-      "endDateText": "2026-08-14",
-      "timeText": "20:00",
-      "lineupNames": [],
-      "styles": [],
-      "priceDisplayText": "¥40",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "needs_review",
-      "styleEvidenceStatus": "needs_review",
-      "ticketTierEvidenceStatus": "public_api_observed",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083121219332571137",
-      "miniProgramSearchText": "【Mainroom】The Mantis Project 八月档 @OIL Club 深圳",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2083121219332571137&isShare=true"
-      },
-      "requiredActions": [
-        "Capture readable lineup evidence",
-        "Capture explicit genre or event-theme evidence"
-      ]
-    },
-    {
-      "reviewKey": "yuyuan|2083151093141176321",
-      "reviewState": "ready_for_operator",
-      "activityID": "2083151093141176321",
-      "title": "Afropluz",
-      "venue": "OIL Club",
-      "city": "Shenzhen",
-      "dateText": "2026-08-15",
-      "endDateText": "2026-08-16",
-      "timeText": "20:00",
-      "lineupNames": [],
-      "styles": [],
-      "priceDisplayText": "¥58",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "needs_review",
-      "styleEvidenceStatus": "needs_review",
-      "ticketTierEvidenceStatus": "public_api_observed",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083151093141176321",
-      "miniProgramSearchText": "【ROOMTOO】Afropluz @ OIL Club 深圳",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2083151093141176321&isShare=true"
-      },
-      "requiredActions": [
-        "Capture readable lineup evidence",
-        "Capture explicit genre or event-theme evidence"
-      ]
-    }
-  ],
+  "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 240,
+    "captured": 239,
     "usable": 163
   },
   "consumerQuality": {
@@ -2456,9 +2295,9 @@
     "Salmo": "2026-07-31",
     "Orlando": "2026-07-31",
     "Montreal": "2026-07-31",
-    "Boom": "2026-07-31",
-    "Hilvarenbeek": "2026-07-31",
-    "Arnhem": "2026-07-31",
+    "Boom": "2026-08-01",
+    "Hilvarenbeek": "2026-08-01",
+    "Arnhem": "2026-08-01",
     "Cluj-Napoca": "2026-08-01",
     "Thornville": "2026-07-31",
     "Los Angeles": "2026-07-31",
@@ -2467,9 +2306,9 @@
     "Mumbai": "2026-08-01",
     "Jakarta": "2026-08-01",
     "Phuket": "2026-08-01",
-    "Alpe d'Huez": "2026-07-31",
+    "Alpe d'Huez": "2026-08-01",
     "Mexico City": "2026-07-31",
-    "Split": "2026-07-31",
+    "Split": "2026-08-01",
     "Tokyo": "2026-08-01"
   },
   "reviewedArtistSeed": {
@@ -2482,21 +2321,21 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-31T21:38:51Z",
+    "observedAt": "2026-07-31T22:27:43Z",
     "activityCount": 19,
     "scheduleCount": 21
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 3,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 4,
+    "materialFailureCount": 1,
+    "retainedEventCount": 1,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "787C8799-6138-4657-8190-2BE5FE3668D2",
-      "ingestRunAt": "2026-07-29T15:44:53Z"
+      "ingestRunId": "AD719EEF-0585-445C-81F6-7BC12E337171",
+      "ingestRunAt": "2026-07-31T21:39:13Z"
     }
   },
   "executionCoverage": {
@@ -2539,8 +2378,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
@@ -2552,6 +2391,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "85a75d58c68824bb81533f24cf9823e672758dac3e8e8e32fe6dbec788d3069d"
+    "feedSHA256": "6bdfd7f11ee9662fe254ab1ee3ab69f0f2f486ebbc26a90f0d19a7cfd72d0621"
   }
 }
