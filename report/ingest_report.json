@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-31T22:28:09Z",
-  "ingestRunId": "81704E96-2604-4251-8B9E-9FBA454F84D3",
-  "ingestRunAt": "2026-07-31T22:28:09Z",
+  "ranAt": "2026-07-31T22:48:00Z",
+  "ingestRunId": "DBDC5B76-F12F-4E96-9357-2778A4BA0721",
+  "ingestRunAt": "2026-07-31T22:48:00Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -220,7 +220,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-31T22:27:29Z",
+      "ticketOfferObservedAt": "2026-07-31T22:47:15Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -308,7 +308,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-01 06:28:33",
+        "observedAtText": "2026-08-01 06:48:23",
         "totalSearchRecords": 22,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -351,7 +351,8 @@
         ]
       },
       "livePublicTicketTierCount": 16,
-      "reviewedEventStyleCount": 3,
+      "reviewedEventLineupCount": 2,
+      "reviewedEventStyleCount": 5,
       "inventoryReviewCandidates": [
         {
           "reviewKey": "yuyuan|2080564702659391489",
@@ -452,13 +453,21 @@
           "endDateText": "2026-08-15",
           "timeText": "20:00",
           "lineupNames": [
-            "Florian Picasso & two dots"
+            "Florian Picasso",
+            "Two Dots",
+            "VEHEMENT",
+            "SPOTLITE",
+            "SITU",
+            "Fischmonger"
           ],
-          "styles": [],
+          "styles": [
+            "Techno",
+            "Trance"
+          ],
           "priceDisplayText": "¥110",
           "priceEvidenceStatus": "display_only",
           "lineupEvidenceStatus": "observed",
-          "styleEvidenceStatus": "needs_review",
+          "styleEvidenceStatus": "observed",
           "ticketTierEvidenceStatus": "public_api_observed",
           "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082369888679800834",
           "miniProgramSearchText": "【Mainroom】FourFouls pres. Florian Picasso & two dots @OIL Club 深圳",
@@ -467,9 +476,7 @@
             "path": "pages/play/activity-detail",
             "query": "activityId=2082369888679800834&isShare=true"
           },
-          "requiredActions": [
-            "Capture explicit genre or event-theme evidence"
-          ]
+          "requiredActions": []
         },
         {
           "reviewKey": "yuyuan|2083121219332571137",
@@ -719,6 +726,7 @@
           "endDateText": "2026-08-02",
           "timeText": "23:00",
           "lineupNames": [
+            "AVAO",
             "XXX",
             "H2HB",
             "DEPT"
@@ -889,7 +897,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "91de97cea4647fb2b8335aa3a2b5f8406b4bf0a098577691947f32421b216e5e"
+      "evidenceStyleSHA256": "68b8fbbe3cba0041f0afb7e229c21fc833b97b843f8520dfcf1e26bd536efd45"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -906,7 +914,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "15d411fbf61e9559f1d2b8266782401069040ff75a80e86980e3579e5b2fd813"
+      "evidenceStyleSHA256": "66a5a07c2b025dd717c72ed565f809496a4e72c9c974dfcf3d164724a5f5e98d"
     },
     {
       "sourceId": "creamfields_official",
@@ -1027,14 +1035,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 213218,
-          "sha256": "617badaf59fc6fc4c107088f9c403d54118fe5d543cdd169fc91ad4113991dda",
+          "contentLength": 213082,
+          "sha256": "2c2431173f036580e399fea367adab7e2737e086321ad856b8cbc920056fcded",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "4d5976450d74bd33737cc623b225a527d10fdb750c2104433763abc4f4fb2999",
+      "evidenceStyleSHA256": "cd590e967c2f969a46f9ef80ed82eba0e10030363d97a45d04a08184cc8b1885",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1107,53 +1115,24 @@
       "sourceId": "arc_music_festival_official",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "error: access_challenge",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0,
+      "status": "ok",
+      "captured": 1,
+      "usable": 1,
+      "consumerReady": 1,
       "fallback": {
-        "status": "retained",
-        "eligibleEventCount": 1,
-        "retainedEventCount": 1,
-        "fallbackAgeHours": 0
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
       },
       "reviewedFactVerification": {
-        "attemptCount": 2,
-        "status": "access_challenge",
+        "attemptCount": 1,
+        "status": "not_needed",
         "initialResponse": {
-          "contentLength": 11898,
-          "sha256": "ace11434713641528d18463ea5a41eba001befeb6737ad85d7536a6c8f46bcd7",
-          "missingMarkers": [
-            "SEPT 4th - 7th 2026",
-            "Union Park",
-            "4 Days Of House, Techno, and Beyond",
-            "ON SALE NOW"
-          ],
-          "accessChallenge": {
-            "detected": true,
-            "kind": "javascript_reload_interstitial",
-            "signature": "one_moment_spinner_reload"
-          }
-        },
-        "retryResponse": {
-          "contentLength": 11888,
-          "sha256": "02cf62b76320811234d53fd365f21cb687e805dd0868e75f8d2c7c455727ebf9",
-          "missingMarkers": [
-            "SEPT 4th - 7th 2026",
-            "Union Park",
-            "4 Days Of House, Techno, and Beyond",
-            "ON SALE NOW"
-          ],
-          "accessChallenge": {
-            "detected": true,
-            "kind": "javascript_reload_interstitial",
-            "signature": "one_moment_spinner_reload"
-          }
-        },
-        "evidenceFiles": [
-          "arc_music_festival_official.initial-response.html",
-          "arc_music_festival_official.revalidation-response.html"
-        ]
+          "contentLength": 88805,
+          "sha256": "0989081e40557684ddc54c6050ee8774d5e898a946362d2341db0287817016f7",
+          "missingMarkers": [],
+          "accessChallenge": null
+        }
       },
       "strategy": "reviewed_festival_facts"
     },
@@ -1174,8 +1153,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 259957,
-          "sha256": "5c58962664f59fda0cf36d74bc1e60896e3294c599772ac74c09657efa978a1d",
+          "contentLength": 259955,
+          "sha256": "7d9804a7f3ba2358eb83fdd8fe8f6dcc1f9063573e7ec31bb6061e32de6f6105",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1265,13 +1244,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "6be7e7f157b15d6d17478bcde521cc0943debd23861fcaf1033fe1af7aa984b1",
+          "sha256": "0d557e42ccda0a515fa39fd010f0cdd07cf640dc67cea80cc34f15531def40e0",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "7a9610b51c41d00f87dae5617688fe34ce47ae43d19843f136c19a418571ae16",
+      "evidenceStyleSHA256": "98805d127a3ca7cd2fee89fea1c443950effc319a433224fe4b1d1ba87401837",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1291,14 +1270,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 114813,
-          "sha256": "464219d840b13f567d438c29ce8ed342544c60ab3cb9903669c5f4d975c26e00",
+          "contentLength": 115439,
+          "sha256": "d99a4175462a6afdf5d0b0bc7f8a0590c5162bf5f7e3d4f5face17210ab26079",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "3209905952ceff01b52fc9038b4973b192371ec21b6889824bbc933f5d1310a8",
+      "evidenceStyleSHA256": "342132e1c99246024dee7e2d28f6d8adc2eaf892a71f1f86d2ef72df8bca4215",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1585,14 +1564,14 @@
     {
       "cityId": "chicago_us",
       "cityName": "Chicago",
-      "captured": 0,
+      "captured": 1,
       "usable": 1,
       "consumerReady": 1,
       "consumerRejected": 0,
       "consumerReadyRate": 1.0,
       "rejectionReasons": {},
       "enabledSourceCount": 1,
-      "errorSourceCount": 1,
+      "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -2271,7 +2250,7 @@
   ],
   "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 239,
+    "captured": 240,
     "usable": 163
   },
   "consumerQuality": {
@@ -2313,7 +2292,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 124
+    "reviewedArtists": 125
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -2321,17 +2300,17 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-31T22:27:43Z",
+    "observedAt": "2026-07-31T22:47:30Z",
     "activityCount": 19,
     "scheduleCount": 21
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "degraded",
+    "status": "healthy",
     "ttlHours": 120,
-    "failedSourceCount": 4,
-    "materialFailureCount": 1,
-    "retainedEventCount": 1,
+    "failedSourceCount": 3,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
       "ingestRunId": "AD719EEF-0585-445C-81F6-7BC12E337171",
@@ -2378,8 +2357,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish with retained source disclosure.",
-    "sourceResilienceStatus": "degraded"
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
@@ -2391,6 +2370,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "6bdfd7f11ee9662fe254ab1ee3ab69f0f2f486ebbc26a90f0d19a7cfd72d0621"
+    "feedSHA256": "ce363f97fc3d1b2099eea1fb9204865869aeb0936696e1e2773a7937dd7e2de0"
   }
 }
