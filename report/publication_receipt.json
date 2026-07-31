@@ -36,7 +36,7 @@
   "eventCount": 125,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "ce363f97fc3d1b2099eea1fb9204865869aeb0936696e1e2773a7937dd7e2de0",
+  "feedSHA256": "de632f3e8cf0b1f5e6bfe996a52824578ac31b2fb8dd54a62aad21b8bc28b8a1",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -46,14 +46,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-07-31T22:48:00Z",
-  "ingestRunId": "DBDC5B76-F12F-4E96-9357-2778A4BA0721",
+  "ingestRunAt": "2026-07-31T23:05:47Z",
+  "ingestRunId": "A7C05013-5C21-4A8F-9736-402B4A9A6755",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-07-31T22:50:32Z",
+  "publishedAt": "2026-07-31T23:08:18Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "164f8df2314e13777bb40a669b3b621ca9bdde518d8d1b26412bc96fdaaf31af",
+  "reportSHA256": "5d6010dc08886318eccb9d986d89b0e65d3c70a1771b8f45ff4beb02a0a59e78",
   "schemaVersion": 1,
-  "sourceCommitSHA": "1a4c956001d6d3398f3f2fc4c4dd17ed034f61a0",
+  "sourceCommitSHA": "7b1360d0359942a903307950fefb0dfdbf6cbc2c",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -63,10 +63,10 @@
   "ticketCoverageLimited": false,
   "ticketCoverageLimitedCities": [],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "6bdc07b061ec62557780fb8b95199ef28eadad30543133f5c8f70191fd00662e",
+  "ticketPriceProjectionSHA256": "d0fa10a26ff5e0e678c4c7c16f5f12697ae693a27318a8a05bc110c4b7abb39f",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "abe83fda3f26114db93586f21d3f149be0e5da3b89247988b6280a68aa6eb1b6",
+  "ticketPriceReceiptSHA256": "562ca3da12ffd7137a10407bc31067504b572ae3d5ef579955af4b37caeb31d8",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "830591cdc3c92ca657ee0869b57faa436cc046a2ad96d495f9a8af4f2274c0b2"
+  "ticketReceiptSHA256": "760923cb86b49673f488e47008f9ec7893069208178874343a40a5b5f8dc7068"
 }

@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-31T22:48:00Z",
-  "ingestRunId": "DBDC5B76-F12F-4E96-9357-2778A4BA0721",
-  "ingestRunAt": "2026-07-31T22:48:00Z",
+  "ranAt": "2026-07-31T23:05:47Z",
+  "ingestRunId": "A7C05013-5C21-4A8F-9736-402B4A9A6755",
+  "ingestRunAt": "2026-07-31T23:05:47Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -220,7 +220,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-07-31T22:47:15Z",
+      "ticketOfferObservedAt": "2026-07-31T23:05:02Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -308,7 +308,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-01 06:48:23",
+        "observedAtText": "2026-08-01 07:06:11",
         "totalSearchRecords": 22,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -351,8 +351,8 @@
         ]
       },
       "livePublicTicketTierCount": 16,
-      "reviewedEventLineupCount": 2,
-      "reviewedEventStyleCount": 5,
+      "reviewedEventLineupCount": 3,
+      "reviewedEventStyleCount": 6,
       "inventoryReviewCandidates": [
         {
           "reviewKey": "yuyuan|2080564702659391489",
@@ -666,7 +666,14 @@
           "endDateText": "2026-08-07",
           "timeText": "22:00",
           "lineupNames": [
-            "#peaktime Pt.1"
+            "坦克王TANKEWANG",
+            "rubenmccarter",
+            "sadcxnt",
+            "同披颜 a.k.a. 皮炎挖掘机",
+            "doX28m",
+            "Virtual42",
+            "DJKimiko",
+            "dj zero talents"
           ],
           "styles": [
             "Cloud Rap",
@@ -897,7 +904,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "68b8fbbe3cba0041f0afb7e229c21fc833b97b843f8520dfcf1e26bd536efd45"
+      "evidenceStyleSHA256": "edf539e0e511abf7522c143f5ac20684499d20fda7476cd5e2ec1c71b2b475be"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -914,7 +921,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "66a5a07c2b025dd717c72ed565f809496a4e72c9c974dfcf3d164724a5f5e98d"
+      "evidenceStyleSHA256": "9786aec41bc469005e7df906f113bba337c20cb6dd4a285066918dde9a569cc0"
     },
     {
       "sourceId": "creamfields_official",
@@ -1244,13 +1251,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "0d557e42ccda0a515fa39fd010f0cdd07cf640dc67cea80cc34f15531def40e0",
+          "sha256": "0085ab62ae8b9a878668b7aa8e155bd13ffd222266e499c7f7c70e892491f580",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "98805d127a3ca7cd2fee89fea1c443950effc319a433224fe4b1d1ba87401837",
+      "evidenceStyleSHA256": "f4e2a11006803ecdd19efdb8400824f812ac900eb9950f355ccb4d35cf236a2a",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1271,13 +1278,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 115439,
-          "sha256": "d99a4175462a6afdf5d0b0bc7f8a0590c5162bf5f7e3d4f5face17210ab26079",
+          "sha256": "c7b58230fc4a894325d3cd1093459399a12879a0612fc5ad18e57a7fb6997f3c",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "342132e1c99246024dee7e2d28f6d8adc2eaf892a71f1f86d2ef72df8bca4215",
+      "evidenceStyleSHA256": "708248ca22ad9cbd3283912bf26144afb2492692a81a5ce3751e0105f7f0d418",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2098,15 +2105,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
-      "title": "Westend",
+      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
+      "title": "Olly Watt",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
+      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
       "lineupNames": [
-        "Westend"
+        "Olly Watt"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2117,15 +2124,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
-      "title": "Olly Watt",
+      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
+      "title": "Westend",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
+      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
       "lineupNames": [
-        "Olly Watt"
+        "Westend"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2267,10 +2274,10 @@
     "Vancouver": "2026-07-31",
     "Shenzhen": "2026-08-01",
     "Toronto": "2026-07-31",
-    "London": "2026-07-31",
+    "London": "2026-08-01",
     "Miami": "2026-07-31",
     "Las Vegas": "2026-07-31",
-    "Daresbury": "2026-07-31",
+    "Daresbury": "2026-08-01",
     "Salmo": "2026-07-31",
     "Orlando": "2026-07-31",
     "Montreal": "2026-07-31",
@@ -2300,7 +2307,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-07-31T22:47:30Z",
+    "observedAt": "2026-07-31T23:05:17Z",
     "activityCount": 19,
     "scheduleCount": 21
   },
@@ -2313,8 +2320,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "AD719EEF-0585-445C-81F6-7BC12E337171",
-      "ingestRunAt": "2026-07-31T21:39:13Z"
+      "ingestRunId": "DBDC5B76-F12F-4E96-9357-2778A4BA0721",
+      "ingestRunAt": "2026-07-31T22:48:00Z"
     }
   },
   "executionCoverage": {
@@ -2370,6 +2377,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "ce363f97fc3d1b2099eea1fb9204865869aeb0936696e1e2773a7937dd7e2de0"
+    "feedSHA256": "de632f3e8cf0b1f5e6bfe996a52824578ac31b2fb8dd54a62aad21b8bc28b8a1"
   }
 }
