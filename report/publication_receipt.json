@@ -22,7 +22,7 @@
     "Orlando": 1,
     "Phuket": 1,
     "Salmo": 0,
-    "Shenzhen": 25,
+    "Shenzhen": 24,
     "Split": 1,
     "Thornville": 1,
     "Tokyo": 1,
@@ -33,10 +33,10 @@
   "directTicketCoverageLimitedCities": [
     "Shenzhen"
   ],
-  "eventCount": 125,
+  "eventCount": 124,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "3b4e301df4e1f131300e7837a6c470dbff64588845448794ccc3dc7e194c346b",
+  "feedSHA256": "7000d5f76c52caf6b1a045569a218465592db6538e0eef26d691ac653a50a34a",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -49,11 +49,11 @@
   "ingestRunAt": "2026-08-01T03:26:29Z",
   "ingestRunId": "3E7742A2-EC31-48A8-BC64-3A5C7330CE39",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-08-01T03:32:17Z",
+  "publishedAt": "2026-08-01T12:53:26+08:00",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "2785bf1086e98ad7ee91843140933ef5f38e969864a6e9e00f68449202743dda",
+  "reportSHA256": "e21ae8adc725b4459a280c14b0cc46252f98643acde0ff8dcfee3835e532b204",
   "schemaVersion": 1,
-  "sourceCommitSHA": "50066da6c2b7e1a5c6a3621db8e765b3cf9fbdc6",
+  "sourceCommitSHA": "53e671c9026afd8b656589ca0c5044f0cb16c897",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -63,10 +63,10 @@
   "ticketCoverageLimited": false,
   "ticketCoverageLimitedCities": [],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "a49fb8d7dab265341f738351f9baacccd793ca807a37ae558e818564741f8f2d",
+  "ticketPriceProjectionSHA256": "17640b80d69076593691eb72b149383a3874b2d25d1db1f51590327b04b70056",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "a29bf85721d0a32fd007cf3b05dc290bc09475b516847dc1c51de4d9933725c7",
+  "ticketPriceReceiptSHA256": "7a5a8eb49c305bb892720ae46e2b912680e52dbc708c1febee163d3e08370cf9",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "9d791562627d5038058f2bc7b519e40aa39e0d0045fee04291a790708dda5b70"
+  "ticketReceiptSHA256": "4231acd1638aa64010034d4d8428122dc4e9de23bad4f26ad1250679a29157cc"
 }

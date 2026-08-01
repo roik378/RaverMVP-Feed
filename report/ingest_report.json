@@ -297,7 +297,7 @@
       "status": "ok",
       "captured": 16,
       "usable": 16,
-      "consumerReady": 16,
+      "consumerReady": 15,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -1406,10 +1406,12 @@
       "cityName": "Shenzhen",
       "captured": 28,
       "usable": 25,
-      "consumerReady": 25,
-      "consumerRejected": 0,
-      "consumerReadyRate": 1.0,
-      "rejectionReasons": {},
+      "consumerReady": 24,
+      "consumerRejected": 1,
+      "consumerReadyRate": 0.96,
+      "rejectionReasons": {
+        "reviewed_outside_product_taxonomy": 1
+      },
       "enabledSourceCount": 9,
       "errorSourceCount": 0,
       "missingOCRSourceCount": 0,
@@ -2406,13 +2408,14 @@
     "usable": 164
   },
   "consumerQuality": {
-    "ready": 125,
-    "rejected": 39,
+    "ready": 124,
+    "rejected": 40,
     "rejectionReasons": {
       "missing_raver_evidence": 17,
       "placeholder_title": 5,
       "past_event": 16,
-      "reviewed_event_fact_correction_drift": 1
+      "reviewed_event_fact_correction_drift": 1,
+      "reviewed_outside_product_taxonomy": 1
     }
   },
   "referenceDates": {
@@ -2522,6 +2525,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "3b4e301df4e1f131300e7837a6c470dbff64588845448794ccc3dc7e194c346b"
+    "feedSHA256": "7000d5f76c52caf6b1a045569a218465592db6538e0eef26d691ac653a50a34a"
   }
 }

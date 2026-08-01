@@ -2557,7 +2557,7 @@
             "displayText": "From C$18 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://community.admitone.com/events/6a10a3ef7d7caab08a490c0e",
             "collectorKind": "admitoneGraphQL"
           }
@@ -2654,7 +2654,7 @@
             "displayText": "From C$30 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://www.showpass.com/onhellsubculture/",
             "collectorKind": "showpassNextData"
           }
@@ -2744,8 +2744,8 @@
             "currency": "CAD",
             "feeBasis": "feesExcluded",
             "displayText": "From C$35 + fees",
-            "availability": "available",
-            "verificationState": "fresh",
+            "availability": "unknown",
+            "verificationState": "staleFallback",
             "capturedAt": "2026-08-01T03:27:56Z",
             "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
             "collectorKind": "showpassNextData"
@@ -2801,8 +2801,8 @@
             "currency": "CAD",
             "feeBasis": "feesExcluded",
             "displayText": "From C$35 + fees",
-            "availability": "available",
-            "verificationState": "fresh",
+            "availability": "unknown",
+            "verificationState": "staleFallback",
             "capturedAt": "2026-08-01T03:27:56Z",
             "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
             "collectorKind": "showpassNextData"
@@ -2855,7 +2855,7 @@
             "displayText": "From C$30 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://www.showpass.com/feedmeredroom/",
             "collectorKind": "showpassNextData"
           }
@@ -2905,7 +2905,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://www.showpass.com/kmotionzvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -2955,7 +2955,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://www.showpass.com/canablissvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -3006,7 +3006,7 @@
             "displayText": "From C$25 + fees",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://www.showpass.com/whalesvancouver/",
             "collectorKind": "showpassNextData"
           }
@@ -4877,118 +4877,6 @@
             "verificationState": "fresh",
             "capturedAt": "2026-08-01T03:26:01Z",
             "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2082105476391809025",
-            "collectorKind": "publicReadOnlyTierAPI"
-          }
-        },
-        {
-          "id": "CD6E78B6-BF77-521C-9780-2C7B9ED85A79",
-          "sourceId": "yuyuan_shenzhen_public_inventory",
-          "sourceKind": "ticketingPage",
-          "title": "Yaka JUNGLE + AFTERPARTY 深圳",
-          "subtitle": "芋圆可售活动",
-          "venue": "OIL Club",
-          "city": "Shenzhen",
-          "dateText": "2026-08-08",
-          "timeText": "20:00",
-          "distanceText": null,
-          "coordinate": {
-            "latitude": 22.530283,
-            "longitude": 114.022385
-          },
-          "styles": [],
-          "confidence": 0.94,
-          "lastRefreshedText": "Sat 03:26",
-          "isMajorFestival": false,
-          "friendsGoing": null,
-          "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
-          "ticketURLText": null,
-          "lineup": [
-            {
-              "name": "Yaka",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
-            },
-            {
-              "name": "DJ YHNGPRNCSS",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
-            },
-            {
-              "name": "Silk",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
-            },
-            {
-              "name": "Kongbb",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
-            },
-            {
-              "name": "LARUAE",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
-            }
-          ],
-          "endDateText": "2026-08-09",
-          "ticketPriceText": "¥98",
-          "ticketDiscoveryOffer": {
-            "label": "最低可买 GA",
-            "displayText": "¥98",
-            "sourceName": "芋圆YuYuan",
-            "capturedAtText": "2026-08-01T03:26:01Z",
-            "assistedHandoff": {
-              "kind": "weChatSearch",
-              "searchText": "【ROOMTOO】Yaka JUNGLE + AFTERPARTY 深圳 @OIL Club",
-              "miniProgramActivity": {
-                "appID": "wx4c8604c032bd3ef0",
-                "path": "pages/play/activity-detail",
-                "query": "activityId=2083113033137487873&isShare=true"
-              }
-            },
-            "priceQualifier": "lowestBuyableGeneralAdmission",
-            "comparisonPolicy": "sameTierOnly",
-            "tiers": [
-              {
-                "admissionType": "generalAdmission",
-                "amountMinor": 9800,
-                "availability": "available",
-                "currency": "CNY",
-                "name": "普通票"
-              }
-            ]
-          },
-          "sourceFreshness": {
-            "state": "live",
-            "observedAt": "2026-08-01T03:26:29Z"
-          },
-          "ticketPriceSnapshot": {
-            "provider": "yuyuan",
-            "providerEventID": "2083113033137487873",
-            "tierKey": "schedule-2083113139182075906|ticket-2083113382959218689",
-            "tierName": "普通票",
-            "amountMinor": 9800,
-            "currency": "CNY",
-            "feeBasis": "unknown",
-            "displayText": "From ¥98",
-            "availability": "available",
-            "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:26:01Z",
-            "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
             "collectorKind": "publicReadOnlyTierAPI"
           }
         },
@@ -12249,7 +12137,7 @@
             "displayText": "From US$303.99",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://edcorlando.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -20107,7 +19995,7 @@
             "displayText": "From US$312.30",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://hardsummer.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -20717,7 +20605,7 @@
             "displayText": "From US$189.99",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://dreamstate.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -20798,7 +20686,7 @@
             "displayText": "From US$599",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://arcmusicfestival.frontgatetickets.com/",
             "collectorKind": "frontGateHTML"
           }
@@ -20937,7 +20825,7 @@
             "displayText": "From IDR 1,700,000",
             "availability": "available",
             "verificationState": "fresh",
-            "capturedAt": "2026-08-01T03:27:56Z",
+            "capturedAt": "2026-08-01T04:50:00Z",
             "sourceURLText": "https://dwpfest.com/",
             "collectorKind": "dwpOfficialHTML"
           }

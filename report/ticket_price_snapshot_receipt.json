@@ -93,9 +93,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "7C3D3D77-A911-5599-8A6F-37666C8ADEE0",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/192055",
       "ticketURLText": "https://tixr.com/e/192055"
@@ -103,9 +103,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "024E65D9-0347-5764-AD02-2E1E7ED9A661",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/198329",
       "ticketURLText": "https://tixr.com/e/198329"
@@ -113,9 +113,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "D3EC4053-5961-587D-AF85-72BABE5CD042",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/185416",
       "ticketURLText": "https://tixr.com/e/185416"
@@ -123,9 +123,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "3953E14A-AB1F-5C54-BFF0-F04CE774018F",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/177104",
       "ticketURLText": "https://tixr.com/e/177104"
@@ -133,9 +133,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "88DFB8BA-9522-5722-A0A8-17A054845297",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/186501",
       "ticketURLText": "https://tixr.com/e/186501"
@@ -143,9 +143,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "E5AC42D0-FFEF-5F5E-817F-70534AF6B7FE",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/196122",
       "ticketURLText": "https://tixr.com/e/196122"
@@ -153,9 +153,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "B031F71C-7E5B-5DEE-98DC-2312DE1A2A11",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/198322",
       "ticketURLText": "https://tixr.com/e/198322"
@@ -163,9 +163,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "2FE7BAE9-AD3E-5772-9FAE-D533F7BD254D",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/195425",
       "ticketURLText": "https://tixr.com/e/195425"
@@ -173,9 +173,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "F005F7FC-2A02-5DC8-8351-8C01C8C63BE2",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/188737",
       "ticketURLText": "https://tixr.com/e/188737"
@@ -183,9 +183,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "AD84E5D5-41DF-5B44-8C4A-D2B6F9454735",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/199503",
       "ticketURLText": "https://tixr.com/e/199503"
@@ -193,9 +193,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "0BEC868B-3A6A-5EC3-A8BF-DFA703A1E41C",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/198827",
       "ticketURLText": "https://tixr.com/e/198827"
@@ -203,9 +203,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "5A3CC2A2-D124-5DFA-B95E-98125D3F788F",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/191670",
       "ticketURLText": "https://tixr.com/e/191670"
@@ -213,9 +213,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "FCA38009-A5A1-51DD-836E-A6418FC6A462",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/197295",
       "ticketURLText": "https://tixr.com/e/197295"
@@ -223,9 +223,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "C8BEC29C-CD32-5507-B8F5-5554764BA25E",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/196120",
       "ticketURLText": "https://tixr.com/e/196120"
@@ -233,9 +233,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "678ED6BD-276E-5955-B2FA-A3F31929137B",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/195028",
       "ticketURLText": "https://tixr.com/e/195028"
@@ -243,9 +243,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "9E51ABCE-4F71-5F30-8EBD-304E1AE2F31E",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/192435",
       "ticketURLText": "https://tixr.com/e/192435"
@@ -253,9 +253,9 @@
     {
       "action": "provider_failed",
       "city": "Vancouver",
-      "collectorStatus": "provider_blocked",
+      "collectorStatus": "collector_unavailable",
       "eventID": "8E6D6419-DB82-5A5D-B022-E6541F284AD2",
-      "reason": "access challenge",
+      "reason": "BrowserDependencyUnavailable: Selenium unavailable: No module named 'selenium'",
       "stale": false,
       "ticketPriceEvidenceURLText": "https://tixr.com/e/191340",
       "ticketURLText": "https://tixr.com/e/191340"
@@ -469,7 +469,7 @@
       "snapshot": {
         "amountMinor": 1800,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "admitoneGraphQL",
         "currency": "CAD",
         "displayText": "From C$18 + fees",
@@ -504,7 +504,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -531,14 +531,14 @@
       "ticketURLText": "https://www.showpass.com/showcasenights2026/"
     },
     {
-      "action": "applied",
+      "action": "stale_reused",
       "city": "Vancouver",
-      "collectorStatus": "applied",
+      "collectorStatus": "provider_failed",
       "eventID": "D636BF7B-08DC-554B-AEA7-7F322256CC50",
-      "reason": null,
+      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
       "snapshot": {
         "amountMinor": 3500,
-        "availability": "available",
+        "availability": "unknown",
         "capturedAt": "2026-08-01T03:27:56Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
@@ -549,21 +549,21 @@
         "sourceURLText": "https://www.showpass.com/venjentvancouver2026/",
         "tierKey": "primary-ga|showpass-ticket-4399786",
         "tierName": "GA - Tier 2",
-        "verificationState": "fresh"
+        "verificationState": "staleFallback"
       },
-      "stale": false,
+      "stale": true,
       "ticketPriceEvidenceURLText": "https://www.showpass.com/venjentvancouver2026/",
       "ticketURLText": "https://www.showpass.com/venjentvancouver2026/"
     },
     {
-      "action": "applied",
+      "action": "stale_reused",
       "city": "Vancouver",
-      "collectorStatus": "applied",
+      "collectorStatus": "provider_failed",
       "eventID": "89D094F8-B338-5DAA-B9EB-C3E1B6D82181",
-      "reason": null,
+      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>",
       "snapshot": {
         "amountMinor": 3500,
-        "availability": "available",
+        "availability": "unknown",
         "capturedAt": "2026-08-01T03:27:56Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
@@ -574,9 +574,9 @@
         "sourceURLText": "https://www.showpass.com/ivylabvancouver/",
         "tierKey": "primary-ga|showpass-ticket-4449767",
         "tierName": "GA - Tier 1",
-        "verificationState": "fresh"
+        "verificationState": "staleFallback"
       },
-      "stale": false,
+      "stale": true,
       "ticketPriceEvidenceURLText": "https://www.showpass.com/ivylabvancouver/",
       "ticketURLText": "https://www.showpass.com/ivylabvancouver/"
     },
@@ -589,7 +589,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -614,7 +614,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -639,7 +639,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -664,7 +664,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -1084,31 +1084,6 @@
       "action": "applied",
       "city": "Shenzhen",
       "collectorStatus": "applied",
-      "eventID": "CD6E78B6-BF77-521C-9780-2C7B9ED85A79",
-      "reason": null,
-      "snapshot": {
-        "amountMinor": 9800,
-        "availability": "available",
-        "capturedAt": "2026-08-01T03:26:01Z",
-        "collectorKind": "publicReadOnlyTierAPI",
-        "currency": "CNY",
-        "displayText": "From ¥98",
-        "feeBasis": "unknown",
-        "provider": "yuyuan",
-        "providerEventID": "2083113033137487873",
-        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
-        "tierKey": "schedule-2083113139182075906|ticket-2083113382959218689",
-        "tierName": "普通票",
-        "verificationState": "fresh"
-      },
-      "stale": false,
-      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083113033137487873",
-      "ticketURLText": null
-    },
-    {
-      "action": "applied",
-      "city": "Shenzhen",
-      "collectorStatus": "applied",
       "eventID": "768F296C-9BF9-5BAF-BE25-6960BA20007B",
       "reason": null,
       "snapshot": {
@@ -1454,7 +1429,7 @@
       "snapshot": {
         "amountMinor": 30399,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$303.99",
@@ -1529,7 +1504,7 @@
       "snapshot": {
         "amountMinor": 31230,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$312.30",
@@ -1554,7 +1529,7 @@
       "snapshot": {
         "amountMinor": 18999,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$189.99",
@@ -1579,7 +1554,7 @@
       "snapshot": {
         "amountMinor": 59900,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$599",
@@ -1614,7 +1589,7 @@
       "snapshot": {
         "amountMinor": 1700000,
         "availability": "available",
-        "capturedAt": "2026-08-01T03:27:56Z",
+        "capturedAt": "2026-08-01T04:50:00Z",
         "collectorKind": "dwpOfficialHTML",
         "currency": "IDR",
         "displayText": "From IDR 1,700,000",
@@ -1681,18 +1656,18 @@
       "ticketURLText": "https://ultrajapan.com/tickets-2026"
     }
   ],
-  "feedSHA256After": "b906fa69d4517eb4b70f29ead245a9e20dd7fea5a7d5eb18fee0162b7989639d",
-  "feedSHA256Before": "1f5aaa9ad079d04712be6dfc160ae7fcfcf97a2b0b43987302259a525e5c50a7",
-  "historySHA256After": "7dd7ab335e4eaff2de94803c46f4fbb357de7e0cbe86897f4fb8ba18558b0d43",
-  "priceProjectionSHA256": "a49fb8d7dab265341f738351f9baacccd793ca807a37ae558e818564741f8f2d",
+  "feedSHA256After": "7000d5f76c52caf6b1a045569a218465592db6538e0eef26d691ac653a50a34a",
+  "feedSHA256Before": "4fce1099cf59797c7c99351f06516bd3f4ff6e8d4ca6029c136683ef26c8f398",
+  "historySHA256After": "12f02c5c2fedaeee6e4327bd451d56bb4d4982a23de5ea57cd403cd19668f3ab",
+  "priceProjectionSHA256": "17640b80d69076593691eb72b149383a3874b2d25d1db1f51590327b04b70056",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
-    "appliedCount": 34,
-    "candidateCount": 117,
-    "freshCount": 34,
+    "appliedCount": 33,
+    "candidateCount": 116,
+    "freshCount": 31,
     "noSnapshotCount": 66,
-    "providerFailureCount": 17,
-    "staleCount": 0
+    "providerFailureCount": 19,
+    "staleCount": 2
   }
 }
