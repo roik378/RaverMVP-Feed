@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-01T03:07:26Z",
-  "ingestRunId": "3B98FBAE-A652-4605-818C-92C39A5A050A",
-  "ingestRunAt": "2026-08-01T03:07:26Z",
+  "ranAt": "2026-08-01T03:26:29Z",
+  "ingestRunId": "3E7742A2-EC31-48A8-BC64-3A5C7330CE39",
+  "ingestRunAt": "2026-08-01T03:26:29Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -220,7 +220,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-08-01T03:06:38Z",
+      "ticketOfferObservedAt": "2026-08-01T03:25:43Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -308,7 +308,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-01 11:07:49",
+        "observedAtText": "2026-08-01 11:26:51",
         "totalSearchRecords": 22,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -979,7 +979,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "b93969231c7dd5b650e7a60003d8f58d68a70a0e47d3c48d05851c97a9b40610"
+      "evidenceStyleSHA256": "4c563a367442f9dd3afa8cd72751f5821aff0f411e0d2c66005d6367562634a5"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -996,7 +996,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "80d8aa59b8fa0312419cba53fbcf497d27bdd931ede5463c0b80732913978743"
+      "evidenceStyleSHA256": "d776703d381542df17721925fe5396a5ffe81caeadf641e10e064a44dd49d84b"
     },
     {
       "sourceId": "creamfields_official",
@@ -1326,13 +1326,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "531e85ef0d23fc6be993a4b70812245906ce957ecf0b307f308060b9111c0017",
+          "sha256": "ba86b35afff7b64b2b77a2e5179555b707508191d7c878ab861037a31c3e8b06",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "0d72187ff7608878465123dc85e2c42557bd1367c3a20779ff1b023ee2f2ad30",
+      "evidenceStyleSHA256": "5d743d5b8111149f9c3dc9766537a9d3006bcfe47f26a23f112df88d7e84104e",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1353,13 +1353,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 114813,
-          "sha256": "f231b1f260d587e7c72bac2ea3f832177fc80ec7c05e74a230bb45e140f6e80f",
+          "sha256": "94a0789181b3dda3201f333bc8a65cbafaa83610fb3bc603cb6f696007fd51f0",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "08462249f67d79df4e06e67e575607244a3836d85e65fcafe231dc7041f67ccf",
+      "evidenceStyleSHA256": "345d2cd5dce737e5e89a1466df609ef61c38f601a4e93d6c506dc0f90fc732e7",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1385,14 +1385,14 @@
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
       "captured": 169,
-      "usable": 95,
+      "usable": 96,
       "consumerReady": 58,
-      "consumerRejected": 37,
-      "consumerReadyRate": 0.611,
+      "consumerRejected": 38,
+      "consumerReadyRate": 0.604,
       "rejectionReasons": {
-        "past_event": 17,
-        "missing_raver_evidence": 14,
+        "missing_raver_evidence": 17,
         "placeholder_title": 5,
+        "past_event": 15,
         "reviewed_event_fact_correction_drift": 1
       },
       "enabledSourceCount": 9,
@@ -1872,6 +1872,76 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     },
     {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "93015D07-8321-537E-864A-C7FB187BA806",
+      "title": "TWIN DIPLOMACY",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Sep 19",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/twindiplomacy",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "2ABAA2D7-335D-5B05-BE42-5507BD3145B7",
+      "title": "HOT CHIP",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Sep 25",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/hotchip",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "6F9CB24C-A305-5577-B107-167E4284115A",
+      "title": "HOT CHIP DJ SET",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "September 25",
+      "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "5DE6FF3D-0B49-5412-B738-23E614CBF7FB",
+      "title": "NOTD",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Sep 26",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/notdvan",
+      "lineupNames": [
+        "NOTD"
+      ],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
       "sourceId": "fortune_sound_club",
       "sourceKind": "clubWebsite",
       "eventId": "F2CA9FA9-3E38-556F-895D-BEE6BC2E931C",
@@ -2180,15 +2250,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
-      "title": "Olly Watt",
+      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
+      "title": "Westend",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
+      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
       "lineupNames": [
-        "Olly Watt"
+        "Westend"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2199,15 +2269,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
-      "title": "Westend",
+      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
+      "title": "Olly Watt",
       "venue": "Village Studios",
       "city": "Vancouver",
       "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/3RjzEwcAgzW5GMZdZuUkpM",
+      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
       "lineupNames": [
-        "Westend"
+        "Olly Watt"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2333,15 +2403,15 @@
   "operatorInventoryReviewCandidates": [],
   "totals": {
     "captured": 240,
-    "usable": 163
+    "usable": 164
   },
   "consumerQuality": {
     "ready": 125,
-    "rejected": 38,
+    "rejected": 39,
     "rejectionReasons": {
-      "past_event": 18,
-      "missing_raver_evidence": 14,
+      "missing_raver_evidence": 17,
       "placeholder_title": 5,
+      "past_event": 16,
       "reviewed_event_fact_correction_drift": 1
     }
   },
@@ -2382,7 +2452,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-08-01T03:06:56Z",
+    "observedAt": "2026-08-01T03:26:01Z",
     "activityCount": 19,
     "scheduleCount": 21
   },
@@ -2395,8 +2465,8 @@
     "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "A7C05013-5C21-4A8F-9736-402B4A9A6755",
-      "ingestRunAt": "2026-07-31T23:05:47Z"
+      "ingestRunId": "3B98FBAE-A652-4605-818C-92C39A5A050A",
+      "ingestRunAt": "2026-08-01T03:07:26Z"
     }
   },
   "executionCoverage": {
@@ -2452,6 +2522,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "16fd562de571c886fb9672d8999cbec275a140c0a58cb3bd251fef288263e42d"
+    "feedSHA256": "3b4e301df4e1f131300e7837a6c470dbff64588845448794ccc3dc7e194c346b"
   }
 }
