@@ -10803,8 +10803,26 @@
             {
               "name": "Chris Lorenzo",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B3BAB0BC-4433-5DBB-A66E-BAC34F104551",
+                  "title": "HOTS 4 U",
+                  "label": "Chris Lorenzo"
+                },
+                {
+                  "id": "232B219D-B782-5153-A4B0-C7C7ADD65308",
+                  "title": "California Dreamin'",
+                  "label": "Chris Lorenzo"
+                },
+                {
+                  "id": "EC98F213-2BF8-5B68-8380-64B385A4C83E",
+                  "title": "In This Bih'",
+                  "label": "Chris Lorenzo"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -11442,8 +11460,26 @@
             {
               "name": "Wooli",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "4DC31B91-66B9-53E9-8BD7-2732BF669AF7",
+                  "title": "Dopamine",
+                  "label": "Wooli"
+                },
+                {
+                  "id": "B7924E8A-595B-5D9A-8FE2-C21A61BBBD01",
+                  "title": "Jazz Cabbage",
+                  "label": "Wooli"
+                },
+                {
+                  "id": "C8F450AA-6088-5939-9085-39DD83A4D0A2",
+                  "title": "ACID",
+                  "label": "Wooli"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -12295,8 +12331,26 @@
             {
               "name": "Chris Lorenzo",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B3BAB0BC-4433-5DBB-A66E-BAC34F104551",
+                  "title": "HOTS 4 U",
+                  "label": "Chris Lorenzo"
+                },
+                {
+                  "id": "232B219D-B782-5153-A4B0-C7C7ADD65308",
+                  "title": "California Dreamin'",
+                  "label": "Chris Lorenzo"
+                },
+                {
+                  "id": "EC98F213-2BF8-5B68-8380-64B385A4C83E",
+                  "title": "In This Bih'",
+                  "label": "Chris Lorenzo"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -12595,8 +12649,26 @@
             {
               "name": "Wooli",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "4DC31B91-66B9-53E9-8BD7-2732BF669AF7",
+                  "title": "Dopamine",
+                  "label": "Wooli"
+                },
+                {
+                  "id": "B7924E8A-595B-5D9A-8FE2-C21A61BBBD01",
+                  "title": "Jazz Cabbage",
+                  "label": "Wooli"
+                },
+                {
+                  "id": "C8F450AA-6088-5939-9085-39DD83A4D0A2",
+                  "title": "ACID",
+                  "label": "Wooli"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -13731,8 +13803,26 @@
             {
               "name": "SARA LANDRY",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hard Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "09419F59-46E1-51C4-A946-E23CF223BA37",
+                  "title": "Hands Up",
+                  "label": "SARA LANDRY"
+                },
+                {
+                  "id": "052B5711-8508-5B75-ACF7-FF95717C9162",
+                  "title": "Shake That",
+                  "label": "SARA LANDRY"
+                },
+                {
+                  "id": "16E81FCC-8810-5215-BB1D-2C65AF69770B",
+                  "title": "Heaven",
+                  "label": "SARA LANDRY"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -17801,8 +17891,26 @@
             {
               "name": "WOOLI",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Dubstep"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "4DC31B91-66B9-53E9-8BD7-2732BF669AF7",
+                  "title": "Dopamine",
+                  "label": "Wooli"
+                },
+                {
+                  "id": "B7924E8A-595B-5D9A-8FE2-C21A61BBBD01",
+                  "title": "Jazz Cabbage",
+                  "label": "Wooli"
+                },
+                {
+                  "id": "C8F450AA-6088-5939-9085-39DD83A4D0A2",
+                  "title": "ACID",
+                  "label": "Wooli"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -18683,7 +18791,8 @@
           "styles": [
             "Techno",
             "Dubstep",
-            "Progressive"
+            "Progressive",
+            "House"
           ],
           "confidence": 0.99,
           "lastRefreshedText": "Sat 03:26",
@@ -18885,8 +18994,26 @@
             {
               "name": "Chris Lorenzo",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B3BAB0BC-4433-5DBB-A66E-BAC34F104551",
+                  "title": "HOTS 4 U",
+                  "label": "Chris Lorenzo"
+                },
+                {
+                  "id": "232B219D-B782-5153-A4B0-C7C7ADD65308",
+                  "title": "California Dreamin'",
+                  "label": "Chris Lorenzo"
+                },
+                {
+                  "id": "EC98F213-2BF8-5B68-8380-64B385A4C83E",
+                  "title": "In This Bih'",
+                  "label": "Chris Lorenzo"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -22062,7 +22189,8 @@
             "Trance",
             "House",
             "Techno",
-            "Hard Dance"
+            "Hard Dance",
+            "Hard Techno"
           ],
           "confidence": 1.0,
           "lastRefreshedText": "Sat 03:26",
@@ -22145,8 +22273,26 @@
             {
               "name": "SARA LANDRY",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Hard Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "09419F59-46E1-51C4-A946-E23CF223BA37",
+                  "title": "Hands Up",
+                  "label": "SARA LANDRY"
+                },
+                {
+                  "id": "052B5711-8508-5B75-ACF7-FF95717C9162",
+                  "title": "Shake That",
+                  "label": "SARA LANDRY"
+                },
+                {
+                  "id": "16E81FCC-8810-5215-BB1D-2C65AF69770B",
+                  "title": "Heaven",
+                  "label": "SARA LANDRY"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
