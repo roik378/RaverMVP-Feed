@@ -7186,8 +7186,26 @@
             {
               "name": "I Hate Models",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B9B07ADA-3E18-577C-9110-B2E15735ED3C",
+                  "title": "Nostalgica",
+                  "label": "I Hate Models"
+                },
+                {
+                  "id": "55957E5C-0438-518C-8F7C-DC687B286533",
+                  "title": "Twin Souls",
+                  "label": "I Hate Models"
+                },
+                {
+                  "id": "F5539280-F571-5879-B05A-9FBF236C7FA4",
+                  "title": "Werewolf Disco Club",
+                  "label": "I Hate Models"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -10923,8 +10941,26 @@
             {
               "name": "I Hate Models",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B9B07ADA-3E18-577C-9110-B2E15735ED3C",
+                  "title": "Nostalgica",
+                  "label": "I Hate Models"
+                },
+                {
+                  "id": "55957E5C-0438-518C-8F7C-DC687B286533",
+                  "title": "Twin Souls",
+                  "label": "I Hate Models"
+                },
+                {
+                  "id": "F5539280-F571-5879-B05A-9FBF236C7FA4",
+                  "title": "Werewolf Disco Club",
+                  "label": "I Hate Models"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -21232,8 +21268,26 @@
             {
               "name": "I Hate Models",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "Techno"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "B9B07ADA-3E18-577C-9110-B2E15735ED3C",
+                  "title": "Nostalgica",
+                  "label": "I Hate Models"
+                },
+                {
+                  "id": "55957E5C-0438-518C-8F7C-DC687B286533",
+                  "title": "Twin Souls",
+                  "label": "I Hate Models"
+                },
+                {
+                  "id": "F5539280-F571-5879-B05A-9FBF236C7FA4",
+                  "title": "Werewolf Disco Club",
+                  "label": "I Hate Models"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
