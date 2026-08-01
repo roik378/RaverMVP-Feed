@@ -619,10 +619,10 @@
           "assistedRatio": 0.84,
           "decisionReady": 21,
           "decisionReadyRatio": 0.84,
-          "direct": 1,
-          "directOpportunityRatio": 0.04,
+          "direct": 2,
+          "directOpportunityRatio": 0.08,
           "purchaseOpportunityTotal": 25,
-          "ratio": 0.04,
+          "ratio": 0.08,
           "terminalStatusResolved": 0,
           "total": 25
         },
@@ -634,10 +634,10 @@
           "assistedRatio": 0.84,
           "decisionReady": 21,
           "decisionReadyRatio": 0.84,
-          "direct": 1,
-          "directOpportunityRatio": 0.04,
+          "direct": 2,
+          "directOpportunityRatio": 0.08,
           "purchaseOpportunityTotal": 25,
-          "ratio": 0.04,
+          "ratio": 0.08,
           "terminalStatusResolved": 0,
           "total": 25
         }
@@ -1421,10 +1421,10 @@
           "assistedRatio": 0.84,
           "decisionReady": 21,
           "decisionReadyRatio": 0.84,
-          "direct": 1,
-          "directOpportunityRatio": 0.04,
+          "direct": 2,
+          "directOpportunityRatio": 0.08,
           "purchaseOpportunityTotal": 25,
-          "ratio": 0.04,
+          "ratio": 0.08,
           "terminalStatusResolved": 0,
           "total": 25
         },
@@ -1436,10 +1436,10 @@
           "assistedRatio": 0.84,
           "decisionReady": 21,
           "decisionReadyRatio": 0.84,
-          "direct": 1,
-          "directOpportunityRatio": 0.04,
+          "direct": 2,
+          "directOpportunityRatio": 0.08,
           "purchaseOpportunityTotal": 25,
-          "ratio": 0.04,
+          "ratio": 0.08,
           "terminalStatusResolved": 0,
           "total": 25
         }
@@ -1707,8 +1707,8 @@
   "eventCountAfter": 125,
   "eventCountBefore": 125,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "de632f3e8cf0b1f5e6bfe996a52824578ac31b2fb8dd54a62aad21b8bc28b8a1",
-  "feedSHA256Before": "de632f3e8cf0b1f5e6bfe996a52824578ac31b2fb8dd54a62aad21b8bc28b8a1",
+  "feedSHA256After": "16fd562de571c886fb9672d8999cbec275a140c0a58cb3bd251fef288263e42d",
+  "feedSHA256Before": "16fd562de571c886fb9672d8999cbec275a140c0a58cb3bd251fef288263e42d",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1735,7 +1735,7 @@
       "Las Vegas"
     ]
   },
-  "referenceDate": "2026-07-31",
+  "referenceDate": "2026-08-01",
   "referenceDatesByCity": {
     "Alpe d'Huez": "2026-08-01",
     "Arnhem": "2026-08-01",
