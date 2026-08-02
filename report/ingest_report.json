@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-02T18:33:52Z",
-  "ingestRunId": "B3B6B16C-7A3E-40D1-A8E0-F8824F29F38B",
-  "ingestRunAt": "2026-08-02T18:33:52Z",
+  "ranAt": "2026-08-02T19:38:35Z",
+  "ingestRunId": "7FCFBA62-0E97-4A63-AFF8-2F8D9E9325AF",
+  "ingestRunAt": "2026-08-02T19:38:35Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -12,7 +12,7 @@
       "status": "ok",
       "captured": 20,
       "usable": 20,
-      "consumerReady": 9,
+      "consumerReady": 11,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -144,16 +144,16 @@
       "sourceId": "digital_motion_bc",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "ok",
-      "captured": 7,
-      "usable": 7,
-      "consumerReady": 7,
+      "status": "error: URLError: <urlopen error timed out; curl fallback failed (28): curl: (28) Connection timed out after 20002 millis",
+      "captured": 0,
+      "usable": 0,
+      "consumerReady": 0,
       "fallback": {
-        "status": "not_needed",
-        "eligibleEventCount": 0,
-        "retainedEventCount": 0
-      },
-      "strategy": "digital_motion_showpass"
+        "status": "retained",
+        "eligibleEventCount": 7,
+        "retainedEventCount": 7,
+        "fallbackAgeHours": 1
+      }
     },
     {
       "sourceId": "fox_cabaret_vancouver",
@@ -225,7 +225,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-08-02T18:33:13Z",
+      "ticketOfferObservedAt": "2026-08-02T19:38:04Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -313,7 +313,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-03 02:34:17",
+        "observedAtText": "2026-08-03 03:40:15",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -940,7 +940,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "54c11fb3ae4d4c7afa2118bced3806eb5c4cdfbd6415f7d35ed3c32914594735"
+      "evidenceStyleSHA256": "8759b837c97beae36de4e26d076ca992e5d015f68fcf11cfabc72c31e95325a1"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -957,7 +957,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "bc782a665436c9602a7f9a4740a36eb90f5bdb687c6432c0a15c49e8c18eaf5c"
+      "evidenceStyleSHA256": "d52f602cf01758cb3012f6337a0b80404b3305c08bae6bbccdce277ffcbcef88"
     },
     {
       "sourceId": "creamfields_official",
@@ -1078,14 +1078,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 211926,
-          "sha256": "5c0f59e2c05de4eba7d513c0aa84dfc5d805702ecefcc88166b424b71b33a7cf",
+          "contentLength": 213061,
+          "sha256": "2128eb7cc611d13032c6c4af3ac49399f56f80c0bd867c51b3fa25b837699775",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "0ad4a58733747a9da39e2390530c9ffbafa5239eb7553e2fdfd2a14c7828e347",
+      "evidenceStyleSHA256": "3803fa6acf2d971305c7e655c35ca3b6cffb1269e0655bcbdfb73877ff6df70c",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1172,7 +1172,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 165907,
-          "sha256": "8a7d26ecf7b26dab51141dbcd4a7cd9aeeee980f7ac5e9bed8fea8a0686e6426",
+          "sha256": "0e719c87e02de8466213f7d34c5cbcb0c24834753843ac025c16c9bdb28ab1df",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1198,8 +1198,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 259953,
-          "sha256": "b1cb244e5ff6ea01b21bc5b53bcc37d20752ac357e26c78dce3863db011f70ac",
+          "contentLength": 260131,
+          "sha256": "a1ef3fa775aef65241bf91ed6c55291a06edd7344dfad83dfca94890cd7736cc",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1289,13 +1289,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "fb632381cb7a3390f2a4d48cfd46fe29114809b854e03651428db72dfdd29b0f",
+          "sha256": "61fa478e7da276744a766b12686ca9188be0984dc23b13e352e9c947c38de234",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "76351817c5fac4d60d46086e2ca0ae7ad1f6d80267fc48027573ae1c3dcc1a3b",
+      "evidenceStyleSHA256": "ac9cf986eed383a7d6cebd2ad0f71f794c010bf38c05f284ed364b3269c4e274",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1315,14 +1315,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 116105,
-          "sha256": "d5186cf6fda9b77f80f3634269a20d05544d353892be4a1c8a88713d3c6b525e",
+          "contentLength": 114813,
+          "sha256": "d312817579df632121e96bdee0d5b0ae9419d144f8c455090b553734b0297ec7",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "37e0fdfb2009eae6e0d041d9ac4ca82a9ef961318c69531a31eba22eabe13435",
+      "evidenceStyleSHA256": "86bb097e3c74a47ff27ec0ef9692cbc653a740d39c029b6ccbf758c27162cf50",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1347,19 +1347,19 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 166,
-      "usable": 92,
-      "consumerReady": 51,
-      "consumerRejected": 41,
-      "consumerReadyRate": 0.554,
+      "captured": 159,
+      "usable": 93,
+      "consumerReady": 53,
+      "consumerRejected": 40,
+      "consumerReadyRate": 0.57,
       "rejectionReasons": {
-        "past_event": 26,
-        "missing_raver_evidence": 11,
+        "missing_raver_evidence": 14,
+        "past_event": 22,
         "placeholder_title": 3,
         "reviewed_event_fact_correction_drift": 1
       },
       "enabledSourceCount": 9,
-      "errorSourceCount": 1,
+      "errorSourceCount": 2,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -1837,6 +1837,76 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     },
     {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "93015D07-8321-537E-864A-C7FB187BA806",
+      "title": "TWIN DIPLOMACY",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Sep 19",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/twindiplomacy",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "2ABAA2D7-335D-5B05-BE42-5507BD3145B7",
+      "title": "HOT CHIP",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Sep 25",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/hotchip",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "6F9CB24C-A305-5577-B107-167E4284115A",
+      "title": "HOT CHIP DJ SET",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "September 25",
+      "timeText": null,
+      "sourceURLText": "https://www.celebritiesnightclub.com/events",
+      "lineupNames": [],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
+      "sourceId": "celebrities_vancouver",
+      "sourceKind": "clubWebsite",
+      "eventId": "5DE6FF3D-0B49-5412-B738-23E614CBF7FB",
+      "title": "NOTD",
+      "venue": "Celebrities Nightclub",
+      "city": "Vancouver",
+      "dateText": "Sep 26",
+      "timeText": "22:00",
+      "sourceURLText": "https://www.celebritiesnightclub.com/events/notdvan",
+      "lineupNames": [
+        "NOTD"
+      ],
+      "extractedStyles": [],
+      "ocrProvenanceFilename": null,
+      "ticketPriceText": null,
+      "reason": "missing_raver_evidence",
+      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
+    },
+    {
       "sourceId": "fortune_sound_club",
       "sourceKind": "clubWebsite",
       "eventId": "33EC4B77-DA17-59B6-8CB2-E32B2D27292D",
@@ -2227,86 +2297,17 @@
       "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
     }
   ],
-  "operatorInventoryReviewCandidates": [
-    {
-      "reviewKey": "yuyuan|2083861617231364097",
-      "reviewState": "ready_for_operator",
-      "activityID": "2083861617231364097",
-      "title": "WINSON",
-      "venue": "AM:06",
-      "city": "Shenzhen",
-      "dateText": "2026-08-07",
-      "endDateText": "2026-08-08",
-      "timeText": "23:00",
-      "lineupNames": [
-        "WINSON"
-      ],
-      "styles": [
-        "Hard Techno",
-        "Bass"
-      ],
-      "priceDisplayText": "¥238",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "observed",
-      "styleEvidenceStatus": "observed",
-      "ticketTierEvidenceStatus": "public_api_observed",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083861617231364097",
-      "miniProgramSearchText": "8/07 AM06 X WINSON : 从天堂到地狱！",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2083861617231364097&isShare=true"
-      },
-      "posterURLTexts": [
-        "https://oss.yuyuancrew.cn/2026-08-02/e644898f-9c44-4df7-abbf-7a3d5bd8f45a.jpg"
-      ],
-      "requiredActions": []
-    },
-    {
-      "reviewKey": "yuyuan|2083872890312556546",
-      "reviewState": "ready_for_operator",
-      "activityID": "2083872890312556546",
-      "title": "DIRTY PALM",
-      "venue": "AM:06",
-      "city": "Shenzhen",
-      "dateText": "2026-08-08",
-      "endDateText": "2026-08-09",
-      "timeText": "23:00",
-      "lineupNames": [
-        "DIRTY PALM"
-      ],
-      "styles": [
-        "House",
-        "Funk"
-      ],
-      "priceDisplayText": "¥98",
-      "priceEvidenceStatus": "display_only",
-      "lineupEvidenceStatus": "observed",
-      "styleEvidenceStatus": "observed",
-      "ticketTierEvidenceStatus": "public_api_observed",
-      "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2083872890312556546",
-      "miniProgramSearchText": "8/08 AM06 X DIRTY PALM 脏爪 : FLOWERS",
-      "miniProgramActivity": {
-        "appID": "wx4c8604c032bd3ef0",
-        "path": "pages/play/activity-detail",
-        "query": "activityId=2083872890312556546&isShare=true"
-      },
-      "posterURLTexts": [
-        "https://oss.yuyuancrew.cn/2026-08-02/c4b8c958-26f5-4464-ade0-82096946af75.jpg"
-      ],
-      "requiredActions": []
-    }
-  ],
+  "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 233,
-    "usable": 156
+    "captured": 226,
+    "usable": 157
   },
   "consumerQuality": {
-    "ready": 113,
-    "rejected": 43,
+    "ready": 115,
+    "rejected": 42,
     "rejectionReasons": {
-      "past_event": 27,
-      "missing_raver_evidence": 11,
+      "missing_raver_evidence": 14,
+      "past_event": 23,
       "placeholder_title": 3,
       "reviewed_event_fact_correction_drift": 1,
       "reviewed_outside_product_taxonomy": 1
@@ -2341,7 +2342,7 @@
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 132
+    "reviewedArtists": 133
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -2349,21 +2350,21 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-08-02T18:33:25Z",
+    "observedAt": "2026-08-02T19:38:14Z",
     "activityCount": 18,
     "scheduleCount": 20
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "healthy",
+    "status": "degraded",
     "ttlHours": 120,
-    "failedSourceCount": 3,
-    "materialFailureCount": 0,
-    "retainedEventCount": 0,
+    "failedSourceCount": 4,
+    "materialFailureCount": 1,
+    "retainedEventCount": 7,
     "baseline": {
       "status": "valid",
-      "ingestRunId": "3E7742A2-EC31-48A8-BC64-3A5C7330CE39",
-      "ingestRunAt": "2026-08-01T03:26:29Z"
+      "ingestRunId": "B3B6B16C-7A3E-40D1-A8E0-F8824F29F38B",
+      "ingestRunAt": "2026-08-02T18:33:52Z"
     }
   },
   "executionCoverage": {
@@ -2406,8 +2407,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish.",
-    "sourceResilienceStatus": "healthy"
+    "actionText": "Public feed can publish with retained source disclosure.",
+    "sourceResilienceStatus": "degraded"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
@@ -2419,6 +2420,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "873f86dce14c40ad68f7358e5fb7d7c59a5f147a1baaa663e9acc6d2b5b7f5c2"
+    "feedSHA256": "7aa7ad4417170a14885d104217c9ddbdc62263747bac68c60aee4d83c3faa19c"
   }
 }

@@ -772,34 +772,34 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 51,
+          "actionable": 53,
           "actionableOpportunityRatio": 1.0,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "decisionReady": 51,
+          "decisionReady": 53,
           "decisionReadyRatio": 1.0,
-          "direct": 51,
+          "direct": 53,
           "directOpportunityRatio": 1.0,
-          "purchaseOpportunityTotal": 51,
+          "purchaseOpportunityTotal": 53,
           "ratio": 1.0,
           "terminalStatusResolved": 0,
-          "total": 51
+          "total": 53
         },
         "raw": {
-          "actionable": 51,
+          "actionable": 53,
           "actionableOpportunityRatio": 1.0,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "decisionReady": 51,
+          "decisionReady": 53,
           "decisionReadyRatio": 1.0,
-          "direct": 51,
+          "direct": 53,
           "directOpportunityRatio": 1.0,
-          "purchaseOpportunityTotal": 51,
+          "purchaseOpportunityTotal": 53,
           "ratio": 1.0,
           "terminalStatusResolved": 0,
-          "total": 51
+          "total": 53
         }
       }
     },
@@ -1574,34 +1574,34 @@
       },
       "Vancouver": {
         "consumerEligible": {
-          "actionable": 51,
+          "actionable": 53,
           "actionableOpportunityRatio": 1.0,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "decisionReady": 51,
+          "decisionReady": 53,
           "decisionReadyRatio": 1.0,
-          "direct": 51,
+          "direct": 53,
           "directOpportunityRatio": 1.0,
-          "purchaseOpportunityTotal": 51,
+          "purchaseOpportunityTotal": 53,
           "ratio": 1.0,
           "terminalStatusResolved": 0,
-          "total": 51
+          "total": 53
         },
         "raw": {
-          "actionable": 51,
+          "actionable": 53,
           "actionableOpportunityRatio": 1.0,
           "actionableRatio": 1.0,
           "assisted": 0,
           "assistedRatio": 0.0,
-          "decisionReady": 51,
+          "decisionReady": 53,
           "decisionReadyRatio": 1.0,
-          "direct": 51,
+          "direct": 53,
           "directOpportunityRatio": 1.0,
-          "purchaseOpportunityTotal": 51,
+          "purchaseOpportunityTotal": 53,
           "ratio": 1.0,
           "terminalStatusResolved": 0,
-          "total": 51
+          "total": 53
         }
       }
     }
@@ -1704,11 +1704,11 @@
       "ticketURLText": "https://on.villagestudios.life/trk/jCjpc"
     }
   ],
-  "eventCountAfter": 113,
-  "eventCountBefore": 113,
+  "eventCountAfter": 115,
+  "eventCountBefore": 115,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "873f86dce14c40ad68f7358e5fb7d7c59a5f147a1baaa663e9acc6d2b5b7f5c2",
-  "feedSHA256Before": "873f86dce14c40ad68f7358e5fb7d7c59a5f147a1baaa663e9acc6d2b5b7f5c2",
+  "feedSHA256After": "7aa7ad4417170a14885d104217c9ddbdc62263747bac68c60aee4d83c3faa19c",
+  "feedSHA256Before": "7aa7ad4417170a14885d104217c9ddbdc62263747bac68c60aee4d83c3faa19c",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
