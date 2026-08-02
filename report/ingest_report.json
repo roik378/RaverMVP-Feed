@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-02T19:38:35Z",
-  "ingestRunId": "7FCFBA62-0E97-4A63-AFF8-2F8D9E9325AF",
-  "ingestRunAt": "2026-08-02T19:38:35Z",
+  "ranAt": "2026-08-02T20:00:57Z",
+  "ingestRunId": "2744319A-B93C-44F6-A36E-50C38A43B21A",
+  "ingestRunAt": "2026-08-02T20:00:57Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -144,16 +144,16 @@
       "sourceId": "digital_motion_bc",
       "kind": "html",
       "executionLane": "githubHTML",
-      "status": "error: URLError: <urlopen error timed out; curl fallback failed (28): curl: (28) Connection timed out after 20002 millis",
-      "captured": 0,
-      "usable": 0,
-      "consumerReady": 0,
+      "status": "ok",
+      "captured": 7,
+      "usable": 7,
+      "consumerReady": 7,
       "fallback": {
-        "status": "retained",
-        "eligibleEventCount": 7,
-        "retainedEventCount": 7,
-        "fallbackAgeHours": 1
-      }
+        "status": "not_needed",
+        "eligibleEventCount": 0,
+        "retainedEventCount": 0
+      },
+      "strategy": "digital_motion_showpass"
     },
     {
       "sourceId": "fox_cabaret_vancouver",
@@ -225,7 +225,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-08-02T19:38:04Z",
+      "ticketOfferObservedAt": "2026-08-02T20:00:23Z",
       "ticketOfferCount": 2,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -313,7 +313,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-03 03:40:15",
+        "observedAtText": "2026-08-03 04:01:22",
         "totalSearchRecords": 20,
         "acceptedReviewedRecordCount": 16,
         "venues": [
@@ -940,7 +940,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "8759b837c97beae36de4e26d076ca992e5d015f68fcf11cfabc72c31e95325a1"
+      "evidenceStyleSHA256": "c3bdeb72dfc29df1dcb3842d247f325e2f2d4b1fb996cc03b3b1c7a04e321c5f"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -957,7 +957,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "d52f602cf01758cb3012f6337a0b80404b3305c08bae6bbccdce277ffcbcef88"
+      "evidenceStyleSHA256": "dc69f9ba382444b84808a70393005d7bcfbb1be18fc2b4892025ad9046400f49"
     },
     {
       "sourceId": "creamfields_official",
@@ -1078,14 +1078,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 213061,
-          "sha256": "2128eb7cc611d13032c6c4af3ac49399f56f80c0bd867c51b3fa25b837699775",
+          "contentLength": 213118,
+          "sha256": "b0d69b5ac12ce76c030eec7198b3e18c9ae4ce8d4629c06d8ee7c62c3cd2dc3e",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "3803fa6acf2d971305c7e655c35ca3b6cffb1269e0655bcbdfb73877ff6df70c",
+      "evidenceStyleSHA256": "2ccb5eb3adb62e7583026644cc6411027450967794a1dac00adc7d3e5b54d050",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1172,7 +1172,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 165907,
-          "sha256": "0e719c87e02de8466213f7d34c5cbcb0c24834753843ac025c16c9bdb28ab1df",
+          "sha256": "db0dcb8951448dff5f83cc12c1a6dde2f68d0ee0843b9af94cf9d89aaa37c2f9",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1198,8 +1198,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 260131,
-          "sha256": "a1ef3fa775aef65241bf91ed6c55291a06edd7344dfad83dfca94890cd7736cc",
+          "contentLength": 259953,
+          "sha256": "b1cb244e5ff6ea01b21bc5b53bcc37d20752ac357e26c78dce3863db011f70ac",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1289,13 +1289,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "61fa478e7da276744a766b12686ca9188be0984dc23b13e352e9c947c38de234",
+          "sha256": "833c1f6991cf3ec709bd80b9196a53c0aa19381fc7efed57f7003d6965a41816",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "ac9cf986eed383a7d6cebd2ad0f71f794c010bf38c05f284ed364b3269c4e274",
+      "evidenceStyleSHA256": "e7b2ee3ef27eaa8454cf1af58ee51bde1631b4f5e91cb4f875bfec82aef29542",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1316,13 +1316,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 114813,
-          "sha256": "d312817579df632121e96bdee0d5b0ae9419d144f8c455090b553734b0297ec7",
+          "sha256": "605dd0ab8405574819ecd59bd2148c2dc2009ecf1cfa8c7999ba15915f2c70e7",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "86bb097e3c74a47ff27ec0ef9692cbc653a740d39c029b6ccbf758c27162cf50",
+      "evidenceStyleSHA256": "7913c71c66355b0311ee22a4a62a51b2be30f8689682ba587a86335d9e9254cc",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "cityId": "vancouver_ca",
       "cityName": "Vancouver",
-      "captured": 159,
+      "captured": 166,
       "usable": 93,
       "consumerReady": 53,
       "consumerRejected": 40,
@@ -1359,7 +1359,7 @@
         "reviewed_event_fact_correction_drift": 1
       },
       "enabledSourceCount": 9,
-      "errorSourceCount": 2,
+      "errorSourceCount": 1,
       "missingOCRSourceCount": 0,
       "status": "ok",
       "actionText": "Review and publish consumer-ready events"
@@ -2299,7 +2299,7 @@
   ],
   "operatorInventoryReviewCandidates": [],
   "totals": {
-    "captured": 226,
+    "captured": 233,
     "usable": 157
   },
   "consumerQuality": {
@@ -2350,17 +2350,17 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-08-02T19:38:14Z",
+    "observedAt": "2026-08-02T20:00:34Z",
     "activityCount": 18,
     "scheduleCount": 20
   },
   "sourceResilience": {
     "schemaVersion": 1,
-    "status": "degraded",
+    "status": "healthy",
     "ttlHours": 120,
-    "failedSourceCount": 4,
-    "materialFailureCount": 1,
-    "retainedEventCount": 7,
+    "failedSourceCount": 3,
+    "materialFailureCount": 0,
+    "retainedEventCount": 0,
     "baseline": {
       "status": "valid",
       "ingestRunId": "B3B6B16C-7A3E-40D1-A8E0-F8824F29F38B",
@@ -2407,8 +2407,8 @@
       }
     ],
     "blockedCities": [],
-    "actionText": "Public feed can publish with retained source disclosure.",
-    "sourceResilienceStatus": "degraded"
+    "actionText": "Public feed can publish.",
+    "sourceResilienceStatus": "healthy"
   },
   "reviewedCorroboration": {
     "schemaVersion": 1,
@@ -2420,6 +2420,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "7aa7ad4417170a14885d104217c9ddbdc62263747bac68c60aee4d83c3faa19c"
+    "feedSHA256": "4d0d8ae3df3c2b9e8d9236253215a711481b70adbbfe8bd4d07e089117c922a2"
   }
 }
