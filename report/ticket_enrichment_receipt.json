@@ -1707,8 +1707,8 @@
   "eventCountAfter": 124,
   "eventCountBefore": 124,
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256After": "a9755c577c81900107ea2c8818613540f09e55b33fd8cdfcc90517f16aa8a6d0",
-  "feedSHA256Before": "a9755c577c81900107ea2c8818613540f09e55b33fd8cdfcc90517f16aa8a6d0",
+  "feedSHA256After": "8635aadb45f4370098d3e8d9b64d360f0e7cce054779ad195f06a150be72fd6b",
+  "feedSHA256Before": "8635aadb45f4370098d3e8d9b64d360f0e7cce054779ad195f06a150be72fd6b",
   "manifestPath": "feed/v1/ticket.enrichment.reviewed.json",
   "qualityGate": {
     "assistedHandoffCities": [
@@ -1735,7 +1735,7 @@
       "Las Vegas"
     ]
   },
-  "referenceDate": "2026-08-01",
+  "referenceDate": "2026-08-02",
   "referenceDatesByCity": {
     "Alpe d'Huez": "2026-08-01",
     "Arnhem": "2026-08-01",

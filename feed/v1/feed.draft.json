@@ -3055,8 +3055,7 @@
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "peakDJMagRank": null
             }
           ],
           "ticketDiscoveryOffer": {
@@ -3134,10 +3133,27 @@
             {
               "name": "NOSTALGIX",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "AF260270-43A8-56F7-AB04-BF4625A5007A",
+                  "title": "Dancing Through It All",
+                  "label": "Nostalgix"
+                },
+                {
+                  "id": "3F3123D2-6952-5D1A-B188-DF2B50C0985B",
+                  "title": "Lockdown",
+                  "label": "Nostalgix"
+                },
+                {
+                  "id": "0EB0C2BD-93EE-585A-A69A-798CCE4D9082",
+                  "title": "WAR",
+                  "label": "Nostalgix"
+                }
+              ],
+              "peakDJMagRank": null
             },
             {
               "name": "CESQEAUX",
@@ -3221,12 +3237,29 @@
           "ticketURLText": null,
           "lineup": [
             {
-              "name": "DA TWEEKAZ",
+              "name": "Da Tweekaz",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "styles": [
+                "Hardstyle"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D2756FE5-60F7-52CC-BE54-A350D6543929",
+                  "title": "Dancefloor Therapy",
+                  "label": "Da Tweekaz"
+                },
+                {
+                  "id": "BBB4CF59-C7B5-5C7A-8547-E3FA4600DCA6",
+                  "title": "Golden",
+                  "label": "Da Tweekaz"
+                },
+                {
+                  "id": "0908C1A1-369F-5805-BB82-DC37724D8AAB",
+                  "title": "Supa Dupa Fly",
+                  "label": "Da Tweekaz"
+                }
+              ],
+              "peakDJMagRank": null
             },
             {
               "name": "RUNTHIS",
@@ -3323,8 +3356,7 @@
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "peakDJMagRank": null
             },
             {
               "name": "YTS",
@@ -3366,12 +3398,29 @@
           "ticketURLText": null,
           "lineup": [
             {
-              "name": "GIUSEPPE OTTAVIANI",
+              "name": "Giuseppe Ottaviani",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "styles": [
+                "Trance"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "EBFA09E1-6992-57D2-A70A-A2C27B0BBCF9",
+                  "title": "Run Away",
+                  "label": "Giuseppe Ottaviani"
+                },
+                {
+                  "id": "044A2FDA-2EF5-5E4E-BAB6-6D5F644F305F",
+                  "title": "How Do We Know",
+                  "label": "Giuseppe Ottaviani"
+                },
+                {
+                  "id": "6B1C5EA0-76A6-533A-B10A-9D5681094518",
+                  "title": "Doves (ASOT 1285) [Future Favorite]",
+                  "label": "Giuseppe Ottaviani"
+                }
+              ],
+              "peakDJMagRank": null
             },
             {
               "name": "7 SKIES",
@@ -3418,8 +3467,7 @@
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "peakDJMagRank": null
             },
             {
               "name": "MEGURU",
@@ -3507,8 +3555,7 @@
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "peakDJMagRank": null
             },
             {
               "name": "WOLFCITY",
@@ -3596,8 +3643,7 @@
               "setTime": null,
               "styles": [],
               "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "peakDJMagRank": null
             },
             {
               "name": "MAZARE",
@@ -3641,10 +3687,27 @@
             {
               "name": "YELLOW CLAW",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null,
-              "identityScope": "eventBillingOnly"
+              "styles": [
+                "Bass"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "8F7F2613-0B2F-5916-80B0-D3424EB19F6F",
+                  "title": "CRUSH",
+                  "label": "Yellow Claw"
+                },
+                {
+                  "id": "09D008C2-DEE7-5314-B6BB-E17524BAE684",
+                  "title": "DJ Turn It Up",
+                  "label": "Yellow Claw"
+                },
+                {
+                  "id": "C43E366D-1FC4-552B-A010-7327E99CD01C",
+                  "title": "Shotgun",
+                  "label": "Yellow Claw"
+                }
+              ],
+              "peakDJMagRank": null
             },
             {
               "name": "HARD LIGHTS",
@@ -7712,7 +7775,7 @@
                   "label": "Armin van Buuren"
                 }
               ],
-              "peakDJMagRank": null
+              "peakDJMagRank": 1
             },
             {
               "name": "Ben Hemsley",
@@ -8481,7 +8544,7 @@
                   "label": "Tiësto"
                 }
               ],
-              "peakDJMagRank": null
+              "peakDJMagRank": 1
             },
             {
               "name": "Faithless Live",
@@ -13680,8 +13743,26 @@
             {
               "name": "JAMIE JONES",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D97CAF15-4626-5318-8D70-6A714746C728",
+                  "title": "Lose My Mind",
+                  "label": "JAMIE JONES"
+                },
+                {
+                  "id": "554C0A8D-31D3-577A-A48E-8E6ECC4573AE",
+                  "title": "Got Time For Me",
+                  "label": "JAMIE JONES"
+                },
+                {
+                  "id": "7443CD71-DDD4-5AD7-A5A3-89623AB12D0B",
+                  "title": "We Groovin",
+                  "label": "JAMIE JONES"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -21452,8 +21533,26 @@
             {
               "name": "Jamie Jones",
               "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
+              "styles": [
+                "House"
+              ],
+              "representativeTracks": [
+                {
+                  "id": "D97CAF15-4626-5318-8D70-6A714746C728",
+                  "title": "Lose My Mind",
+                  "label": "JAMIE JONES"
+                },
+                {
+                  "id": "554C0A8D-31D3-577A-A48E-8E6ECC4573AE",
+                  "title": "Got Time For Me",
+                  "label": "JAMIE JONES"
+                },
+                {
+                  "id": "7443CD71-DDD4-5AD7-A5A3-89623AB12D0B",
+                  "title": "We Groovin",
+                  "label": "JAMIE JONES"
+                }
+              ],
               "peakDJMagRank": null
             },
             {
@@ -21680,7 +21779,7 @@
                   "label": "Paul van Dyk"
                 }
               ],
-              "peakDJMagRank": null
+              "peakDJMagRank": 1
             },
             {
               "name": "PETERBLUE",
@@ -21853,7 +21952,7 @@
                   "label": "Tiësto"
                 }
               ],
-              "peakDJMagRank": null
+              "peakDJMagRank": 1
             },
             {
               "name": "Vintage Culture",
@@ -22320,7 +22419,7 @@
                   "label": "Tiësto"
                 }
               ],
-              "peakDJMagRank": null
+              "peakDJMagRank": 1
             },
             {
               "name": "WORSHIP",
