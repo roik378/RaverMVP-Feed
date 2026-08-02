@@ -36,7 +36,7 @@
   "eventCount": 112,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "5d20a56af24de9b095e4fbafff45a589113294cec5ccd84313bc1bb1553230a3",
+  "feedSHA256": "d28afac51687dfaa587ecc559969439b1dca3f11e435cc21fb3ee147ceae4b8d",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -46,14 +46,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-08-02T08:58:03Z",
-  "ingestRunId": "FEB68764-97B9-44D0-92AD-5BE3B07C49D5",
+  "ingestRunAt": "2026-08-02T09:47:57Z",
+  "ingestRunId": "9077C336-B644-4193-8E0C-B8EE661CF4E9",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-08-02T17:32:45+08:00",
+  "publishedAt": "2026-08-02T22:23:49+08:00",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "5dc835eff4190c3558745a2c549a402b110b7c8fcaed60ae827ebba8fc9e3f1d",
+  "reportSHA256": "2d1337b2a75b0be9fac18826299fce09d04452ce88d66af5269fe9cb3e5d5ea1",
   "schemaVersion": 1,
-  "sourceCommitSHA": "bd2c57057e61a637207b63e4ff7b47ddda8adb75",
+  "sourceCommitSHA": "5a9d710e996eb165e22f14bc28edf81662728ef5",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -68,5 +68,5 @@
   "ticketPriceReceiptSHA256": "d2cf716c8a44a3345cee3c910d17921e8f7a7dbdc7240b942e34f9387912ffd9",
   "ticketQualityGateStatus": "ready",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "9908bae0148a76280e6b114c6dfe0349c86161818a56142e31d6562ab3fe7743"
+  "ticketReceiptSHA256": "7c8dc8159fc89222dd6f5192752d1f41b6044fd933032d2c64c581804c3f7e56"
 }

@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-02T08:58:03Z",
-  "ingestRunId": "FEB68764-97B9-44D0-92AD-5BE3B07C49D5",
-  "ingestRunAt": "2026-08-02T08:58:03Z",
+  "ranAt": "2026-08-02T09:47:57Z",
+  "ingestRunId": "9077C336-B644-4193-8E0C-B8EE661CF4E9",
+  "ingestRunAt": "2026-08-02T09:47:57Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -73,9 +73,9 @@
       "strategy": "squarespace_enriched_snippets",
       "reviewedEventStyleCount": 8,
       "exactReviewedArtistTitleBillingCount": 1,
+      "reviewedEventTicketActionCount": 6,
       "reviewedEventFactCorrectionDriftCount": 1,
-      "reviewedEventLineupCount": 5,
-      "reviewedEventTicketActionCount": 3
+      "reviewedEventLineupCount": 5
     },
     {
       "sourceId": "spotify_village_studios_concerts",
@@ -90,7 +90,8 @@
         "eligibleEventCount": 0,
         "retainedEventCount": 0
       },
-      "strategy": "spotify_location"
+      "strategy": "spotify_location",
+      "reviewedEventTicketActionCount": 1
     },
     {
       "sourceId": "gorgomish_vancouver",
@@ -311,16 +312,16 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-02 16:59:58",
-        "totalSearchRecords": 18,
-        "acceptedReviewedRecordCount": 14,
+        "observedAtText": "2026-08-02 17:49:50",
+        "totalSearchRecords": 19,
+        "acceptedReviewedRecordCount": 15,
         "venues": [
           {
             "shopID": "1803701116047175681",
             "shopName": "OIL CLUB",
             "venue": "OIL Club",
             "status": "current",
-            "observedRecordCount": 12,
+            "observedRecordCount": 13,
             "currentEventCount": 12,
             "activityIDs": [
               "2079386222454288386",
@@ -928,7 +929,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "e3b44581865732921e1665324f817ed51d9835beb626c18eacb174cf8c871295"
+      "evidenceStyleSHA256": "0612d172875f3fd900dd8395f6548503b7630cbd6f08fd52361fc3267715ed50"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -945,7 +946,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "00957beae584e9e1f311f622182ac0e5145a7b6e62827e9c756b6ca022bb3a44"
+      "evidenceStyleSHA256": "103de7f749bb5f2e6dad52299424691cc19494a25205fa608bbcf98a14ec0492"
     },
     {
       "sourceId": "creamfields_official",
@@ -1066,14 +1067,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 211899,
-          "sha256": "4fe4abd3898a48350b63bcbb203367ac4b5d43f7d012d4431885eaa61a8693ff",
+          "contentLength": 213104,
+          "sha256": "8052ee09a6c9fdccaeb928fdf135566d09b17d1a1f6061dd8172f61c45a9d92b",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "b41ab67064d99edddf117c879ad1cd7511bf46b68cc462b8d3eb04509ea9b622",
+      "evidenceStyleSHA256": "c0ff0d6df70ab25e0eb86cb9710e649b56b9613bc58e01485c366469d916f138",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1088,7 +1089,7 @@
         "status": "retained",
         "eligibleEventCount": 1,
         "retainedEventCount": 1,
-        "fallbackAgeHours": 29
+        "fallbackAgeHours": 30
       },
       "strategy": "untold_official"
     },
@@ -1276,13 +1277,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "1bdaab54f15b2b7e4d526c2fbe9597636007e740c074295d1939b781fd69920c",
+          "sha256": "f0e7bb345d09cf8b1c6a8623a4a178fcb91064d7b2be51b580ba4f12315a4880",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "2eccd91e97b9c672a309d7a3c0e72d052af9ff6d87907f12bfabc0448ca628df",
+      "evidenceStyleSHA256": "14a0d41b28f19d5a19682eb6d3ad288bb36df46cd338efdfbca2bed9df543eb2",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1303,13 +1304,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 114812,
-          "sha256": "e1269544a5804f204c6e4ffb9ccc0b2969180f05c0388c1d9277fe14cd0d5934",
+          "sha256": "9f691537fe2b522fbb400da6a3be2d362da60895c82ab31815df285f9900570d",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "5c12fd12b443dc459542582bbaed6eb0d337daa3c04459457c45a93e442bfeae",
+      "evidenceStyleSHA256": "23b71e0c3f2b1d5ac0d8ad2326d7e90171783ff2f76635ec9f8cf24a99169a18",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2282,7 +2283,6 @@
       "ingestRunAt": "2026-08-01T03:26:29Z"
     }
   },
-  "referenceDate": "2026-08-02",
   "executionCoverage": {
     "schemaVersion": 1,
     "status": "partial",
@@ -2336,6 +2336,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "5d20a56af24de9b095e4fbafff45a589113294cec5ccd84313bc1bb1553230a3"
+    "feedSHA256": "d28afac51687dfaa587ecc559969439b1dca3f11e435cc21fb3ee147ceae4b8d"
   }
 }
