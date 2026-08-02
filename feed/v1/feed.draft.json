@@ -430,7 +430,32 @@
           "friendsGoing": null,
           "sourceURLText": "https://www.fortunesoundclub.com/events/taylahelaine",
           "ticketURLText": "https://on.fortunesoundclub.com/trk/lyIpc",
-          "lineup": [],
+          "lineup": [
+            {
+              "name": "Taylah Elaine",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null,
+              "identityScope": "eventBillingOnly"
+            },
+            {
+              "name": "Chels",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null,
+              "identityScope": "eventBillingOnly"
+            },
+            {
+              "name": "Lemon",
+              "setTime": null,
+              "styles": [],
+              "representativeTracks": [],
+              "peakDJMagRank": null,
+              "identityScope": "eventBillingOnly"
+            }
+          ],
           "sourceFreshness": {
             "state": "live",
             "observedAt": "2026-08-01T03:26:29Z"
