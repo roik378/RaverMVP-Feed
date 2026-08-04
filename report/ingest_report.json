@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-03T21:02:39Z",
-  "ingestRunId": "FB628D85-F2F8-4A79-A2F5-A3E0D4BE60F0",
-  "ingestRunAt": "2026-08-03T21:02:39Z",
+  "ranAt": "2026-08-04T01:05:20Z",
+  "ingestRunId": "4A58864A-ABC7-4B52-8122-1D23C4C93C01",
+  "ingestRunAt": "2026-08-04T01:05:20Z",
   "publicationContractVersion": 2,
   "mode": "full",
   "sources": [
@@ -84,7 +84,7 @@
       "status": "ok",
       "captured": 12,
       "usable": 12,
-      "consumerReady": 3,
+      "consumerReady": 4,
       "fallback": {
         "status": "not_needed",
         "eligibleEventCount": 0,
@@ -225,7 +225,7 @@
         "retainedEventCount": 0
       },
       "ticketOfferEvidence": "live_public_api",
-      "ticketOfferObservedAt": "2026-08-03T19:23:35Z",
+      "ticketOfferObservedAt": "2026-08-04T01:02:01Z",
       "ticketOfferCount": 3,
       "inventoryReviewCandidates": [],
       "strategy": "reviewed_poster_schedule",
@@ -313,7 +313,7 @@
       "inventoryState": {
         "schemaVersion": 1,
         "status": "current",
-        "observedAtText": "2026-08-04 05:03:22",
+        "observedAtText": "2026-08-04 09:06:38",
         "totalSearchRecords": 27,
         "acceptedReviewedRecordCount": 21,
         "venues": [
@@ -358,9 +358,10 @@
           }
         ]
       },
-      "reviewedEventLineupCount": 12,
+      "reviewedEventLineupCount": 15,
       "livePublicTicketTierCount": 19,
       "reviewedEventStyleCount": 15,
+      "reviewedEventProgramScheduleCount": 1,
       "inventoryReviewCandidates": [
         {
           "reviewKey": "yuyuan|2080564702659391489",
@@ -453,7 +454,8 @@
           "endDateText": "2026-08-24",
           "timeText": "20:00",
           "lineupNames": [
-            "Tempted"
+            "Sydney Barringer",
+            "Minh"
           ],
           "styles": [
             "Electronic"
@@ -869,8 +871,7 @@
             "DIRTY PALM"
           ],
           "styles": [
-            "House",
-            "Funk"
+            "House"
           ],
           "priceDisplayText": "¥98",
           "priceEvidenceStatus": "display_only",
@@ -940,14 +941,12 @@
           "endDateText": "2026-08-08",
           "timeText": "23:00",
           "lineupNames": [
-            "WINSON & WASBACK"
+            "WINSON",
+            "WASBACK"
           ],
           "styles": [
-            "Electronic",
-            "Progressive",
             "Hard Techno",
-            "Techno",
-            "House"
+            "Techno"
           ],
           "priceDisplayText": "¥238",
           "priceEvidenceStatus": "display_only",
@@ -1201,7 +1200,7 @@
       },
       "strategy": "ultra_miami_official",
       "evidenceStyleURL": "https://ultramusicfestival.com/general-information/",
-      "evidenceStyleSHA256": "04c0fd9a1090440df26f884472a5801d2e7a7090327679d87338178f6b513673"
+      "evidenceStyleSHA256": "016f77093cfb5944aeee86867d55ae5c2a9f52f684166b049a06cfd223003d7f"
     },
     {
       "sourceId": "edc_las_vegas_official",
@@ -1218,7 +1217,7 @@
       },
       "strategy": "edc_las_vegas_official",
       "evidenceStyleURL": "https://www.insomniac.com/events/our-world/electric-daisy-carnival/",
-      "evidenceStyleSHA256": "de3972b141901bc4f5a487817cb4e02f1811bab5196e6a88e809adfe5fb81281"
+      "evidenceStyleSHA256": "860dc5d31e38608744a1cd615841ece6266ddcae3e57d3f4d8893ecd9dad19f7"
     },
     {
       "sourceId": "creamfields_official",
@@ -1343,14 +1342,14 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 213188,
-          "sha256": "b1b8a05ed818838dcec997cf64b34950436e4a7c9cae2896587f1be036571b7e",
+          "contentLength": 213189,
+          "sha256": "27c8979c7ee022707e073a31f2a0056be402c4574a3d9b79d7e110666d3c733d",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://transmissionfestival.com/about/",
-      "evidenceStyleSHA256": "3410c48cc8900c844d6d3287cf94d704777256321ee389e9d1a82b28f0e59810",
+      "evidenceStyleSHA256": "b94063d6c1f148b3954be5b0b4f0097badf437012e5c7366e810d0bca1f81c99",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1437,7 +1436,7 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 165907,
-          "sha256": "e9b5a3c6459b9f6a70526c6fdc7393dade17e7ff8d96c134c2d4604da45c9985",
+          "sha256": "c7d525efbef5280892aed211427bec12f91cf005d999a6dbb3fa3fa9a299fe09",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1463,8 +1462,8 @@
         "attemptCount": 1,
         "status": "not_needed",
         "initialResponse": {
-          "contentLength": 259958,
-          "sha256": "fc6113ab10285c66980fb6dcee99e2a72072f023bf7adcb4d413ddf0f4fb6f81",
+          "contentLength": 259953,
+          "sha256": "1a055982ca35050e2494d391404ed4dbf4a93aba393b7f5a1495e740f562a544",
           "missingMarkers": [],
           "accessChallenge": null
         }
@@ -1554,13 +1553,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 196781,
-          "sha256": "43deadd8d8fb9a85dd1005eaf0644701e3a5e2d2526f9c80d2534f61f39e1269",
+          "sha256": "b7cfe45e1124411d1822d1d7b22e41fb9c7647ff4578aba385646421ddde977e",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://mexico.edc.com/en/guide/hours-info/",
-      "evidenceStyleSHA256": "1a9b78bd8e72f2438545c5889c664ed4e0499f402ef70db6769a935713a5e89b",
+      "evidenceStyleSHA256": "44583762fd16094c89b9911e3f27262bb0a296517aeaa0836db05e4bd209cd13",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -1581,13 +1580,13 @@
         "status": "not_needed",
         "initialResponse": {
           "contentLength": 114813,
-          "sha256": "dc5c9f652432f6030660cdebe6e8df417b2c45074f87edf43d2b392530d0bec6",
+          "sha256": "de72abb43b02b945d26676b9222d5b9f64ec3bb1e128702f8be3aaf3da2103f9",
           "missingMarkers": [],
           "accessChallenge": null
         }
       },
       "evidenceStyleURL": "https://ultraeurope.com/worldwide/ultra-europe-concludes-ninth-edition-in-split-croatia-with-attendees-from-140-countries/",
-      "evidenceStyleSHA256": "3275efd822507333fb15009a882f23c651476923900da460b8c6b4a4e6c867cb",
+      "evidenceStyleSHA256": "45bc1f944f1b54dc9d0dc84aa93ad16941c73600ff63071951291893f3cb2dde",
       "strategy": "reviewed_festival_facts"
     },
     {
@@ -2451,25 +2450,6 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
-      "title": "Olly Watt",
-      "venue": "Village Studios",
-      "city": "Vancouver",
-      "dateText": "Aug 15",
-      "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
-      "lineupNames": [
-        "Olly Watt"
-      ],
-      "extractedStyles": [],
-      "ocrProvenanceFilename": null,
-      "ticketPriceText": null,
-      "reason": "missing_raver_evidence",
-      "actionText": "Add explicit event style/theme evidence or exact reviewed artist-style evidence"
-    },
-    {
-      "sourceId": "spotify_village_studios_concerts",
-      "sourceKind": "venueCalendar",
       "eventId": "6E670EDC-F618-52E6-86B4-35F5005E6413",
       "title": "Westend",
       "venue": "Village Studios",
@@ -2489,15 +2469,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "85CD1518-5FDF-5EBA-AB44-A22CBF340308",
-      "title": "Discip",
+      "eventId": "7960EBEF-091C-5324-BBA4-0651965A8530",
+      "title": "Olly Watt",
       "venue": "Village Studios",
       "city": "Vancouver",
-      "dateText": "Aug 28",
+      "dateText": "Aug 15",
       "timeText": "22:00",
-      "sourceURLText": "https://open.spotify.com/concert/3SxMB4ULJMOBcxrWrIk8Sk",
+      "sourceURLText": "https://open.spotify.com/concert/0OpSdRL16H12MTalL78Mwl",
       "lineupNames": [
-        "Discip"
+        "Olly Watt"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2508,15 +2488,15 @@
     {
       "sourceId": "spotify_village_studios_concerts",
       "sourceKind": "venueCalendar",
-      "eventId": "A4BB9E5B-7AB2-5E1D-88A9-1956D0EE694F",
-      "title": "Satin Jackets",
+      "eventId": "85CD1518-5FDF-5EBA-AB44-A22CBF340308",
+      "title": "Discip",
       "venue": "Village Studios",
       "city": "Vancouver",
-      "dateText": "Sep 5",
-      "timeText": "23:00",
-      "sourceURLText": "https://open.spotify.com/concert/7o1BGYRLuuDCKnzJTBXXqM",
+      "dateText": "Aug 28",
+      "timeText": "22:00",
+      "sourceURLText": "https://open.spotify.com/concert/3SxMB4ULJMOBcxrWrIk8Sk",
       "lineupNames": [
-        "Satin Jackets"
+        "Discip"
       ],
       "extractedStyles": [],
       "ocrProvenanceFilename": null,
@@ -2622,16 +2602,16 @@
     "Vancouver": "2026-08-03",
     "Shenzhen": "2026-08-04",
     "Toronto": "2026-08-03",
-    "London": "2026-08-03",
+    "London": "2026-08-04",
     "Miami": "2026-08-03",
     "Las Vegas": "2026-08-03",
-    "Daresbury": "2026-08-03",
+    "Daresbury": "2026-08-04",
     "Salmo": "2026-08-03",
     "Orlando": "2026-08-03",
     "Montreal": "2026-08-03",
-    "Boom": "2026-08-03",
-    "Hilvarenbeek": "2026-08-03",
-    "Arnhem": "2026-08-03",
+    "Boom": "2026-08-04",
+    "Hilvarenbeek": "2026-08-04",
+    "Arnhem": "2026-08-04",
     "Cluj-Napoca": "2026-08-04",
     "Thornville": "2026-08-03",
     "Los Angeles": "2026-08-03",
@@ -2640,14 +2620,14 @@
     "Mumbai": "2026-08-04",
     "Jakarta": "2026-08-04",
     "Phuket": "2026-08-04",
-    "Alpe d'Huez": "2026-08-03",
+    "Alpe d'Huez": "2026-08-04",
     "Mexico City": "2026-08-03",
-    "Split": "2026-08-03",
+    "Split": "2026-08-04",
     "Tokyo": "2026-08-04"
   },
   "reviewedArtistSeed": {
     "status": "loaded",
-    "reviewedArtists": 143
+    "reviewedArtists": 158
   },
   "reviewedArtistBilling": {
     "status": "loaded",
@@ -2655,7 +2635,7 @@
   },
   "yuyuanPublicTicketTiers": {
     "status": "live_public_api",
-    "observedAt": "2026-08-03T19:32:23Z",
+    "observedAt": "2026-08-04T01:02:04Z",
     "activityCount": 24,
     "scheduleCount": 27
   },
@@ -2725,6 +2705,6 @@
   },
   "publicationBinding": {
     "schemaVersion": 1,
-    "feedSHA256": "8d661379b9dc959bef971cc2fda25c0e9df3b9043a158dc3c151ea62bab4b7d2"
+    "feedSHA256": "fe963651da01d983522917e277f97bdb666e0ae96292a9d2aacccbda6b9ade4e"
   }
 }
