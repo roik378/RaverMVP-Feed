@@ -3491,13 +3491,6 @@
           "ticketURLText": null,
           "lineup": [
             {
-              "name": "CHINESE BPM",
-              "setTime": null,
-              "styles": [],
-              "representativeTracks": [],
-              "peakDJMagRank": null
-            },
-            {
               "name": "MAZARE",
               "setTime": null,
               "styles": [],
@@ -5339,8 +5332,7 @@
             "longitude": 114.058369
           },
           "styles": [
-            "House",
-            "Funk"
+            "House"
           ],
           "confidence": 0.94,
           "lastRefreshedText": "Mon 21:02",
@@ -5580,11 +5572,8 @@
             "longitude": 114.058369
           },
           "styles": [
-            "Electronic",
-            "Progressive",
             "Hard Techno",
-            "Techno",
-            "House"
+            "Techno"
           ],
           "confidence": 0.94,
           "lastRefreshedText": "Mon 21:02",
