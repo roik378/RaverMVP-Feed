@@ -1,42 +1,41 @@
 {
-  "assistedTicketCoverageCities": [
-    "Shenzhen"
-  ],
+  "assistedTicketCoverageCities": [],
   "cityEventCounts": {
     "Alpe d'Huez": 1,
     "Arnhem": 1,
     "Boom": 0,
-    "Chicago": 1,
-    "Cluj-Napoca": 1,
-    "Daresbury": 1,
+    "Chicago": 0,
+    "Cluj-Napoca": 0,
+    "Daresbury": 0,
     "Hilvarenbeek": 1,
     "Jakarta": 1,
     "Las Vegas": 2,
-    "London": 8,
+    "London": 9,
     "Long Beach": 1,
     "Los Angeles": 0,
     "Mexico City": 1,
     "Miami": 1,
-    "Montreal": 1,
+    "Montreal": 0,
     "Mumbai": 1,
     "Orlando": 1,
     "Phuket": 1,
     "Salmo": 0,
-    "Shenzhen": 27,
+    "Shenzhen": 4,
     "Split": 1,
-    "Thornville": 1,
-    "Tokyo": 1,
-    "Toronto": 12,
-    "Vancouver": 52
+    "Thornville": 0,
+    "Tokyo": 0,
+    "Toronto": 20,
+    "Vancouver": 44
   },
   "directTicketCoverageLimited": true,
   "directTicketCoverageLimitedCities": [
-    "Shenzhen"
+    "Las Vegas",
+    "Miami"
   ],
-  "eventCount": 118,
+  "eventCount": 90,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "fe963651da01d983522917e277f97bdb666e0ae96292a9d2aacccbda6b9ade4e",
+  "feedSHA256": "cc8c5980717e5fcd95a82c325fc10d1d59f6b10bd84ac5ba1bdd34089b4b5d06",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -46,27 +45,28 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-08-04T01:05:20Z",
-  "ingestRunId": "4A58864A-ABC7-4B52-8122-1D23C4C93C01",
+  "ingestRunAt": "2026-09-30T14:14:16Z",
+  "ingestRunId": "DE3CD318-E20F-4DBD-8E18-DEFC897BFCEB",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-08-04T09:38:16+08:00",
+  "publishedAt": "2026-09-30T14:21:02Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "5ea0003499e7891c0c23c5e84edce941e3f47ac759c314178459aebe14c3bdd1",
+  "reportSHA256": "eb6e1edf00667df65019814a3a401d4881b1b4fb95e0b797a4423384c91fa3c2",
   "schemaVersion": 1,
-  "sourceCommitSHA": "f59e12ddc88584da65262d0291e85ad6660f210c",
+  "sourceCommitSHA": "0d98ac193ec721f4ab08dba7a9ed589f689b90dd",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
-  "terminalTicketStatusResolvedCities": [
-    "Las Vegas"
+  "terminalTicketStatusResolvedCities": [],
+  "ticketCoverageLimited": true,
+  "ticketCoverageLimitedCities": [
+    "Las Vegas",
+    "Miami"
   ],
-  "ticketCoverageLimited": false,
-  "ticketCoverageLimitedCities": [],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "01f789d2cd5ec5cc026c3b8c27d85987fb6dfa8a286fec63954511b0a17bbe49",
+  "ticketPriceProjectionSHA256": "05d87bf4d8d800ce22c02685ae1d88599b248a0dd069bf2fd327ec62f57e0243",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "7b5659889ed00d5595f7c1d1bdddb066cf61a9bbd4152a3384e2c57891b8284d",
-  "ticketQualityGateStatus": "ready",
+  "ticketPriceReceiptSHA256": "66ca58400fd42194f5754ecdb53fb1d10031f6e4c3fbe0664e1548f1fabd6260",
+  "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "3933e70202f4c8ff4bad5859fd068ce5e60525618a67478746667d426fdedaac"
+  "ticketReceiptSHA256": "7eabbd7c60aa3127488498b2c3d2c0f5dcade0d498caee6c9058351f730d37ba"
 }
