@@ -174,16 +174,6 @@
       "action": "no_snapshot",
       "city": "Vancouver",
       "collectorStatus": "unsupported_provider",
-      "eventID": "BFD122E5-B126-5E74-AE85-6C94BB41A8A8",
-      "reason": null,
-      "stale": false,
-      "ticketPriceEvidenceURLText": "https://www.ticketmaster.ca/channel-tres-the-enigma-tour-vancouver-british-columbia-09-30-2026/event/110064A5E08AFB00",
-      "ticketURLText": "https://www.ticketmaster.ca/channel-tres-the-enigma-tour-vancouver-british-columbia-09-30-2026/event/110064A5E08AFB00"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Vancouver",
-      "collectorStatus": "unsupported_provider",
       "eventID": "4FA3DB03-5FB1-5851-83D1-4212897F5654",
       "reason": null,
       "stale": false,
@@ -249,7 +239,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -274,7 +264,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -299,7 +289,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -319,12 +309,12 @@
       "action": "applied",
       "city": "Vancouver",
       "collectorStatus": "applied",
-      "eventID": "FAA383D8-EA00-58A6-8FE5-48053F149736",
+      "eventID": "BE5612AE-9556-59D0-BDF7-97BFB8592AED",
       "reason": null,
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -349,7 +339,7 @@
       "snapshot": {
         "amountMinor": 4000,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$40 + fees",
@@ -374,7 +364,7 @@
       "snapshot": {
         "amountMinor": 2500,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$25 + fees",
@@ -399,7 +389,7 @@
       "snapshot": {
         "amountMinor": 3000,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$30 + fees",
@@ -424,7 +414,7 @@
       "snapshot": {
         "amountMinor": 3500,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "showpassNextData",
         "currency": "CAD",
         "displayText": "From C$35 + fees",
@@ -439,16 +429,6 @@
       "stale": false,
       "ticketPriceEvidenceURLText": "https://www.showpass.com/opiuovancouver/",
       "ticketURLText": "https://www.showpass.com/opiuovancouver/"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Shenzhen",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "27ACBEC6-111C-5AD1-A50D-CAE3077540AE",
-      "reason": null,
-      "stale": false,
-      "ticketPriceEvidenceURLText": "https://ra.co/events/2516074",
-      "ticketURLText": "https://ra.co/events/2516074"
     },
     {
       "action": "no_snapshot",
@@ -479,6 +459,156 @@
       "stale": false,
       "ticketPriceEvidenceURLText": "https://ra.co/events/2453453",
       "ticketURLText": "https://ra.co/events/2453453"
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
+      "eventID": "4381F599-B9DE-5C4F-BD99-61533C17BFF2",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 12900,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:23:25Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥129",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2104838224988016642",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2104838224988016642",
+        "tierKey": "schedule-2104838301391458306|ticket-2104839391830806530",
+        "tierName": "预售票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2104838224988016642",
+      "ticketURLText": null
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
+      "eventID": "D127B93A-CD94-5FCC-BC11-5D2603FE5E81",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 8800,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:23:25Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥88",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2101790426657644545",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2101790426657644545",
+        "tierKey": "schedule-2101790524305235970|ticket-2101790758456451073",
+        "tierName": "预售票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2101790426657644545",
+      "ticketURLText": null
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
+      "eventID": "ABD6DA60-42E2-5644-A5A1-8738214CD643",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 12000,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:23:25Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥120",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2101218583739555842",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2101218583739555842",
+        "tierKey": "schedule-2101218651909578753|ticket-2101219140281753602",
+        "tierName": "普通票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2101218583739555842",
+      "ticketURLText": null
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
+      "eventID": "199A1DDD-79BA-50C2-AB12-5957014FE317",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 8000,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:23:25Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥80",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2100899431187406850",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2100899431187406850",
+        "tierKey": "schedule-2100899542856556545|ticket-2100899723412955138",
+        "tierName": "预售票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2100899431187406850",
+      "ticketURLText": null
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
+      "eventID": "99109D74-EF81-573D-99F1-94364AF20432",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 12800,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:23:25Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥128",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2100142679298859009",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2100142679298859009",
+        "tierKey": "schedule-2100142772865392642|ticket-2100143285430312961",
+        "tierName": "普通票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2100142679298859009",
+      "ticketURLText": null
+    },
+    {
+      "action": "applied",
+      "city": "Shenzhen",
+      "collectorStatus": "applied",
+      "eventID": "359A310C-3A10-5F13-825F-88DA15ED6EDF",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 12800,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:23:25Z",
+        "collectorKind": "publicReadOnlyTierAPI",
+        "currency": "CNY",
+        "displayText": "From ¥128",
+        "feeBasis": "unknown",
+        "provider": "yuyuan",
+        "providerEventID": "2100489886853947393",
+        "sourceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2100489886853947393",
+        "tierKey": "schedule-2100489975553736706|ticket-2100490449707220994",
+        "tierName": "普通票",
+        "verificationState": "fresh"
+      },
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://app-api.yuyuancrew.cn/api/app/biz/merchant/activity/details?id=2100489886853947393",
+      "ticketURLText": null
     },
     {
       "action": "no_snapshot",
@@ -529,16 +659,6 @@
       "stale": false,
       "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/mind-against-coda-tickets/14316104?pl=CODA",
       "ticketURLText": "https://www.ticketweb.ca/event/mind-against-coda-tickets/14316104?pl=CODA"
-    },
-    {
-      "action": "no_snapshot",
-      "city": "Toronto",
-      "collectorStatus": "unsupported_provider",
-      "eventID": "404FF56F-211D-52CC-8BC6-94F574C2D90D",
-      "reason": null,
-      "stale": false,
-      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/anochi-1-year-anniversary-coda-tickets/14290694?pl=CODA",
-      "ticketURLText": "https://www.ticketweb.ca/event/anochi-1-year-anniversary-coda-tickets/14290694?pl=CODA"
     },
     {
       "action": "no_snapshot",
@@ -624,6 +744,16 @@
       "action": "no_snapshot",
       "city": "Toronto",
       "collectorStatus": "unsupported_provider",
+      "eventID": "BE12C2A9-904D-5D80-BCA2-EBCE7439E90C",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/anna-coda-tickets/14351574?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/anna-coda-tickets/14351574?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
       "eventID": "50359F62-5080-54F5-8951-92E5A0647341",
       "reason": null,
       "stale": false,
@@ -669,6 +799,16 @@
       "stale": false,
       "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/twin-diplomacy-coda-tickets/14193774?pl=CODA",
       "ticketURLText": "https://www.ticketweb.ca/event/twin-diplomacy-coda-tickets/14193774?pl=CODA"
+    },
+    {
+      "action": "no_snapshot",
+      "city": "Toronto",
+      "collectorStatus": "unsupported_provider",
+      "eventID": "C365F792-8A38-5DBE-BA84-C06355361A96",
+      "reason": null,
+      "stale": false,
+      "ticketPriceEvidenceURLText": "https://www.ticketweb.ca/event/dillinja-new-date-coda-tickets/14987873?pl=CODA",
+      "ticketURLText": "https://www.ticketweb.ca/event/dillinja-new-date-coda-tickets/14987873?pl=CODA"
     },
     {
       "action": "no_snapshot",
@@ -769,7 +909,7 @@
       "snapshot": {
         "amountMinor": 32699,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$326.99",
@@ -814,7 +954,7 @@
       "snapshot": {
         "amountMinor": 18999,
         "availability": "available",
-        "capturedAt": "2026-09-30T14:16:08Z",
+        "capturedAt": "2026-10-02T09:25:22Z",
         "collectorKind": "frontGateHTML",
         "currency": "USD",
         "displayText": "From US$189.99",
@@ -841,11 +981,26 @@
       "ticketURLText": "https://in.bookmyshow.com/events/sunburn-festival-2026/ET00498558"
     },
     {
-      "action": "provider_failed",
+      "action": "applied",
       "city": "Jakarta",
-      "collectorStatus": "provider_timeout",
+      "collectorStatus": "applied",
       "eventID": "502B9137-FDF7-5B8F-A04D-142CA7E52ED9",
-      "reason": "TimeoutError: The read operation timed out",
+      "reason": null,
+      "snapshot": {
+        "amountMinor": 1700000,
+        "availability": "available",
+        "capturedAt": "2026-10-02T09:25:22Z",
+        "collectorKind": "dwpOfficialHTML",
+        "currency": "IDR",
+        "displayText": "From IDR 1,700,000",
+        "feeBasis": "unknown",
+        "provider": "dwp",
+        "providerEventID": "dwp-jakarta-2026",
+        "sourceURLText": "https://dwpfest.com/",
+        "tierKey": "primary-ga|dwp-3-day-ga-early-entry",
+        "tierName": "3-Day GA Early Entry",
+        "verificationState": "fresh"
+      },
       "stale": false,
       "ticketPriceEvidenceURLText": "https://dwpfest.com/",
       "ticketURLText": "https://dwpfest.com/"
@@ -891,18 +1046,18 @@
       "ticketURLText": "https://ultraeurope.com/tickets/"
     }
   ],
-  "feedSHA256After": "8ba5dfc5a6f50eb0fc3349f585725ad9d48898007e5f1db93c537fe57fec1359",
-  "feedSHA256Before": "a95802fd1ada41e82583242cff100786eddfc4fbbdaca31d5f496acd6410f458",
-  "historySHA256After": "579344c8982431a0f81c94eb8ba9dc4630096e0d23e318d17cc55bb69e4bd5e9",
-  "priceProjectionSHA256": "05d87bf4d8d800ce22c02685ae1d88599b248a0dd069bf2fd327ec62f57e0243",
+  "feedSHA256After": "0c0fe9fde25b75e0490b4ad2f05560017279c059dde77bb2dc0b5329b9f72f7e",
+  "feedSHA256Before": "84a827db3f8547cef1f9bb810fe9b3093beb2916f3df191a8ddfb3835fe2471e",
+  "historySHA256After": "a6ee577bd94328af071d1088dc34623bb07c85491b78c49064084671d6adb85e",
+  "priceProjectionSHA256": "5e7d5a05a85ebaaa9e4b65dbe320db3b29c2cd10eb2a5b7b76dd3ec8e3622634",
   "schemaVersion": 1,
   "status": "applied",
   "summary": {
-    "appliedCount": 10,
-    "candidateCount": 74,
-    "freshCount": 10,
-    "noSnapshotCount": 61,
-    "providerFailureCount": 3,
+    "appliedCount": 17,
+    "candidateCount": 79,
+    "freshCount": 17,
+    "noSnapshotCount": 60,
+    "providerFailureCount": 2,
     "staleCount": 0
   }
 }

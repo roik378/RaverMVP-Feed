@@ -1,5 +1,7 @@
 {
-  "assistedTicketCoverageCities": [],
+  "assistedTicketCoverageCities": [
+    "Shenzhen"
+  ],
   "cityEventCounts": {
     "Alpe d'Huez": 1,
     "Arnhem": 1,
@@ -20,22 +22,23 @@
     "Orlando": 1,
     "Phuket": 1,
     "Salmo": 0,
-    "Shenzhen": 4,
+    "Shenzhen": 9,
     "Split": 1,
     "Thornville": 0,
     "Tokyo": 0,
     "Toronto": 20,
-    "Vancouver": 44
+    "Vancouver": 45
   },
   "directTicketCoverageLimited": true,
   "directTicketCoverageLimitedCities": [
     "Las Vegas",
-    "Miami"
+    "Miami",
+    "Shenzhen"
   ],
-  "eventCount": 90,
+  "eventCount": 96,
   "executionLane": "githubHTML",
   "feedPath": "feed/v1/feed.draft.json",
-  "feedSHA256": "cc8c5980717e5fcd95a82c325fc10d1d59f6b10bd84ac5ba1bdd34089b4b5d06",
+  "feedSHA256": "98fc2d3b42d3588f6731529c41efab1ef53d78b33d49a8f410e960a3c7a515f9",
   "inactiveRetainedEventCount": 0,
   "inactiveSourceCount": 5,
   "inactiveSourceIDs": [
@@ -45,14 +48,14 @@
     "sauce_wechat",
     "yuyuan_miniprogram"
   ],
-  "ingestRunAt": "2026-09-30T14:14:16Z",
-  "ingestRunId": "DE3CD318-E20F-4DBD-8E18-DEFC897BFCEB",
+  "ingestRunAt": "2026-10-02T09:23:35Z",
+  "ingestRunId": "4D70021A-2D2D-4DE6-AF7D-3886F717A4E8",
   "publicationGateStatus": "ready",
-  "publishedAt": "2026-09-30T14:21:02Z",
+  "publishedAt": "2026-10-02T09:28:36Z",
   "reportPath": "report/ingest_report.json",
-  "reportSHA256": "eb6e1edf00667df65019814a3a401d4881b1b4fb95e0b797a4423384c91fa3c2",
+  "reportSHA256": "8d714dce65672bab9670838e5d54bd7eddc7e7bbf79de090dcf714c934c2d99e",
   "schemaVersion": 1,
-  "sourceCommitSHA": "0d98ac193ec721f4ab08dba7a9ed589f689b90dd",
+  "sourceCommitSHA": "7e89b109dc08faa60e8376f33904d18d5da61361",
   "sourceCoverageStatus": "partial",
   "sourceRepository": "roik378/RaverMVP",
   "status": "ready",
@@ -63,10 +66,10 @@
     "Miami"
   ],
   "ticketEnrichmentStatus": "applied",
-  "ticketPriceProjectionSHA256": "05d87bf4d8d800ce22c02685ae1d88599b248a0dd069bf2fd327ec62f57e0243",
+  "ticketPriceProjectionSHA256": "5e7d5a05a85ebaaa9e4b65dbe320db3b29c2cd10eb2a5b7b76dd3ec8e3622634",
   "ticketPriceReceiptPath": "report/ticket_price_snapshot_receipt.json",
-  "ticketPriceReceiptSHA256": "66ca58400fd42194f5754ecdb53fb1d10031f6e4c3fbe0664e1548f1fabd6260",
+  "ticketPriceReceiptSHA256": "471903932b25d930f088d504930c88b1c0e85024a246a6c2c54909006abe7686",
   "ticketQualityGateStatus": "blocked",
   "ticketReceiptPath": "report/ticket_enrichment_receipt.json",
-  "ticketReceiptSHA256": "7eabbd7c60aa3127488498b2c3d2c0f5dcade0d498caee6c9058351f730d37ba"
+  "ticketReceiptSHA256": "0dfb29971444d5ff7e402cb434292fe445b3225cdbaa600112b3f57e2fda5584"
 }
